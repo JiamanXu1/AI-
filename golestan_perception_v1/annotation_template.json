@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0-provisional",
+  "status": "template_not_observation",
+  "response_id": null,
+  "metadata": {"model": null, "version": null, "language": null, "question_id": null, "prompt_version": null, "condition": null, "replicate": null, "conversation_id": null, "generated_at": null, "system_prompt": null, "prompt_text": null, "web_access": null, "temperature": null, "evidence_cutoff": null, "evidence_pack_version": null},
+  "raw_response": null,
+  "coder_id": null,
+  "coding_complete": false,
+  "units": [{"unit_id": null, "start_char_inclusive": null, "end_char_exclusive": null, "quote": null, "voice": null, "polarity": null, "codes": [], "value_elaboration": {}, "categorical_fields": {}, "source_id": null, "source_locator": null, "verification_status": null, "verification_reason": null, "memo": null}],
+  "damage_value_relations": [{"relation_id": null, "unit_ids": [], "object": null, "change_mechanism": null, "value_code": null, "link_explicit": null, "occurrence_status": null, "certainty": null}],
+  "emergent_codes": [],
+  "adjudication_notes": null
+}

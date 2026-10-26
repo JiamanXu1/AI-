@@ -1,0 +1,11 @@
+{
+  "rebuild_identical": true,
+  "code_count": 30,
+  "crosswalk_count": 24,
+  "hashes": {
+    "codebook.json": "1f3bf16966e3deba08483c506fd3cedd9e267ad4ee3014a153705fd58bbb0e81",
+    "huang_crosswalk.json": "35faa577b700b96115b9cb3399ee4803ca79f2c338ebece6e49ef2eeb2a895e0",
+    "分析指标与编码手册.html": "5ce679ddb73367a027a7e8262118e105895304825d694f595d5c00897f537c9a"
+  },
+  "empirical_validation": false
+}

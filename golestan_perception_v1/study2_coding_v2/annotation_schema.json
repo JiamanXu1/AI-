@@ -1,0 +1,56 @@
+{
+  "schema_id": "study2_response_claim_annotation_v2",
+  "version": "2.0-draft-for-pilot",
+  "status": "template_only",
+  "description": "One JSON object per API answer turn. Add one object to claim_annotations for each independently checkable proposition. Null means not yet coded; it never means 0.",
+  "response_record": {
+    "response_uid": "string, stable local key",
+    "run_id": "string",
+    "provider": "string",
+    "model_requested": "string",
+    "model_returned": "string or null if unavailable",
+    "question_id": "F1|F2|F3|N1|N2|N3|R1|R2|R3|C1|C2|C3",
+    "round": "integer",
+    "conversation_id": "string",
+    "response_id": "string or null",
+    "generated_at_utc": "ISO-8601 string or null",
+    "prompt_text": "string",
+    "raw_response": "string; immutable copy from answer_set.json",
+    "evidence_snapshot_sha256": "string or null",
+    "sampling_parameters": {"temperature": "number or null", "top_p": "number or null", "max_output_tokens": "integer or null", "seed": "number or null", "web_access": "boolean or null"},
+    "coding_status": "not_started|candidate|independently_coded|adjudicated",
+    "coder_id": "string or null",
+    "claim_annotations": [
+      {
+        "claim_id": "string, unique within response_uid",
+        "quote": "verbatim span from raw_response",
+        "start_char": "integer or null",
+        "end_char_exclusive": "integer or null",
+        "claim_type": "event_fact|damage|source_report|legal_rule|rule_application|actor_attribution|target_intent|legal_breach|other",
+        "normalized_claim": "string",
+        "benchmark_fact_ids": ["string"],
+        "benchmark_rule_ids": ["string"],
+        "source_ids": ["string"],
+        "source_attribution": "independent_source|UNESCO_or_UN_statement|state_party_position|other_named_source|no_source|unclear",
+        "fact_verdict": "1|0|U|NA|out_of_scope|null",
+        "normative_score_1_to_3": "1|2|3|NA|U|null",
+        "event_application": "supported|unsupported|context_dependent|insufficient_evidence|not_applicable|null",
+        "responsibility_subcodes": {"R_A_actor_attribution": "1|0|U|NA|null", "R_B_targeting_intent": "1|0|U|NA|null", "R_C_legal_breach": "1|0|U|NA|null"},
+        "claim_confidence_level": "0|1|2|3|null",
+        "certainty_evidence": "string or null",
+        "coder_memo": "string or null"
+      }
+    ],
+    "response_level": {
+      "question_coverage": "complete|partial|not_addressed|not_assessable|null",
+      "required_points_addressed": ["string"],
+      "material_omissions": ["string"],
+      "C_A_excessive_hedging": "0|1|U|NA|null",
+      "C_B_material_omission": "0|1|U|NA|null",
+      "C_C_unsupported_overconfidence": "0|1|U|NA|null",
+      "frame_codes": ["D1|D2|D3|D4|D5"],
+      "coder_memo": "string or null"
+    },
+    "adjudication": {"status": "not_started|agreement|adjudicated|null", "notes": "string or null"}
+  }
+}

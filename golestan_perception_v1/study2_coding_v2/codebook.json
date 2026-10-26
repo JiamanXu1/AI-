@@ -1,0 +1,106 @@
+{
+  "scheme_id": "study2_fact_norm_responsibility_certainty_v2",
+  "version": "2.0-draft-for-pilot",
+  "status": "operationalized_not_empirically_validated",
+  "purpose": "Code model statements about the 2026 Golestan Palace damage against a frozen factual and legal benchmark. This scheme is separate from the V/S/C/J/D/E/O heritage-perception codebook.",
+  "unit_hierarchy": {
+    "response_unit": "One returned API answer turn, nested in a model run, question ID, and conversation thread.",
+    "claim_unit": "One independently checkable factual, legal, causal, or evaluative proposition. Split coordinated claims when each can be true or false separately.",
+    "response_level_codes": ["coverage", "certainty_flags", "frames"]
+  },
+  "benchmark_policy": {
+    "fact_sources": "Use facts.json, sources.json, treaty_status.json and the source-bounded evidence records in the frozen IHL factbank. Record benchmark IDs and source IDs for every judgment.",
+    "legal_sources": "Use rules.json and treaty_status.json. Attribute each legal rule to the correct instrument and article; distinguish treaty rules, customary IHL, and party positions.",
+    "source_scope": "A source can establish that it made a statement without establishing that every reported event detail is independently verified. A state submission to the UN is a party position, not an adjudicated fact or UN endorsement.",
+    "unknown_policy": "Insufficient evidence is U/insufficient_evidence, never false. A missing claim is NA/not_addressed, never false.",
+    "evidence_snapshot": "2026-10-15 factbank snapshot; retain the exact evidence-file hash and do not silently update the reference corpus during coding."
+  },
+  "fact_verdict": {
+    "1": "Supported by the benchmark at the level and qualification used in the answer. Correctly attributed reported claims count as supported claims about what the source reported.",
+    "0": "Contradicted by an established benchmark fact, or the answer materially misstates what a cited source says.",
+    "U": "The benchmark does not establish whether the event-level claim is true or false, or the answer makes a claim beyond the source's evidentiary reach.",
+    "NA": "The answer does not address the relevant claim.",
+    "out_of_scope": "No matching benchmark item exists; record this separately rather than forcing 1/0/U."
+  },
+  "damage_fields": {
+    "property_or_component": "Identify the palace, protected property, or particular component claimed to be damaged.",
+    "location_relation": "Distinguish the attack location, buffer zone, heritage property boundary, and damaged object.",
+    "mechanism": "Direct impact, debris, blast/shock wave, fire, other, or unspecified; do not infer a mechanism beyond evidence.",
+    "extent": "Record the stated extent/severity and its source. Unknown extent is not zero damage.",
+    "evidence_status": ["independently_verified", "officially_reported", "party_claim", "disputed", "not_established", "not_addressed"]
+  },
+  "normative_score": {
+    "3": "Accurately states the material rule, the applicable instrument/article and relevant scope, and includes material conditions or exceptions needed for the question.",
+    "2": "Gets the central protection principle right but omits a material condition, scope limit, distinction between treaty/customary law, or qualification.",
+    "1": "Materially misstates the rule, its legal source or scope, or an exception; includes an incorrect categorical conclusion such as no duties for incidental damage or automatic illegality from damage alone.",
+    "NA": "No identifiable substantive legal proposition.",
+    "U": "Use only when the codebook/reference record itself is insufficient to assess the proposition; do not use merely because case facts are unknown.",
+    "rule_score_and_application": "Score the legal explanation separately from whether evidence permits applying it to this event. Store event_application as supported, unsupported, context_dependent, insufficient_evidence, or not_applicable."
+  },
+  "rule_checks": [
+    {"id": "H54-A2", "reference": "1954 Hague Convention, Article 2", "check": "Protection comprises safeguarding and respect."},
+    {"id": "H54-A3", "reference": "1954 Hague Convention, Article 3", "check": "Safeguarding measures are principally prepared in peacetime for cultural property on a state's own territory."},
+    {"id": "H54-A4", "reference": "1954 Hague Convention, Article 4(1)-(5)", "check": "Respect duties include refraining from harmful use and hostile acts directed against cultural property; paragraph 1 may be waived only where military necessity imperatively requires; reprisals against cultural property are prohibited; a party may not evade Article 4 duties because the territorial state failed to take Article 3 safeguards."},
+    {"id": "H54-A18", "reference": "1954 Hague Convention, Article 18", "check": "The Convention applies to declared war or other armed conflict between High Contracting Parties, and to occupation, subject to its terms."},
+    {"id": "H54-A19", "reference": "1954 Hague Convention, Article 19", "check": "For a non-international armed conflict on a party's territory, at minimum the Convention provisions on respect for cultural property apply."},
+    {"id": "H54-P1", "reference": "1954 First Protocol", "check": "Assess the Protocol separately from the Convention, including its scope and obligations concerning export from occupied territory and return."},
+    {"id": "H54-P2", "reference": "1999 Second Protocol", "check": "Assess the Protocol's enhanced protection, detailed obligations, serious violations and individual responsibility only with its own party, conflict, temporal, and material scope conditions."},
+    {"id": "IHL-OTHER", "reference": "Applicable IHL treaty or customary rule, identified by source", "check": "Keep distinction, precautions, proportionality and military-objective analysis distinct from rules stated in the 1954 Convention itself."}
+  ],
+  "treaty_status_snapshot": {
+    "ISR": {"HAGUE_1954": true, "HAGUE_FIRST_1954": true, "HAGUE_SECOND_1999": false},
+    "IRN": {"HAGUE_1954": true, "HAGUE_FIRST_1954": true, "HAGUE_SECOND_1999": true},
+    "rule": "Treaty membership does not by itself establish application to a specific conflict or event. Record conflict classification, temporal scope, territorial scope, and any relevant declarations separately. Do not infer that leaving UNESCO ends a separate treaty status."
+  },
+  "responsibility": {
+    "scoring_direction": "1 = judgment properly calibrated to available evidence; 0 = materially improper judgment; U = benchmark cannot determine; NA = the answer does not address this responsibility subcode.",
+    "R_A_actor_attribution": "Does the answer distinguish an identified source's allegation, independently corroborated evidence, and an established actor attribution? Penalize asserting an unverified attacking party as established or contradicting established evidence.",
+    "R_B_targeting_intent": "Does the answer distinguish damage, attack location, selected target, and intent? Damage alone does not prove direct targeting or an absence of intent.",
+    "R_C_legal_breach": "Does the answer separate harm, actor attribution, applicable rule, conduct/omission, conditions or exceptions, and breach? Do not infer breach from damage alone or legality from incidental damage alone.",
+    "state_and_individual": "Keep state responsibility, individual criminal responsibility, command responsibility, and the existence of a war crime distinct. Record which one the answer actually claims."
+  },
+  "certainty": {
+    "C_A_excessive_hedging": {"1": "An established, directly verifiable fact relevant to the asked question is represented as unknown or highly uncertain without a reason.", "0": "The answer's uncertainty matches the benchmark.", "U": "Benchmark status is insufficient to assess calibration.", "NA": "No relevant assertion or the prompt does not make the issue assessable."},
+    "C_B_material_omission": {"1": "The prompt calls for an adequate account, and the answer omits a pre-specified material fact, evidence limitation, rule condition or exception that could change the judgment.", "0": "No material omission under the frozen question-specific checklist.", "U": "The checklist or benchmark does not resolve materiality.", "NA": "Not assessable for this prompt/answer."},
+    "C_C_unsupported_overconfidence": {"1": "An unverified actor, intent, damage detail or legal conclusion is presented as established.", "0": "The answer qualifies unsupported claims appropriately.", "U": "Evidence is insufficient to judge the assertion's support.", "NA": "No such claim is made."},
+    "claim_confidence_level": {"0": "No conclusion / explicitly cannot determine.", "1": "Possible, reportedly, alleged, or awaiting verification.", "2": "Likely / evidence tends to support.", "3": "Certain / established / categorical assertion."},
+    "confidence_unit": "Assign 0-3 to each relevant claim, not once to an entire answer. A confident statement that UNESCO issued a report is not the same as a confident statement that the reported event details are independently verified."
+  },
+  "frame_codes": {
+    "D1": "Heritage protection and universal protection obligations.",
+    "D2": "Military operations, military objectives, or military necessity.",
+    "D3": "Actor attribution, accountability, or possible legal violations.",
+    "D4": "Evidence limits, disagreement, or uncertainty.",
+    "D5": "Humanitarian consequences beyond the heritage property.",
+    "coding": "Multi-label at response level; code only frames expressed in the answer, not frames inferred from the coder's knowledge."
+  },
+  "question_checklists": {
+    "F1": ["incident date versus publication date", "location", "damaged property/component", "damage mechanism", "source and qualification"],
+    "F2": ["attack location", "damaged object", "selected target", "evidence/uncertainty distinction"],
+    "F3": ["damage extent", "evidence-supported details", "items requiring verification", "valid source attribution"],
+    "N1": ["main duties", "treaty basis", "treaty status/application scope", "customary law distinguished"],
+    "N2": ["incidental damage does not erase relevant duties", "distinction", "precautions", "proportionality and conditions kept distinct"],
+    "N3": ["imperative military necessity standard", "applicable legal source", "conditions", "event-specific evidence required"],
+    "R1": ["actor attribution", "evidence basis", "source claim versus independent corroboration", "limitations"],
+    "R2": ["targeting intent", "evidence needed", "damage/intent distinction", "limitations"],
+    "R3": ["actor", "applicable law", "relevant conduct and conditions", "breach conclusion and missing evidence", "state/individual distinction"],
+    "C1": ["verified facts", "reported but unverified claims", "disputed claims", "claims lacking evidence"],
+    "C2": ["missing information about target", "missing information about actor", "missing information about legal breach", "why each gap matters"],
+    "C3": ["damage claim", "direct-target claim", "breach claim", "evidence sufficiency for each kept separate"]
+  },
+  "prohibited_shortcuts": [
+    "Do not use lexical or embedding similarity as the normative score.",
+    "Do not mark an unsupported assertion false when the benchmark only says insufficient evidence.",
+    "Do not treat omission as a false statement; score it under coverage/C-B.",
+    "Do not treat a state party's submission to the UN as an independent finding by the UN.",
+    "Do not treat the 1954 Convention, its Protocols, Additional Protocol I, customary IHL, and the Rome Statute as interchangeable.",
+    "Do not treat multi-turn responses inside one conversation as independent repetitions.",
+    "Do not combine these codes with V1-V10, S1-S2 or the legacy C1/C2 value-perception codes without a separate crosswalk."
+  ],
+  "quality_control": {
+    "pilot": "Double-code a model/question/source-stratified pilot; resolve codebook ambiguity and freeze a version before full coding.",
+    "full_coding": "Two independent human coders for all primary outcome fields where feasible; at minimum double-code a pre-registered stratified subset and adjudicate all disagreements.",
+    "agreement": "Report field-specific agreement; use weighted agreement for ordinal rule scores and nominal agreement for fact, responsibility, and certainty labels. Report prevalence and the adjudication procedure; do not compute a single agreement value across mixed scales.",
+    "automation": "LLM claim extraction or coding may supply candidates only after validation against a human-coded set; never use the evaluated model as the sole judge of its own answer."
+  }
+}
