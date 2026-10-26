@@ -1,0 +1,185 @@
+S22: International Assistance No.3654: Golestan Palace emergency safeguarding
+URL: https://whc.unesco.org/en/intassistance/3654/
+Access: web_open
+Limitations: 批准援助不等于修复完工；不得输入给2026-10-13以前截止的事件任务。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 1
+Emergency Safeguarding, Stabilization, Documentation, and the Initial Recovery of Golestan Palace World Heritage Property Following Conflict-Related Damage - UNESCO World Heritage Centre (https://whc.unesco.org/en/intassistance/3654/)
+citeturn0search6 [wordlim: 200] Published: 2 days ago; Crawled: today; # Emergency Safeguarding, Stabilization, Documentation, and the Initial Recovery of Golestan Palace World Heritage Property Following Conflict-Related Damage ... 13 Oct 2026
+
+RESEARCH LOG ENTRY 6
+Emergency Safeguarding, Stabilization, Documentation, and the Initial Recovery of Golestan Palace World Heritage Property Following Conflict-Related Damage - UNESCO World Heritage Centre (https://whc.unesco.org/en/intassistance/3654/)
+citeturn5view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/intassistance/3654/","lineno":null}); Total lines: 213
+
+RESEARCH LOG ENTRY 7
+Emergency Safeguarding, Stabilization, Documentation, and the Initial Recovery of Golestan Palace World Heritage Property Following Conflict-Related Damage - UNESCO World Heritage Centre (https://whc.unesco.org/en/intassistance/3654/)
+citeturn6view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn5view4","pattern":"Approved"}); Total lines: 213
+L0: cite0†iframe†www.googletagmanager.com Your browser does not support JavaScript.
+L1: 
+L2: International Assistance
+L3: 
+L4: [Input]
+L5: 
+L6: [Input]
+L7: 
+L8: [Input]
+L9: 
+L10: [Input]
+L11: 
+L12: Category
+L13: 
+L14: [Input] All
+L15: 
+L16: [Input] Culture
+L17: 
+L18: [Input] Nature
+L19: 
+L20: [Input] Mixed
+L21: 
+L22: Amount Approved
+L23: 
+L24: [Input: Amount approved : minimun]
+L25: 
+L26: [Input: Amount approved : maximum]
+L27: 
+L28: [Select]
+L29: 
+L30: [Input] No Funding
+L31: 
+L32: [Input] Result Publish
+L33: 
+L34: Amount Requested [Input: Amount requested : minimun]
+L35: 
+L36: [Input: Amount requested : maximum]
+L37: 
+L38: Decision Dates
+L39: [Input: from...] cite1†Image: Date format: dd/mm/yyyy L40: 
+L41: [Input: To...] cite1†Image: Date format: dd/mm/yyyy L42: 
+L43: Dates
+L44: 
+L45: [Select]
+L46: 
+L47: [Select]
+L48: 
+L49: [Select]
+L50: 
+L51: [Select]
+L52: 
+L53: [Select]
+L54: 
+L55: Keywords
+L56: 
+L57: [Input] Revision of the Tentative List
+L58: 
+L59: [Input] Creation of the Tentative List
+L60: 
+L61: [Input] Preparation of Nomination
+L62: 
+L63: [Input] Prep. of Technical cooperation request
+L64: 
+L65: Decision
+L66: 
+L67: [Input] All
+L68: 
+L69: [Input] Not approved
+L70: 
+L71: [Input] Approved
+L72: 
+L73: [Input] Deferred
+L74: 
+L75: [Input] Withdrawn
+L76: 
+L77: Reapprovals
+L78: 
+L79: [Input] All
+L80: 
+L81: [Input] Original approvals
+L82: [Input] Final Reapprovals
+L83: 
+L84: [Input] Finals and originals
+L85: 
+L86: Type & Category
+L87: 
+L88: [Input] All
+L89: 
+L90: [Input] Preparatory
+L91: 
+L92: [Input] Conservation
+L93: 
+L94: [Input] Emergency
+L95: 
+L96: Modality
+L97: 
+L98: [Input] All
+L99: 
+L100: [Input] Training
+L101: 
+L102: [Input] Technical Cooperation
+L103: 
+L104: [Input] Promotional
+L105: 
+L106: Approved by
+L107: 
+L108: [Input] All
+L109: 
+L110: [Input] Chairperson
+L111: 
+L112: [Input] Committee
+L113: 
+L114: [Input] Director
+L115: 
+L116: [Input] Bureau
+L117: 
+L118: [Button: Search ]
+L119: 
+L120: N°: 3654
+L121: # Emergency Safeguarding, Stabilization, Documentation, and the Initial Recovery of Golestan Palace World Heritage Property Following Conflict-Related Damage
+L122: 
+L123: cite2†Image Iran (Islamic Republic of)
+L124: 
+L125: State Party
+L126: 
+L127: 75,000 USD
+L128: 
+L129: Approved amount
+L130: 
+L131: 13 Oct 2026
+L132: 
+L133: Decision Date
+L134: 
+L135: For Implementation
+L136: 
+L137: Process Step
+L138: 
+L139: Properties:
+L140: 
+L141: cite3†Golestan Palace L142: 
+L143: Amount Requested: 75,000 USD
+L144: 
+L145: Type of Assistance: Cultural / Emergency
+L146: 
+L147: World Bank: UMC
+L148: 
+L149: N°: 3654
+L150: 
+L151: Decision: Approved
+L152: 
+L153: Decision by: Chairperson
+L154: 
+L155: Approved amount: 75,000 USD
+L156: Decision Date: 13 Oct 2026
+L157: 
+L158: cite4†Image: logo L159: 
+L160: cite5†Committee sessions cite6†Statutory Documents cite7†Committee decisions cite8†48^{th} session (2026) cite9†47^{th} session (2025) L161: 
+L162: cite10†General Assembly cite11†26^{th} GA (2027) cite12†25^{th} GA (2025) L163: cite13†About World Heritage cite14†The Convention cite15†Convention Text cite16†Policy Compendium cite17†Declaration of principles cite18†Operational Guidelines cite19†The Emblem cite20†The States Parties cite21†The Advisory Bodies cite22†The Centre cite23†Employment & Internships cite24†Who's Who L164: 
+L165: cite25†The List cite25†World Heritage List cite26†World Heritage in Danger cite27†New Inscriptions cite28†Criteria for Selection cite29†Tentative Lists cite30†World Heritage List Nominations L166: cite31†Reporting & Monitoring cite32†State of Conservation (SOC) cite33†Periodic Reporting cite34†Questionnaires 2018-2024 cite35†Questionnaires 2008-2015 cite36†Reactive Monitoring cite37†Africa cite38†Arab States cite39†Asia & Pacific cite40†Latin America and the Caribbean cite41†Europe and North America L167: 
+L168: cite42†Partnerships cite43†Become a Partner cite44†What Partners Do cite45†Our Partners L169: 
+L170: cite46†Activities cite46†All our activities cite47†Volunteer L171: cite48†Publications cite49†World Heritage Review cite50†Series cite51†Resource Manuals cite52†World Heritage wall map cite48†More publications ... L172: 
+L173: cite53†Funding cite54†World Heritage Fund cite55†International Assistance L174: 
+L175: cite56†More cite57†Contacts cite58†Site Map cite59†Become a member cite60†Donate Now! L176: cite61†UNESCO†www.unesco.org cite62†UNESCO Latest News†www.unesco.org cite63†Take Action†www.unesco.org cite64†Ideas & Data†www.unesco.org cite65†Our Impact†www.unesco.org cite66†Our expertise†www.unesco.org cite67†Core Data Portal†core.unesco.org cite68†Subscribe to our newsletters†eepurl.com L177: 
+L178: cite69†Terms of use†www.unesco.org cite69†Terms of Use†www.unesco.org cite70†UNESCO Name & Logo†www.unesco.org cite71†UNESCO FAQ†www.unesco.org cite72†Report fraud, abuse, misconduct†www.unesco.org cite73†Scam alert†www.unesco.org L179: cite74†Policies†www.unesco.org L180: cite75†Protection of human rights (Procedure 104)†www.unesco.org cite76†Access to Information†www.unesco.org cite77†Website Privacy Notice†www.unesco.org cite78†Events Privacy Notice†www.unesco.org cite79†Data Protection and Privacy†www.unesco.org cite80†Environmental and Social Policies†www.unesco.org L181: 
+L182: Follow us
+L183: 
+L184: cite81†Facebook†www.facebook.com cite82†Instagram†instagram.com cite83†Twitter†twitter.com cite84†Youtube†www.youtube.com cite85†Linkedin†www.linkedin.com cite86†Syndication RSS

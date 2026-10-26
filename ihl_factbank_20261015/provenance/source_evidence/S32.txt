@@ -1,0 +1,10 @@
+S32: Customary IHL Vol I: non-reciprocity
+URL: https://www.icrc.org/sites/default/files/external/doc/en/assets/files/other/customary-international-humanitarian-law-i-icrc-eng.pdf
+Access: search_index_text
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 22
+CUSTOMARY INTERNATIONAL HUMANITARIAN LAW - VOLUME I RULES (https://www.icrc.org/sites/default/files/external/doc/en/assets/files/other/customary-international-humanitarian-law-i-icrc-eng.pdf)
+citeturn18search14 [wordlim: 200] Published: 16.6 years ago; **Rule 140.The obligation to respect and ensure respect for international humanitarian law does not depend on reciprocity. ... 22 See, e.g., the practice of the ICRC with respect to the conflicts in Afghanistan (ibid., § 138), Angola (ibid., § 141), Bosnia and Herzegovina (ibid., § 137), Somalia (ibid., § 139) and the former Yugoslavia (ibid., § 135).

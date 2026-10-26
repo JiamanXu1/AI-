@@ -1,0 +1,453 @@
+S06: Iran: Conventions ratified / non-ratified
+URL: https://www.unesco.org/en/countries/ir/conventions
+Access: web_open
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 2
+Iran (Islamic Republic of) - Convention | UNESCO (https://www.unesco.org/en/countries/ir/conventions)
+citeturn1search3 [wordlim: 200] Crawled: 3 months ago; Image: Iran (Islamic Republic of) ... UNESCO member since 1948 ... Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict ... 26 March 1999 ... 23 March 2006
+
+Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict
+
+Date and place of adoption
+
+26 March 1999
+
+The Hague, Netherlands
+
+Type of instrument
+
+Convention
+
+Date of deposit
+
+24 May 2005
+
+Culture
+
+Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict
+
+Date and place of adoption
+
+14 May 1954
+
+The Hague, Netherlands
+
+Type of instrument
+
+Convention
+
+Date of deposit
+
+22 June 1959
+
+Culture
+
+Convention for the Safeguarding of the Intangible Cultural Heritage
+
+Date and place of adoption
+
+17 October 2003
+
+Paris, France
+
+Type of instrument
+
+Convention
+
+Date of deposit
+
+23 March 2006
+
+Reporting page
+
+Culture
+
+Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention
+
+Date and place of adoption
+
+14 May 1954
+
+The Hague, Netherlands
+
+Type of instrument
+
+Convention
+
+Date of deposit
+
+RESEARCH LOG ENTRY 3
+Iran (Islamic Republic of) - Convention | UNESCO (https://www.unesco.org/en/countries/ir/conventions)
+citeturn2view1 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://www.unesco.org/en/countries/ir/conventions","lineno":null}); Total lines: 594
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†UNESCO L3: 
+L4: [Button: English]
+L5: 
+L6:   * cite2†English L7:   * cite3†Français L8:   * cite4†Español L9:   * cite5†Русский L10:   * cite6†العربية L11:   * cite7†中文 L12: 
+L13: cite1†UNESCO L14: 
+L15: [Input]
+L16: 
+L17: [Input: Search]
+L18: 
+L19: [Button: Search]
+L20: 
+L21: [Input]
+L22: 
+L23: [Input: Search]
+L24: 
+L25: [Button: Search]
+L26: 
+L27: Quick links:cite8†AI cite9†Response to Crisis cite10†Key Challenges L28: 
+L29: cite11†Image: Iran (Islamic Republic of) L30: 
+L31: cite12†Iran (Islamic Republic of) L32: 
+L33: UNESCO member since 1948
+L34: 
+L35: Asia and the Pacific
+L36: ## Conventions ratified by Iran (Islamic Republic of)
+L37: 
+L38: 14
+L39: 
+L40: ratified out of 43
+L41: 
+L42: Culture
+L43: 
+L44: cite13†Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property L45: 
+L46: Date and place of adoption
+L47: 
+L48: 14 November 1970
+L49: 
+L50: Paris, France
+L51: 
+L52: Type of instrument
+L53: 
+L54: Convention
+L55: 
+L56: Date of deposit
+L57: 
+L58: 27 January 1975
+L59: 
+L60: cite14†Reporting page L61: 
+L62: Natural Sciences
+L63: 
+L64: cite15†Protocol to amend the Convention on Wetlands of International Importance especially as Waterfowl Habitat L65: Date and place of adoption
+L66: 
+L67: 3 December 1982
+L68: 
+L69: Paris, France
+L70: 
+L71: Type of instrument
+L72: 
+L73: Convention
+L74: 
+L75: Date of deposit
+L76: 
+L77: 29 April 1986
+L78: 
+L79: Education
+L80: 
+L81: cite16†Convention against Discrimination in Education L82: 
+L83: Date and place of adoption
+L84: 
+L85: 14 December 1960
+L86: 
+L87: Paris, France
+L88: 
+L89: Type of instrument
+L90: 
+L91: Convention
+L92: 
+L93: Date of deposit
+L94: 
+L95: 17 July 1968
+L96: 
+L97: Future
+L98: 
+L99: Tentative date: 2028
+L100: 
+L101: cite17†Consultation page cite18†Reporting page L102: 
+L103: Culture
+L104: cite19†Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict L105: 
+L106: Date and place of adoption
+L107: 
+L108: 26 March 1999
+L109: 
+L110: The Hague, Netherlands (Kingdom of the)
+L111: 
+L112: Type of instrument
+L113: 
+L114: Convention
+L115: 
+L116: Date of deposit
+L117: 
+L118: 24 May 2005
+L119: 
+L120: Culture
+L121: 
+L122: cite20†Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict L123: 
+L124: Date and place of adoption
+L125: 
+L126: 14 May 1954
+L127: 
+L128: The Hague, Netherlands (Kingdom of the)
+L129: 
+L130: Type of instrument
+L131: 
+L132: Convention
+L133: Date of deposit
+L134: 
+L135: 22 June 1959
+L136: 
+L137: Culture
+L138: 
+L139: cite21†Convention for the Safeguarding of the Intangible Cultural Heritage L140: 
+L141: Date and place of adoption
+L142: 
+L143: 17 October 2003
+L144: 
+L145: Paris, France
+L146: 
+L147: Type of instrument
+L148: 
+L149: Convention
+L150: 
+L151: Date of deposit
+L152: 
+L153: 23 March 2006
+L154: 
+L155: cite22†Reporting page†ich.unesco.org L156: 
+L157: Culture
+L158: 
+L159: cite23†Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention L160: 
+L161: Date and place of adoption
+L162: 
+L163: 14 May 1954
+L164: 
+L165: The Hague, Netherlands (Kingdom of the)
+L166: Type of instrument
+L167: 
+L168: Convention
+L169: 
+L170: Date of deposit
+L171: 
+L172: 22 June 1959
+L173: 
+L174: cite24†Reporting page†en.unesco.org L175: 
+L176: Natural Sciences
+L177: 
+L178: cite25†Protocol to amend articles 6 and 7 of the Convention on Wetlands of International Importance especially as Waterfowl Habitat. L179: 
+L180: Date and place of adoption
+L181: 
+L182: 28 May 1987
+L183: 
+L184: Regina, Canada
+L185: 
+L186: Type of instrument
+L187: 
+L188: Convention
+L189: 
+L190: Date of deposit
+L191: 
+L192: 20 July 1994
+L193: 
+L194: Culture
+L195: 
+L196: cite26†Agreement on the Importation of Educational, Scientific and Cultural Materials, with Annexes A to E and Protocol annexed. L197: Date and place of adoption
+L198: 
+L199: 17 June 1950
+L200: 
+L201: Florence, Italy
+L202: 
+L203: Type of instrument
+L204: 
+L205: Convention
+L206: 
+L207: Date of deposit
+L208: 
+L209: 7 January 1966
+L210: 
+L211: Culture
+L212: 
+L213: cite27†Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific and Cultural character with Protocol of Signature and model form of certificate provided for in Article IV L214: 
+L215: Date and place of adoption
+L216: 
+L217: 10 December 1948
+L218: 
+L219: Beyrouth, Lebanon
+L220: 
+L221: Type of instrument
+L222: 
+L223: Convention
+L224: 
+L225: Date of deposit
+L226: 
+L227: 30 December 1959
+L228: 
+L229: Culture
+L230: cite28†Convention concerning the Protection of the World Cultural and Natural Heritage L231: 
+L232: Date and place of adoption
+L233: 
+L234: 16 November 1972
+L235: 
+L236: Paris, France
+L237: 
+L238: Type of instrument
+L239: 
+L240: Convention
+L241: 
+L242: Date of deposit
+L243: 
+L244: 26 February 1975
+L245: 
+L246: cite29†Reporting page†whc.unesco.org L247: 
+L248: Social & Human Sciences
+L249: 
+L250: cite30†International Convention against Doping in Sport L251: 
+L252: Date and place of adoption
+L253: 
+L254: 19 October 2005
+L255: 
+L256: Paris, France
+L257: 
+L258: Type of instrument
+L259: 
+L260: Convention
+L261: 
+L262: Date of deposit
+L263: 
+L264: 23 March 2010
+L265: 
+L266: Natural Sciences
+L267: cite31†Convention on Wetlands of International Importance especially as Waterfowl Habitat. L268: 
+L269: Date and place of adoption
+L270: 
+L271: 2 February 1971
+L272: 
+L273: Ramsar, Iran (Islamic Republic of)
+L274: 
+L275: Type of instrument
+L276: 
+L277: Convention
+L278: 
+L279: Date of deposit
+L280: 
+L281: 23 June 1975
+L282: 
+L283: Culture
+L284: 
+L285: cite32†Convention on the Protection of the Underwater Cultural Heritage L286: 
+L287: Date and place of adoption
+L288: 
+L289: 2 November 2001
+L290: 
+L291: Paris, France
+L292: 
+L293: Type of instrument
+L294: 
+L295: Convention
+L296: 
+L297: Date of deposit
+L298: 
+L299: 16 June 2009
+L300: 
+L301: cite33†Reporting page L302: ## Non-ratified Conventions
+L303: 
+L304: Education
+L305: 
+L306: cite34†Regional Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in Latin America and the Caribbean L307: 
+L308: Date and place of adoption
+L309: 
+L310: 19 July 1974
+L311: 
+L312: Mexico City, Mexico
+L313: 
+L314: Culture
+L315: 
+L316: cite35†Convention concerning the International Exchange of Publications L317: 
+L318: Date and place of adoption
+L319: 
+L320: 3 December 1958
+L321: 
+L322: Paris, France
+L323: 
+L324: Education
+L325: cite36†International Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in the Arab and European States bordering on the Mediterranean L326: 
+L327: Date and place of adoption
+L328: 
+L329: 17 December 1976
+L330: 
+L331: Nice, France
+L332: 
+L333: Education
+L334: 
+L335: cite37†Regional Convention on the Recognition of Studies, Diplomas, and Degrees in Higher Education in Asia and the Pacific L336: 
+L337: Date and place of adoption
+L338: 
+L339: 16 December 1983
+L340: 
+L341: Bangkok, Thailand
+L342: 
+L343: Education
+L344: 
+L345: cite38†Convention on Technical and Vocational Education L346: Date and place of adoption
+L347: 
+L348: 10 November 1989
+L349: 
+L350: Paris, France
+L351: 
+L352: Ongoing
+L353: 
+L354: Deadline: 14 November 2026
+L355: 
+L356: cite39†Consultation page cite40†Reporting page L357: 
+L358: Education
+L359: 
+L360: cite41†Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in the Arab States L361: 
+L362: Date and place of adoption
+L363: 
+L364: 22 December 1978
+L365: 
+L366: Paris, France
+L367: 
+L368: Education
+L369: 
+L370: cite42†Convention on the Recognition of Studies, Diplomas and Degrees concerning Higher Education in the States belonging to the Europe Region L371: 
+L372: Date and place of adoption
+L373: 21 December 1979
+L374: 
+L375: Paris, France
+L376: 
+L377: Culture
+L378: 
+L379: cite43†Convention on the Protection and Promotion of the Diversity of Cultural Expressions L380: 
+L381: Date and place of adoption
+L382: 
+L383: 20 October 2005
+L384: 
+L385: Paris, France
+L386: 
+L387: cite44†Reporting page L388: 
+L389: Culture
+L390: 
+L391: cite45†Universal Copyright Convention as revised on 24 July 1971, with Appendix Declaration relating to Article XVII and Resolution concerning Article XI L392: 
+L393: Date and place of adoption
+L394: 
+L395: 24 July 1971
+L396: 
+L397: Paris, France
+L398: 
+L399: Culture
+L400: cite46†Protocol 1 annexed to the Universal Copyright Convention as revised on 24 July 1971 concerning the application of that Convention to the work of stateless persons and refugees L401: 
+L402: Date and place of adoption
+L403: 
+L404: 24 July 1971
+L405: 
+L406: Paris, France
+L407: 
+L408: Culture
+L409: 
+L410: cite47†Universal Copyright Convention, with Appendix Declaration relating to Article XVII and Resolution concerning Article XI L411: 
+L412: Date and place of adoption
+L413:

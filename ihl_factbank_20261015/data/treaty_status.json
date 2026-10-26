@@ -1,0 +1,354 @@
+[
+  {
+    "id": "T_ISR_HAGUE_1954",
+    "record_type": "treaty_status",
+    "country": "ISR",
+    "instrument": "HAGUE_1954",
+    "is_party": true,
+    "deposit_date": "1957-10-03",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S05",
+        "locator": "ISR: HAGUE_1954"
+      }
+    ],
+    "statement_zh": "ISR对HAGUE_1954具有缔约国身份。",
+    "note": "",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_ISR_HAGUE_FIRST_1954",
+    "record_type": "treaty_status",
+    "country": "ISR",
+    "instrument": "HAGUE_FIRST_1954",
+    "is_party": true,
+    "deposit_date": "1958-04-01",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S05",
+        "locator": "ISR: HAGUE_FIRST_1954"
+      }
+    ],
+    "statement_zh": "ISR对HAGUE_FIRST_1954具有缔约国身份。",
+    "note": "",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_ISR_HAGUE_SECOND_1999",
+    "record_type": "treaty_status",
+    "country": "ISR",
+    "instrument": "HAGUE_SECOND_1999",
+    "is_party": false,
+    "deposit_date": null,
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S05",
+        "locator": "ISR: HAGUE_SECOND_1999"
+      }
+    ],
+    "statement_zh": "ISR对HAGUE_SECOND_1999未具有缔约国身份。",
+    "note": "伊朗第二议定书声明见F001、F002；具体关系适用见R020。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_ISR_WORLD_HERITAGE_1972",
+    "record_type": "treaty_status",
+    "country": "ISR",
+    "instrument": "WORLD_HERITAGE_1972",
+    "is_party": true,
+    "deposit_date": "1999-10-06",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S05",
+        "locator": "ISR: WORLD_HERITAGE_1972"
+      }
+    ],
+    "statement_zh": "ISR对WORLD_HERITAGE_1972具有缔约国身份。",
+    "note": "",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_IRN_HAGUE_1954",
+    "record_type": "treaty_status",
+    "country": "IRN",
+    "instrument": "HAGUE_1954",
+    "is_party": true,
+    "deposit_date": "1959-06-22",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S06",
+        "locator": "IRN: HAGUE_1954"
+      }
+    ],
+    "statement_zh": "IRN对HAGUE_1954具有缔约国身份。",
+    "note": "",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_IRN_HAGUE_FIRST_1954",
+    "record_type": "treaty_status",
+    "country": "IRN",
+    "instrument": "HAGUE_FIRST_1954",
+    "is_party": true,
+    "deposit_date": "1959-06-22",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S06",
+        "locator": "IRN: HAGUE_FIRST_1954"
+      }
+    ],
+    "statement_zh": "IRN对HAGUE_FIRST_1954具有缔约国身份。",
+    "note": "",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_IRN_HAGUE_SECOND_1999",
+    "record_type": "treaty_status",
+    "country": "IRN",
+    "instrument": "HAGUE_SECOND_1999",
+    "is_party": true,
+    "deposit_date": "2005-05-24",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S06",
+        "locator": "IRN: HAGUE_SECOND_1999"
+      }
+    ],
+    "statement_zh": "IRN对HAGUE_SECOND_1999具有缔约国身份。",
+    "note": "伊朗第二议定书声明见F001、F002；具体关系适用见R020。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_IRN_WORLD_HERITAGE_1972",
+    "record_type": "treaty_status",
+    "country": "IRN",
+    "instrument": "WORLD_HERITAGE_1972",
+    "is_party": true,
+    "deposit_date": "1975-02-26",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S06",
+        "locator": "IRN: WORLD_HERITAGE_1972"
+      }
+    ],
+    "statement_zh": "IRN对WORLD_HERITAGE_1972具有缔约国身份。",
+    "note": "",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_ISR_GENEVA_I_II_III_IV_1949",
+    "record_type": "treaty_status",
+    "country": "ISR",
+    "instrument": "GENEVA_I_II_III_IV_1949",
+    "is_party": true,
+    "deposit_date": "1951-07-06",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S07",
+        "locator": "ISR: GENEVA_I_II_III_IV_1949"
+      }
+    ],
+    "statement_zh": "ISR对GENEVA_I_II_III_IV_1949具有缔约国身份。",
+    "note": "合并登记四个公约；不代表其全部条文在所有场景均适用，须按适用范围核验。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_ISR_AP_I_1977",
+    "record_type": "treaty_status",
+    "country": "ISR",
+    "instrument": "AP_I_1977",
+    "is_party": false,
+    "deposit_date": null,
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S07",
+        "locator": "ISR: AP_I_1977"
+      },
+      {
+        "source_id": "S09",
+        "locator": "ISR: AP_I_1977"
+      }
+    ],
+    "statement_zh": "ISR对AP_I_1977未具有缔约国身份。",
+    "note": "签署与批准不同；可适用的习惯法另有独立依据。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_ISR_AP_II_1977",
+    "record_type": "treaty_status",
+    "country": "ISR",
+    "instrument": "AP_II_1977",
+    "is_party": false,
+    "deposit_date": null,
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S07",
+        "locator": "ISR: AP_II_1977"
+      },
+      {
+        "source_id": "S09",
+        "locator": "ISR: AP_II_1977"
+      }
+    ],
+    "statement_zh": "ISR对AP_II_1977未具有缔约国身份。",
+    "note": "签署与批准不同；可适用的习惯法另有独立依据。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_ISR_ROME_STATUTE_1998",
+    "record_type": "treaty_status",
+    "country": "ISR",
+    "instrument": "ROME_STATUTE_1998",
+    "is_party": false,
+    "deposit_date": null,
+    "signature_date": "2000-12-31",
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S18",
+        "locator": "ISR: ROME_STATUTE_1998"
+      }
+    ],
+    "statement_zh": "ISR对ROME_STATUTE_1998未具有缔约国身份。",
+    "note": "以色列2002-08-28通知不拟成为缔约国；伊朗签署未批准。ICC管辖另论。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_IRN_GENEVA_I_II_III_IV_1949",
+    "record_type": "treaty_status",
+    "country": "IRN",
+    "instrument": "GENEVA_I_II_III_IV_1949",
+    "is_party": true,
+    "deposit_date": "1957-02-20",
+    "signature_date": null,
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S08",
+        "locator": "IRN: GENEVA_I_II_III_IV_1949"
+      }
+    ],
+    "statement_zh": "IRN对GENEVA_I_II_III_IV_1949具有缔约国身份。",
+    "note": "合并登记四个公约；不代表其全部条文在所有场景均适用，须按适用范围核验。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_IRN_AP_I_1977",
+    "record_type": "treaty_status",
+    "country": "IRN",
+    "instrument": "AP_I_1977",
+    "is_party": false,
+    "deposit_date": null,
+    "signature_date": "1977-12-12",
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S08",
+        "locator": "IRN: AP_I_1977"
+      },
+      {
+        "source_id": "S09",
+        "locator": "IRN: AP_I_1977"
+      }
+    ],
+    "statement_zh": "IRN对AP_I_1977未具有缔约国身份。",
+    "note": "签署与批准不同；可适用的习惯法另有独立依据。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_IRN_AP_II_1977",
+    "record_type": "treaty_status",
+    "country": "IRN",
+    "instrument": "AP_II_1977",
+    "is_party": false,
+    "deposit_date": null,
+    "signature_date": "1977-12-12",
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S08",
+        "locator": "IRN: AP_II_1977"
+      },
+      {
+        "source_id": "S09",
+        "locator": "IRN: AP_II_1977"
+      }
+    ],
+    "statement_zh": "IRN对AP_II_1977未具有缔约国身份。",
+    "note": "签署与批准不同；可适用的习惯法另有独立依据。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  },
+  {
+    "id": "T_IRN_ROME_STATUTE_1998",
+    "record_type": "treaty_status",
+    "country": "IRN",
+    "instrument": "ROME_STATUTE_1998",
+    "is_party": false,
+    "deposit_date": null,
+    "signature_date": "2000-12-31",
+    "entry_into_force_date": null,
+    "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+    "source_refs": [
+      {
+        "source_id": "S18",
+        "locator": "IRN: ROME_STATUTE_1998"
+      }
+    ],
+    "statement_zh": "IRN对ROME_STATUTE_1998未具有缔约国身份。",
+    "note": "已签署但未批准；ICC管辖另论。",
+    "verified_on": "2026-10-15",
+    "valid_at_snapshot": "2026-10-15"
+  }
+]

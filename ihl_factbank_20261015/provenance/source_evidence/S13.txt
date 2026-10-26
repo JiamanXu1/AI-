@@ -1,0 +1,19 @@
+S13: Frequently Asked Questions: IHL and the escalating conflict in the Middle East
+URL: https://ir.icrc.org/en/2026/03/frequently-asked-questions-ihl-and-the-escalating-conflict-in-the-middle-east/
+Access: web_open
+Limitations: 页面在 /2026/03/ 路径下；精确发布日期未记录，不从路径虚构日。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 22
+Frequently Asked Questions: IHL and the escalating conflict in the Middle East - ICRC in Iran | ICRC in Iran (https://ir.icrc.org/en/2026/03/frequently-asked-questions-ihl-and-the-escalating-conflict-in-the-middle-east/)
+citeturn18search7 [wordlim: 200] Published: 6 months ago; Crawled: 2 weeks ago; International humanitarian law (IHL), also known as the “laws of war”, is the set of international rules that regulates armed conflicts, including the behaviour of States and other parties to conflict. ... These are customary in nature and must be complied with in all circumstances by all parties – States, non-state armed groups and civilians taking a direct part in hostilities – in all armed conflicts – both international and non-international. ... – Assess whether the attack may be expected to violate the rule of proportionality; ... Insofar as persons are concerned, combatants (i.e., members of State armed forces – other than medical and religious personnel – and members of armed wings of non-State armed groups) may be targeted, unless they are hors de combat (wounded, sick, shipwrecked, incapacitated, have indicated a clear intention to surrender, or are otherwise in the power of the enemy). ... However, such outputs should be understood as sources of information or computational indicators, rather than legal assessments of whether an attack complies with IHL. ... Read more about ICRC’s position on the use of AI in armed conflict.
+
+RESEARCH LOG ENTRY 23
+Frequently Asked Questions: IHL and the escalating conflict in the Middle East - ICRC in Iran | ICRC in Iran (https://ir.icrc.org/en/2026/03/frequently-asked-questions-ihl-and-the-escalating-conflict-in-the-middle-east/)
+citeturn19view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://ir.icrc.org/en/2026/03/frequently-asked-questions-ihl-and-the-escalating-conflict-in-the-middle-east/","lineno":null}); Total lines: 123
+
+RESEARCH LOG ENTRY 24
+Frequently Asked Questions: IHL and the escalating conflict in the Middle East - ICRC in Iran | ICRC in Iran (https://ir.icrc.org/en/2026/03/frequently-asked-questions-ihl-and-the-escalating-conflict-in-the-middle-east/)
+citeturn20view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn19view0","lineno":40}); Total lines: 123
+L40: IHL also requires parties to the conflict to cite22†protect civilians and civilian objects under their control†ihl-databases.icrc.org against the effects of attacks.  In cities, military and civilian people and objects are often intermingled. For parties involved in hostilities in urban or other populated areas, this intermingling presents important challenges, both militarily and in terms of avoiding civilian harm.

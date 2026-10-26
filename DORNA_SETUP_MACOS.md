@@ -91,11 +91,18 @@ python3 experiment1/run_ollama_robustness.py --pilot
 python3 experiment1/run_ollama_robustness.py
 ```
 
-运行前可以加 `--help` 查看参数。默认模型已设为上面的 Dorna 标签；如需替换模型，用 `--model <本机精确标签>`。实验结果写入 `experiment1/results/`，这些运行数据和日志由 `.gitignore` 排除，不会自动进入 GitHub 包。
+如需更换模型，在调用前设置精确模型标签并按脚本参数覆盖：
+
+```bash
+OLLAMA_MODEL="填写本机 ollama list 中的精确模型标签"
+python3 experiment1/run_ollama_robustness.py --model "$OLLAMA_MODEL" --pilot
+```
+
+运行前可以加 `--help` 查看参数。默认模型已设为上面的 Dorna 标签；如需替换模型，使用上面设置的 `OLLAMA_MODEL` 并传给脚本。实验结果写入 `experiment1/results/`，这些运行数据和日志由 `.gitignore` 排除，不会自动进入 GitHub 包。
 
 ## 6. Dorna 的适用范围
 
-实验一问卷和单轮鲁棒性调用适合本机 Dorna。实验二身份全线程每轮包含证据和此前对话历史；本项目记录的 Dorna 上下文约为 8K，不能承载该实验约 30,000 字符的证据加累计对话。身份实验应按 [README 的长上下文配置](README.md#实验二api-多轮追问) 使用经核实具有足够上下文的 API 模型或本地模型，并记录实际模型 ID 与上下文参数。不要因模型成功返回结果就假定上下文没有截断。
+实验一问卷和单轮鲁棒性调用适合本机 Dorna。实验二身份全线程每轮包含证据和此前对话历史；本项目记录的 Dorna 上下文约为 8K，不能承载该实验约 30,000 字符的证据加累计对话。身份实验请按 [Runbook](RUNBOOK.md) 选择经核实具有足够上下文的 API 模型或本地模型，并记录实际模型 ID 与上下文参数。不要因模型成功返回结果就假定上下文没有截断。
 
 ## 官方参考
 

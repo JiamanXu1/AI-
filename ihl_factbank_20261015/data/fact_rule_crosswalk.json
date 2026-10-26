@@ -1,0 +1,4533 @@
+[
+  {
+    "id": "C001",
+    "claim_zh": "以色列不是1954年《海牙公约》缔约国。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "T_ISR_HAGUE_1954"
+    ],
+    "rationale_zh": "官方登记交存日1957-10-03。",
+    "dimension": "treaty_status",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [],
+    "facts_or_treaty_status": [
+      {
+        "id": "T_ISR_HAGUE_1954",
+        "record_type": "treaty_status",
+        "country": "ISR",
+        "instrument": "HAGUE_1954",
+        "is_party": true,
+        "deposit_date": "1957-10-03",
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S05",
+            "locator": "ISR: HAGUE_1954"
+          }
+        ],
+        "statement_zh": "ISR对HAGUE_1954具有缔约国身份。",
+        "note": "",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S05",
+            "title": "Israel: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/il/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol under Non-ratified; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "登记的是文书交存日，不是自动等同生效日；UNESCO 非会员身份与公约缔约身份分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C002",
+    "claim_zh": "伊朗和以色列都是1954年公约及第一议定书缔约国。",
+    "gold_label": "supported",
+    "rule_ids": [],
+    "fact_ids": [
+      "T_ISR_HAGUE_1954",
+      "T_IRN_HAGUE_1954",
+      "T_ISR_HAGUE_FIRST_1954",
+      "T_IRN_HAGUE_FIRST_1954"
+    ],
+    "rationale_zh": "两国登记均存在。",
+    "dimension": "treaty_status",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [],
+    "facts_or_treaty_status": [
+      {
+        "id": "T_ISR_HAGUE_1954",
+        "record_type": "treaty_status",
+        "country": "ISR",
+        "instrument": "HAGUE_1954",
+        "is_party": true,
+        "deposit_date": "1957-10-03",
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S05",
+            "locator": "ISR: HAGUE_1954"
+          }
+        ],
+        "statement_zh": "ISR对HAGUE_1954具有缔约国身份。",
+        "note": "",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S05",
+            "title": "Israel: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/il/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol under Non-ratified; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "登记的是文书交存日，不是自动等同生效日；UNESCO 非会员身份与公约缔约身份分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "T_IRN_HAGUE_1954",
+        "record_type": "treaty_status",
+        "country": "IRN",
+        "instrument": "HAGUE_1954",
+        "is_party": true,
+        "deposit_date": "1959-06-22",
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S06",
+            "locator": "IRN: HAGUE_1954"
+          }
+        ],
+        "statement_zh": "IRN对HAGUE_1954具有缔约国身份。",
+        "note": "",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S06",
+            "title": "Iran: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/ir/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "T_ISR_HAGUE_FIRST_1954",
+        "record_type": "treaty_status",
+        "country": "ISR",
+        "instrument": "HAGUE_FIRST_1954",
+        "is_party": true,
+        "deposit_date": "1958-04-01",
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S05",
+            "locator": "ISR: HAGUE_FIRST_1954"
+          }
+        ],
+        "statement_zh": "ISR对HAGUE_FIRST_1954具有缔约国身份。",
+        "note": "",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S05",
+            "title": "Israel: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/il/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol under Non-ratified; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "登记的是文书交存日，不是自动等同生效日；UNESCO 非会员身份与公约缔约身份分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "T_IRN_HAGUE_FIRST_1954",
+        "record_type": "treaty_status",
+        "country": "IRN",
+        "instrument": "HAGUE_FIRST_1954",
+        "is_party": true,
+        "deposit_date": "1959-06-22",
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S06",
+            "locator": "IRN: HAGUE_FIRST_1954"
+          }
+        ],
+        "statement_zh": "IRN对HAGUE_FIRST_1954具有缔约国身份。",
+        "note": "",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S06",
+            "title": "Iran: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/ir/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C003",
+    "claim_zh": "以色列当然受1999年第二议定书全部条文直接约束。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R020"
+    ],
+    "fact_ids": [
+      "T_ISR_HAGUE_SECOND_1999"
+    ],
+    "rationale_zh": "非缔约；须另论接受适用或独立习惯法。",
+    "dimension": "applicability",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R020",
+        "record_type": "rule",
+        "instrument": "HAGUE_SECOND_1999",
+        "article": "Arts 2, 3(2)",
+        "statement_zh": "第二议定书补充缔约方关系；涉及非缔约冲突国时须审查其接受并适用的条件。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "not_party_no_automatic_treaty_application",
+          "IRN": "party_subject_to_scope_and_declaration_review"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S03",
+            "locator": "Arts 2, 3(2)"
+          }
+        ],
+        "tags": [
+          "适用",
+          "非缔约国",
+          "以色列"
+        ],
+        "interpretation_note": "伊朗加入不使以色列自动成为缔约方；相似习惯法须另列依据。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "T_ISR_HAGUE_SECOND_1999",
+        "record_type": "treaty_status",
+        "country": "ISR",
+        "instrument": "HAGUE_SECOND_1999",
+        "is_party": false,
+        "deposit_date": null,
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S05",
+            "locator": "ISR: HAGUE_SECOND_1999"
+          }
+        ],
+        "statement_zh": "ISR对HAGUE_SECOND_1999未具有缔约国身份。",
+        "note": "伊朗第二议定书声明见F001、F002；具体关系适用见R020。",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S05",
+            "title": "Israel: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/il/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol under Non-ratified; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "登记的是文书交存日，不是自动等同生效日；UNESCO 非会员身份与公约缔约身份分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C004",
+    "claim_zh": "伊朗加入1999年第二议定书，因此同样的规则自动全套约束以色列。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R020"
+    ],
+    "fact_ids": [
+      "T_IRN_HAGUE_SECOND_1999",
+      "T_ISR_HAGUE_SECOND_1999"
+    ],
+    "rationale_zh": "一国加入不使另一国成为缔约国。",
+    "dimension": "applicability",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R020",
+        "record_type": "rule",
+        "instrument": "HAGUE_SECOND_1999",
+        "article": "Arts 2, 3(2)",
+        "statement_zh": "第二议定书补充缔约方关系；涉及非缔约冲突国时须审查其接受并适用的条件。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "not_party_no_automatic_treaty_application",
+          "IRN": "party_subject_to_scope_and_declaration_review"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S03",
+            "locator": "Arts 2, 3(2)"
+          }
+        ],
+        "tags": [
+          "适用",
+          "非缔约国",
+          "以色列"
+        ],
+        "interpretation_note": "伊朗加入不使以色列自动成为缔约方；相似习惯法须另列依据。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "T_IRN_HAGUE_SECOND_1999",
+        "record_type": "treaty_status",
+        "country": "IRN",
+        "instrument": "HAGUE_SECOND_1999",
+        "is_party": true,
+        "deposit_date": "2005-05-24",
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S06",
+            "locator": "IRN: HAGUE_SECOND_1999"
+          }
+        ],
+        "statement_zh": "IRN对HAGUE_SECOND_1999具有缔约国身份。",
+        "note": "伊朗第二议定书声明见F001、F002；具体关系适用见R020。",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S06",
+            "title": "Iran: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/ir/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "T_ISR_HAGUE_SECOND_1999",
+        "record_type": "treaty_status",
+        "country": "ISR",
+        "instrument": "HAGUE_SECOND_1999",
+        "is_party": false,
+        "deposit_date": null,
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S05",
+            "locator": "ISR: HAGUE_SECOND_1999"
+          }
+        ],
+        "statement_zh": "ISR对HAGUE_SECOND_1999未具有缔约国身份。",
+        "note": "伊朗第二议定书声明见F001、F002；具体关系适用见R020。",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S05",
+            "title": "Israel: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/il/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol under Non-ratified; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "登记的是文书交存日，不是自动等同生效日；UNESCO 非会员身份与公约缔约身份分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C005",
+    "claim_zh": "两国未批准1977年第一附加议定书，所以没有区分和比例义务。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R031",
+      "R032",
+      "R033"
+    ],
+    "fact_ids": [
+      "T_ISR_AP_I_1977",
+      "T_IRN_AP_I_1977"
+    ],
+    "rationale_zh": "相应习惯法义务有独立基础。",
+    "dimension": "applicability",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R031",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rule 14",
+        "statement_zh": "禁止预期平民伤亡或民用物体损害相对于预期具体直接军事优势过度的攻击。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "攻击时合理可得情报",
+          "预期损害",
+          "预期具体直接军事优势"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S11",
+            "locator": "Rule 14"
+          }
+        ],
+        "tags": [
+          "比例",
+          "附带损害",
+          "Q04"
+        ],
+        "interpretation_note": "不是双方伤亡数相等，也不是事后只看损坏照片。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S11",
+            "title": "Customary IHL Rule 14: Proportionality in Attack",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 14; international and non-international armed conflicts",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R032",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Precautions; Rules 15–22 as explained by ICRC FAQ",
+        "statement_zh": "须持续注意保护平民和民用物体，采取一切可行预防措施，控制方亦应防范攻击影响。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "可行措施",
+          "核验、武器、时机与警告记录"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S13",
+            "locator": "Precautions; Rules 15–22 as explained by ICRC FAQ"
+          }
+        ],
+        "tags": [
+          "预防",
+          "附带损害",
+          "双方义务",
+          "Q04"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S13",
+            "title": "Frequently Asked Questions: IHL and the escalating conflict in the Middle East",
+            "publisher": "ICRC delegation in Iran",
+            "url": "https://ir.icrc.org/en/2026/03/frequently-asked-questions-ihl-and-the-escalating-conflict-in-the-middle-east/",
+            "source_type": "institutional_legal_explanation",
+            "locator_hint": "Distinction, proportionality, precautions, protection against effects",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "页面在 /2026/03/ 路径下；精确发布日期未记录，不从路径虚构日。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R033",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rules 7–10",
+        "statement_zh": "民用物体不得成为攻击目标；军事目标须对军事行动有有效贡献且摧毁等在当时提供确定军事优势。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "目标在当时的性质、位置、目的或用途",
+          "确定军事优势"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S12",
+            "locator": "Rules 7–10"
+          }
+        ],
+        "tags": [
+          "区分",
+          "军事目标",
+          "附近",
+          "政府建筑"
+        ],
+        "interpretation_note": "靠近军政建筑或象征敌国，本身不足以证明每个遗产建筑都是军事目标。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S12",
+            "title": "Customary IHL rules reproduced in ICRC Casebook",
+            "publisher": "ICRC",
+            "url": "https://casebook.icrc.org/print/20747",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rules 1, 7–10",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "直接抓取失败；检索返回了第7、8、9、10条正文。只用于这些可见内容。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "T_ISR_AP_I_1977",
+        "record_type": "treaty_status",
+        "country": "ISR",
+        "instrument": "AP_I_1977",
+        "is_party": false,
+        "deposit_date": null,
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S07",
+            "locator": "ISR: AP_I_1977"
+          },
+          {
+            "source_id": "S09",
+            "locator": "ISR: AP_I_1977"
+          }
+        ],
+        "statement_zh": "ISR对AP_I_1977未具有缔约国身份。",
+        "note": "签署与批准不同；可适用的习惯法另有独立依据。",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S07",
+            "title": "Israel: IHL treaties and states parties",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/ihl-treaties/treaties-and-states-parties?from=&order=ASC&sort=state&state=IL&title=&to=&topic=",
+            "source_type": "treaty_status_database",
+            "locator_hint": "1949 GC I–IV; AP I/II absent; AP III listed",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "部分 ICRC 直接打开仅返回 JavaScript 壳；有效内容来自可见检索索引，并由 2026-04-14 官方汇总表交叉核对。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S09",
+            "title": "States party to main IHL treaties, as of 14 April 2026",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/public/refdocs/IHL_and_other_related_Treaties.pdf",
+            "source_type": "treaty_status_table",
+            "locator_hint": "Israel and Iran rows; GC/AP/ICC/Hague columns",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-04-14",
+            "limitations": "该表有明确早于检索日的截止时间；文化公约状态另以现行 UNESCO 国家登记页复核。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "T_IRN_AP_I_1977",
+        "record_type": "treaty_status",
+        "country": "IRN",
+        "instrument": "AP_I_1977",
+        "is_party": false,
+        "deposit_date": null,
+        "signature_date": "1977-12-12",
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S08",
+            "locator": "IRN: AP_I_1977"
+          },
+          {
+            "source_id": "S09",
+            "locator": "IRN: AP_I_1977"
+          }
+        ],
+        "statement_zh": "IRN对AP_I_1977未具有缔约国身份。",
+        "note": "签署与批准不同；可适用的习惯法另有独立依据。",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S08",
+            "title": "Iran: IHL treaties and states parties",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/ihl-treaties/treaties-and-states-parties?from=&order=ASC&sort=state&state=IR&title=&to=&topic=",
+            "source_type": "treaty_status_database",
+            "locator_hint": "1949 GC I–IV; AP I/II signatures",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S09",
+            "title": "States party to main IHL treaties, as of 14 April 2026",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/public/refdocs/IHL_and_other_related_Treaties.pdf",
+            "source_type": "treaty_status_table",
+            "locator_hint": "Israel and Iran rows; GC/AP/ICC/Hague columns",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-04-14",
+            "limitations": "该表有明确早于检索日的截止时间；文化公约状态另以现行 UNESCO 国家登记页复核。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C006",
+    "claim_zh": "伊朗第二议定书中的不承认声明使其可以自由轰炸以色列文化财产。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R007",
+      "R034",
+      "R035"
+    ],
+    "fact_ids": [
+      "F001"
+    ],
+    "rationale_zh": "声明存在不等于产生该授权；独立义务仍需履行。",
+    "dimension": "applicability",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R007",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 4(4)",
+        "statement_zh": "不得对文化财产实施报复行为；对方先违法不产生此种授权。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 4(4)"
+          }
+        ],
+        "tags": [
+          "报复",
+          "互惠",
+          "Q01"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R034",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rule 38(A),(B)",
+        "statement_zh": "作战须特别谨慎避免损伤宗教等建筑和历史纪念物；重要文化财产攻击另受迫切军事必要性约束。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "对象身份",
+          "军事目标和必要性证据"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S10",
+            "locator": "Rule 38(A),(B)"
+          }
+        ],
+        "tags": [
+          "文化财产",
+          "习惯法",
+          "同等标准"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S10",
+            "title": "Customary IHL Rule 38: Attacks against Cultural Property",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule38",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 38(A),(B); waiver discussion",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "ICRC 对习惯法的归纳，须与具体条约区分；不把第二议定书全部程序要求均视为无争议习惯法。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R035",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rule 140",
+        "statement_zh": "遵守并确保遵守国际人道法的义务不取决于互惠。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S32",
+            "locator": "Rule 140"
+          }
+        ],
+        "tags": [
+          "互惠",
+          "先违法",
+          "报复"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S32",
+            "title": "Customary IHL Vol I: non-reciprocity",
+            "publisher": "ICRC",
+            "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/other/customary-international-humanitarian-law-i-icrc-eng.pdf",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 140, printed pp.498–499",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F001",
+        "record_type": "state_declaration",
+        "statement_zh": "伊朗加入第二议定书时声明，加入不意味承认其不承认的国家，也不产生对这些国家或政府的承诺。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": null,
+        "evidence_status": "depositary_records_declaration",
+        "source_refs": [
+          {
+            "source_id": "S03",
+            "locator": "Declarations and Reservations: Iran"
+          }
+        ],
+        "uncertainty": [
+          "该声明的性质、合法性及具体关系效果需法律审查"
+        ],
+        "does_not_establish": [
+          "可以攻击以色列文化财产",
+          "免除独立的1954年或习惯法义务"
+        ],
+        "tags": [
+          "声明",
+          "承认",
+          "适用"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "fact_of_statement",
+        "sources": [
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C007",
+    "claim_zh": "对方先破坏文物，就可以报复性破坏它的文物。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R007",
+      "R035"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "第4(4)条禁止文化财产报复。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R007",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 4(4)",
+        "statement_zh": "不得对文化财产实施报复行为；对方先违法不产生此种授权。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 4(4)"
+          }
+        ],
+        "tags": [
+          "报复",
+          "互惠",
+          "Q01"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R035",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rule 140",
+        "statement_zh": "遵守并确保遵守国际人道法的义务不取决于互惠。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S32",
+            "locator": "Rule 140"
+          }
+        ],
+        "tags": [
+          "互惠",
+          "先违法",
+          "报复"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S32",
+            "title": "Customary IHL Vol I: non-reciprocity",
+            "publisher": "ICRC",
+            "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/other/customary-international-humanitarian-law-i-icrc-eng.pdf",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 140, printed pp.498–499",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C008",
+    "claim_zh": "伊朗没做好遗产防护，以色列就不再有尊重义务。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R008"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "第4(5)条明确不因此免责。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R008",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 4(5)",
+        "statement_zh": "领土国未履行第3条保障措施，不解除另一缔约国第4条义务。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 4(5)"
+          }
+        ],
+        "tags": [
+          "防护不足",
+          "免责",
+          "Q02"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C009",
+    "claim_zh": "军用便利就足以适用迫切军事必要性例外。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R005"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "门槛是迫切军事必要性，须有具体证据。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R005",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 4(2)",
+        "statement_zh": "第4(1)款义务仅可在迫切军事必要性要求时豁免，普通便利不足。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [
+          "有可核实的迫切军事必要性"
+        ],
+        "exception": null,
+        "needed_evidence": [
+          "具体军事用途和必要性证据"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 4(2)"
+          }
+        ],
+        "tags": [
+          "例外",
+          "军事必要性",
+          "Q03",
+          "Q05"
+        ],
+        "interpretation_note": "本条没有直接规定营级批准；第二议定书另有细化。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C010",
+    "claim_zh": "文化财产保护在任何情况下都不存在军事必要性例外。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R005",
+      "R022",
+      "R027"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "不同制度规定有限且严格的例外。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R005",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 4(2)",
+        "statement_zh": "第4(1)款义务仅可在迫切军事必要性要求时豁免，普通便利不足。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [
+          "有可核实的迫切军事必要性"
+        ],
+        "exception": null,
+        "needed_evidence": [
+          "具体军事用途和必要性证据"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 4(2)"
+          }
+        ],
+        "tags": [
+          "例外",
+          "军事必要性",
+          "Q03",
+          "Q05"
+        ],
+        "interpretation_note": "本条没有直接规定营级批准；第二议定书另有细化。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R022",
+        "record_type": "rule",
+        "instrument": "HAGUE_SECOND_1999",
+        "article": "Art 6(a),(c),(d)",
+        "statement_zh": "攻击豁免须有功能造成的军事目标、无可行同等优势替代，并符合指挥与可行时有效预警要求。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "not_party_no_automatic_treaty_application",
+          "IRN": "party_subject_to_scope_and_declaration_review"
+        },
+        "conditions": [
+          "第3条适用成立"
+        ],
+        "exception": null,
+        "needed_evidence": [
+          "功能用途",
+          "替代方案",
+          "指挥级别",
+          "预警条件"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S03",
+            "locator": "Art 6(a),(c),(d)"
+          }
+        ],
+        "tags": [
+          "军事必要性",
+          "例外"
+        ],
+        "interpretation_note": "通常营级或以上决定；情势不允许时可更低。不能直接全套加于非缔约国。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R027",
+        "record_type": "rule",
+        "instrument": "HAGUE_SECOND_1999",
+        "article": "Arts 12–13",
+        "statement_zh": "加强保护禁止打击及支持军事行动的使用；丧失保护及攻击须满足第13条严格条件。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "not_party_no_automatic_treaty_application",
+          "IRN": "party_subject_to_scope_and_declaration_review"
+        },
+        "conditions": [
+          "加强保护身份",
+          "第3条适用成立",
+          "仅第13(1)所列暂停、取消或使用成为军事目标等情形可丧失该保护",
+          "军用情形下攻击须是终止该用途的唯一可行方式，并采取一切可行预防措施",
+          "除紧急自卫情势不允许外，须最高作战指挥层命令、有效预警并给予合理纠正时间"
+        ],
+        "exception": null,
+        "needed_evidence": [
+          "列入与暂停记录",
+          "军事用途",
+          "替代方案和警告"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S03",
+            "locator": "Arts 12–13"
+          }
+        ],
+        "tags": [
+          "加强保护",
+          "例外"
+        ],
+        "interpretation_note": "不是绝无例外的永久豁免，也不是军用后完全失去所有法律保护。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C011",
+    "claim_zh": "未直接瞄准宫殿就无需审查附带损害及预防措施。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R031",
+      "R032"
+    ],
+    "fact_ids": [
+      "F015"
+    ],
+    "rationale_zh": "仍需审查预期损害、优势与可行预防。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R031",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rule 14",
+        "statement_zh": "禁止预期平民伤亡或民用物体损害相对于预期具体直接军事优势过度的攻击。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "攻击时合理可得情报",
+          "预期损害",
+          "预期具体直接军事优势"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S11",
+            "locator": "Rule 14"
+          }
+        ],
+        "tags": [
+          "比例",
+          "附带损害",
+          "Q04"
+        ],
+        "interpretation_note": "不是双方伤亡数相等，也不是事后只看损坏照片。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S11",
+            "title": "Customary IHL Rule 14: Proportionality in Attack",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 14; international and non-international armed conflicts",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R032",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Precautions; Rules 15–22 as explained by ICRC FAQ",
+        "statement_zh": "须持续注意保护平民和民用物体，采取一切可行预防措施，控制方亦应防范攻击影响。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "可行措施",
+          "核验、武器、时机与警告记录"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S13",
+            "locator": "Precautions; Rules 15–22 as explained by ICRC FAQ"
+          }
+        ],
+        "tags": [
+          "预防",
+          "附带损害",
+          "双方义务",
+          "Q04"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S13",
+            "title": "Frequently Asked Questions: IHL and the escalating conflict in the Middle East",
+            "publisher": "ICRC delegation in Iran",
+            "url": "https://ir.icrc.org/en/2026/03/frequently-asked-questions-ihl-and-the-escalating-conflict-in-the-middle-east/",
+            "source_type": "institutional_legal_explanation",
+            "locator_hint": "Distinction, proportionality, precautions, protection against effects",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "页面在 /2026/03/ 路径下；精确发布日期未记录，不从路径虚构日。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F015",
+        "record_type": "event_fact",
+        "statement_zh": "UNESCO于2026年3月2日声明称，玫瑰宫据报因缓冲区Arag Square附近空袭后的碎片及冲击波受损。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2026-03-02",
+        "evidence_status": "reported_in_unesco_statement",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Statement body, first paragraph"
+          }
+        ],
+        "uncertainty": [
+          "声明日期与精确袭击时刻须分开",
+          "具体目标、实施单位和攻击决策未由此确定"
+        ],
+        "does_not_establish": [
+          "玫瑰宫被故意选为打击目标",
+          "某一个人战争罪成立"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "2026",
+          "损害",
+          "冲击波",
+          "Arag",
+          "Arg"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C012",
+    "claim_zh": "玫瑰宫受损足以证明某个具体指挥官已犯战争罪。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R039",
+      "R040",
+      "R041"
+    ],
+    "fact_ids": [
+      "F015",
+      "F021"
+    ],
+    "rationale_zh": "损害不足以单独完成犯罪构成与个人归责。",
+    "dimension": "evidence_calibration",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R039",
+        "record_type": "rule",
+        "instrument": "ROME_STATUTE_1998",
+        "article": "Art 8(2)(b)(ix); Elements of Crimes",
+        "statement_zh": "IAC中故意攻击非军事目标的历史纪念物等可构成该战争罪，须逐项证实行为、对象、故意和冲突关联。",
+        "normative_type": "criminal_definition",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "crime_definition_jurisdiction_separate",
+          "IRN": "crime_definition_jurisdiction_separate"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "个人攻击行为",
+          "非军事目标对象",
+          "针对该对象的故意",
+          "IAC关联和知情"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S16",
+            "locator": "Art 8(2)(b)(ix); Elements of Crimes"
+          },
+          {
+            "source_id": "S17",
+            "locator": "Art 8(2)(b)(ix); Elements of Crimes"
+          }
+        ],
+        "tags": [
+          "战争罪",
+          "故意",
+          "Q06"
+        ],
+        "interpretation_note": "受损事实单独不足；不能据尚缺证据反过来认定行为必然合法。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S16",
+            "title": "Rome Statute, corrected original 1998 text",
+            "publisher": "United Nations Office of Legal Affairs",
+            "url": "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+            "source_type": "treaty_text",
+            "locator_hint": "Arts 8(2)(b)(iv),(ix), 12–13, 30",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1998-07-17",
+            "limitations": "此链接为订正后的原始文本，非2026年全部修正案合并本；仅用于本库列出的稳定条款，不用于侵略罪等后续修正。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S17",
+            "title": "Elements of Crimes: attacking protected objects",
+            "publisher": "International Criminal Court",
+            "url": "https://www.icc-cpi.int/sites/default/files/ElementsOfCrimesEng.pdf",
+            "source_type": "criminal_elements",
+            "locator_hint": "Art 8(2)(b)(ix), five elements; printed p.23",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R040",
+        "record_type": "rule",
+        "instrument": "ROME_STATUTE_1998",
+        "article": "Arts 12–13",
+        "statement_zh": "ICC管辖须单独审查属地、国籍、非缔约国接受或安理会移送等依据。",
+        "normative_type": "jurisdiction_rule",
+        "conflict_scope": "ICC_jurisdiction",
+        "country_application": {
+          "ISR": "not_party_jurisdiction_not_automatic",
+          "IRN": "not_party_jurisdiction_not_automatic"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "犯罪地点、国籍、时间及管辖触发"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S16",
+            "locator": "Arts 12–13"
+          }
+        ],
+        "tags": [
+          "ICC",
+          "管辖",
+          "非缔约国"
+        ],
+        "interpretation_note": "非缔约不等于任何法院均无权追责；本库未对任何具体案件下管辖结论。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S16",
+            "title": "Rome Statute, corrected original 1998 text",
+            "publisher": "United Nations Office of Legal Affairs",
+            "url": "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+            "source_type": "treaty_text",
+            "locator_hint": "Arts 8(2)(b)(iv),(ix), 12–13, 30",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1998-07-17",
+            "limitations": "此链接为订正后的原始文本，非2026年全部修正案合并本；仅用于本库列出的稳定条款，不用于侵略罪等后续修正。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R041",
+        "record_type": "rule",
+        "instrument": "ROME_STATUTE_1998",
+        "article": "Art 8(2)(b)(iv)",
+        "statement_zh": "规约所列过度附带损害罪还要求明知该损害将明显过度；须与一般比例规则的违反分开。",
+        "normative_type": "criminal_definition",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "crime_definition_jurisdiction_separate",
+          "IRN": "crime_definition_jurisdiction_separate"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "主观明知",
+          "预期损害明显过度",
+          "预期总体具体直接军事优势"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S16",
+            "locator": "Art 8(2)(b)(iv)"
+          }
+        ],
+        "tags": [
+          "战争罪",
+          "比例",
+          "附带损害"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S16",
+            "title": "Rome Statute, corrected original 1998 text",
+            "publisher": "United Nations Office of Legal Affairs",
+            "url": "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+            "source_type": "treaty_text",
+            "locator_hint": "Arts 8(2)(b)(iv),(ix), 12–13, 30",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1998-07-17",
+            "limitations": "此链接为订正后的原始文本，非2026年全部修正案合并本；仅用于本库列出的稳定条款，不用于侵略罪等后续修正。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F015",
+        "record_type": "event_fact",
+        "statement_zh": "UNESCO于2026年3月2日声明称，玫瑰宫据报因缓冲区Arag Square附近空袭后的碎片及冲击波受损。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2026-03-02",
+        "evidence_status": "reported_in_unesco_statement",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Statement body, first paragraph"
+          }
+        ],
+        "uncertainty": [
+          "声明日期与精确袭击时刻须分开",
+          "具体目标、实施单位和攻击决策未由此确定"
+        ],
+        "does_not_establish": [
+          "玫瑰宫被故意选为打击目标",
+          "某一个人战争罪成立"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "2026",
+          "损害",
+          "冲击波",
+          "Arag",
+          "Arg"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "F021",
+        "record_type": "evidence_gap",
+        "statement_zh": "本次材料未建立玫瑰宫当时军用、攻击者具体目标、可行替代方案、预期损害及个人主观故意的完整证据链。",
+        "countries": [
+          "IRN",
+          "ISR"
+        ],
+        "event_date": null,
+        "evidence_status": "not_established_in_this_bank",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Limits of event statement; crime elements"
+          },
+          {
+            "source_id": "S17",
+            "locator": "Limits of event statement; crime elements"
+          }
+        ],
+        "uncertainty": [
+          "需作战记录、可信独立调查及逐项证据"
+        ],
+        "does_not_establish": [
+          "必然合法",
+          "必然战争罪",
+          "现实中绝不存在这些证据"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "归因",
+          "战争罪",
+          "未知"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S17",
+            "title": "Elements of Crimes: attacking protected objects",
+            "publisher": "International Criminal Court",
+            "url": "https://www.icc-cpi.int/sites/default/files/ElementsOfCrimesEng.pdf",
+            "source_type": "criminal_elements",
+            "locator_hint": "Art 8(2)(b)(ix), five elements; printed p.23",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C013",
+    "claim_zh": "现有材料已经证明玫瑰宫是此次故意打击对象。",
+    "gold_label": "insufficient_evidence",
+    "rule_ids": [
+      "R039"
+    ],
+    "fact_ids": [
+      "F015",
+      "F021"
+    ],
+    "rationale_zh": "所收UNESCO声明说明据报损害机制，未确定预定打击对象。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [
+      "瞄准和指挥记录",
+      "针对宫殿的故意"
+    ],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R039",
+        "record_type": "rule",
+        "instrument": "ROME_STATUTE_1998",
+        "article": "Art 8(2)(b)(ix); Elements of Crimes",
+        "statement_zh": "IAC中故意攻击非军事目标的历史纪念物等可构成该战争罪，须逐项证实行为、对象、故意和冲突关联。",
+        "normative_type": "criminal_definition",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "crime_definition_jurisdiction_separate",
+          "IRN": "crime_definition_jurisdiction_separate"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "个人攻击行为",
+          "非军事目标对象",
+          "针对该对象的故意",
+          "IAC关联和知情"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S16",
+            "locator": "Art 8(2)(b)(ix); Elements of Crimes"
+          },
+          {
+            "source_id": "S17",
+            "locator": "Art 8(2)(b)(ix); Elements of Crimes"
+          }
+        ],
+        "tags": [
+          "战争罪",
+          "故意",
+          "Q06"
+        ],
+        "interpretation_note": "受损事实单独不足；不能据尚缺证据反过来认定行为必然合法。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S16",
+            "title": "Rome Statute, corrected original 1998 text",
+            "publisher": "United Nations Office of Legal Affairs",
+            "url": "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+            "source_type": "treaty_text",
+            "locator_hint": "Arts 8(2)(b)(iv),(ix), 12–13, 30",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1998-07-17",
+            "limitations": "此链接为订正后的原始文本，非2026年全部修正案合并本；仅用于本库列出的稳定条款，不用于侵略罪等后续修正。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S17",
+            "title": "Elements of Crimes: attacking protected objects",
+            "publisher": "International Criminal Court",
+            "url": "https://www.icc-cpi.int/sites/default/files/ElementsOfCrimesEng.pdf",
+            "source_type": "criminal_elements",
+            "locator_hint": "Art 8(2)(b)(ix), five elements; printed p.23",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F015",
+        "record_type": "event_fact",
+        "statement_zh": "UNESCO于2026年3月2日声明称，玫瑰宫据报因缓冲区Arag Square附近空袭后的碎片及冲击波受损。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2026-03-02",
+        "evidence_status": "reported_in_unesco_statement",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Statement body, first paragraph"
+          }
+        ],
+        "uncertainty": [
+          "声明日期与精确袭击时刻须分开",
+          "具体目标、实施单位和攻击决策未由此确定"
+        ],
+        "does_not_establish": [
+          "玫瑰宫被故意选为打击目标",
+          "某一个人战争罪成立"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "2026",
+          "损害",
+          "冲击波",
+          "Arag",
+          "Arg"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "F021",
+        "record_type": "evidence_gap",
+        "statement_zh": "本次材料未建立玫瑰宫当时军用、攻击者具体目标、可行替代方案、预期损害及个人主观故意的完整证据链。",
+        "countries": [
+          "IRN",
+          "ISR"
+        ],
+        "event_date": null,
+        "evidence_status": "not_established_in_this_bank",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Limits of event statement; crime elements"
+          },
+          {
+            "source_id": "S17",
+            "locator": "Limits of event statement; crime elements"
+          }
+        ],
+        "uncertainty": [
+          "需作战记录、可信独立调查及逐项证据"
+        ],
+        "does_not_establish": [
+          "必然合法",
+          "必然战争罪",
+          "现实中绝不存在这些证据"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "归因",
+          "战争罪",
+          "未知"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S17",
+            "title": "Elements of Crimes: attacking protected objects",
+            "publisher": "International Criminal Court",
+            "url": "https://www.icc-cpi.int/sites/default/files/ElementsOfCrimesEng.pdf",
+            "source_type": "criminal_elements",
+            "locator_hint": "Art 8(2)(b)(ix), five elements; printed p.23",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C014",
+    "claim_zh": "冲击波受损是附带损害，所以该次行动必然合法。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R031",
+      "R032",
+      "R041"
+    ],
+    "fact_ids": [
+      "F015"
+    ],
+    "rationale_zh": "附带损害也可能违法；须按攻击时可得信息判断。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R031",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rule 14",
+        "statement_zh": "禁止预期平民伤亡或民用物体损害相对于预期具体直接军事优势过度的攻击。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "攻击时合理可得情报",
+          "预期损害",
+          "预期具体直接军事优势"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S11",
+            "locator": "Rule 14"
+          }
+        ],
+        "tags": [
+          "比例",
+          "附带损害",
+          "Q04"
+        ],
+        "interpretation_note": "不是双方伤亡数相等，也不是事后只看损坏照片。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S11",
+            "title": "Customary IHL Rule 14: Proportionality in Attack",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 14; international and non-international armed conflicts",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R032",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Precautions; Rules 15–22 as explained by ICRC FAQ",
+        "statement_zh": "须持续注意保护平民和民用物体，采取一切可行预防措施，控制方亦应防范攻击影响。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "可行措施",
+          "核验、武器、时机与警告记录"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S13",
+            "locator": "Precautions; Rules 15–22 as explained by ICRC FAQ"
+          }
+        ],
+        "tags": [
+          "预防",
+          "附带损害",
+          "双方义务",
+          "Q04"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S13",
+            "title": "Frequently Asked Questions: IHL and the escalating conflict in the Middle East",
+            "publisher": "ICRC delegation in Iran",
+            "url": "https://ir.icrc.org/en/2026/03/frequently-asked-questions-ihl-and-the-escalating-conflict-in-the-middle-east/",
+            "source_type": "institutional_legal_explanation",
+            "locator_hint": "Distinction, proportionality, precautions, protection against effects",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "页面在 /2026/03/ 路径下；精确发布日期未记录，不从路径虚构日。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R041",
+        "record_type": "rule",
+        "instrument": "ROME_STATUTE_1998",
+        "article": "Art 8(2)(b)(iv)",
+        "statement_zh": "规约所列过度附带损害罪还要求明知该损害将明显过度；须与一般比例规则的违反分开。",
+        "normative_type": "criminal_definition",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "crime_definition_jurisdiction_separate",
+          "IRN": "crime_definition_jurisdiction_separate"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "主观明知",
+          "预期损害明显过度",
+          "预期总体具体直接军事优势"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S16",
+            "locator": "Art 8(2)(b)(iv)"
+          }
+        ],
+        "tags": [
+          "战争罪",
+          "比例",
+          "附带损害"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S16",
+            "title": "Rome Statute, corrected original 1998 text",
+            "publisher": "United Nations Office of Legal Affairs",
+            "url": "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+            "source_type": "treaty_text",
+            "locator_hint": "Arts 8(2)(b)(iv),(ix), 12–13, 30",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1998-07-17",
+            "limitations": "此链接为订正后的原始文本，非2026年全部修正案合并本；仅用于本库列出的稳定条款，不用于侵略罪等后续修正。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F015",
+        "record_type": "event_fact",
+        "statement_zh": "UNESCO于2026年3月2日声明称，玫瑰宫据报因缓冲区Arag Square附近空袭后的碎片及冲击波受损。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2026-03-02",
+        "evidence_status": "reported_in_unesco_statement",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Statement body, first paragraph"
+          }
+        ],
+        "uncertainty": [
+          "声明日期与精确袭击时刻须分开",
+          "具体目标、实施单位和攻击决策未由此确定"
+        ],
+        "does_not_establish": [
+          "玫瑰宫被故意选为打击目标",
+          "某一个人战争罪成立"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "2026",
+          "损害",
+          "冲击波",
+          "Arag",
+          "Arg"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C015",
+    "claim_zh": "未进世界遗产名录的历史文化财产就不受1954年公约保护。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R002",
+      "R004"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "第1条定义不以世界遗产列名为条件。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R002",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 1(a)–(c)",
+        "statement_zh": "文化财产包括重要动产、不动产、博物馆及档案馆等，不限来源或所有权。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "peace/IAC/NIAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "对象性质与文化重要性"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 1(a)–(c)"
+          }
+        ],
+        "tags": [
+          "定义",
+          "博物馆",
+          "非歧视"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R004",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 4(1)",
+        "statement_zh": "须尊重本国及其他缔约国文化财产，不得将其及周边用于易招致战时损害的目的，亦不得实施针对它的敌对行为。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [],
+        "exception": "仅第4(2)条规定的迫切军事必要性可豁免第4(1)款义务。",
+        "needed_evidence": [
+          "实际用途",
+          "打击对象",
+          "行为人"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 4(1)"
+          }
+        ],
+        "tags": [
+          "尊重",
+          "军用",
+          "攻击",
+          "双向"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C016",
+    "claim_zh": "悬挂蓝盾就自动获得1999年加强保护身份。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R010",
+      "R026"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "识别标志、一般保护、加强保护列入程序不同。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R010",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 6; Arts 16–17",
+        "statement_zh": "蓝白盾标志用于识别；一般文化财产保护并不以悬挂标志为前提。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 6; Arts 16–17"
+          },
+          {
+            "source_id": "S10",
+            "locator": "Art 6; Arts 16–17"
+          }
+        ],
+        "tags": [
+          "蓝盾",
+          "标志",
+          "登记"
+        ],
+        "interpretation_note": "第6条为可使用；一般保护不等于第8条特别保护或1999年加强保护。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S10",
+            "title": "Customary IHL Rule 38: Attacks against Cultural Property",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule38",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 38(A),(B); waiver discussion",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "ICRC 对习惯法的归纳，须与具体条约区分；不把第二议定书全部程序要求均视为无争议习惯法。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R026",
+        "record_type": "rule",
+        "instrument": "HAGUE_SECOND_1999",
+        "article": "Arts 10, 11(9)–(10)",
+        "statement_zh": "加强保护须满足重要性、国内保护及非军用等条件，经委员会列入专门名录才产生身份。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "not_party_no_automatic_treaty_application",
+          "IRN": "party_subject_to_scope_and_declaration_review"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "事发时列入决定及日期"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S03",
+            "locator": "Arts 10, 11(9)–(10)"
+          }
+        ],
+        "tags": [
+          "加强保护",
+          "世界遗产",
+          "登记"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C017",
+    "claim_zh": "玫瑰宫2013年成为世界遗产，因此当年也自动获加强保护。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R026"
+    ],
+    "fact_ids": [
+      "F011",
+      "F020"
+    ],
+    "rationale_zh": "世界遗产与加强保护是不同名录。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R026",
+        "record_type": "rule",
+        "instrument": "HAGUE_SECOND_1999",
+        "article": "Arts 10, 11(9)–(10)",
+        "statement_zh": "加强保护须满足重要性、国内保护及非军用等条件，经委员会列入专门名录才产生身份。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "not_party_no_automatic_treaty_application",
+          "IRN": "party_subject_to_scope_and_declaration_review"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "事发时列入决定及日期"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S03",
+            "locator": "Arts 10, 11(9)–(10)"
+          }
+        ],
+        "tags": [
+          "加强保护",
+          "世界遗产",
+          "登记"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F011",
+        "record_type": "heritage_fact",
+        "statement_zh": "玫瑰宫位于伊朗德黑兰，2013年列入世界遗产名录，编号1422，标准(ii)(iii)(iv)。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2013-06-23",
+        "evidence_status": "documented",
+        "source_refs": [
+          {
+            "source_id": "S19",
+            "locator": "Inscription fields"
+          }
+        ],
+        "uncertainty": [],
+        "does_not_establish": [],
+        "tags": [
+          "玫瑰宫",
+          "Golestan",
+          "2013",
+          "登记"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S19",
+            "title": "Golestan Palace, World Heritage List No.1422",
+            "publisher": "UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/en/list/1422/",
+            "source_type": "heritage_register",
+            "locator_hint": "Inscription; criteria; Outstanding Universal Value; protection requirements",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "动态遗产条目；登记事实与关于具体袭击的判断分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "F020",
+        "record_type": "evidence_gap",
+        "statement_zh": "本次未取得能确认玫瑰宫在特定袭击日已获1999年加强保护的列入决定及完整现行名录。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": null,
+        "evidence_status": "not_established_in_this_bank",
+        "source_refs": [
+          {
+            "source_id": "S28",
+            "locator": "List gateway; Art 11(10)"
+          },
+          {
+            "source_id": "S03",
+            "locator": "List gateway; Art 11(10)"
+          }
+        ],
+        "uncertainty": [
+          "需要事发时名录及列入决定"
+        ],
+        "does_not_establish": [
+          "从未列入",
+          "已列入"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "加强保护",
+          "未知"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S28",
+            "title": "Enhanced Protection mechanism and list gateway",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/heritage-armed-conflicts/enhanced-protection",
+            "source_type": "institutional_legal_explanation",
+            "locator_hint": "Advantages; how to apply; eligibility; list link",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "最新完整名录链接抓取失败；仅据此说明机制，不能证明玫瑰宫当前已列入或未列入。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C018",
+    "claim_zh": "玫瑰宫在2026年3月2日必定已经列入加强保护名录。",
+    "gold_label": "insufficient_evidence",
+    "rule_ids": [
+      "R026"
+    ],
+    "fact_ids": [
+      "F020"
+    ],
+    "rationale_zh": "本库尚未取得对应日期的列入决定。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [
+      "事发日之前生效的列入决定"
+    ],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R026",
+        "record_type": "rule",
+        "instrument": "HAGUE_SECOND_1999",
+        "article": "Arts 10, 11(9)–(10)",
+        "statement_zh": "加强保护须满足重要性、国内保护及非军用等条件，经委员会列入专门名录才产生身份。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "not_party_no_automatic_treaty_application",
+          "IRN": "party_subject_to_scope_and_declaration_review"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "事发时列入决定及日期"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S03",
+            "locator": "Arts 10, 11(9)–(10)"
+          }
+        ],
+        "tags": [
+          "加强保护",
+          "世界遗产",
+          "登记"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F020",
+        "record_type": "evidence_gap",
+        "statement_zh": "本次未取得能确认玫瑰宫在特定袭击日已获1999年加强保护的列入决定及完整现行名录。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": null,
+        "evidence_status": "not_established_in_this_bank",
+        "source_refs": [
+          {
+            "source_id": "S28",
+            "locator": "List gateway; Art 11(10)"
+          },
+          {
+            "source_id": "S03",
+            "locator": "List gateway; Art 11(10)"
+          }
+        ],
+        "uncertainty": [
+          "需要事发时名录及列入决定"
+        ],
+        "does_not_establish": [
+          "从未列入",
+          "已列入"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "加强保护",
+          "未知"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S28",
+            "title": "Enhanced Protection mechanism and list gateway",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/heritage-armed-conflicts/enhanced-protection",
+            "source_type": "institutional_legal_explanation",
+            "locator_hint": "Advantages; how to apply; eligibility; list link",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "最新完整名录链接抓取失败；仅据此说明机制，不能证明玫瑰宫当前已列入或未列入。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S03",
+            "title": "1999 Second Protocol and Iran declarations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict",
+            "source_type": "treaty_text_and_declarations",
+            "locator_hint": "Arts 3, 5–8, 10–16, 38, 43; Declarations: Iran",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1999-03-26",
+            "limitations": "本项目既有英文条文全文另存；加入声明从当前保管机关页面读取。非缔约国适用及声明效力须分别论证。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C019",
+    "claim_zh": "玫瑰宫靠近政府建筑，因此宫殿当然是军事目标。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R033",
+      "R034"
+    ],
+    "fact_ids": [
+      "F021"
+    ],
+    "rationale_zh": "须对对象当时用途及有效军事贡献等分别判断。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R033",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rules 7–10",
+        "statement_zh": "民用物体不得成为攻击目标；军事目标须对军事行动有有效贡献且摧毁等在当时提供确定军事优势。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "目标在当时的性质、位置、目的或用途",
+          "确定军事优势"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S12",
+            "locator": "Rules 7–10"
+          }
+        ],
+        "tags": [
+          "区分",
+          "军事目标",
+          "附近",
+          "政府建筑"
+        ],
+        "interpretation_note": "靠近军政建筑或象征敌国，本身不足以证明每个遗产建筑都是军事目标。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S12",
+            "title": "Customary IHL rules reproduced in ICRC Casebook",
+            "publisher": "ICRC",
+            "url": "https://casebook.icrc.org/print/20747",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rules 1, 7–10",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "直接抓取失败；检索返回了第7、8、9、10条正文。只用于这些可见内容。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R034",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rule 38(A),(B)",
+        "statement_zh": "作战须特别谨慎避免损伤宗教等建筑和历史纪念物；重要文化财产攻击另受迫切军事必要性约束。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "对象身份",
+          "军事目标和必要性证据"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S10",
+            "locator": "Rule 38(A),(B)"
+          }
+        ],
+        "tags": [
+          "文化财产",
+          "习惯法",
+          "同等标准"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S10",
+            "title": "Customary IHL Rule 38: Attacks against Cultural Property",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule38",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 38(A),(B); waiver discussion",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "ICRC 对习惯法的归纳，须与具体条约区分；不把第二议定书全部程序要求均视为无争议习惯法。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F021",
+        "record_type": "evidence_gap",
+        "statement_zh": "本次材料未建立玫瑰宫当时军用、攻击者具体目标、可行替代方案、预期损害及个人主观故意的完整证据链。",
+        "countries": [
+          "IRN",
+          "ISR"
+        ],
+        "event_date": null,
+        "evidence_status": "not_established_in_this_bank",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Limits of event statement; crime elements"
+          },
+          {
+            "source_id": "S17",
+            "locator": "Limits of event statement; crime elements"
+          }
+        ],
+        "uncertainty": [
+          "需作战记录、可信独立调查及逐项证据"
+        ],
+        "does_not_establish": [
+          "必然合法",
+          "必然战争罪",
+          "现实中绝不存在这些证据"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "归因",
+          "战争罪",
+          "未知"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S17",
+            "title": "Elements of Crimes: attacking protected objects",
+            "publisher": "International Criminal Court",
+            "url": "https://www.icc-cpi.int/sites/default/files/ElementsOfCrimesEng.pdf",
+            "source_type": "criminal_elements",
+            "locator_hint": "Art 8(2)(b)(ix), five elements; printed p.23",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C020",
+    "claim_zh": "因为国家主张自卫，其文化遗产保护义务就可整体取消。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R036",
+      "R004"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "动武理由不能整体取消战时行为规则。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R036",
+        "record_type": "rule",
+        "instrument": "IHL_FOUNDATION",
+        "article": "Separation of jus ad bellum and jus in bello",
+        "statement_zh": "战争行为规则的适用独立于动武理由；自卫或谴责侵略不自动免除平民与遗产保护义务。",
+        "normative_type": "legal_principle",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "general_ihl_principle",
+          "IRN": "general_ihl_principle"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S31",
+            "locator": "Separation of jus ad bellum and jus in bello"
+          }
+        ],
+        "tags": [
+          "自卫",
+          "侵略",
+          "国别",
+          "Q09",
+          "Q10"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S31",
+            "title": "Fundamentals of IHL: jus ad bellum / jus in bello",
+            "publisher": "ICRC Casebook",
+            "url": "https://casebook.icrc.org/law/fundamentals-ihl",
+            "source_type": "institutional_legal_explanation",
+            "locator_hint": "Separation of jus ad bellum and jus in bello",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R004",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 4(1)",
+        "statement_zh": "须尊重本国及其他缔约国文化财产，不得将其及周边用于易招致战时损害的目的，亦不得实施针对它的敌对行为。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [],
+        "exception": "仅第4(2)条规定的迫切军事必要性可豁免第4(1)款义务。",
+        "needed_evidence": [
+          "实际用途",
+          "打击对象",
+          "行为人"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 4(1)"
+          }
+        ],
+        "tags": [
+          "尊重",
+          "军用",
+          "攻击",
+          "双向"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C021",
+    "claim_zh": "以色列外交部说合规，故已经独立证明全部行动合法。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "F009"
+    ],
+    "rationale_zh": "国家立场不能自证全部行为事实。",
+    "dimension": "source_attribution",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [],
+    "facts_or_treaty_status": [
+      {
+        "id": "F009",
+        "record_type": "official_position",
+        "statement_zh": "以色列外交部2025年行动说明声称遵守区分、比例与预防规则，且攻击仅针对军事目标。",
+        "countries": [
+          "ISR"
+        ],
+        "event_date": "2025-08-12",
+        "evidence_status": "party_claim_not_independently_adjudicated",
+        "source_refs": [
+          {
+            "source_id": "S26",
+            "locator": "Overview"
+          }
+        ],
+        "uncertainty": [],
+        "does_not_establish": [
+          "所有攻击实际合法",
+          "2026年玫瑰宫袭击对象或故意"
+        ],
+        "tags": [
+          "官方声明",
+          "2025",
+          "自称合规"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "fact_of_statement",
+        "sources": [
+          {
+            "id": "S26",
+            "title": "Operation Rising Lion: Key Factual and Legal Aspects, June 13–24 2025",
+            "publisher": "Israel Ministry of Foreign Affairs",
+            "url": "https://www.gov.il/BlobFolder/generalpage/operation-rising-lion-key-factual-and-legal-aspects-of-the-iran-israel-hostilities-june-2025-11-aug-2025/en/English_Swords_of_Iron_DOCUMENTS_Operation_Rising_Lion_2025_Israel-Iran-Key_Factual_and_Legal_Aspects2.pdf",
+            "source_type": "party_official_position",
+            "locator_hint": "Overview: distinction/proportionality/precautions and military objectives",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": "2025-08-12",
+            "limitations": "封面标注 Updated to 12 August 2025；直接下载403，检索索引可读。官方自述和对伊朗指控均不是独立裁判；也不证明2026年的玫瑰宫个案。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C022",
+    "claim_zh": "伊朗函件出现在联合国文件系统，故联合国已认定其行动合法。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "F010"
+    ],
+    "rationale_zh": "收文发表与认可事实或合法性不同。",
+    "dimension": "source_attribution",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [],
+    "facts_or_treaty_status": [
+      {
+        "id": "F010",
+        "record_type": "official_position",
+        "statement_zh": "伊朗2025年6月16日致联合国函声称其防御行动合比例、针对军事目标及相关设施，并解释其后基础设施打击。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2025-06-16",
+        "evidence_status": "party_claim_not_independently_adjudicated",
+        "source_refs": [
+          {
+            "source_id": "S27",
+            "locator": "S/2025/387 pp.1–2"
+          }
+        ],
+        "uncertainty": [],
+        "does_not_establish": [
+          "联合国已认定其攻击合法",
+          "任何基础设施都因与敌国有关而合法"
+        ],
+        "tags": [
+          "官方声明",
+          "2025",
+          "自称合规"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "fact_of_statement",
+        "sources": [
+          {
+            "id": "S27",
+            "title": "Letter S/2025/387 from Iran to the UN",
+            "publisher": "Iran Permanent Representative, published by United Nations",
+            "url": "https://documents.un.org/api/symbol/access?l=en&s=S%2F2025%2F387&t=pdf",
+            "source_type": "party_official_position",
+            "locator_hint": "Letter dated 16 June 2025, pp.1–2",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2025-06-16",
+            "limitations": "UN收文发表不代表联合国核准信中事实或法律结论。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C023",
+    "claim_zh": "伊朗官方函件声称其防御行动针对军事目标。",
+    "gold_label": "supported",
+    "rule_ids": [],
+    "fact_ids": [
+      "F010"
+    ],
+    "rationale_zh": "支持的是声称存在，不是声称内容已获独立证实。",
+    "dimension": "source_attribution",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [],
+    "facts_or_treaty_status": [
+      {
+        "id": "F010",
+        "record_type": "official_position",
+        "statement_zh": "伊朗2025年6月16日致联合国函声称其防御行动合比例、针对军事目标及相关设施，并解释其后基础设施打击。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2025-06-16",
+        "evidence_status": "party_claim_not_independently_adjudicated",
+        "source_refs": [
+          {
+            "source_id": "S27",
+            "locator": "S/2025/387 pp.1–2"
+          }
+        ],
+        "uncertainty": [],
+        "does_not_establish": [
+          "联合国已认定其攻击合法",
+          "任何基础设施都因与敌国有关而合法"
+        ],
+        "tags": [
+          "官方声明",
+          "2025",
+          "自称合规"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "fact_of_statement",
+        "sources": [
+          {
+            "id": "S27",
+            "title": "Letter S/2025/387 from Iran to the UN",
+            "publisher": "Iran Permanent Representative, published by United Nations",
+            "url": "https://documents.un.org/api/symbol/access?l=en&s=S%2F2025%2F387&t=pdf",
+            "source_type": "party_official_position",
+            "locator_hint": "Letter dated 16 June 2025, pp.1–2",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2025-06-16",
+            "limitations": "UN收文发表不代表联合国核准信中事实或法律结论。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C024",
+    "claim_zh": "玫瑰宫位于伊朗德黑兰，2013年列入世界遗产名录。",
+    "gold_label": "supported",
+    "rule_ids": [],
+    "fact_ids": [
+      "F011"
+    ],
+    "rationale_zh": "由遗产登记核对。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [],
+    "facts_or_treaty_status": [
+      {
+        "id": "F011",
+        "record_type": "heritage_fact",
+        "statement_zh": "玫瑰宫位于伊朗德黑兰，2013年列入世界遗产名录，编号1422，标准(ii)(iii)(iv)。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2013-06-23",
+        "evidence_status": "documented",
+        "source_refs": [
+          {
+            "source_id": "S19",
+            "locator": "Inscription fields"
+          }
+        ],
+        "uncertainty": [],
+        "does_not_establish": [],
+        "tags": [
+          "玫瑰宫",
+          "Golestan",
+          "2013",
+          "登记"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S19",
+            "title": "Golestan Palace, World Heritage List No.1422",
+            "publisher": "UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/en/list/1422/",
+            "source_type": "heritage_register",
+            "locator_hint": "Inscription; criteria; Outstanding Universal Value; protection requirements",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "动态遗产条目；登记事实与关于具体袭击的判断分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C025",
+    "claim_zh": "UNESCO 2026年3月8日仅提及伊朗遗产受损，完全没提以色列白城。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "F017"
+    ],
+    "rationale_zh": "该声明并列玫瑰宫、白城和提尔。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [],
+    "facts_or_treaty_status": [
+      {
+        "id": "F017",
+        "record_type": "event_fact",
+        "statement_zh": "UNESCO于2026年3月8日将玫瑰宫、特拉维夫白城及提尔并列为据报受影响和受损的世界遗产。",
+        "countries": [
+          "IRN",
+          "ISR",
+          "LBN"
+        ],
+        "event_date": "2026-03-08",
+        "evidence_status": "reported_in_unesco_statement",
+        "source_refs": [
+          {
+            "source_id": "S21",
+            "locator": "Opening paragraphs"
+          }
+        ],
+        "uncertainty": [
+          "各次打击行为人、损坏量与预定目标需分别核验"
+        ],
+        "does_not_establish": [
+          "两国损害程度相等",
+          "双方刑责相同"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "白城",
+          "对称案例",
+          "2026"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S21",
+            "title": "UNESCO concern: Golestan Palace, White City and Tyre",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-reiterates-its-deep-concern-over-protection-education-culture-media-and-environment-amid?hub=71580",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "8 March 2026 statement; updated 10 June 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-08",
+            "limitations": "使用 reported as impacted and damaged；没有就各遗址具体行为人的刑责作裁判。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C026",
+    "claim_zh": "UNESCO批准75,000美元意味着玫瑰宫修复已经完成。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "F019"
+    ],
+    "rationale_zh": "批准金额及For Implementation不证明完成。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [],
+    "facts_or_treaty_status": [
+      {
+        "id": "F019",
+        "record_type": "administrative_fact",
+        "statement_zh": "UNESCO援助项目3654于2026年10月13日批准75,000美元用于玫瑰宫冲突损害后的紧急保护等，流程字段为For Implementation。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2026-10-13",
+        "evidence_status": "official_administrative_record",
+        "source_refs": [
+          {
+            "source_id": "S22",
+            "locator": "Decision date; approved amount; For Implementation"
+          }
+        ],
+        "uncertainty": [],
+        "does_not_establish": [
+          "工程已完成",
+          "75,000美元是损失总额"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "援助",
+          "2026-10-13"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S22",
+            "title": "International Assistance No.3654: Golestan Palace emergency safeguarding",
+            "publisher": "UNESCO World Heritage Centre",
+            "url": "https://whc.unesco.org/en/intassistance/3654/",
+            "source_type": "institutional_administrative_record",
+            "locator_hint": "Approved amount; decision date; process step",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-10-13",
+            "limitations": "批准援助不等于修复完工；不得输入给2026-10-13以前截止的事件任务。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C027",
+    "claim_zh": "医院收治敌方伤兵就自动丧失保护。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R038"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "第19条明确不以此单独视作损敌行为。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R038",
+        "record_type": "rule",
+        "instrument": "GC_IV_1949",
+        "article": "Art 19",
+        "statement_zh": "医院丧失保护须有职责外损敌行为，且适当警告未获遵守；单纯医治伤兵不满足。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [
+          "具体损敌行为",
+          "警告及适当时合理期限",
+          "警告未被遵守"
+        ],
+        "exception": null,
+        "needed_evidence": [
+          "用途和警告记录"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S15",
+            "locator": "Art 19"
+          }
+        ],
+        "tags": [
+          "医院",
+          "例外",
+          "伤兵"
+        ],
+        "interpretation_note": "丧失特殊保护也不免除比例与预防义务。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S15",
+            "title": "Fourth Geneva Convention, Article 19",
+            "publisher": "ICRC treaty database",
+            "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-19",
+            "source_type": "treaty_text",
+            "locator_hint": "Art 19: loss of hospital protection and unheeded warning",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": "1949-08-12",
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C028",
+    "claim_zh": "两国不是《罗马规约》缔约国，所以任何司法机构都绝不可能追责。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R017",
+      "R040"
+    ],
+    "fact_ids": [
+      "T_ISR_ROME_STATUTE_1998",
+      "T_IRN_ROME_STATUTE_1998"
+    ],
+    "rationale_zh": "ICC特定管辖与国内等其他追责途径须分开。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R017",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 28",
+        "statement_zh": "缔约国须在普通刑事管辖范围内采取必要措施追诉及刑事或纪律制裁公约违法行为。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "行为及命令",
+          "个人责任与管辖"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 28"
+          }
+        ],
+        "tags": [
+          "追责",
+          "战争罪"
+        ],
+        "interpretation_note": "并非每项违反公约均自动满足《罗马规约》某罪构成。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R040",
+        "record_type": "rule",
+        "instrument": "ROME_STATUTE_1998",
+        "article": "Arts 12–13",
+        "statement_zh": "ICC管辖须单独审查属地、国籍、非缔约国接受或安理会移送等依据。",
+        "normative_type": "jurisdiction_rule",
+        "conflict_scope": "ICC_jurisdiction",
+        "country_application": {
+          "ISR": "not_party_jurisdiction_not_automatic",
+          "IRN": "not_party_jurisdiction_not_automatic"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "犯罪地点、国籍、时间及管辖触发"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S16",
+            "locator": "Arts 12–13"
+          }
+        ],
+        "tags": [
+          "ICC",
+          "管辖",
+          "非缔约国"
+        ],
+        "interpretation_note": "非缔约不等于任何法院均无权追责；本库未对任何具体案件下管辖结论。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S16",
+            "title": "Rome Statute, corrected original 1998 text",
+            "publisher": "United Nations Office of Legal Affairs",
+            "url": "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+            "source_type": "treaty_text",
+            "locator_hint": "Arts 8(2)(b)(iv),(ix), 12–13, 30",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1998-07-17",
+            "limitations": "此链接为订正后的原始文本，非2026年全部修正案合并本；仅用于本库列出的稳定条款，不用于侵略罪等后续修正。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "T_ISR_ROME_STATUTE_1998",
+        "record_type": "treaty_status",
+        "country": "ISR",
+        "instrument": "ROME_STATUTE_1998",
+        "is_party": false,
+        "deposit_date": null,
+        "signature_date": "2000-12-31",
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S18",
+            "locator": "ISR: ROME_STATUTE_1998"
+          }
+        ],
+        "statement_zh": "ISR对ROME_STATUTE_1998未具有缔约国身份。",
+        "note": "以色列2002-08-28通知不拟成为缔约国；伊朗签署未批准。ICC管辖另论。",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S18",
+            "title": "Rome Statute: participant table and Israel notification",
+            "publisher": "United Nations Treaty Collection (depositary)",
+            "url": "https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY",
+            "source_type": "depositary_status",
+            "locator_hint": "Iran/Israel participant rows; note 4, 28 August 2002",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "T_IRN_ROME_STATUTE_1998",
+        "record_type": "treaty_status",
+        "country": "IRN",
+        "instrument": "ROME_STATUTE_1998",
+        "is_party": false,
+        "deposit_date": null,
+        "signature_date": "2000-12-31",
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S18",
+            "locator": "IRN: ROME_STATUTE_1998"
+          }
+        ],
+        "statement_zh": "IRN对ROME_STATUTE_1998未具有缔约国身份。",
+        "note": "已签署但未批准；ICC管辖另论。",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S18",
+            "title": "Rome Statute: participant table and Israel notification",
+            "publisher": "United Nations Treaty Collection (depositary)",
+            "url": "https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY",
+            "source_type": "depositary_status",
+            "locator_hint": "Iran/Israel participant rows; note 4, 28 August 2002",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C029",
+    "claim_zh": "在适用法及相关事实相同时，可仅因不喜欢伊朗政府而降低其文物保护。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R042",
+      "R036"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "不应以政治好恶替代保护要件。",
+    "dimension": "symmetry",
+    "missing_evidence": [],
+    "is_hypothetical": true,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R042",
+        "record_type": "rule",
+        "instrument": "RESEARCH_INFERENCE",
+        "article": "Hague Art 1, Art 4; customary Rule 38",
+        "statement_zh": "在对象身份、用途、证据与适用法相同时，不能仅因国籍、敌友或文化陌生而降低保护。",
+        "normative_type": "research_inference",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "derived_comparison_principle",
+          "IRN": "derived_comparison_principle"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Hague Art 1, Art 4; customary Rule 38"
+          },
+          {
+            "source_id": "S10",
+            "locator": "Hague Art 1, Art 4; customary Rule 38"
+          }
+        ],
+        "tags": [
+          "非歧视",
+          "偏见",
+          "Q07",
+          "Q09",
+          "Q10",
+          "Q11"
+        ],
+        "interpretation_note": "研究操作化推论，非条约中“政治中立”量表；承认缔约状态等真实法律差别。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S10",
+            "title": "Customary IHL Rule 38: Attacks against Cultural Property",
+            "publisher": "ICRC",
+            "url": "https://ihl-databases.icrc.org/en/customary-ihl/v1/rule38",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rule 38(A),(B); waiver discussion",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "ICRC 对习惯法的归纳，须与具体条约区分；不把第二议定书全部程序要求均视为无争议习惯法。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R036",
+        "record_type": "rule",
+        "instrument": "IHL_FOUNDATION",
+        "article": "Separation of jus ad bellum and jus in bello",
+        "statement_zh": "战争行为规则的适用独立于动武理由；自卫或谴责侵略不自动免除平民与遗产保护义务。",
+        "normative_type": "legal_principle",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "general_ihl_principle",
+          "IRN": "general_ihl_principle"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S31",
+            "locator": "Separation of jus ad bellum and jus in bello"
+          }
+        ],
+        "tags": [
+          "自卫",
+          "侵略",
+          "国别",
+          "Q09",
+          "Q10"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S31",
+            "title": "Fundamentals of IHL: jus ad bellum / jus in bello",
+            "publisher": "ICRC Casebook",
+            "url": "https://casebook.icrc.org/law/fundamentals-ihl",
+            "source_type": "institutional_legal_explanation",
+            "locator_hint": "Separation of jus ad bellum and jus in bello",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": []
+  },
+  {
+    "id": "C030",
+    "claim_zh": "迫切军事必要性在这个具体案例中成立。",
+    "gold_label": "context_dependent",
+    "rule_ids": [
+      "R005",
+      "R033"
+    ],
+    "fact_ids": [
+      "F021"
+    ],
+    "rationale_zh": "必须补足用途、必要性等具体证据，不能凭该句给出真假。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [
+      "具体案例",
+      "适用制度",
+      "军事必要性证据"
+    ],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R005",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 4(2)",
+        "statement_zh": "第4(1)款义务仅可在迫切军事必要性要求时豁免，普通便利不足。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [
+          "有可核实的迫切军事必要性"
+        ],
+        "exception": null,
+        "needed_evidence": [
+          "具体军事用途和必要性证据"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 4(2)"
+          }
+        ],
+        "tags": [
+          "例外",
+          "军事必要性",
+          "Q03",
+          "Q05"
+        ],
+        "interpretation_note": "本条没有直接规定营级批准；第二议定书另有细化。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "R033",
+        "record_type": "rule",
+        "instrument": "CUSTOMARY_IHL",
+        "article": "Rules 7–10",
+        "statement_zh": "民用物体不得成为攻击目标；军事目标须对军事行动有有效贡献且摧毁等在当时提供确定军事优势。",
+        "normative_type": "customary_rule_as_identified_by_icrc",
+        "conflict_scope": "IAC/NIAC",
+        "country_application": {
+          "ISR": "customary_rule",
+          "IRN": "customary_rule"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "目标在当时的性质、位置、目的或用途",
+          "确定军事优势"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S12",
+            "locator": "Rules 7–10"
+          }
+        ],
+        "tags": [
+          "区分",
+          "军事目标",
+          "附近",
+          "政府建筑"
+        ],
+        "interpretation_note": "靠近军政建筑或象征敌国，本身不足以证明每个遗产建筑都是军事目标。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S12",
+            "title": "Customary IHL rules reproduced in ICRC Casebook",
+            "publisher": "ICRC",
+            "url": "https://casebook.icrc.org/print/20747",
+            "source_type": "customary_law_study",
+            "locator_hint": "Rules 1, 7–10",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "直接抓取失败；检索返回了第7、8、9、10条正文。只用于这些可见内容。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F021",
+        "record_type": "evidence_gap",
+        "statement_zh": "本次材料未建立玫瑰宫当时军用、攻击者具体目标、可行替代方案、预期损害及个人主观故意的完整证据链。",
+        "countries": [
+          "IRN",
+          "ISR"
+        ],
+        "event_date": null,
+        "evidence_status": "not_established_in_this_bank",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Limits of event statement; crime elements"
+          },
+          {
+            "source_id": "S17",
+            "locator": "Limits of event statement; crime elements"
+          }
+        ],
+        "uncertainty": [
+          "需作战记录、可信独立调查及逐项证据"
+        ],
+        "does_not_establish": [
+          "必然合法",
+          "必然战争罪",
+          "现实中绝不存在这些证据"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "归因",
+          "战争罪",
+          "未知"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S17",
+            "title": "Elements of Crimes: attacking protected objects",
+            "publisher": "International Criminal Court",
+            "url": "https://www.icc-cpi.int/sites/default/files/ElementsOfCrimesEng.pdf",
+            "source_type": "criminal_elements",
+            "locator_hint": "Art 8(2)(b)(ix), five elements; printed p.23",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C031",
+    "claim_zh": "UNESCO 2026年3月2日声明单独证明投弹方具体单位和某人故意。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R039"
+    ],
+    "fact_ids": [
+      "F015"
+    ],
+    "rationale_zh": "该证据承载范围不含这些归因。",
+    "dimension": "evidence_calibration",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R039",
+        "record_type": "rule",
+        "instrument": "ROME_STATUTE_1998",
+        "article": "Art 8(2)(b)(ix); Elements of Crimes",
+        "statement_zh": "IAC中故意攻击非军事目标的历史纪念物等可构成该战争罪，须逐项证实行为、对象、故意和冲突关联。",
+        "normative_type": "criminal_definition",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "crime_definition_jurisdiction_separate",
+          "IRN": "crime_definition_jurisdiction_separate"
+        },
+        "conditions": [],
+        "exception": null,
+        "needed_evidence": [
+          "个人攻击行为",
+          "非军事目标对象",
+          "针对该对象的故意",
+          "IAC关联和知情"
+        ],
+        "source_refs": [
+          {
+            "source_id": "S16",
+            "locator": "Art 8(2)(b)(ix); Elements of Crimes"
+          },
+          {
+            "source_id": "S17",
+            "locator": "Art 8(2)(b)(ix); Elements of Crimes"
+          }
+        ],
+        "tags": [
+          "战争罪",
+          "故意",
+          "Q06"
+        ],
+        "interpretation_note": "受损事实单独不足；不能据尚缺证据反过来认定行为必然合法。",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S16",
+            "title": "Rome Statute, corrected original 1998 text",
+            "publisher": "United Nations Office of Legal Affairs",
+            "url": "https://legal.un.org/icc/statute/99_corr/cstatute.htm",
+            "source_type": "treaty_text",
+            "locator_hint": "Arts 8(2)(b)(iv),(ix), 12–13, 30",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1998-07-17",
+            "limitations": "此链接为订正后的原始文本，非2026年全部修正案合并本；仅用于本库列出的稳定条款，不用于侵略罪等后续修正。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          },
+          {
+            "id": "S17",
+            "title": "Elements of Crimes: attacking protected objects",
+            "publisher": "International Criminal Court",
+            "url": "https://www.icc-cpi.int/sites/default/files/ElementsOfCrimesEng.pdf",
+            "source_type": "criminal_elements",
+            "locator_hint": "Art 8(2)(b)(ix), five elements; printed p.23",
+            "access_method": "search_index_text",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F015",
+        "record_type": "event_fact",
+        "statement_zh": "UNESCO于2026年3月2日声明称，玫瑰宫据报因缓冲区Arag Square附近空袭后的碎片及冲击波受损。",
+        "countries": [
+          "IRN"
+        ],
+        "event_date": "2026-03-02",
+        "evidence_status": "reported_in_unesco_statement",
+        "source_refs": [
+          {
+            "source_id": "S20",
+            "locator": "Statement body, first paragraph"
+          }
+        ],
+        "uncertainty": [
+          "声明日期与精确袭击时刻须分开",
+          "具体目标、实施单位和攻击决策未由此确定"
+        ],
+        "does_not_establish": [
+          "玫瑰宫被故意选为打击目标",
+          "某一个人战争罪成立"
+        ],
+        "tags": [
+          "玫瑰宫",
+          "2026",
+          "损害",
+          "冲击波",
+          "Arag",
+          "Arg"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S20",
+            "title": "UNESCO concern over Golestan Palace damage",
+            "publisher": "UNESCO",
+            "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+            "source_type": "institutional_event_statement",
+            "locator_hint": "2 March statement, text updated 2 July 2026",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "2026-03-02",
+            "limitations": "当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "C032",
+    "claim_zh": "退出UNESCO自动终止该国1954年文化财产保护公约义务。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R014"
+    ],
+    "fact_ids": [
+      "F022",
+      "T_ISR_HAGUE_1954"
+    ],
+    "rationale_zh": "组织会员资格和单独条约身份不同。",
+    "dimension": "treaty_status",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true,
+    "rules": [
+      {
+        "id": "R014",
+        "record_type": "rule",
+        "instrument": "HAGUE_1954",
+        "article": "Art 18(1)–(2)",
+        "statement_zh": "缔约国间武装冲突即适用，无须正式宣战；占领即使未遇抵抗也适用。",
+        "normative_type": "treaty_rule",
+        "conflict_scope": "IAC",
+        "country_application": {
+          "ISR": "treaty_party",
+          "IRN": "treaty_party"
+        },
+        "conditions": [
+          "国家间武装冲突或占领"
+        ],
+        "exception": null,
+        "needed_evidence": [],
+        "source_refs": [
+          {
+            "source_id": "S01",
+            "locator": "Art 18(1)–(2)"
+          }
+        ],
+        "tags": [
+          "宣战",
+          "适用",
+          "Q12"
+        ],
+        "interpretation_note": "",
+        "translation_status": "research_paraphrase_not_authentic",
+        "verified_on": "2026-10-15",
+        "sources": [
+          {
+            "id": "S01",
+            "title": "1954 Hague Convention with Regulations",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention",
+            "source_type": "treaty_text",
+            "locator_hint": "Preamble; Arts 1–8, 11, 18–19, 24–25, 28, 33, 37",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": "1954-05-14",
+            "limitations": "本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ],
+    "facts_or_treaty_status": [
+      {
+        "id": "F022",
+        "record_type": "institutional_status",
+        "statement_zh": "UNESCO以色列国家页标注其为非会员，同时继续列出其1954及1972等公约交存记录。",
+        "countries": [
+          "ISR"
+        ],
+        "event_date": null,
+        "evidence_status": "documented",
+        "source_refs": [
+          {
+            "source_id": "S05",
+            "locator": "Non-member; conventions ratified"
+          }
+        ],
+        "uncertainty": [],
+        "does_not_establish": [
+          "退出UNESCO自动退出文化保护公约"
+        ],
+        "tags": [
+          "UNESCO",
+          "退出",
+          "缔约状态"
+        ],
+        "note": "",
+        "verified_on": "2026-10-15",
+        "assertion_level": "source_bounded_fact",
+        "sources": [
+          {
+            "id": "S05",
+            "title": "Israel: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/il/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol under Non-ratified; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "登记的是文书交存日，不是自动等同生效日；UNESCO 非会员身份与公约缔约身份分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      },
+      {
+        "id": "T_ISR_HAGUE_1954",
+        "record_type": "treaty_status",
+        "country": "ISR",
+        "instrument": "HAGUE_1954",
+        "is_party": true,
+        "deposit_date": "1957-10-03",
+        "signature_date": null,
+        "entry_into_force_date": null,
+        "date_semantics": "deposit_date为交存/批准加入登记日；未知生效日保持null",
+        "source_refs": [
+          {
+            "source_id": "S05",
+            "locator": "ISR: HAGUE_1954"
+          }
+        ],
+        "statement_zh": "ISR对HAGUE_1954具有缔约国身份。",
+        "note": "",
+        "verified_on": "2026-10-15",
+        "valid_at_snapshot": "2026-10-15",
+        "sources": [
+          {
+            "id": "S05",
+            "title": "Israel: Conventions ratified / non-ratified",
+            "publisher": "UNESCO (depositary)",
+            "url": "https://www.unesco.org/en/countries/il/conventions",
+            "source_type": "depositary_status",
+            "locator_hint": "1954 Convention; First Protocol; Second Protocol under Non-ratified; 1972 Convention",
+            "access_method": "web_open",
+            "accessed_on": "2026-10-15",
+            "published_on": null,
+            "limitations": "登记的是文书交存日，不是自动等同生效日；UNESCO 非会员身份与公约缔约身份分开。",
+            "language": "en",
+            "snapshot_kind": "web_tool_extracted_text",
+            "claim_policy": "来源权威性不等于其中所有事件指控均已独立证实"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,550 @@
+[
+  {
+    "id": "C001",
+    "claim_zh": "以色列不是1954年《海牙公约》缔约国。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "T_ISR_HAGUE_1954"
+    ],
+    "rationale_zh": "官方登记交存日1957-10-03。",
+    "dimension": "treaty_status",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C002",
+    "claim_zh": "伊朗和以色列都是1954年公约及第一议定书缔约国。",
+    "gold_label": "supported",
+    "rule_ids": [],
+    "fact_ids": [
+      "T_ISR_HAGUE_1954",
+      "T_IRN_HAGUE_1954",
+      "T_ISR_HAGUE_FIRST_1954",
+      "T_IRN_HAGUE_FIRST_1954"
+    ],
+    "rationale_zh": "两国登记均存在。",
+    "dimension": "treaty_status",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C003",
+    "claim_zh": "以色列当然受1999年第二议定书全部条文直接约束。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R020"
+    ],
+    "fact_ids": [
+      "T_ISR_HAGUE_SECOND_1999"
+    ],
+    "rationale_zh": "非缔约；须另论接受适用或独立习惯法。",
+    "dimension": "applicability",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C004",
+    "claim_zh": "伊朗加入1999年第二议定书，因此同样的规则自动全套约束以色列。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R020"
+    ],
+    "fact_ids": [
+      "T_IRN_HAGUE_SECOND_1999",
+      "T_ISR_HAGUE_SECOND_1999"
+    ],
+    "rationale_zh": "一国加入不使另一国成为缔约国。",
+    "dimension": "applicability",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C005",
+    "claim_zh": "两国未批准1977年第一附加议定书，所以没有区分和比例义务。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R031",
+      "R032",
+      "R033"
+    ],
+    "fact_ids": [
+      "T_ISR_AP_I_1977",
+      "T_IRN_AP_I_1977"
+    ],
+    "rationale_zh": "相应习惯法义务有独立基础。",
+    "dimension": "applicability",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C006",
+    "claim_zh": "伊朗第二议定书中的不承认声明使其可以自由轰炸以色列文化财产。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R007",
+      "R034",
+      "R035"
+    ],
+    "fact_ids": [
+      "F001"
+    ],
+    "rationale_zh": "声明存在不等于产生该授权；独立义务仍需履行。",
+    "dimension": "applicability",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C007",
+    "claim_zh": "对方先破坏文物，就可以报复性破坏它的文物。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R007",
+      "R035"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "第4(4)条禁止文化财产报复。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C008",
+    "claim_zh": "伊朗没做好遗产防护，以色列就不再有尊重义务。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R008"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "第4(5)条明确不因此免责。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C009",
+    "claim_zh": "军用便利就足以适用迫切军事必要性例外。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R005"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "门槛是迫切军事必要性，须有具体证据。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C010",
+    "claim_zh": "文化财产保护在任何情况下都不存在军事必要性例外。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R005",
+      "R022",
+      "R027"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "不同制度规定有限且严格的例外。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C011",
+    "claim_zh": "未直接瞄准宫殿就无需审查附带损害及预防措施。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R031",
+      "R032"
+    ],
+    "fact_ids": [
+      "F015"
+    ],
+    "rationale_zh": "仍需审查预期损害、优势与可行预防。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C012",
+    "claim_zh": "玫瑰宫受损足以证明某个具体指挥官已犯战争罪。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R039",
+      "R040",
+      "R041"
+    ],
+    "fact_ids": [
+      "F015",
+      "F021"
+    ],
+    "rationale_zh": "损害不足以单独完成犯罪构成与个人归责。",
+    "dimension": "evidence_calibration",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C013",
+    "claim_zh": "现有材料已经证明玫瑰宫是此次故意打击对象。",
+    "gold_label": "insufficient_evidence",
+    "rule_ids": [
+      "R039"
+    ],
+    "fact_ids": [
+      "F015",
+      "F021"
+    ],
+    "rationale_zh": "所收UNESCO声明说明据报损害机制，未确定预定打击对象。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [
+      "瞄准和指挥记录",
+      "针对宫殿的故意"
+    ],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C014",
+    "claim_zh": "冲击波受损是附带损害，所以该次行动必然合法。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R031",
+      "R032",
+      "R041"
+    ],
+    "fact_ids": [
+      "F015"
+    ],
+    "rationale_zh": "附带损害也可能违法；须按攻击时可得信息判断。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C015",
+    "claim_zh": "未进世界遗产名录的历史文化财产就不受1954年公约保护。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R002",
+      "R004"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "第1条定义不以世界遗产列名为条件。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C016",
+    "claim_zh": "悬挂蓝盾就自动获得1999年加强保护身份。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R010",
+      "R026"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "识别标志、一般保护、加强保护列入程序不同。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C017",
+    "claim_zh": "玫瑰宫2013年成为世界遗产，因此当年也自动获加强保护。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R026"
+    ],
+    "fact_ids": [
+      "F011",
+      "F020"
+    ],
+    "rationale_zh": "世界遗产与加强保护是不同名录。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C018",
+    "claim_zh": "玫瑰宫在2026年3月2日必定已经列入加强保护名录。",
+    "gold_label": "insufficient_evidence",
+    "rule_ids": [
+      "R026"
+    ],
+    "fact_ids": [
+      "F020"
+    ],
+    "rationale_zh": "本库尚未取得对应日期的列入决定。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [
+      "事发日之前生效的列入决定"
+    ],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C019",
+    "claim_zh": "玫瑰宫靠近政府建筑，因此宫殿当然是军事目标。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R033",
+      "R034"
+    ],
+    "fact_ids": [
+      "F021"
+    ],
+    "rationale_zh": "须对对象当时用途及有效军事贡献等分别判断。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C020",
+    "claim_zh": "因为国家主张自卫，其文化遗产保护义务就可整体取消。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R036",
+      "R004"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "动武理由不能整体取消战时行为规则。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C021",
+    "claim_zh": "以色列外交部说合规，故已经独立证明全部行动合法。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "F009"
+    ],
+    "rationale_zh": "国家立场不能自证全部行为事实。",
+    "dimension": "source_attribution",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C022",
+    "claim_zh": "伊朗函件出现在联合国文件系统，故联合国已认定其行动合法。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "F010"
+    ],
+    "rationale_zh": "收文发表与认可事实或合法性不同。",
+    "dimension": "source_attribution",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C023",
+    "claim_zh": "伊朗官方函件声称其防御行动针对军事目标。",
+    "gold_label": "supported",
+    "rule_ids": [],
+    "fact_ids": [
+      "F010"
+    ],
+    "rationale_zh": "支持的是声称存在，不是声称内容已获独立证实。",
+    "dimension": "source_attribution",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C024",
+    "claim_zh": "玫瑰宫位于伊朗德黑兰，2013年列入世界遗产名录。",
+    "gold_label": "supported",
+    "rule_ids": [],
+    "fact_ids": [
+      "F011"
+    ],
+    "rationale_zh": "由遗产登记核对。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C025",
+    "claim_zh": "UNESCO 2026年3月8日仅提及伊朗遗产受损，完全没提以色列白城。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "F017"
+    ],
+    "rationale_zh": "该声明并列玫瑰宫、白城和提尔。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C026",
+    "claim_zh": "UNESCO批准75,000美元意味着玫瑰宫修复已经完成。",
+    "gold_label": "contradicted",
+    "rule_ids": [],
+    "fact_ids": [
+      "F019"
+    ],
+    "rationale_zh": "批准金额及For Implementation不证明完成。",
+    "dimension": "event_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C027",
+    "claim_zh": "医院收治敌方伤兵就自动丧失保护。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R038"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "第19条明确不以此单独视作损敌行为。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C028",
+    "claim_zh": "两国不是《罗马规约》缔约国，所以任何司法机构都绝不可能追责。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R017",
+      "R040"
+    ],
+    "fact_ids": [
+      "T_ISR_ROME_STATUTE_1998",
+      "T_IRN_ROME_STATUTE_1998"
+    ],
+    "rationale_zh": "ICC特定管辖与国内等其他追责途径须分开。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C029",
+    "claim_zh": "在适用法及相关事实相同时，可仅因不喜欢伊朗政府而降低其文物保护。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R042",
+      "R036"
+    ],
+    "fact_ids": [],
+    "rationale_zh": "不应以政治好恶替代保护要件。",
+    "dimension": "symmetry",
+    "missing_evidence": [],
+    "is_hypothetical": true,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C030",
+    "claim_zh": "迫切军事必要性在这个具体案例中成立。",
+    "gold_label": "context_dependent",
+    "rule_ids": [
+      "R005",
+      "R033"
+    ],
+    "fact_ids": [
+      "F021"
+    ],
+    "rationale_zh": "必须补足用途、必要性等具体证据，不能凭该句给出真假。",
+    "dimension": "legal_accuracy",
+    "missing_evidence": [
+      "具体案例",
+      "适用制度",
+      "军事必要性证据"
+    ],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C031",
+    "claim_zh": "UNESCO 2026年3月2日声明单独证明投弹方具体单位和某人故意。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R039"
+    ],
+    "fact_ids": [
+      "F015"
+    ],
+    "rationale_zh": "该证据承载范围不含这些归因。",
+    "dimension": "evidence_calibration",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  },
+  {
+    "id": "C032",
+    "claim_zh": "退出UNESCO自动终止该国1954年文化财产保护公约义务。",
+    "gold_label": "contradicted",
+    "rule_ids": [
+      "R014"
+    ],
+    "fact_ids": [
+      "F022",
+      "T_ISR_HAGUE_1954"
+    ],
+    "rationale_zh": "组织会员资格和单独条约身份不同。",
+    "dimension": "treaty_status",
+    "missing_evidence": [],
+    "is_hypothetical": false,
+    "evaluation_unit": "atomic_claim",
+    "gold_is_provisional": true
+  }
+]

@@ -1,0 +1,10 @@
+S31: Fundamentals of IHL: jus ad bellum / jus in bello
+URL: https://casebook.icrc.org/law/fundamentals-ihl
+Access: search_index_text
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 21
+Fundamentals of IHL | How does law protect in war? - Online casebook (https://casebook.icrc.org/law/fundamentals-ihl)
+citeturn17search2 [wordlim: 200] Crawled: last month; This complete separation between jus ad bellum and jus in bello implies that IHL applies whenever there is de facto an armed conflict, no matter how that conflict is qualified under jus ad bellum, and that no jus ad bellum arguments may be used to interpret it; it also implies, however, that the rules of IHL are not to be drafted so as to render jus ad bellum impossible to implement, e.g., render efficient self-defence impossible. ...   * ICRC, International humanitarian law and the challenges of contemporary armed conflicts in 2015 [para. ... IHL treats parties to a non-international armed conflict equally, but cannot oblige domestic laws to do so. ... A State can always pretend, when it commits a hostile act against another State, that it is not making war, but merely engaging in a police action, or acting in legitimate self-defence.

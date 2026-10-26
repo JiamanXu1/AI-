@@ -1,0 +1,40 @@
+S11: Customary IHL Rule 14: Proportionality in Attack
+URL: https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14
+Access: search_index_text
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 14
+Customary IHL - Rule 14. Proportionality in Attack (https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14?trk=article-ssr-frontend-pulse_little-text-block)
+citeturn11search2 [wordlim: 200] Crawled: today; Rule 14. ... 8] Sweden’s IHL Manual, in particular, identifies the principle of proportionality as set out in Article 51(5) of Additional Protocol I as a rule of customary international law.[ ... 12] When the ICRC appealed to the parties to the conflict in the Middle East in October 1973, i.e., before the adoption of Additional Protocol I, to respect the principle of proportionality in attack, the States concerned (Egypt, Iraq, Israel and Syrian Arab Republic) replied favourably.[ ... [7] - ICC Statute, Article 8(2)(b)(iv) (ibid., § 5); see also UNTAET Regulation 2000/15, Section 6(1)(b)(iv) (ibid., § 13).
+
+Proportionality in Attack
+
+# Proportionality in Attack
+
+PracticeSummaryInternational armed conflictsNon-international armed conflictsInterpretation
+
+Rule 14. Launching an attack which may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated, is prohibited.
+
+### Practice
+
+Volume II, Chapter 4.
+
+### Summary
+
+State practice establishes this rule as a norm of customary international law applicable in both international and non-international armed conflicts.
+
+### International armed conflicts
+
+The principle of proportionality in attack is codified in Article 51(5)(b) of Additional Protocol I, and repeated in Article 57.[1] At the Diplomatic Conference leading to the adoption of the Additional Protocols, France voted against Article 51 because it deemed that paragraph 5 by its “very complexity would seriously hamper the conduct of defensive military operations against an invader and prejudice the inherent right of legitimate defence”.cite6†[2] Upon ratification of Additional Protocol I, however, France did not enter a reservation to this provision. At the Diplomatic Conference leading to the adoption of the Additional Protocols, Mexico stated that Article 51 was so essential that it “cannot be the subject of any reservations whatsoever since these would be inconsistent with the aim and purpose of Protocol I and undermine its basis”.[3] Also at the Diplomatic Conference, several States expressed the view that the principle of proportionality contained a danger for the protection of the civilian population but did not indicate an alternative solution to deal with the issue of incidental damage from attacks on lawful targets.[4] The United Kingdom stated that Article 51(5)(b) was “a useful codification of a concept that was rapidly becoming accepted by all States as an important principle of international law relating to armed conflict”.[5]
+
+The principle of proportionality in attack is also contained in Protocol II and Amended Protocol II to the Convention on Certain Conventional Weapons.cite10†[6] In addition, under the Statute of the International Criminal Court, “intentionally launching an attack in the knowledge that such attack will cause incidental loss of life or injury to civilians or damage to civilian objects … which would be clearly excessive in relation to the concrete and direct overall military advantage anticipated” constitutes a war crime in international armed conflicts.[7]
+
+A large number of military manuals lay down the principle of proportionality in attack.[8] Sweden’s IHL Manual, in particular, identifies the principle of proportionality as set out in Article 51(5) of Additional Protocol I as a rule of customary international law.[9] Numerous States have adopted legislation making it an offence to carry out an attack which violates the principle of proportionality.[10] This rule is supported by official statements.[11] This practice includes that of States not, or not at the time, party to Additional Protocol I.[12] When the ICRC appealed to the parties to the conflict in the Middle East in October 1973, i.e., before the adoption of Additional Protocol I, to respect the principle of proportionality in attack, the States concerned (Egypt, Iraq, Israel and Syrian Arab Republic) replied favourably.[13]
+
+In their submissions to the International Court of Justice in the Nuclear Weapons case and Nuclear Weapons (WHO) case, numerous States, including States not, or not at the time, party to Additional Protocol I, invoked the principle of proportionality in their assessments of whether an attack with nuclear weapons would violate international humanitarian law.[14] In its advisory opinion, the Court acknowledged the applicability of the principle of proportionality, stating that “respect for the environment is one of the elements that go to assessing whether an action is in conformity with the principles of necessity and proportionality”.[15]
+
+RESEARCH LOG ENTRY 14
+‘Rule 14: Proportionality in Attack’ (ICRC IHL Databases) <https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14> accessed 29 September 2023 (https://repository.essex.ac.uk/41309/1/PhD%20-%20FINAL.pdf)
+citeturn11search14 [wordlim: 200] Published: 1.2 years ago; ‘Rule 14: Proportionality in Attack’ (ICRC IHL Databases) <https://ihl-databases.icrc.org/en/customary-ihl/v1/rule14> accessed 29 September 2023 ... The parties to the conflict must take all feasible precautions to protect the civilian population and civilian objects under their control against the effects of attacks’ (ICRC IHL Database) <https://ihl-databases.icrc.org/en/customary-ihl/v1/rule22> accessed 20 November 2023

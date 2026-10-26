@@ -1,0 +1,94 @@
+S10: Customary IHL Rule 38: Attacks against Cultural Property
+URL: https://ihl-databases.icrc.org/en/customary-ihl/v1/rule38
+Access: search_index_text
+Limitations: ICRC 对习惯法的归纳，须与具体条约区分；不把第二议定书全部程序要求均视为无争议习惯法。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 4
+customary_ihl - rule 38. Attacks Against Cultural Property (https://ihl-databases.icrc.org/en/customary-ihl/v1/rule38)
+citeturn3search2 [wordlim: 200] Crawled: 2 months ago; Practice Summary Cultural property in general Property of great importance to the cultural heritage of every people Waiver in case of imperative military necessity ... 7] The Plan of Action for the years 2000–2003, adopted by the 27th International Conference of the Red Cross and Red Crescent in 1999, called on all parties to an armed conflict to protect cultural property and places of worship, in addition to respecting the total ban on directing attacks against such objects.[ ... [13] - See, e.g., the military manuals of Argentina (ibid., § 40), Australia (ibid., §§ 41–42), Benin (ibid., § 45), Canada (ibid., §§ 50–51), Colombia (ibid., § 52), Croatia (ibid., §§ 54–55), France (ibid., §§ 59–61), Germany (ibid., §§ 62–63), Hungary (ibid., § 64), Israel (ibid., § 67), Italy (ibid., §§ 68–69), Kenya (ibid., § 70), Republic of Korea (ibid., § 72), Madagascar (ibid., § 73), Netherlands (ibid., §§ 76–77), New Zealand (ibid., § 79), Philippines (ibid., §§ 82–83), Russian Federation (ibid., § 84), South Africa (ibid., § 86), Spain (ibid., § 87), Sweden (ibid., § 89), Switzerland (ibid., §§ 90–91), Togo (ibid., § 92) and United States (ibid., § 103) and the reported practice of Israel (ibid., § 66).
+
+## 
+
+Attacks Against Cultural Property
+
+your_name
+
+[Input]
+
+your_email_address
+
+[Input]
+
+[Input]Send me a copy
+
+subject
+
+[Input]
+
+your_message
+
+Widget containing checkbox for hCaptcha security challenge
+
+[Button: send]
+
+## 
+
+back_to:
+
+rules_list
+
+previous: rule 37
+
+next: rule 39
+
+# Attacks Against Cultural Property
+
+PracticeSummaryCultural property in generalProperty of great importance to the cultural heritage of every peopleWaiver in case of imperative military necessity
+
+Rule 38. Each party to the conflict must respect cultural property:
+
+A. Special care must be taken in military operations to avoid damage to buildings dedicated to religion, art, science, education or charitable purposes and historic monuments unless they are military objectives.
+
+B. Property of great importance to the cultural heritage of every people must not be the object of attack unless imperatively required by military necessity.
+
+### Practice
+
+Volume II, Chapter 12, Section A.
+
+### Summary
+
+State practice establishes this rule as a norm of customary international law applicable in both international and non-international armed conflicts.
+
+### Cultural property in general
+
+To the extent that cultural property is civilian, it may not be made the object of attack (see Rule 7). It may only be attacked in case it qualifies as a military objective (see Rule 10). The Statute of the International Criminal Court therefore stresses that intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes or historic monuments is a war crime in both international and non-international armed conflicts, “provided they are not military objectives”.[1]
+
+The obligation to take special care to avoid damage to buildings dedicated to religion, art, science, education or charitable purposes and historic monuments, provided they are not used for military purposes, is set forth in many military manuals.【[9] - Hague Convention for the Protection of Cultural Property, Articles 6 and 16.
+
+[10] - Hague Convention for the Protection of Cultural Property, Article 4(2) (cited in Vol. II, Ch. 12, § 7).
+
+[11] - UNESCO, General Conference, Res. 3.5 (ibid., § 250); United States, Annotated Supplement to the US Naval Handbook (ibid., § 103).
+
+[12] - ICTY, Tadić case, Interlocutory Appeal (ibid., § 268).
+
+[13] - See, e.g., the military manuals of Argentina (ibid., § 40), Australia (ibid., §§ 41–42), Benin (ibid., § 45), Canada (ibid., §§ 50–51), Colombia (ibid., § 52), Croatia (ibid., §§ 54–55), France (ibid., §§ 59–61), Germany (ibid., §§ 62–63), Hungary (ibid., § 64), Israel (ibid., § 67), Italy (ibid., §§ 68–69), Kenya (ibid., § 70), Republic of Korea (ibid., § 72), Madagascar (ibid., § 73), Netherlands (ibid., §§ 76–77), New Zealand (ibid., § 79), Philippines (ibid., §§ 82–83), Russian Federation (ibid., § 84), South Africa (ibid., § 86), Spain (ibid., § 87), Sweden (ibid., § 89), Switzerland (ibid., §§ 90–91), Togo (ibid., § 92) and United States (ibid., § 103) and the reported practice of Israel (ibid., § 66).
+
+RESEARCH LOG ENTRY 22
+customary_ihl - rule 38. Attacks Against Cultural Property (https://ihl-databases.icrc.org/en/customary-ihl/v1/rule38)
+citeturn18search4 [wordlim: 200] Crawled: 2 months ago; 11] The application of the Hague Convention under customary international law to non-international armed conflicts was recognized by the International Criminal Tribunal for the Former Yugoslavia in the Tadić case in 1995.cite ... 14] Under the legislation of numerous States, it is an offence to attack property of great importance to the cultural heritage of every people.[ ... [13] - See, e.g., the military manuals of Argentina (ibid., § 40), Australia (ibid., §§ 41–42), Benin (ibid., § 45), Canada (ibid., §§ 50–51), Colombia (ibid., § 52), Croatia (ibid., §§ 54–55), France (ibid., §§ 59–61), Germany (ibid., §§ 62–63), Hungary (ibid., § 64), Israel (ibid., § 67), Italy (ibid., §§ 68–69), Kenya (ibid., § 70), Republic of Korea (ibid., § 72), Madagascar (ibid., § 73), Netherlands (ibid., §§ 76–77), New Zealand (ibid., § 79), Philippines (ibid., §§ 82–83), Russian Federation (ibid., § 84), South Africa (ibid., § 86), Spain (ibid., § 87), Sweden (ibid., § 89), Switzerland (ibid., §§ 90–91), Togo (ibid., § 92) and United States (ibid., § 103) and the reported practice of Israel (ibid., § 66).
+### Property of great importance to the cultural heritage of every people
+
+With respect to property of “great importance to the cultural heritage of every people”, the Hague Convention for the Protection of Cultural Property has sought to reinforce its protection by encouraging the marking of such property with a blue-and-white shield,[9] but also by limiting the lawfulness of attacks to very exceptional situations where a waiver can be invoked in case of “imperative military necessity”.[10]
+
+At the time of writing, the Hague Convention was ratified by 111 States. The fundamental principles of protecting and preserving cultural property in the Convention are widely regarded as reflecting customary international law, as stated by the UNESCO General Conference and by States which are not party to the Convention.[11] The application of the Hague Convention under customary international law to non-international armed conflicts was recognized by the International Criminal Tribunal for the Former Yugoslavia in the Tadić case in 1995.【20†[12] Many military manuals specify the obligation to respect and protect property of great importance to the cultural heritage of every people.[13] These include manuals of States not, or not at the time, party to the Hague Convention.[14] Under the legislation of numerous States, it is an offence to attack property of great importance to the cultural heritage of every people.[15]
+
+### Waiver in case of imperative military necessity
+
+The Second Protocol to the Hague Convention for the Protection of Cultural Property, adopted by consensus in 1999, brings the Hague Convention up to date in the light of developments in international humanitarian law since 1954. It is significant in this respect that the Second Protocol has maintained the waiver in case of imperative military necessity, as requested by many States during the preparatory meetings, but has sought to clarify its meaning. It provides that a waiver on the basis of imperative military necessity may only be invoked when and for as long as: (1) the cultural property in question has, by its function, been made into a military objective; and (2) there is no feasible alternative to obtain a similar military advantage to that offered by attacking that objective.[16] The Second Protocol further requires that the existence of such necessity be established at a certain level of command and that in case of an attack, an effective advance warning be given whenever circumstances permit.[17] During the negotiation of the Second Protocol, this interpretation of the waiver in case of imperative military necessity was uncontroversial.
+
+
+[14] - See, e.g., the military manuals of Benin (ibid., § 45), Colombia (ibid., § 52), Croatia (ibid., § 55), Kenya (ibid., § 70), Republic of Korea (ibid., § 72), New Zealand (ibid., § 79), Philippines (ibid., §§ 82–83), Togo (ibid., § 92), United Kingdom (ibid., §§ 93–94) and United States (ibid., § 103).
+
+[15] - See, e.g., the legislation of Armenia (ibid., § 107), Australia (ibid., § 108), Belarus (ibid., § 111), Belgium (ibid., § 112), Bosnia and Herzegovina (ibid., § 113), Canada (ibid., § 116), Colombia (ibid., § 121), Cook Islands (ibid., § 123), Croatia (ibid., § 124), Cuba (ibid., § 125), Cyprus (ibid., § 126), Czech Republic (ibid., § 127), Georgia (ibid., § 131), Hungary (ibid., § 133), Ireland (ibid., § 134), Latvia (ibid., § 139), Lithuania (ibid., § 141), Netherlands (ibid., § 145), New Zealand (ibid., § 146), Niger (ibid., § 150), Norway (ibid., § 151), Poland (ibid., § 154), Romania (ibid., § 155), Russian Federation (ibid., § 156), Slovakia (ibid., § 157), Slovenia (ibid., § 158), Spain (ibid., §§ 159–160), Sweden (ibid., § 161), Switzerland (ibid., § 162), Tajikistan (ibid., § 164), United Kingdom (ibid., § 166), Yugoslavia (ibid., § 171) and Zimbabwe (ibid., § 172); see also the draft legislation of Argentina (ibid., § 106), El Salvador (ibid., § 129), Jordan (ibid., § 137), Lebanon (ibid., § 140) and Nicaragua (ibid., § 149).

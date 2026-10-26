@@ -1,0 +1,110 @@
+S02: 1954 First Protocol
+URL: https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=66535
+Access: web_open
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 15
+Internal Error ()
+citeturn12view5 [wordlim: 200] Source: open({"ref_id":"https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict: (400) Timeout fetching
+
+RESEARCH LOG ENTRY 17
+Internal Error ()
+citeturn14view1 [wordlim: 200] Source: open({"ref_id":"https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict","lineno":null}); Total lines: 1
+
+RESEARCH LOG ENTRY 19
+Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict - Legal Affairs (https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=66535)
+citeturn16view2 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=66535","lineno":null}); Total lines: 413
+
+RESEARCH LOG ENTRY 21
+Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict - Legal Affairs (https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=66535)
+citeturn17view3 [wordlim: 200] Crawled: last week; Content type: text/html; Source: find({"ref_id":"turn16view2","pattern":"I."}); Total lines: 413
+L92: UNESCO
+L93: 
+L94: Registration at the UN:
+L95: 
+L96: 4 September 1956, No. 3511
+L97: 
+L98: Theme:
+L99: 
+L100: Culture
+L101: 
+L102: 
+L103: 
+L104: The High Contracting Parties are agreed as follows :
+L105: 
+L106: I.
+L107: 
+L108: 1. Each High Contracting Party undertakes to prevent the exportation, from a territory occupied by it during an armed conflict, of cultural property as defined in Article I of the Convention for the Protection of Cultural Property in the Event of Armed Conflict, signed at The Hague on 14 May, 1954.
+L121: 9. The States referred to in paragraphs 6 and 8 may declare, at the time of signature, ratification or accession, that they will not be bound by the provisions of Section I or by those of Section II of the present Protocol.
+L145: Done at The Hague, this fourteenth day of May, 1954, in English, French, Russian and Spanish, the four texts being equally authoritative, in a single copy which shall be deposited in the archives of the United Nations Educational, Scientific and Cultural Organization, and certified true copies of which shall be delivered to all the States referred to in paragraphs 6 and 8 as well as to the United Nations.
+L146: 
+L147: 
+L148: 
+L149: Resolutions
+L150: 
+L151: Resolution I
+L218: #### Japan
+L219: 
+L220: expand_more
+L221: 
+L222: "In applying the provisions of paragraph 3 of I of the Protocol, Japan will fulfill the obligation under those provisions in a manner consistent with its domestic laws including the civil code. Japan will be, therefore, bound by the provisions of Section I of the Protocol to the extent that their fulfillment is compatible with the above-mentioned domestic laws." [Original: English]
+
+RESEARCH LOG ENTRY 22
+Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict - Legal Affairs (https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=66535)
+citeturn18view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"turn16view2","lineno":104}); Total lines: 413
+L92: UNESCO
+L93: 
+L94: Registration at the UN:
+L95: 
+L96: 4 September 1956, No. 3511
+L97: 
+L98: Theme:
+L99: 
+L100: Culture
+L101: 
+L102: 
+L103: 
+L104: The High Contracting Parties are agreed as follows :
+L105: 
+L106: I.
+L107: 
+L108: 1. Each High Contracting Party undertakes to prevent the exportation, from a territory occupied by it during an armed conflict, of cultural property as defined in Article I of the Convention for the Protection of Cultural Property in the Event of Armed Conflict, signed at The Hague on 14 May, 1954.
+
+RESEARCH LOG ENTRY 23
+Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict - Legal Affairs (https://www.unesco.org/en/legal-affairs/protocol-convention-protection-cultural-property-event-armed-conflict?hub=66535)
+citeturn19view3 [wordlim: 200] Crawled: last week; Content type: text/html; Source: find({"ref_id":"turn16view2","pattern":"reparations"}); Total lines: 413
+L92: UNESCO
+L93: 
+L94: Registration at the UN:
+L95: 
+L96: 4 September 1956, No. 3511
+L97: 
+L98: Theme:
+L99: 
+L100: Culture
+L101: 
+L102: 
+L103: 
+L104: The High Contracting Parties are agreed as follows :
+L105: 
+L106: I.
+L107: 
+L108: 1. Each High Contracting Party undertakes to prevent the exportation, from a territory occupied by it during an armed conflict, of cultural property as defined in Article I of the Convention for the Protection of Cultural Property in the Event of Armed Conflict, signed at The Hague on 14 May, 1954.
+L109: 2. Each High Contracting Party undertakes to take into its custody cultural property imported into its territory either directly or indirectly from any occupied territory. This shall either be effected automatically upon the importation of the property or, failing this, at the request of the authorities of that territory.
+L110: 3. Each High Contracting Party undertakes to return, at the close of hostilities, to the competent authorities of the territory previously occupied, cultural property which is in its territory, if such property has been exported in contravention of the principle laid down in the first paragraph. Such property shall never be retained as war reparations.
+L111: 4. The High Contracting Party whose obligation it was to prevent the exportation of cultural property from the territory occupied by it, shall pay an indemnity to the holders in good faith of any cultural property which has to be returned in accordance with the preceding paragraph.
+L112: 
+L113: II.
+L114: 5. Cultural property coming from the territory of a High Contracting Party and deposited by it in the territory of another High Contracting Party for the purpose of protecting such property against the dangers of an armed conflict, shall be returned by the latter, at the end of hostilities, to the competent authorities of the territory from which it came.
+L115: 
+L116: III.
+L117: 6. The present Protocol shall bear the date of 14 May, 1954 and, until the date of 31 December, 1954, shall remain open for signature by all States invited to the Conference which met at The Hague from 21 April, 1954 to 14 May, 1954.
+L118: 7. (a) The present Protocol shall be subject to ratification by signatory States in accordance with their respective constitutional procedures.
+L119: (b) The instruments of ratification shall be deposited with the Director General of the United Nations Educational, Scientific and Cultural Organization.
+L120: 8. From the date of its entry into force, the present Protocol shall be open for accession by all States mentioned in paragraph 6 which have not signed it as well as any other State invited to accede by the Executive Board of the United Nations Educational, Scientific and Cultural Organization. Accession shall be effected by the deposit of an instrument of accession with the Director-General of the United Nations Educational, Scientific and Cultural Organization.
+L121: 9. The States referred to in paragraphs 6 and 8 may declare, at the time of signature, ratification or accession, that they will not be bound by the provisions of Section I or by those of Section II of the present Protocol.
+L122: 10. (a) The present Protocol shall enter into force three months after five instruments of ratification have been deposited.
+L123: (b) Thereafter, it shall enter into force, for each High Contracting Party, three months after the deposit of its instrument of ratification or accession.

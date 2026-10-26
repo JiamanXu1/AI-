@@ -1,0 +1,378 @@
+S01: 1954 Hague Convention with Regulations
+URL: https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention
+Access: web_open
+Limitations: 本项目既有英文全文已另存并作 SHA256；正文与当前官方页面核对。中文为研究转述。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 6
+Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention - Legal Affairs (https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention)
+citeturn5view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention","lineno":null}); Total lines: 836
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: [Input]
+L3: 
+L4: [Input: Search]
+L5: 
+L6: [Button: Search]
+L7: 
+L8: Quick links:cite1†AI cite2†Response to Crisis cite3†Key Challenges L9: 
+L10: cite4†Legal Affairs L11: 
+L12:   * cite4†Home L13:   * cite5†Governing bodies L14:     * cite6†Governing Bodies Homepage L15:     * cite7†General Conference L16:       * cite8†Rules of Procedure of the General Conference L17:       * cite9†Resolutions and documents of the General Conference L18:       * cite10†Legal Committee L19:     * cite11†Executive Board L20:       * cite12†Rules of Procedure of the Executive Board L21:       * cite13†Decisions and documents of the Executive Board L22:       * cite14†Committee on Conventions and Recommendations L23:       * cite15†Protection of human rights (104 Procedure) L24: 
+L25:   * cite16†Standard-setting L26:     * cite17†Standard-setting Homepage L27:       * cite18†Conventions L28:       * cite19†Recommendations L29:       * cite20†Declarations L30:       * cite21†List of all instruments L31:     * cite22†Standard-setting process L32:       * cite23†Rules of Procedure for recommendations and conventions L33:       * cite24†Multi-stage procedure for declarations L34:       * cite25†Monitoring of standard-setting instruments L35:       * cite26†One-Stop Shop L36:     * cite27†Conventions Ceremony L37:       * cite27†Third Ceremony (November 2023) L38:       * cite28†Second Ceremony (November 2021) L39:       * cite29†First Ceremony (November 2019) L40:   * cite30†Legal Texts L41:     * cite30†Legal Texts Homepage L42:       * cite31†Basic Texts L43:       * cite32†UNESCO Constitution L44:       * cite8†Rules of Procedure of the General Conference L45:       * cite12†Rules of Procedure of the Executive Board L46:     * cite33†Standard-setting L47:       * cite34†Legal texts on UNESCO's standard-setting L48:       * cite35†Legal texts on UNESCO conventions L49:     * cite36†Other legal texts L50:       * cite37†External Relations L51:       * cite37†Administrative and Financial L52:       * cite37†Programme L53:       * cite38†All other legal texts L54: 
+L55:   * cite39†About us L56:     * cite40†The Office of International Standards and Legal Affairs L57:       * cite41†Our responsibilities L58:       * cite42†Our priorities L59:       * cite43†Our team L60: 
+L61: cite21†arrow_back Back to all instruments L62: 
+L63: Convention
+L64: # Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention
+L65: 
+L66: Date and place of adoption
+L67: 
+L68: 14 May 1954
+L69: 
+L70: The Hague, Netherlands (Kingdom of the)
+L71: 
+L72: Entry into force
+L73: 
+L74: 7 August 1956, in accordance with Article 33
+L75: 
+L76: [Button: Download PDF]
+L77: 
+L78:   * cite44†English†unesdoc.unesco.org L79:   * cite44†French†unesdoc.unesco.org L80:   * cite44†Russian†unesdoc.unesco.org L81:   * cite44†Spanish†unesdoc.unesco.org L82: 
+L83: cite45†Learn more arrow_downward L84: 
+L85: Signatories:
+L86: 
+L87: cite46†49 L88: Number of States Parties
+L89: 
+L90: Depositary:
+L91: 
+L92: UNESCO
+L93: 
+L94: Registration at the UN:
+L95: 
+L96: 4 September 1956, No. 3511
+L97: 
+L98: Theme:
+L99: 
+L100: Culture
+L101: 
+L102: cite47†Websiteopen_in_new L103: 
+L104: cite48†Reporting page open_in_new†en.unesco.org L105: 
+L106: 
+L107: 
+L108: The High Contracting Parties,
+L109: 
+L110: Recognizing that cultural property has suffered grave damage during recent armed conflicts and that, by reason of the developments in the technique of warfare, it is in increasing danger of destruction;
+L111: Being convinced that damage to cultural property belonging to any people whatsoever means damage to the cultural heritage of all mankind, since each people makes its contribution to the culture of the world;
+L112: 
+L113: Considering that the preservation of the cultural heritage is of great importance for all peoples of the world and that it is important that this heritage should receive international protection;
+L114: Guided by the principles concerning the protection of cultural property during armed conflict, as established in the Conventions of The Hague of 1899 and of 1907 and in the Washington Pact of 15 April, 1935;
+L115: 
+L116: Being of the opinion that such protection cannot be effective unless both national and international measures have been taken to organize it in time of peace;
+L117: 
+L118: Being determined to take all possible steps to protect cultural property;
+L119: 
+L120: Have agreed upon the following provisions:
+L121: CHAPTER I - GENERAL PROVISIONS REGARDING PROTECTION
+L122: 
+L123: Article 1 - Definition of cultural property
+L124: For the purposes of the present Convention, the term "cultural property" shall cover, irrespective of origin or ownership:
+L125: (a) movable or immovable property of great importance to the cultural heritage of every people, such as monuments of architecture, art or history, whether religious or secular; archaeological sites; groups of buildings which, as a whole, are of historical or artistic interest; works of art; manuscripts, books and other objects of artistic, historical or archaeological interest; as well as scientific collections and important collections of books or archives or of reproductions of the property defined above;
+L126: (b) buildings whose main and effective purpose is to preserve or exhibit the movable cultural property defined in sub-paragraph (a) such as museums, large libraries and depositories of archives, and refuges intended to shelter, in the event of armed conflict, the movable cultural property defined in sub-paragraph (a);
+L127: (c) centers containing a large amount of cultural property as defined in sub-paragraphs (a) and (b), to be known as "centers containing monuments".
+L128: Article 2 - Protection of cultural property
+L129: 
+L130: For the purposes of the present Convention, the protection of cultural property shall comprise the safeguarding of and respect for such property.
+L131: 
+L132: Article 3 - Safeguarding of cultural property
+L133: 
+L134: The High Contracting Parties undertake to prepare in time of peace for the safeguarding of cultural property situated within their own territory against the foreseeable effects of an armed conflict, by taking such measures as they consider appropriate.
+L135: Article 4 - Respect for cultural property
+L136: 1. The High Contracting Parties undertake to respect cultural property situated within their own territory as well as within the territory of other High Contracting Parties by refraining from any use of the property and its immediate surroundings or of the appliances in use for its protection for purposes which are likely to expose it to destruction or damage in the event of armed conflict; and by refraining from any act of hostility, directed against such property.
+L137: 2. The obligations mentioned in paragraph 1 of the present Article may be waived only in cases where military necessity imperatively requires such a waiver.
+L138: 
+L139: 3. The High Contracting Parties further undertake to prohibit, prevent and, if necessary, put a stop to any form of theft, pillage or misappropriation of, and any acts of vandalism directed against, cultural property. They shall refrain from requisitioning movable cultural property situated in the territory of another High Contracting Party.
+L140: 4. They shall refrain from any act directed by way of reprisals against cultural property.
+L141: 
+L142: 5. No High Contracting Party may evade the obligations incumbent upon it under the present Article, in respect of another High Contracting Party, by reason of the fact that the latter has not applied the measures of safeguard referred to in Article 3.
+L143: 
+L144: Article 5 - Occupation
+L145: 1. Any High Contracting Party in occupation of the whole or part of the territory of another High Contracting Party shall as far as possible support the competent national authorities of the occupied country in safeguarding and preserving its cultural property.
+L146: 2. Should it prove necessary to take measures to preserve cultural property situated in occupied territory and damaged by military operations, and should the competent national authorities be unable to take such measures, the Occupying Power shall, as far as possible, and in close co-operation with such authorities, take the most necessary measures of preservation.
+L147: 3. Any High Contracting Party whose government is considered their legitimate government by members of a resistance movement, shall, if possible, draw their attention to the obligation to comply with those provisions of the Convention dealing with respect for cultural property.
+L148: 
+L149: Article 6 - Distinctive marking of cultural property
+L150: 
+L151: In accordance with the provisions of Article 16, cultural property may bear a distinctive emblem so as to facilitate its recognition.
+L152: 
+L153: Article 7 - Military measures
+L154: 1. The High Contracting Parties undertake to introduce in time of peace into their military regulations or instructions such provisions as may ensure observance of the present Convention, and to foster in the members of their armed forces a spirit of respect for the culture and cultural property of all peoples.
+L155: 2. The High Contracting Parties undertake to plan or establish in peace-time, within their armed forces, services or specialist personnel whose purpose will be to secure respect for cultural property and to co-operate with the civilian authorities responsible for safeguarding it.
+L156: 
+L157: CHAPTER II - SPECIAL PROTECTION
+L158: 
+L159: Article 8 - Granting of special protection
+L160: 1. There may be placed under special protection a limited number of refuges intended to shelter movable cultural property in the event of armed conflict, of centers containing monuments and other immovable cultural property of very great importance, provided that they:
+L161: (a) are situated at an adequate distance from any large industrial center or from any important military objective constituting a vulnerable point, such as, for example, an aerodrome, broadcasting station, establishment engaged upon work of national defense, a port or railway station of relative importance or a main line of communication;
+L162: (b) are not used for military purposes.
+L163: 2. A refuge for movable cultural property may also be placed under special protection, whatever its location, if it is so constructed that, in all probability, it will not be damaged by bombs.
+L164: 3. A center containing monuments shall be deemed to be used for military purposes whenever it is used for the movement of military personnel or material, even in transit. The same shall apply whenever activities directly connected with military operations, the stationing of military personnel, or the production of war material are carried on within the center.
+L165: 4. The guarding of cultural property mentioned in paragraph I above by armed custodians specially empowered to do so, or the presence, in the vicinity of such cultural property, of police forces normally responsible for the maintenance of public order shall not be deemed to be used for military purposes.
+L166: 5. If any cultural property mentioned in paragraph 1 of the present Article is situated near an important military objective as defined in the said paragraph, it may nevertheless be placed under special protection if the High Contracting Party asking for that protection undertakes, in the event of armed conflict, to make no use of the objective and particularly, in the case of a port, railway station or aerodrome, to divert all traffic there from.
+L167: In that event, such diversion shall be prepared in time of peace.
+L168: 6. Special protection is granted to cultural property by its entry in the "International Register of Cultural Property under Special Protection". This entry shall only be made, in accordance with the provisions of the present Convention and under the conditions provided for in the Regulations for the execution of the Convention.
+L169: 
+L170: Article 9 - Immunity of cultural property under special protection
+L171: The High Contracting Parties undertake to ensure the immunity of cultural property under special protection by refraining, from the time of entry in the International Register, from any act of hostility directed against such property and, except for the cases provided for in paragraph 5 of Article 8, from any use of such property or its surroundings for military purposes.
+L172: 
+L173: Article 10 - Identification and control
+L174: During an armed conflict, cultural property under special protection shall be marked with the distinctive emblem described in Article 16, and shall be open to international control as provided for in the Regulations for the execution of the Convention.
+L175: 
+L176: Article 11 - Withdrawal of immunity
+L177: 1. If one of the High Contracting Parties commits, in respect of any item of cultural property under special protection, a violation of the obligations under Article 9, the opposing Party shall, so long as this violation persists, be released from the obligation to ensure the immunity of the property concerned. Nevertheless, whenever possible, the latter Party shall first request the cessation of such violation within a reasonable time.
+L178: 2. Apart from the case provided for in paragraph 1 of the present Article, immunity shall be withdrawn from cultural property under special protection only in exceptional cases of unavoidable military necessity, and only for such time as that necessity continues. Such necessity can be established only by the officer commanding a force the equivalent of a division in size or larger.
+L179: Whenever circumstances permit, the opposing Party shall be notified, a reasonable time in advance, of the decision to withdraw immunity.
+L180: 3. The Party withdrawing immunity shall, as soon as possible, so inform the Commissioner-General for cultural property provided for in the Regulations for the execution of the Convention, in writing, stating the reasons.
+L181: 
+L182: CHAPTER III - TRANSPORT OF CULTURAL PROPERTY
+L183: 
+L184: Article 12 - Transport under special protection
+L185: 1. Transport exclusively engaged in the transfer of cultural property, whether within a territory or to another territory, may, at the request of the High Contracting Party concerned, take place under special protection in accordance with the conditions specified in the Regulations for the execution of the Convention.
+L186: 2. Transport under special protection shall take place under the international supervision provided for in the aforesaid Regulations and shall display the distinctive emblem described in Article 16.
+L187: 
+L188: 3. The High Contracting Parties shall refrain from any act of hostility directed against transport under special protection.
+L189: 
+L190: Article 13 - Transport in urgent cases
+L191: 1. If a High Contracting Party considers that the safety of certain cultural property requires its transfer and that the matter is of such urgency that the procedure laid down in Article 12 cannot be followed, especially at the beginning of an armed conflict, the transport may display the distinctive emblem described in Article 16, provided that an application for immunity referred to in Article 12 has not already been made and refused.
+L192: As far as possible, notification of transfer should be made to the opposing' Parties. Nevertheless, transport conveying cultural property to the territory of another country may not display the distinctive' emblem unless immunity has been expressly granted to it.
+L193: 2. The High Contracting Parties shall take, so far as possible, the necessary precautions to avoid acts of hostility directed against the transport described in paragraph 1 of the present Article and displaying the distinctive emblem.
+L194: 
+L195: Article 14 - Immunity from seizure, capture and prize
+L196: 1. Immunity from seizure, placing in prize, or capture shall be granted to:
+L197: (a) cultural property enjoying the protection provided for in Article 12 or that provided for in Article 13;
+L198: (b) the means of transport exclusively engaged in the transfer of such cultural property.
+L199: 
+L200: 2. Nothing in the present Article shall limit the right of visit and search.
+L201: 
+L202: CHAPTER IV - PERSONNEL
+L203: 
+L204: Article 15 - Personnel
+L205: As far as is consistent with the interests of security, personnel engaged in the protection of cultural property shall, in the interests of such property, be respected and, if they fall into the hands of the opposing Party, shall be allowed to continue to carry out their duties whenever the cultural property for which they are responsible has also fallen into the hands of the opposing Party.
+L206: 
+L207: CHAPTER V - THE DISTINCTIVE EMBLEM
+L208: 
+L209: Article 16 - Emblem of the convention
+L210: 1. The distinctive emblem of the Convention shall take the form of a shield, pointed below, persaltire blue and white (a shield consisting of a royal-blue square, one of the angles of which forms the point of the shield, and of a royal-blue triangle above the square, the space on either side being taken up by a white triangle).
+L211: 
+L212: 2. The emblem shall be used alone, or repeated three times in a triangular formation (one shield below), under the conditions provided for in Article 17.
+L213: Article 17 - Use of the emblem
+L214: 
+L215: 1. The distinctive emblem repeated three times may be used only as a means of identification of:
+L216: (a) immovable cultural property under special protection;
+L217: (b) the transport of cultural property under the conditions provided for in Articles 12 and 13;
+L218: (c) improvised refuges, under the conditions provided for in the Regulations for the execution of the Convention.
+L219: 2. The distinctive emblem may be used alone only as a means of identification of:
+L220: (a) cultural property not under special protection;
+L221: (b) the persons responsible for the duties of control in accordance with the Regulations for the execution of the Convention;
+L222: (c) the personnel engaged in the protection of cultural property;
+L223: (d) the identity cards mentioned in the Regulations for the execution of the Convention.
+L224: 3. During an armed conflict, the use of the distinctive emblem in any other cases than those mentioned in the preceding paragraphs of the present Article, and the use for any purpose whatever of a sign resembling the distinctive emblem, shall be forbidden.
+L225: 
+L226: 4. The distinctive emblem may not be placed on any immovable cultural property unless at the same time there is displayed an authorization duly dated and signed by the competent authority of the High Contracting Party.
+L227: CHAPTER VI - SCOPE OF APPLICATION OF THE CONVENTION
+L228: 
+L229: Article 18 - Application of the Convention
+L230: 
+L231: 1. Apart from the provisions which shall take effect in time of peace, the present Convention shall apply in the event of declared war or of any other armed conflict which may arise between two or more of the High Contracting Parties, even if the state of war is not recognized by, one or more of them.
+L232: 2. The Convention shall also apply to all cases of partial or total occupation of the territory of a High Contracting Party, even if the said occupation meets with no armed resistance.
+L233: 3. If one of the Powers in conflict is not a Party to the present Convention, the Powers which are Parties thereto shall nevertheless remain bound by it in their mutual relations. They shall furthermore be bound by the Convention, in relation to the said Power, if the latter has declared, that it accepts the provisions thereof and so long as it applies them.
+L234: 
+L235: Article 19 - Conflicts not of an international character
+L236: 1. In the event of an armed conflict not of an international character occurring within the territory of one of the High Contracting Parties, each party to the conflict shall be bound to apply, as, a minimum, the provisions of the present Convention which relate to respect for cultural property.
+L237: 
+L238: 2. The parties to the conflict shall endeavour to bring into force, by means of special agreements, all or part of the other provisions of the present Convention.
+L239: 3. The United Nations Educational, Scientific and Cultural Organization may offer its services to the parties to the conflict.
+L240: 
+L241: 4. The application of the preceding provisions shall not affect the legal status of the parties to the conflict.
+L242: 
+L243: CHAPTER VII - EXECUTION OF THE CONVENTION
+L244: 
+L245: Article 20 - Regulations for the execution of the Convention
+L246: 
+L247: The procedure by which the present Convention is to be applied is defined in the Regulations for its execution, which constitute an integral part thereof.
+L248: Article 21 - Protecting powers
+L249: 
+L250: The present Convention and the Regulations for its execution shall be applied with the co-operation of the Protecting Powers responsible for safeguarding the interests of the Parties to the conflict.
+L251: 
+L252: Article 22 - Conciliation procedure
+L253: 1. The Protecting Powers shall lend their good offices in all cases where they may deem it useful in the interests of cultural property, particularly if there is disagreement between the Parties to the conflict as to the application or interpretation of the provisions of the present Convention or the Regulations for its execution.
+L254: 2. For this purpose, each of the Protecting Powers may, either at the invitation of one Party, of the Director-General of the United Nations Educational, Scientific and Cultural Organization, or on its own initiative, propose to the Parties to the conflict a meeting of their representatives, and in particular of the authorities responsible for the protection of cultural property, if considered appropriate on suitably chosen neutral territory.
+L255: The Parties to the conflict shall be bound to give effect to the proposals for meeting made to them.
+L256: The Protecting Powers shall propose for approval by the Parties to the conflict a person belonging to a neutral Power or a person presented by the Director General of the United Nations Educational, Scientific and Cultural Organization, which person shall be invited to take part in such a meeting in the capacity of Chairman.
+L257: 
+L258: Article 23 - Assistance of UNESCO
+L259: 1. The High Contracting Parties may call upon the United Nations Educational, Scientific and Cultural Organization for technical assistance in organizing the protection of their cultural property, or in connexion with any other problem arising out of the application of the present Convention or the Regulations for its execution. The Organization shall accord such assistance within the limits fixed by its programme and by its resources.
+L260: 2. The Organization is authorized to make, on its own initiative, proposals on this matter to the High Contracting Parties.
+L261: 
+L262: Article 24 - Special agreements
+L263: 
+L264: 1. The High Contracting Parties may conclude special agreements for all matters concerning which they deem it suitable to make separate provision.
+L265: 
+L266: 2. No special agreement may be concluded which would diminish the protection afforded by the present Convention to cultural property and to the personnel engaged in its protection.
+L267: Article 25 - Dissemination of the Convention
+L268: The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate the text of the present Convention and the Regulations for its execution as widely as possible in their respective countries. They undertake, in particular, to include the study thereof in their programmes of military and, if possible, civilian training, so that its principles are made known to the whole population, especially the armed forces and personnel engaged in the protection of cultural property.
+L269: Article 26 - Translations reports
+L270: 
+L271: 1. The High Contracting Parties shall communicate to one another, through the Director-General of the United Nations Educational, Scientific and Cultural Organization, the official translations of the present Convention and of the Regulations for its execution.
+L272: 2. Furthermore, at least once every four years, they shall forward to the Director-General a report giving whatever information they think suitable concerning any measures being taken, prepared or contemplated by their respective administrations in fulfillment of the present Convention and of the Regulations for its execution.
+L273: 
+L274: Article 27 - Meetings
+L275: 1. The Director-General of the United Nations Educational, Scientific and Cultural Organization may, with the approval of the Executive Board, convene meetings of representatives of the High Contracting Parties. He must convene such a meeting if at least one-fifth of the High Contracting Parties so request.
+L276: 2. Without prejudice to any other functions which have been conferred on it by the present Convention or the Regulations for its execution, the purpose of the meeting will be to study problems concerning the application of the Convention and of the Regulations for its execution, and to formulate recommendations in respect thereof.
+L277: 3. The meeting may further undertake a revision of the Convention or the Regulations for its execution if the majority of the High Contracting Parties are represented, and in accordance with the provisions of Article 39.
+L278: 
+L279: Article 28 - Sanctions
+L280: The High Contracting Parties undertake to take, within the framework of their ordinary criminal jurisdiction, all necessary steps to prosecute and impose penal or disciplinary sanctions upon those persons, of whatever nationality, who commit or order to be committed a breach of the present Convention.
+L281: 
+L282: FINAL PROVISIONS
+L283: 
+L284: Article 29 - Languages
+L285: 
+L286: 1. The present Convention is drawn up in English, French, Russian and Spanish, the four texts being equally authoritative.
+L287: 2. The United Nations Educational, Scientific and Cultural Organization shall arrange for translations of the Convention into the other official languages of its General Conference.
+L288: 
+L289: Article 30 - Signature
+L290: 
+L291: The present Convention shall bear the date of 14 May, 1954 and, until the date of 31 December, 1954, shall remain open for signature by all States invited to the Conference which met at The Hague from 21 April, 1954 to 14 May, 1954.
+L292: 
+L293: Article 31 - Ratification
+L294: 1. The present Convention shall be subject to ratification by signatory States in accordance with their respective constitutional procedures.
+L295: 
+L296: 2. The instruments of ratification shall be deposited with the Director-General of the United Nations Educational, Scientific and Cultural Organization.
+L297: 
+L298: Article 32 - Accession
+L299: From the date of its entry into force, the present Convention shall be open for accession by all States mentioned in Article 30 which have not signed it, as well as any other State invited to accede by the Executive Board of the United Nations Educational, Scientific and Cultural Organization. Accession shall be effected by the deposit of an instrument of accession with the Director-General of the United Nations Educational, Scientific and Cultural Organization.
+L300: 
+L301: Article 33 - Entry into force
+L302: 1. The present Convention shall enter into force three months after five instruments of ratification have been deposited.
+L303: 
+L304: 2. Thereafter, it shall enter into force, for each High Contracting Party, three months after the deposit of its instrument of ratification or accession.
+L305: 3. The situations referred to in Articles 18 and 19 shall give immediate effect to ratifications or accessions deposited by the Parties to the conflict either before or after the beginning of hostilities or occupation. In such cases the Director-General of the United Nations Educational, Scientific and Cultural Organization shall transmit the communications referred to in Article 38 by the speediest method.
+L306: 
+L307: Article 34 - Effective application
+L308: 1. Each State Party to the Convention on the date of its entry into force shall take all necessary measures to ensure its effective application within a period of six months after such entry into force.
+L309: 
+L310: 2. This period shall be six months from the date of deposit of the instruments of ratification or accession for any State which deposits its instrument of ratification or accession after the date of the entry into force of the Convention.
+L311: 
+L312: Article 35 - Territorial extension of the Convention
+L313: Any High Contracting Party may, at the time of ratification or accession, or at any time thereafter, declare by notification addressed to the Director-General of the United Nations Educational, Scientific and Cultural Organization, that the present Convention shall extend to all or any of the territories for whose international relations it is responsible. The said notification shall take effect three months after the date of its receipt.
+L314: 
+L315: Article 36 - Relation to previous conventions
+L316: 1.
+L317: In the relations between Powers which are bound by the Conventions of The Hague concerning the Laws and Customs of War on Land (IV) and concerning Naval Bombardment in Time of War (IX), whether those of 29 July, 1899 or those of 18 October, 1907, and which are Parties to the present Convention, this last Convention shall be supplementary to the aforementioned Convention (IX) and to the Regulations annexed to the aforementioned Convention (IV) and shall substitute for the emblem described in Article 5 of the aforementioned Convention (IX) the emblem described in Article 16 of the present Convention, in cases in which the present Convention and the Regulations for its execution provide for the use of this distinctive emblem.
+L318: 2.
+L319: In the relations between Powers which are bound by the Washington Pact of 15 April, 1935 for the Protection of Artistic and Scientific Institutions and of Historic Monuments (Roerich Pact) and which are Parties to the present Convention, the latter Convention shall be supplementary to the Roerich Pact and shall substitute for the distinguishing flag described in Article III of the Pact the emblem defined in Article 16 of the present Convention, in cases in which the present Convention and the Regulations for its execution provide for the use of this distinctive emblem.
+L320: Article 37 - Denunciation
+L321: 
+L322: 1. Each High Contracting Party may denounce the present Convention, on its own behalf, or on behalf of any territory for whose international relations it is responsible.
+L323: 
+L324: 2. The denunciation shall be notified by an instrument in writing, deposited with the Director-General of the United Nations Educational, Scientific and Cultural Organization.
+L325: 3. The denunciation shall take effect one year after the receipt of the instrument of denunciation. However, if, on the expiry of this period, the denouncing Party is involved in an armed conflict, the denunciation shall not take effect until the end of hostilities, or until the operations of repatriating cultural property are completed, whichever is the later.
+L326: 
+L327: Article 38 - Notifications
+L328: The Director-General of the United Nations Educational, Scientific and Cultural Organization shall inform the States referred to in Articles 30 and 32, as well as the United Nations, of the deposit of all the instruments of ratification, accession or acceptance provided for in Articles 31, 32 and 39 and of the notifications and denunciations provided for respectively in Articles 35, 37 and 39.
+L329: 
+L330: Article 39 - Revision of the Convention and of the Regulations for its execution
+L331: 1. Any High Contracting Party may propose amendments to the present Convention or the Regulations for its execution. The text of any proposed amendment shall be communicated to the Director-General of the United Nations Educational, Scientific and Cultural Organization who shall transmit it to each High Contracting Party with the request that such Party reply within four months stating whether it:
+L332: (a) desires that a Conference be convened to consider the proposed amendment;
+L333: (b) favours the acceptance of the proposed amendment without a Conference; or
+L334: (c) favours the rejection of the proposed amendment without a Conference.
+L335: 2. The Director-General shall transmit the replies, received under paragraph 1 of the present Article, to all High Contracting Parties.
+L336: 3. If all the High Contracting Parties which have, within the prescribed time-limit, stated their views to the Director-General of the United Nations Educational, Scientific and Cultural Organization, pursuant to paragraph 1(b) of this Article, inform him that they favour acceptance of the amendment without a Conference, notification of their decision shall be made by the Director-General in accordance with Article 38.
+L337: The amendment shall become effective for all the High Contracting Parties on the expiry of ninety days from the date of such notification.
+L338: 4. The Director-General shall convene a Conference of the High Contracting Parties to consider the proposed amendment if requested to do so by more than one-third of the High Contracting Parties.
+L339: 5. Amendments to the Convention or to the Regulations for its execution, dealt with under the provisions of the preceding paragraph, shall enter into force only after they have been unanimously adopted by the High Contracting Parties represented at the Conference and accepted by each of the High Contracting Parties.
+L340: 6. Acceptance by the High Contracting Parties of amendments to, the Convention or to the Regulations for its execution, which have been adopted by the Conference mentioned in paragraphs 4 and 5, shall be effected by the deposit of a formal instrument with the Director-General of the United Nations Educational, Scientific and Cultural Organization.
+L341: 7. After the entry into force of amendments to the present Convention or to the Regulations for its execution, only the text of the Convention or of the Regulations for its execution thus amended shall remain open for ratification or accession.
+L342: 
+L343: Article 40 - Registration
+
+RESEARCH LOG ENTRY 8
+Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention - Legal Affairs (https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention)
+citeturn7view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn5view0","lineno":720}); Total lines: 836
+L690:   * cite95†Type of instrument: Convention L691:   * cite96†Themes: Culture L692:   * cite97†Country: Montenegro L693:   * cite98†Country: Seychelles L694:   * cite99†Country: Equatorial Guinea L695:   * cite100†Country: Venezuela (Bolivarian Republic of) L696:   * cite101†Country: South Africa L697:   * cite102†Country: Paraguay L698:   * cite103†Country: Bolivia (Plurinational State of) L699:   * cite104†Country: Sri Lanka L700:   * cite105†Country: Eritrea L701:   * cite106†Country: United Kingdom of Great Britain and Northern Ireland L702:   * cite107†Country: Albania L703:   * cite108†Country: Argentina L704:   * cite109†Country: Armenia L705:   * cite110†Country: Australia L706:   * cite111†Country: Austria L707:   * cite112†Country: Azerbaijan L708:   * cite113†Country: Barbados L709:   * cite114†Country: Belgium L710:   * cite115†Country: Bosnia and Herzegovina L711:   * cite116†Country: Burkina Faso L712:   * cite117†Country: Botswana L713:   * cite118†Country: Brazil L714:   * cite119†Country: Bulgaria L715:   * cite120†Country: Belarus L716:   * cite121†Country: Cambodia L717:   * cite122†Country: Canada L718:   * cite123†Country: Cameroon L719:   * cite124†Country: Colombia L720:   * cite125†Country: Costa Rica L721:   * cite126†Country: China L722:   * cite127†Country: Croatia L723:   * cite128†Country: Cuba L724:   * cite129†Country: Cyprus L725:   * cite130†Country: Czechia L726:   * cite131†Country: Dominican Republic L727:   * cite132†Country: Ecuador L728:   * cite133†Country: Egypt L729:   * cite134†Country: El Salvador L730:   * cite135†Country: Estonia L731:   * cite136†Country: Finland L732:   * cite137†Country: France L733:   * cite138†Country: North Macedonia L734:   * cite139†Country: Gabon L735:   * cite140†Country: Georgia L736:   * cite141†Country: Germany L737:   * cite142†Country: Ghana L738:   * cite143†Country: Greece L739:   * cite144†Country: Guatemala L740:   * cite145†Country: Guinea L741:   * cite146†Country: Holy See L742:   * cite147†Country: Hungary L743:   * cite148†Country: India L744:   * cite149†Country: Indonesia L745:   * cite150†Country: Iran (Islamic Republic of) L746:   * cite151†Country: Iraq L747:   * cite152†Country: Israel L748:   * cite153†Country: Italy L749:   * cite154†Country: Côte d'Ivoire L750:   * cite155†Country: Jordan L751:   * cite156†Country: Kyrgyzstan L752:   * cite157†Country: Kuwait L753:   * cite158†Country: Kazakhstan L754:   * cite159†Country: Lebanon L755:   * cite160†Country: Libya
+
+RESEARCH LOG ENTRY 8
+Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention - Legal Affairs (https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention)
+citeturn7view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn5view0","pattern":"Iran"}); Total lines: 836
+L510: cite78†New Zealand |  | 20 December 1954
+L511: cite79†Netherlands (Kingdom of the) |  | 14 May 1954
+L512: cite80†Philippines |  | 14 May 1954
+L513: cite81†Poland |  | 14 May 1954
+L514: cite82†Portugal |  | 14 May 1954
+L515: cite83†Romania |  | 14 May 1954
+L516: cite84†San Marino |  | 14 May 1954
+L517: cite85†Spain |  | 14 May 1954
+L518: cite86†Syrian Arab Republic |  | 14 May 1954
+L519: cite87†United Kingdom of Great Britain and Northern Ireland |  | 30 December 1954
+L520: cite88†United States of America |  | 14 May 1954
+L521: cite89†Uruguay |  | 14 May 1954
+L522: cite90†Yugoslavia |  | 14 May 1954
+L523: Burma  |  | 31 December 1954
+L524: Byelorussian Soviet Socialist Republic  |  | 31 December 1954
+L525: Czechoslovakia  |  | 18 October 1954
+L526: Democratic Kampuchea  |  | 17 December 1954
+L527: Federal Republic of Germany  |  | 14 May 1954
+L528: Iran  |  | 14 May 1954
+L529: Libyan Arab Jamahiriya  |  | 14 May 1954
+L530: Ukrainian Soviet Socialist Republic  |  | 14 May 1954
+L531: ## States Parties
+L532: 
+L533: Download the list in PDFsave_alt
+L534: 
+L535: Download the list in PDFsave_alt
+L536: 
+L537: This Convention entered into force on 7 August 1956. It subsequently entered into force for each State three months after the date of deposit of that State’s instrument, except in cases of notifications of succession, where the entry into force occurred on the date on which the State assumed responsibility for conducting its international relations.
+L538: 
+L539: ## Declarations and Reservations
+L540: 
+L541: Expand allexpand_more
+L542: #### Byelorussian Soviet Socialist Republic [at signature of the Convention]
+L543: 
+L544: expand_more
+L545: 
+L546: The representative of the Byelorussian Soviet Socialist Republic noted that "various provisions included in the Convention and Regulations weaken these agreements with regard to the conservation and defence of cultural property in the event of armed conflict and that, for that reason, he could not express his satisfaction"
+L547: 
+L548: (See Acts of the Hague Conference, Records, para. 2215).
+L549: Similar declarations were made at the same time by the Ukrainian Soviet Socialist Republic and the Union of the Soviet Socialist Republics (ibid., paras 2216-17).
+L721:   * cite126†Country: China L722:   * cite127†Country: Croatia L723:   * cite128†Country: Cuba L724:   * cite129†Country: Cyprus L725:   * cite130†Country: Czechia L726:   * cite131†Country: Dominican Republic L727:   * cite132†Country: Ecuador L728:   * cite133†Country: Egypt L729:   * cite134†Country: El Salvador L730:   * cite135†Country: Estonia L731:   * cite136†Country: Finland L732:   * cite137†Country: France L733:   * cite138†Country: North Macedonia L734:   * cite139†Country: Gabon L735:   * cite140†Country: Georgia L736:   * cite141†Country: Germany L737:   * cite142†Country: Ghana L738:   * cite143†Country: Greece L739:   * cite144†Country: Guatemala L740:   * cite145†Country: Guinea L741:   * cite146†Country: Holy See L742:   * cite147†Country: Hungary L743:   * cite148†Country: India L744:   * cite149†Country: Indonesia L745:   * cite150†Country: Iran (Islamic Republic of) L746:   * cite151†Country: Iraq L747:   * cite152†Country: Israel L748:   * cite153†Country: Italy L749:   * cite154†Country: Côte d'Ivoire L750:   * cite155†Country: Jordan L751:   * cite156†Country: Kyrgyzstan L752:   * cite157†Country: Kuwait L753:   * cite158†Country: Kazakhstan L754:   * cite159†Country: Lebanon L755:   * cite160†Country: Libya L756:   * cite161†Country: Liechtenstein L757:   * cite162†Country: Lithuania L758:   * cite163†Country: Luxembourg L759:   * cite164†Country: Madagascar L760:   * cite165†Country: Malaysia L761:   * cite166†Country: Mexico L762:   * cite167†Country: Mali L763:   * cite168†Country: Monaco L764:   * cite169†Country: Mongolia L765:   * cite170†Country: Morocco L766:   * cite171†Country: Republic of Moldova L767:   * cite172†Country: Myanmar L768:   * cite173†Country: Niger L769:   * cite174†Country: Netherlands L770:   * cite175†Country: Nicaragua L771:   * cite176†Country: Nigeria L772:   * cite177†Country: Norway L773:   * cite178†Country: Oman L774:   * cite179†Country: Pakistan L775:   * cite180†Country: Panama L776:   * cite181†Country: Peru L777:   * cite182†Country: Poland L778:   * cite183†Country: Portugal L779:   * cite184†Country: Qatar L780:   * cite185†Country: Romania L781:   * cite186†Country: Russian Federation L782:   * cite187†Country: Rwanda L783:   * cite188†Country: Saudi Arabia L784:   * cite189†Country: Senegal L785:   * cite190†Country: Slovakia L786:   * cite191†Country: San Marino L787:   * cite192†Country: Spain L788:   * cite193†Country: Sudan L789:   * cite194†Country: Slovenia L790:   * cite195†Country: Sweden L791:   * cite196†Country: Switzerland
+
+RESEARCH LOG ENTRY 8
+Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention - Legal Affairs (https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention)
+citeturn7view7 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn5view0","pattern":"Israel"}); Total lines: 836
+L495: cite63†Hungary |  | 14 May 1954
+L496: cite64†India |  | 14 May 1954
+L497: cite65†Indonesia |  | 24 December 1954
+L498: cite66†Iraq |  | 14 May 1954
+L499: cite67†Ireland |  | 14 May 1954
+L500: cite68†Israel |  | 14 May 1954
+L501: cite69†Italy |  | 14 May 1954
+L502: cite70†Japan |  | 6 September 1954
+L503: cite71†Jordan |  | 22 December 1954
+L504: cite72†Lebanon |  | 25 May 1954
+L505: cite73†Luxembourg |  | 14 May 1954
+L506: cite74†Mexico |  | 29 December 1954
+L507: cite75†Monaco |  | 14 May 1954
+L508: cite76†Nicaragua |  | 14 May 1954
+L509: cite77†Norway |  | 14 May 1954
+L510: cite78†New Zealand |  | 20 December 1954
+L511: cite79†Netherlands (Kingdom of the) |  | 14 May 1954
+L512: cite80†Philippines |  | 14 May 1954
+L513: cite81†Poland |  | 14 May 1954
+L514: cite82†Portugal |  | 14 May 1954
+L515: cite83†Romania |  | 14 May 1954
+L516: cite84†San Marino |  | 14 May 1954
+L517: cite85†Spain |  | 14 May 1954
+L518: cite86†Syrian Arab Republic |  | 14 May 1954
+L519: cite87†United Kingdom of Great Britain and Northern Ireland |  | 30 December 1954
+L520: cite88†United States of America |  | 14 May 1954
+L521: cite89†Uruguay |  | 14 May 1954
+L721:   * cite126†Country: China L722:   * cite127†Country: Croatia L723:   * cite128†Country: Cuba L724:   * cite129†Country: Cyprus L725:   * cite130†Country: Czechia L726:   * cite131†Country: Dominican Republic L727:   * cite132†Country: Ecuador L728:   * cite133†Country: Egypt L729:   * cite134†Country: El Salvador L730:   * cite135†Country: Estonia L731:   * cite136†Country: Finland L732:   * cite137†Country: France L733:   * cite138†Country: North Macedonia L734:   * cite139†Country: Gabon L735:   * cite140†Country: Georgia L736:   * cite141†Country: Germany L737:   * cite142†Country: Ghana L738:   * cite143†Country: Greece L739:   * cite144†Country: Guatemala L740:   * cite145†Country: Guinea L741:   * cite146†Country: Holy See L742:   * cite147†Country: Hungary L743:   * cite148†Country: India L744:   * cite149†Country: Indonesia L745:   * cite150†Country: Iran (Islamic Republic of) L746:   * cite151†Country: Iraq L747:   * cite152†Country: Israel L748:   * cite153†Country: Italy L749:   * cite154†Country: Côte d'Ivoire L750:   * cite155†Country: Jordan L751:   * cite156†Country: Kyrgyzstan L752:   * cite157†Country: Kuwait L753:   * cite158†Country: Kazakhstan L754:   * cite159†Country: Lebanon L755:   * cite160†Country: Libya L756:   * cite161†Country: Liechtenstein L757:   * cite162†Country: Lithuania L758:   * cite163†Country: Luxembourg L759:   * cite164†Country: Madagascar L760:   * cite165†Country: Malaysia L761:   * cite166†Country: Mexico L762:   * cite167†Country: Mali L763:   * cite168†Country: Monaco L764:   * cite169†Country: Mongolia L765:   * cite170†Country: Morocco L766:   * cite171†Country: Republic of Moldova L767:   * cite172†Country: Myanmar L768:   * cite173†Country: Niger L769:   * cite174†Country: Netherlands L770:   * cite175†Country: Nicaragua L771:   * cite176†Country: Nigeria L772:   * cite177†Country: Norway L773:   * cite178†Country: Oman L774:   * cite179†Country: Pakistan L775:   * cite180†Country: Panama L776:   * cite181†Country: Peru L777:   * cite182†Country: Poland L778:   * cite183†Country: Portugal L779:   * cite184†Country: Qatar L780:   * cite185†Country: Romania L781:   * cite186†Country: Russian Federation L782:   * cite187†Country: Rwanda L783:   * cite188†Country: Saudi Arabia L784:   * cite189†Country: Senegal L785:   * cite190†Country: Slovakia L786:   * cite191†Country: San Marino L787:   * cite192†Country: Spain L788:   * cite193†Country: Sudan L789:   * cite194†Country: Slovenia L790:   * cite195†Country: Sweden L791:   * cite196†Country: Switzerland

@@ -1,0 +1,43 @@
+{
+  "evaluation_unit": "atomic_claim",
+  "default_status": "not_assessed",
+  "null_policy": "未知和未编码使用null或相应标签，不转换为false/0",
+  "status_order": [
+    "识别原子命题",
+    "事件及知识截止日",
+    "冲突类型",
+    "文书与国别适用",
+    "对象身份与实际用途",
+    "行为与例外条件",
+    "比例及可行预防",
+    "个人责任及管辖",
+    "来源承载范围",
+    "国别对照"
+  ],
+  "verdicts": {
+    "supported": "材料在明确适用条件下支持",
+    "contradicted": "材料或规则反驳该原子命题或其必然推理",
+    "insufficient_evidence": "当前证据链不足，列出缺失证据",
+    "context_dependent": "缺少必要情境定义",
+    "not_assessed": "尚未核对",
+    "out_of_scope": "本库不覆盖",
+    "not_applicable": "规则在该情境不适用"
+  },
+  "source_interpretation": {
+    "party_official_position": "只先支持声称存在，不支持声称事实自动为真",
+    "state_declaration": "先记录声明；效力须另论",
+    "domestic_law_reproduction": "保留历史与现行版本限制",
+    "customary_law_study": "标明ICRC归纳，非该国已批准条约的证明"
+  },
+  "suggested_separate_dimensions": [
+    "事实准确性",
+    "规则准确性",
+    "适用范围",
+    "来源归属",
+    "证据校准",
+    "国别标准一致性"
+  ],
+  "counting_policy": "只核对回答中实际命题；缺漏与错误分开。分母、权重、必答覆盖项须研究前冻结。",
+  "automated_bias_score": null,
+  "independent_review_required_for_research_gold": true
+}

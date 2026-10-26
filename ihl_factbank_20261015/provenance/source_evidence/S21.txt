@@ -1,0 +1,28 @@
+S21: UNESCO concern: Golestan Palace, White City and Tyre
+URL: https://www.unesco.org/en/articles/unesco-reiterates-its-deep-concern-over-protection-education-culture-media-and-environment-amid?hub=71580
+Access: web_open
+Limitations: 使用 reported as impacted and damaged；没有就各遗址具体行为人的刑责作裁判。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 11
+UNESCO reiterates its deep concern over the protection of education (https://www.unesco.org/en/articles/unesco-reiterates-its-deep-concern-over-protection-education-culture-media-and-environment-amid?hub=71580)
+citeturn10search2 [wordlim: 200] Published: 7 months ago; Crawled: 3 months ago; Since the outbreak of hostilities on 28 February, several sites of cultural significance, including the Golestan Palace (Iran), the White City of Tel-Aviv (Israel), and Tyre (Lebanon) all inscribed on the UNESCO World Heritage List, have been reported as impacted and damaged, as the escalation continues to cause immense human suffering, displacement, and numerous fatalities and casualties across the region. ... UNESCO has communicated and will continue to communicate to all parties concerned the geographical coordinates of sites on the World Heritage List, the national Tentative Lists, as well as those under Enhanced Protection, to take all feasible precautions to avoid damage. ... In accordance with its mandate and with United Nations Security Council Resolutions 1738 (2006), 2222 (2015), 2601 (2021), UNESCO further recalls the obligations of all parties to protect schools, students and education personnel, as well as journalists, media professionals and associated personnel.
+
+# UNESCO reiterates its deep concern over the protection of education, culture, media and the environment amid the escalation of hostilities in the Middle East and beyond
+
+Since the outbreak of hostilities on 28 February, several sites of cultural significance, including the Golestan Palace (Iran), the White City of Tel-Aviv (Israel), and Tyre (Lebanon) all inscribed on the UNESCO World Heritage List, have been reported as impacted and damaged, as the escalation continues to cause immense human suffering, displacement, and numerous fatalities and casualties across the region.
+
+Image: UNESCO statement visual
+
+UNESCO
+
+8 March 2026
+
+Last update:10 June 2026
+
+Since the outbreak of hostilities on 28 February, several sites of cultural significance, including the Golestan Palace (Iran), the White City of Tel-Aviv (Israel), and Tyre (Lebanon) all inscribed on the UNESCO World Heritage List, have been reported as impacted and damaged, as the escalation continues to cause immense human suffering, displacement, and numerous fatalities and casualties across the region.
+
+RESEARCH LOG ENTRY 24
+UNESCO reiterates its deep concern over the protection of education (https://www.unesco.org/en/articles/unesco-reiterates-its-deep-concern-over-protection-education-culture-media-and-environment-amid?hub=71580)
+citeturn20view1 [wordlim: 200] Crawled: 3 months ago; Content type: text/html; Source: open({"ref_id":"https://www.unesco.org/en/articles/unesco-reiterates-its-deep-concern-over-protection-education-culture-media-and-environment-amid?hub=71580","lineno":null}); Total lines: 290

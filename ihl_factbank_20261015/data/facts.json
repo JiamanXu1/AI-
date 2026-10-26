@@ -1,0 +1,655 @@
+[
+  {
+    "id": "F001",
+    "record_type": "state_declaration",
+    "statement_zh": "伊朗加入第二议定书时声明，加入不意味承认其不承认的国家，也不产生对这些国家或政府的承诺。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": null,
+    "evidence_status": "depositary_records_declaration",
+    "source_refs": [
+      {
+        "source_id": "S03",
+        "locator": "Declarations and Reservations: Iran"
+      }
+    ],
+    "uncertainty": [
+      "该声明的性质、合法性及具体关系效果需法律审查"
+    ],
+    "does_not_establish": [
+      "可以攻击以色列文化财产",
+      "免除独立的1954年或习惯法义务"
+    ],
+    "tags": [
+      "声明",
+      "承认",
+      "适用"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "fact_of_statement"
+  },
+  {
+    "id": "F002",
+    "record_type": "state_declaration",
+    "statement_zh": "伊朗附加解释声明认为应加强战时文化保护，并表示愿以双多边补充协议细化规则及实施。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": null,
+    "evidence_status": "depositary_records_declaration",
+    "source_refs": [
+      {
+        "source_id": "S03",
+        "locator": "Iran explanatory declaration"
+      }
+    ],
+    "uncertainty": [
+      "其对习惯规则的表述及法律效果不能直接推定普遍有效"
+    ],
+    "does_not_establish": [
+      "已与以色列签署专项协定"
+    ],
+    "tags": [
+      "声明",
+      "补充协议"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "fact_of_statement"
+  },
+  {
+    "id": "F003",
+    "record_type": "domestic_law",
+    "statement_zh": "UNODC转载的伊朗1996年刑法第558条将损坏国家名录历史文化宗教建筑等列为犯罪并规定赔偿。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": null,
+    "evidence_status": "historical_text_verified_current_consolidation_unverified",
+    "source_refs": [
+      {
+        "source_id": "S23",
+        "locator": "Art 558"
+      }
+    ],
+    "uncertainty": [
+      "2026年完整修订与具体适用"
+    ],
+    "does_not_establish": [
+      "直接约束外国军队的条约",
+      "个案战争罪已成立"
+    ],
+    "tags": [
+      "国内法",
+      "损坏"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F004",
+    "record_type": "domestic_law",
+    "statement_zh": "伊朗该法第559条针对受保护场所中文物盗窃及明知赃物的交易、藏匿；第560条涉及保护区内致损工程。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": null,
+    "evidence_status": "historical_text_verified_current_consolidation_unverified",
+    "source_refs": [
+      {
+        "source_id": "S23",
+        "locator": "Arts 559–560"
+      }
+    ],
+    "uncertainty": [
+      "现行合并文本"
+    ],
+    "does_not_establish": [],
+    "tags": [
+      "国内法",
+      "盗窃",
+      "保护区"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F005",
+    "record_type": "domestic_law",
+    "statement_zh": "UNODC转载的以色列1978年《文物法》第37(a)条将故意损伤或污损文物、遗址列为犯罪。",
+    "countries": [
+      "ISR"
+    ],
+    "event_date": null,
+    "evidence_status": "historical_text_verified_current_consolidation_unverified",
+    "source_refs": [
+      {
+        "source_id": "S24",
+        "locator": "Art 37(a)"
+      }
+    ],
+    "uncertainty": [
+      "2026年修法、罚则与管辖适用"
+    ],
+    "does_not_establish": [
+      "授权打击伊朗遗产",
+      "当前罚金额已核准"
+    ],
+    "tags": [
+      "国内法",
+      "损坏"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F006",
+    "record_type": "official_position",
+    "statement_zh": "ICRC记录，以色列1982年第33.0133号总参命令要求士兵就本国及他国文化财产遵循1954年公约。",
+    "countries": [
+      "ISR"
+    ],
+    "event_date": "1982-07-20",
+    "evidence_status": "historical_state_document_reproduced_by_icrc",
+    "source_refs": [
+      {
+        "source_id": "S25",
+        "locator": "State practice para 204; Order para 9"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [
+      "2026现行军令原件已核验",
+      "实际作战均遵守"
+    ],
+    "tags": [
+      "军令",
+      "本国及外国"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "fact_of_statement"
+  },
+  {
+    "id": "F007",
+    "record_type": "official_position",
+    "statement_zh": "ICRC摘录的以色列2006年军方手册要求区分军用与民用目标，并在城区攻击中考虑预期平民损害。",
+    "countries": [
+      "ISR"
+    ],
+    "event_date": null,
+    "evidence_status": "historical_state_document_reproduced_by_icrc",
+    "source_refs": [
+      {
+        "source_id": "S29",
+        "locator": "Israel 2006 manual p.27"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [
+      "任何邻近军用目标的博物馆均可随意攻击"
+    ],
+    "tags": [
+      "军事手册",
+      "区分",
+      "比例"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "fact_of_statement"
+  },
+  {
+    "id": "F008",
+    "record_type": "official_position",
+    "statement_zh": "ICRC摘录以色列1998及2006年军方手册，均记载禁止劫掠文化财产。",
+    "countries": [
+      "ISR"
+    ],
+    "event_date": null,
+    "evidence_status": "historical_state_document_reproduced_by_icrc",
+    "source_refs": [
+      {
+        "source_id": "S30",
+        "locator": "Israel 1998 p.62; 2006 p.40"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [
+      "实际行为无劫掠"
+    ],
+    "tags": [
+      "军事手册",
+      "劫掠"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "fact_of_statement"
+  },
+  {
+    "id": "F009",
+    "record_type": "official_position",
+    "statement_zh": "以色列外交部2025年行动说明声称遵守区分、比例与预防规则，且攻击仅针对军事目标。",
+    "countries": [
+      "ISR"
+    ],
+    "event_date": "2025-08-12",
+    "evidence_status": "party_claim_not_independently_adjudicated",
+    "source_refs": [
+      {
+        "source_id": "S26",
+        "locator": "Overview"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [
+      "所有攻击实际合法",
+      "2026年玫瑰宫袭击对象或故意"
+    ],
+    "tags": [
+      "官方声明",
+      "2025",
+      "自称合规"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "fact_of_statement"
+  },
+  {
+    "id": "F010",
+    "record_type": "official_position",
+    "statement_zh": "伊朗2025年6月16日致联合国函声称其防御行动合比例、针对军事目标及相关设施，并解释其后基础设施打击。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": "2025-06-16",
+    "evidence_status": "party_claim_not_independently_adjudicated",
+    "source_refs": [
+      {
+        "source_id": "S27",
+        "locator": "S/2025/387 pp.1–2"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [
+      "联合国已认定其攻击合法",
+      "任何基础设施都因与敌国有关而合法"
+    ],
+    "tags": [
+      "官方声明",
+      "2025",
+      "自称合规"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "fact_of_statement"
+  },
+  {
+    "id": "F011",
+    "record_type": "heritage_fact",
+    "statement_zh": "玫瑰宫位于伊朗德黑兰，2013年列入世界遗产名录，编号1422，标准(ii)(iii)(iv)。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": "2013-06-23",
+    "evidence_status": "documented",
+    "source_refs": [
+      {
+        "source_id": "S19",
+        "locator": "Inscription fields"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [],
+    "tags": [
+      "玫瑰宫",
+      "Golestan",
+      "2013",
+      "登记"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F012",
+    "record_type": "heritage_fact",
+    "statement_zh": "UNESCO记录玫瑰宫遗产区5.3公顷、缓冲区26.2公顷；两者是不同范围。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": null,
+    "evidence_status": "documented",
+    "source_refs": [
+      {
+        "source_id": "S19",
+        "locator": "Property / Buffer zone"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [],
+    "tags": [
+      "玫瑰宫",
+      "缓冲区",
+      "面积"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F013",
+    "record_type": "heritage_fact",
+    "statement_zh": "玫瑰宫突出特征形成于19世纪卡扎尔时期，融合波斯与欧洲艺术建筑；其起源早于卡扎尔。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": null,
+    "evidence_status": "documented",
+    "source_refs": [
+      {
+        "source_id": "S19",
+        "locator": "Outstanding Universal Value"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [
+      "整个宫殿均一次建于16世纪",
+      "欧洲影响使其不具伊朗遗产价值"
+    ],
+    "tags": [
+      "玫瑰宫",
+      "年代",
+      "价值"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F014",
+    "record_type": "heritage_fact",
+    "statement_zh": "UNESCO遗产说明记载玫瑰宫受伊朗1930年国家遗产保护法及1969年相关征收法等保护。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": null,
+    "evidence_status": "documented",
+    "source_refs": [
+      {
+        "source_id": "S19",
+        "locator": "Protection and management requirements"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [],
+    "tags": [
+      "玫瑰宫",
+      "国内保护"
+    ],
+    "note": "仅记录遗产说明中法律依据，不冒称已逐条验证这些国内法现行全文。",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F015",
+    "record_type": "event_fact",
+    "statement_zh": "UNESCO于2026年3月2日声明称，玫瑰宫据报因缓冲区Arag Square附近空袭后的碎片及冲击波受损。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": "2026-03-02",
+    "evidence_status": "reported_in_unesco_statement",
+    "source_refs": [
+      {
+        "source_id": "S20",
+        "locator": "Statement body, first paragraph"
+      }
+    ],
+    "uncertainty": [
+      "声明日期与精确袭击时刻须分开",
+      "具体目标、实施单位和攻击决策未由此确定"
+    ],
+    "does_not_establish": [
+      "玫瑰宫被故意选为打击目标",
+      "某一个人战争罪成立"
+    ],
+    "tags": [
+      "玫瑰宫",
+      "2026",
+      "损害",
+      "冲击波",
+      "Arag",
+      "Arg"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F016",
+    "record_type": "event_fact",
+    "statement_zh": "UNESCO同一声明表示已向有关各方传达世界遗产及重要国家遗址的地理坐标。",
+    "countries": [
+      "IRN",
+      "ISR"
+    ],
+    "event_date": "2026-03-02",
+    "evidence_status": "unesco_reports_own_action",
+    "source_refs": [
+      {
+        "source_id": "S20",
+        "locator": "Statement body, second paragraph"
+      }
+    ],
+    "uncertainty": [
+      "每次袭击前具体送达时间、接收单位及情报流转需另证"
+    ],
+    "does_not_establish": [
+      "每名攻击决策者在该次袭击前都实际收到坐标"
+    ],
+    "tags": [
+      "坐标",
+      "通知",
+      "预防"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F017",
+    "record_type": "event_fact",
+    "statement_zh": "UNESCO于2026年3月8日将玫瑰宫、特拉维夫白城及提尔并列为据报受影响和受损的世界遗产。",
+    "countries": [
+      "IRN",
+      "ISR",
+      "LBN"
+    ],
+    "event_date": "2026-03-08",
+    "evidence_status": "reported_in_unesco_statement",
+    "source_refs": [
+      {
+        "source_id": "S21",
+        "locator": "Opening paragraphs"
+      }
+    ],
+    "uncertainty": [
+      "各次打击行为人、损坏量与预定目标需分别核验"
+    ],
+    "does_not_establish": [
+      "两国损害程度相等",
+      "双方刑责相同"
+    ],
+    "tags": [
+      "玫瑰宫",
+      "白城",
+      "对称案例",
+      "2026"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F018",
+    "record_type": "heritage_fact",
+    "statement_zh": "特拉维夫白城位于以色列，2003年列入世界遗产名录，编号1096，标准(ii)(iv)。",
+    "countries": [
+      "ISR"
+    ],
+    "event_date": null,
+    "evidence_status": "documented",
+    "source_refs": [
+      {
+        "source_id": "S33",
+        "locator": "Inscription fields"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [],
+    "tags": [
+      "白城",
+      "White City",
+      "登记",
+      "对称案例"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F019",
+    "record_type": "administrative_fact",
+    "statement_zh": "UNESCO援助项目3654于2026年10月13日批准75,000美元用于玫瑰宫冲突损害后的紧急保护等，流程字段为For Implementation。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": "2026-10-13",
+    "evidence_status": "official_administrative_record",
+    "source_refs": [
+      {
+        "source_id": "S22",
+        "locator": "Decision date; approved amount; For Implementation"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [
+      "工程已完成",
+      "75,000美元是损失总额"
+    ],
+    "tags": [
+      "玫瑰宫",
+      "援助",
+      "2026-10-13"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F020",
+    "record_type": "evidence_gap",
+    "statement_zh": "本次未取得能确认玫瑰宫在特定袭击日已获1999年加强保护的列入决定及完整现行名录。",
+    "countries": [
+      "IRN"
+    ],
+    "event_date": null,
+    "evidence_status": "not_established_in_this_bank",
+    "source_refs": [
+      {
+        "source_id": "S28",
+        "locator": "List gateway; Art 11(10)"
+      },
+      {
+        "source_id": "S03",
+        "locator": "List gateway; Art 11(10)"
+      }
+    ],
+    "uncertainty": [
+      "需要事发时名录及列入决定"
+    ],
+    "does_not_establish": [
+      "从未列入",
+      "已列入"
+    ],
+    "tags": [
+      "玫瑰宫",
+      "加强保护",
+      "未知"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F021",
+    "record_type": "evidence_gap",
+    "statement_zh": "本次材料未建立玫瑰宫当时军用、攻击者具体目标、可行替代方案、预期损害及个人主观故意的完整证据链。",
+    "countries": [
+      "IRN",
+      "ISR"
+    ],
+    "event_date": null,
+    "evidence_status": "not_established_in_this_bank",
+    "source_refs": [
+      {
+        "source_id": "S20",
+        "locator": "Limits of event statement; crime elements"
+      },
+      {
+        "source_id": "S17",
+        "locator": "Limits of event statement; crime elements"
+      }
+    ],
+    "uncertainty": [
+      "需作战记录、可信独立调查及逐项证据"
+    ],
+    "does_not_establish": [
+      "必然合法",
+      "必然战争罪",
+      "现实中绝不存在这些证据"
+    ],
+    "tags": [
+      "玫瑰宫",
+      "归因",
+      "战争罪",
+      "未知"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  },
+  {
+    "id": "F022",
+    "record_type": "institutional_status",
+    "statement_zh": "UNESCO以色列国家页标注其为非会员，同时继续列出其1954及1972等公约交存记录。",
+    "countries": [
+      "ISR"
+    ],
+    "event_date": null,
+    "evidence_status": "documented",
+    "source_refs": [
+      {
+        "source_id": "S05",
+        "locator": "Non-member; conventions ratified"
+      }
+    ],
+    "uncertainty": [],
+    "does_not_establish": [
+      "退出UNESCO自动退出文化保护公约"
+    ],
+    "tags": [
+      "UNESCO",
+      "退出",
+      "缔约状态"
+    ],
+    "note": "",
+    "verified_on": "2026-10-15",
+    "assertion_level": "source_bounded_fact"
+  }
+]

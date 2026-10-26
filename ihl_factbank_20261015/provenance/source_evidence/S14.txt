@@ -1,0 +1,30 @@
+S14: Fourth Geneva Convention, Article 18
+URL: https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-18
+Access: search_index_text
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 21
+IHL Treaties - Geneva Convention (IV) on Civilians, 1949 - Article 18 (https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-18?activeTab=%25252525252525252525252525252525252523c__Toc211373960)
+citeturn17search1 [wordlim: 200] Published: 77.2 years ago; Crawled: 2 weeks ago; Geneva, 12 August 1949., Article 18 - Protection of civilian hospitals, https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-18?
+
+## Citation
+
+Convention (IV) relative to the Protection of Civilian Persons in Time of War. Geneva, 12 August 1949.
+
+## Citation
+
+This page can be referenced as ICRC Database, Treaties, States Parties and Commentaries, Convention (IV) relative to the Protection of Civilian Persons in Time of War. Geneva, 12 August 1949., Article 18 - Protection of civilian hospitals, https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949/article-18?activeTab=%25252525252525252525252525252525252523c__Toc211373960 (Last accessed on 01.10.2026)
+
+# Article 18 - Protection of civilian hospitals
+
+Civilian hospitals organized to give care to the wounded and sick, the infirm and maternity cases, may in no circumstances be the object of attack, but shall at all times be respected and protected by the Parties to the conflict.
+
+States which are Parties to a conflict shall provide all civilian hospitals with certificates showing that they are civilian hospitals and that the buildings which they occupy are not used for any purpose which would deprive these hospitals of protection in accordance with Article 19 .
+
+Civilian hospitals shall be marked by means of the emblem provided for in Article 38 of the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949, but only if so authorized by the State.
+
+The Parties to the conflict shall, in so far as military considerations permit, take the necessary steps to make the distinctive emblems indicating civilian hospitals clearly visible to the enemy land, air and naval forces in order to obviate the possibility of any hostile action.
+
+In view of the dangers to which hospitals may be exposed by being close to military objectives, it is recommended that such hospitals be situated as far as possible from such objectives.

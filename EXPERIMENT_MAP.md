@@ -1,5 +1,7 @@
 # 实验轮次与文件索引
 
+实验二和实验三的 Python 文件也分别集中复制到包根目录的 [`experiment2/`](experiment2/) 与 [`experiment3/`](experiment3/)；脚本索引列出阶段目录副本与规范运行路径。阶段目录内 README 说明副本与可执行原始路径的对应关系。
+
 ## 实验一：问卷与稳健性
 
 - 12道文化遗产感知题：`experiment1/questionnaire.json`

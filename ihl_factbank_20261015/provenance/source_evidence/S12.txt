@@ -1,0 +1,35 @@
+S12: Customary IHL rules reproduced in ICRC Casebook
+URL: https://casebook.icrc.org/print/20747
+Access: search_index_text
+Limitations: 直接抓取失败；检索返回了第7、8、9、10条正文。只用于这些可见内容。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 16
+View (https://casebook.icrc.org/print/20747)
+citeturn13search4 [wordlim: 200] Crawled: last month; Rule 7. ... Civilian objects are protected against attack, unless and for such time as they are military objectives. ... If incendiary weapons are used, particular care must be taken to avoid, and in any event to minimise, incidental loss of civilian life, injury to civilians and damage to civilian objects.
+Attacks must not be directed against civilians. [IAC/NIAC]
+
+Rule 2.       Acts or threats of violence the primary purpose of which is to spread terror among the civilian population are prohibited. [IAC/NIAC]
+
+Rule 3.       All members of the armed forces of a party to the conflict are combatants, except medical and religious personnel. [IAC]
+
+Rule 4.       The armed forces of a party to the conflict consist of all organised armed forces, groups and units which are under a command responsible to that party for the conduct of its subordinates. [IAC]
+
+Rule 5.       Civilians are persons who are not members of the armed forces. The civilian population comprises all persons who are civilians. [IAC/NIAC]
+
+Rule 6.       Civilians are protected against attack, unless and for such time as they take a direct part in hostilities. [IAC/NIAC]
+
+#### Distinction between Civilian Objects and Military Objectives
+
+Rule 7.       The parties to the conflict must at all times distinguish between civilian objects and military objectives. Attacks may only be directed against military objectives. Attacks must not be directed against civilian objects. [IAC/NIAC]
+
+Rule 8.       In so far as objects are concerned, military objectives are limited to those objects which by their nature, location, purpose or use make an effective contribution to military action and whose partial or total destruction, capture or neutralisation, in the circumstances ruling at the time, offers a definite military advantage. [IAC/NIAC]
+
+Rule 9.       Civilian objects are all objects that are not military objectives. [IAC/NIAC]
+
+Rule 10.     Civilian objects are protected against attack, unless and for such time as they are military objectives. [IAC/NIAC]
+
+RESEARCH LOG ENTRY 17
+Internal Error ()
+citeturn14view0 [wordlim: 200] Source: open({"ref_id":"https://casebook.icrc.org/print/20747","lineno":null}); Total lines: 1

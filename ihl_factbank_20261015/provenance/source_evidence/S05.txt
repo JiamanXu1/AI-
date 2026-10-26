@@ -1,0 +1,572 @@
+S05: Israel: Conventions ratified / non-ratified
+URL: https://www.unesco.org/en/countries/il/conventions
+Access: web_open
+Limitations: 登记的是文书交存日，不是自动等同生效日；UNESCO 非会员身份与公约缔约身份分开。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 3
+Israel - Convention | UNESCO (https://www.unesco.org/en/countries/il/conventions)
+citeturn2view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://www.unesco.org/en/countries/il/conventions","lineno":null}); Total lines: 625
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†UNESCO L3: 
+L4: [Button: English]
+L5: 
+L6:   * cite2†English L7:   * cite3†Français L8:   * cite4†Español L9:   * cite5†Русский L10:   * cite6†العربية L11:   * cite7†中文 L12: 
+L13: cite1†UNESCO L14: 
+L15: [Input]
+L16: 
+L17: [Input: Search]
+L18: 
+L19: [Button: Search]
+L20: 
+L21: [Input]
+L22: 
+L23: [Input: Search]
+L24: 
+L25: [Button: Search]
+L26: 
+L27: Quick links:cite8†AI cite9†Response to Crisis cite10†Key Challenges L28: 
+L29: cite11†Image: Israel L30: 
+L31: cite12†Israel L32: 
+L33: Non-member
+L34: 
+L35: Europe and North America
+L36: ## Conventions ratified by Israel
+L37: 
+L38: 18
+L39: 
+L40: ratified out of 43
+L41: 
+L42: Culture
+L43: 
+L44: cite13†Convention concerning the International Exchange of Publications L45: 
+L46: Date and place of adoption
+L47: 
+L48: 3 December 1958
+L49: 
+L50: Paris, France
+L51: 
+L52: Type of instrument
+L53: 
+L54: Convention
+L55: 
+L56: Date of deposit
+L57: 
+L58: 4 January 1960
+L59: 
+L60: Education
+L61: 
+L62: cite14†Convention against Discrimination in Education L63: 
+L64: Date and place of adoption
+L65: 
+L66: 14 December 1960
+L67: 
+L68: Paris, France
+L69: 
+L70: Type of instrument
+L71: 
+L72: Convention
+L73: 
+L74: Date of deposit
+L75: 
+L76: 22 September 1961
+L77: 
+L78: Future
+L79: 
+L80: Tentative date: 2028
+L81: cite15†Consultation page cite16†Reporting page L82: 
+L83: Culture
+L84: 
+L85: cite17†Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict L86: 
+L87: Date and place of adoption
+L88: 
+L89: 14 May 1954
+L90: 
+L91: The Hague, Netherlands (Kingdom of the)
+L92: 
+L93: Type of instrument
+L94: 
+L95: Convention
+L96: 
+L97: Date of deposit
+L98: 
+L99: 1 April 1958
+L100: 
+L101: Education
+L102: 
+L103: cite18†Convention on the Recognition of Studies, Diplomas and Degrees concerning Higher Education in the States belonging to the Europe Region L104: 
+L105: Date and place of adoption
+L106: 
+L107: 21 December 1979
+L108: Paris, France
+L109: 
+L110: Type of instrument
+L111: 
+L112: Convention
+L113: 
+L114: Date of deposit
+L115: 
+L116: 13 August 1981
+L117: 
+L118: Culture
+L119: 
+L120: cite19†Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention L121: 
+L122: Date and place of adoption
+L123: 
+L124: 14 May 1954
+L125: 
+L126: The Hague, Netherlands (Kingdom of the)
+L127: 
+L128: Type of instrument
+L129: 
+L130: Convention
+L131: 
+L132: Date of deposit
+L133: 
+L134: 3 October 1957
+L135: 
+L136: cite20†Reporting page†en.unesco.org L137: 
+L138: Culture
+L139: cite21†Universal Copyright Convention, with Appendix Declaration relating to Article XVII and Resolution concerning Article XI L140: 
+L141: Date and place of adoption
+L142: 
+L143: 6 September 1952
+L144: 
+L145: Geneva, Switzerland
+L146: 
+L147: Type of instrument
+L148: 
+L149: Convention
+L150: 
+L151: Date of deposit
+L152: 
+L153: 6 April 1955
+L154: 
+L155: Culture
+L156: 
+L157: cite22†Protocol 1 annexed to the Universal Copyright Convention concerning the application of that Convention to the works of stateless persons and refugees L158: 
+L159: Date and place of adoption
+L160: 
+L161: 6 September 1952
+L162: 
+L163: Geneva, Switzerland
+L164: 
+L165: Type of instrument
+L166: Convention
+L167: 
+L168: Date of deposit
+L169: 
+L170: 6 April 1955
+L171: 
+L172: Culture
+L173: 
+L174: cite23†Protocol 2 annexed to the Universal Copyright Convention concerning the application of that Convention to the works of certain international organizations L175: 
+L176: Date and place of adoption
+L177: 
+L178: 6 September 1952
+L179: 
+L180: Geneva, Switzerland
+L181: 
+L182: Type of instrument
+L183: 
+L184: Convention
+L185: 
+L186: Date of deposit
+L187: 
+L188: 6 April 1955
+L189: 
+L190: Culture
+L191: cite24†Protocol 3 annexed to the Universal Copyright Convention concerning the effective date of instruments of ratification or acceptance of or accession to that Convention L192: 
+L193: Date and place of adoption
+L194: 
+L195: 6 September 1952
+L196: 
+L197: Geneva, Switzerland
+L198: 
+L199: Type of instrument
+L200: 
+L201: Convention
+L202: 
+L203: Date of deposit
+L204: 
+L205: 6 April 1955
+L206: 
+L207: Culture
+L208: 
+L209: cite25†Convention concerning the Exchange of Official Publications and Government Documents between States L210: 
+L211: Date and place of adoption
+L212: 
+L213: 3 December 1958
+L214: 
+L215: Paris, France
+L216: 
+L217: Type of instrument
+L218: 
+L219: Convention
+L220: Date of deposit
+L221: 
+L222: 4 January 1960
+L223: 
+L224: Education
+L225: 
+L226: cite26†Protocol Instituting a Conciliation and Good Offices Commission to be Responsible for Seeking the Settlement of any Disputes which may Arise between States Parties to the Convention against Discrimination in Education L227: 
+L228: Date and place of adoption
+L229: 
+L230: 10 December 1962
+L231: 
+L232: Paris, France
+L233: 
+L234: Type of instrument
+L235: 
+L236: Convention
+L237: 
+L238: Date of deposit
+L239: 
+L240: 13 September 1967
+L241: 
+L242: Culture
+L243: cite27†Convention for the Protection of Producers of Phonograms against Unauthorized Duplication of their Phonograms L244: 
+L245: Date and place of adoption
+L246: 
+L247: 29 October 1971
+L248: 
+L249: Geneva, Switzerland
+L250: 
+L251: Type of instrument
+L252: 
+L253: Convention
+L254: 
+L255: Date of deposit
+L256: 
+L257: 10 January 1978
+L258: 
+L259: Culture
+L260: 
+L261: cite28†International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organizations L262: 
+L263: Date and place of adoption
+L264: 
+L265: 26 October 1961
+L266: 
+L267: Rome, Italy
+L268: 
+L269: Type of instrument
+L270: 
+L271: Convention
+L272: 
+L273: Date of deposit
+L274: 
+L275: 30 September 2002
+L276: 
+L277: Culture
+L278: cite29†Agreement on the Importation of Educational, Scientific and Cultural Materials, with Annexes A to E and Protocol annexed. L279: 
+L280: Date and place of adoption
+L281: 
+L282: 17 June 1950
+L283: 
+L284: Florence, Italy
+L285: 
+L286: Type of instrument
+L287: 
+L288: Convention
+L289: 
+L290: Date of deposit
+L291: 
+L292: 27 March 1952
+L293: 
+L294: Education
+L295: 
+L296: cite30†Convention on the Recognition of Qualifications concerning Higher Education in the European Region L297: 
+L298: Date and place of adoption
+L299: 
+L300: 11 April 1997
+L301: 
+L302: Lisbon, Portugal
+L303: 
+L304: Type of instrument
+L305: 
+L306: Convention
+L307: 
+L308: Date of deposit
+L309: 
+L310: 12 July 2007
+L311: 
+L312: Culture
+L313: cite31†Convention concerning the Protection of the World Cultural and Natural Heritage L314: 
+L315: Date and place of adoption
+L316: 
+L317: 16 November 1972
+L318: 
+L319: Paris, France
+L320: 
+L321: Type of instrument
+L322: 
+L323: Convention
+L324: 
+L325: Date of deposit
+L326: 
+L327: 6 October 1999
+L328: 
+L329: cite32†Reporting page†whc.unesco.org L330: 
+L331: Social & Human Sciences
+L332: 
+L333: cite33†International Convention against Doping in Sport L334: 
+L335: Date and place of adoption
+L336: 
+L337: 19 October 2005
+L338: 
+L339: Paris, France
+L340: 
+L341: Type of instrument
+L342: 
+L343: Convention
+L344: 
+L345: Date of deposit
+L346: 
+L347: 26 January 2012
+L348: 
+L349: Natural Sciences
+L350: cite34†Convention on Wetlands of International Importance especially as Waterfowl Habitat. L351: 
+L352: Date and place of adoption
+L353: 
+L354: 2 February 1971
+L355: 
+L356: Ramsar, Iran (Islamic Republic of)
+L357: 
+L358: Type of instrument
+L359: 
+L360: Convention
+L361: 
+L362: Date of deposit
+L363: 
+L364: 12 November 1996
+L365: ## Non-ratified Conventions
+L366: 
+L367: Education
+L368: 
+L369: cite35†Regional Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in Latin America and the Caribbean L370: 
+L371: Date and place of adoption
+L372: 
+L373: 19 July 1974
+L374: 
+L375: Mexico City, Mexico
+L376: 
+L377: Education
+L378: 
+L379: cite36†International Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in the Arab and European States bordering on the Mediterranean L380: 
+L381: Date and place of adoption
+L382: 
+L383: 17 December 1976
+L384: 
+L385: Nice, France
+L386: 
+L387: Culture
+L388: cite37†Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property L389: 
+L390: Date and place of adoption
+L391: 
+L392: 14 November 1970
+L393: 
+L394: Paris, France
+L395: 
+L396: cite38†Reporting page L397: 
+L398: Natural Sciences
+L399: 
+L400: cite39†Protocol to amend the Convention on Wetlands of International Importance especially as Waterfowl Habitat L401: 
+L402: Date and place of adoption
+L403: 
+L404: 3 December 1982
+L405: 
+L406: Paris, France
+L407: 
+L408: Education
+L409: cite40†Regional Convention on the Recognition of Studies, Diplomas, and Degrees in Higher Education in Asia and the Pacific L410: 
+L411: Date and place of adoption
+L412: 
+L413: 16 December 1983
+L414: 
+L415: Bangkok, Thailand
+L416: 
+L417: Education
+L418: 
+L419: cite41†Convention on Technical and Vocational Education L420: 
+L421: Date and place of adoption
+L422: 
+L423: 10 November 1989
+L424: 
+L425: Paris, France
+L426: 
+L427: Ongoing
+L428: 
+L429: Deadline: 14 November 2026
+L430: 
+L431: cite42†Consultation page cite43†Reporting page L432: 
+L433: Culture
+L434: cite44†Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict L435: 
+L436: Date and place of adoption
+L437: 
+L438: 26 March 1999
+L439: 
+L440: The Hague, Netherlands (Kingdom of the)
+L441: 
+L442: Education
+L443: 
+L444: cite45†Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in the Arab States L445: 
+L446: Date and place of adoption
+L447: 
+L448: 22 December 1978
+L449: 
+L450: Paris, France
+L451: 
+L452: Culture
+L453: 
+L454: cite46†Convention for the Safeguarding of the Intangible Cultural Heritage L455: 
+L456: Date and place of adoption
+L457: 17 October 2003
+L458: 
+L459: Paris, France
+L460: 
+L461: cite47†Reporting page†ich.unesco.org L462: 
+L463: Culture
+L464: 
+L465: cite48†Convention on the Protection and Promotion of the Diversity of Cultural Expressions L466: 
+L467: Date and place of adoption
+L468: 
+L469: 20 October 2005
+L470: 
+L471: Paris, France
+L472: 
+L473: cite49†Reporting page L474: 
+L475: Natural Sciences
+L476: 
+L477: cite50†Protocol to amend articles 6 and 7 of the Convention on Wetlands of International Importance especially as Waterfowl Habitat. L478: 
+L479: Date and place of adoption
+L480: 
+L481: 28 May 1987
+L482: 
+L483: Regina, Canada
+L484: 
+L485: Culture
+L486: cite51†Universal Copyright Convention as revised on 24 July 1971, with Appendix Declaration relating to Article XVII and Resolution concerning Article XI L487: 
+L488: Date and place of adoption
+L489: 
+L490: 24 July 1971
+L491: 
+L492: Paris, France
+L493: 
+L494: Culture
+L495: 
+L496: cite52†Protocol 1 annexed to the Universal Copyright Convention as revised on 24 July 1971 concerning the application of that Convention to the work of stateless persons and refugees L497: 
+L498: Date and place of adoption
+L499: 
+L500: 24 July 1971
+L501: 
+L502: Paris, France
+L503: 
+L504: Culture
+L505: cite53†Protocol 2 annexed to the Universal Copyright Convention as revised on 24 July 1971 concerning the application of that Convention to works of certain international organizations L506: 
+L507: Date and place of adoption
+L508: 
+L509: 24 July 1971
+L510: 
+L511: Paris, France
+L512: 
+L513: Education
+L514: 
+L515: cite54†Regional Convention on the Recognition of Studies, Certificates, Diplomas, Degrees and other Academic Qualifications in Higher Education in the African States L516: 
+L517: Date and place of adoption
+L518: 
+L519: 5 December 1981
+L520: 
+L521: Arusha, United Republic of Tanzania
+L522: 
+L523: Education
+L524: cite55†Regional Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in Latin America and the Caribbean L525: 
+L526: Date and place of adoption
+L527: 
+L528: 13 July 2019
+L529: 
+L530: Buenos Aires, Argentina
+L531: 
+L532: Culture
+L533: 
+L534: cite56†Protocol to the Agreement on the Importation of Educational, Scientific and Cultural Materials, with Annexes A to H L535: 
+L536: Date and place of adoption
+L537: 
+L538: 26 November 1976
+L539: 
+L540: Nairobi, Kenya
+L541: 
+L542: Culture
+L543: cite57†Multilateral Convention for the Avoidance of Double Taxation of Copyright Royalties, with model bilateral agreement and additional Protocol L544: 
+L545: Date and place of adoption
+L546: 
+L547: 13 December 1979
+L548: 
+L549: Madrid, Spain
+L550: 
+L551: Communication & Information
+L552: 
+L553: cite58†Convention relating to the Distribution of Programme-Carrying Signals Transmitted by Satellite L554: 
+L555: Date and place of adoption
+L556: 
+L557: 21 May 1974
+L558: 
+L559: Brussels, Belgium
+L560: 
+L561: Culture
+L562: cite59†Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific and Cultural character with Protocol of Signature and model form of certificate provided for in Article IV L563: 
+L564: Date and place of adoption
+L565: 
+L566: 10 December 1948
+L567: 
+L568: Beyrouth, Lebanon
+L569: 
+L570: Education
+L571: 
+L572: cite60†Asia-Pacific Regional Convention on the Recognition of Qualifications in Higher Education L573: 
+L574: Date and place of adoption
+L575: 
+L576: 26 November 2011
+L577: 
+L578: Tokyo, Japan
+L579: 
+L580: Education
+L581: cite61†Revised Convention on the Recognition of Studies, Certificates, Diplomas, Degrees and Other Academic Qualifications in Higher Education in African States L582: 
+L583: Date and place of adoption
+L584: 
+L585: 12 December 2014
+L586: 
+L587: Addis-Abeba, Ethiopia
+L588: 
+L589: Education
+L590: 
+L591: cite62†Global Convention on the Recognition of Qualifications concerning Higher Education L592: 
+L593: Date and place of adoption
+L594: 
+L595: 25 November 2019
+L596: 
+L597: Paris, France
+L598: 
+L599: Culture
+L600: 
+L601: cite63†Convention on the Protection of the Underwater Cultural Heritage L602: 
+L603: Date and place of adoption
+L604: 2 November 2001
+L605: 
+L606: Paris, France
+L607: 
+L608: cite64†Reporting page L609: 
+L610: Education
+L611: 
+L612: cite65†Revised Convention on the Recognition of Studies, Diplomas and Degrees in Higher Education in the Arab States L613: 
+L614: Date and place of adoption
+L615: 
+L616: 2 February 2022
+L617: 
+L618: Paris, France
+L619: 
+L620: [Input] [Input]
+L621: 
+L622: UNESCO applies a zero tolerance policy against all forms of harassment.
+L623: 
+L624: cite66†top

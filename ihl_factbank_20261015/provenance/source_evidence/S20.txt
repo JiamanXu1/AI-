@@ -1,0 +1,96 @@
+S20: UNESCO concern over Golestan Palace damage
+URL: https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle
+Access: web_open
+Limitations: 当前文本更新时间2026-07-02；使用 reportedly 措辞。不能据此证明宫殿是预定打击目标或单独确定投弹方。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 1
+UNESCO expresses concern over the protection of cultural heritage (https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle)
+citeturn0search0 [wordlim: 200] Published: 7 months ago; Crawled: 2 months ago; 2 March 2026 ... On Monday 2 March, the Golestan Palace in Tehran, a UNESCO World Heritage site, was reportedly damaged by debris and the shock wave following an airstrike to the Arag Square, located in the buffer zone of the site in the Iranian capital. ... To that end, the Organization has communicated to all parties concerned the geographical coordinates of sites on the World Heritage List as well as those of national significance, to avoid any potential damage.
+
+# UNESCO expresses concern over the protection of cultural heritage sites amidst escalating violence in the Middle East
+
+UNESCO expresses concern over the protection of cultural heritage sites
+
+Image: UNESCO statement visual
+
+UNESCO
+
+2 March 2026
+
+Last update:2 July 2026
+
+On Monday 2 March, the Golestan Palace in Tehran, a UNESCO World Heritage site, was reportedly damaged by debris and the shock wave following an airstrike to the Arag Square, located in the buffer zone of the site in the Iranian capital.
+
+UNESCO continues to closely monitor the situation of cultural heritage in the country and across the region, with a view to ensuring its protection. To that end, the Organization has communicated to all parties concerned the geographical coordinates of sites on the World Heritage List as well as those of national significance, to avoid any potential damage.
+
+UNESCO recalls that cultural property is protected under international law, notably the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict, including its enhanced protection mechanism, as well as the 1972 Convention concerning the Protection of the World Cultural and Natural Heritage.
+
+RESEARCH LOG ENTRY 7
+UNESCO expresses concern over the protection of cultural heritage (https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle)
+citeturn6view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle","lineno":null}); Total lines: 84
+
+RESEARCH LOG ENTRY 8
+UNESCO expresses concern over the protection of cultural heritage (https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle)
+citeturn7view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn6view0","lineno":30}); Total lines: 84
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†UNESCO L3: 
+L4: [Button: English]
+L5: 
+L6:   * cite2†English L7:   * cite3†Français L8:   * cite4†Español L9:   * cite5†Русский L10:   * cite6†العربية L11:   * cite7†中文 L12: 
+L13: cite1†UNESCO L14: 
+L15: [Input]
+L16: 
+L17: [Input: Search]
+L18: 
+L19: [Button: Search]
+L20: 
+L21: [Input]
+L22: 
+L23: [Input: Search]
+L24: 
+L25: [Button: Search]
+L26: 
+L27: Quick links:cite8†AI cite9†Response to Crisis cite10†Key Challenges L28: 
+L29: News
+L30: # UNESCO expresses concern over the protection of cultural heritage sites amidst escalating violence in the Middle East
+L31: 
+L32: UNESCO expresses concern over the protection of cultural heritage sites
+L33: 
+L34: cite11†Image: UNESCO statement visual L35: 
+L36: UNESCO
+L37: 
+L38: 2 March 2026
+L39: 
+L40: Last update:2 July 2026
+L41: On Monday 2 March, the Golestan Palace in Tehran, a UNESCO World Heritage site, was reportedly damaged by debris and the shock wave following an airstrike to the Arag Square, located in the buffer zone of the site in the Iranian capital.
+L42: UNESCO continues to closely monitor the situation of cultural heritage in the country and across the region, with a view to ensuring its protection. To that end, the Organization has communicated to all parties concerned the geographical coordinates of sites on the World Heritage List as well as those of national significance, to avoid any potential damage.
+L43: UNESCO recalls that cultural property is protected under international law, notably the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict, including its enhanced protection mechanism, as well as the 1972 Convention concerning the Protection of the World Cultural and Natural Heritage.
+L44: ## Explore social media posts related to this statement:
+L45: 
+L46: cite12†Facebook†www.facebook.com L47: 
+L48: cite13†LinkedIn†www.linkedin.com L49: 
+L50: cite14†X†x.com L51: ### Related items
+
+RESEARCH LOG ENTRY 10
+UNESCO expresses concern over the protection of cultural heritage (https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle)
+citeturn9search1 [wordlim: 200] Published: 7 months ago; Crawled: 2 months ago; 2 March 2026 ... On Monday 2 March, the Golestan Palace in Tehran, a UNESCO World Heritage site, was reportedly damaged by debris and the shock wave following an airstrike to the Arag Square, located in the buffer zone of the site in the Iranian capital. ... UNESCO recalls that cultural property is protected under international law, notably the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict, including its enhanced protection mechanism, as well as the 1972 Convention concerning the Protection of the World Cultural and Natural Heritage.
+
+# UNESCO expresses concern over the protection of cultural heritage sites amidst escalating violence in the Middle East
+
+UNESCO expresses concern over the protection of cultural heritage sites
+
+Image: UNESCO statement visual
+
+UNESCO
+
+2 March 2026
+
+Last update:2 July 2026
+
+On Monday 2 March, the Golestan Palace in Tehran, a UNESCO World Heritage site, was reportedly damaged by debris and the shock wave following an airstrike to the Arag Square, located in the buffer zone of the site in the Iranian capital.
+
+UNESCO continues to closely monitor the situation of cultural heritage in the country and across the region, with a view to ensuring its protection. To that end, the Organization has communicated to all parties concerned the geographical coordinates of sites on the World Heritage List as well as those of national significance, to avoid any potential damage.
+
+UNESCO recalls that cultural property is protected under international law, notably the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict, including its enhanced protection mechanism, as well as the 1972 Convention concerning the Protection of the World Cultural and Natural Heritage.
