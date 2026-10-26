@@ -1,0 +1,714 @@
+[
+  {
+    "search_batch": "corpus_search_0",
+    "title": "",
+    "url": "https://www.news.cn/photo/20260307/8f1102eec790494cbdec34369388c38b/c.html?page=4",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "corpus_search_0",
+    "title": "",
+    "url": "https://www.news.cn/world/20260321/5f7e1bb0d0954e80aa8ad73b99ac4a0a/c.html",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "",
+    "url": "https://www.news.cn/20260329/60a133b183894822bb184129a48c98a6/c.html?page=4",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "如果炮弹真落下来，伊朗这些世界遗产会成为永远的伤痛_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://m.thepaper.cn/yidian_promDetail.jsp?contid=5465567&from=yidian",
+    "decision": "not_included_this_version",
+    "reason": "澎湃号／平台入驻内容或较早内容，不作为澎湃编辑部原稿",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "corpus_search_1",
+    "title": "星际回响：一首波斯诗歌的前世今生",
+    "url": "https://m.thepaper.cn/newsDetail_forward_32810863?from=toutiao",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "2026年4月9日  星期四",
+    "url": "https://paper.people.com.cn/rmrbhwb/pc/attachement/202604/09/fa34c886-4fd4-484e-a9f7-dd27a48fd550.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "2026 年4 月9 日 星期四 17",
+    "url": "https://paper.people.com.cn/rmrb/pc/attachement/202604/09/795f53d6-131d-4e25-8656-ae4b1ee142c4.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "corpus_search_1",
+    "title": "行走德黑兰，感受古都风采（国家人文地理） --国际--人民网",
+    "url": "https://world.people.com.cn/n1/2025/1020/c1002-40585433.html",
+    "decision": "not_included_this_version",
+    "reason": "非2026年事件报道／较早背景，未纳入本轮事件集",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "corpus_search_1",
+    "title": "人民周刊",
+    "url": "https://paper.people.com.cn/rmzk/html/2020-12/23/content_2025412.htm",
+    "decision": "not_included_this_version",
+    "reason": "非2026年事件报道／较早背景，未纳入本轮事件集",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "corpus_search_1",
+    "title": "08 融媒时代  \n人民日报 海外版  \n2025年10月20日 星期一  \n责编：霍曼含　邮箱：h",
+    "url": "https://paper.people.com.cn/rmrbhwb/pc/attachement/202510/20/bd747dcf-d8cb-43fe-8038-829d391c9f7b.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more0",
+    "title": "古莱斯坦宫_百度百科",
+    "url": "https://bkso.baidu.com/item/%E5%8F%A4%E8%8E%B1%E6%96%AF%E5%9D%A6%E5%AE%AB/67443304?fromModule=lemma_inlink",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more0",
+    "title": "轰炸中，伊朗国宝来到中国|文物_新浪财经_新浪网",
+    "url": "https://finance.sina.com.cn/roll/2026-04-27/doc-inhvxath9054546.shtml",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "中国人民大学新闻网 - 人大观澜｜战火所过，人类文明正遭受重创",
+    "url": "https://news.ruc.edu.cn/2034517794243190786.html",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more0",
+    "title": "联合国 \nA/80/673-S/2026/180\n大 会 \n \n安全理事会 \nDistr.: Gen",
+    "url": "https://digitallibrary.un.org/record/4106881/files/A_80_673--S_2026_180--I-ZH.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more0",
+    "title": "untitled",
+    "url": "https://huanqiuribao.com/wp-content/uploads/2026/04/Huanqiuribao-0410-NEW-revisi.pdf",
+    "decision": "not_included_this_version",
+    "reason": "境外／港澳媒体，按大陆媒体范围不纳入；不是不实判定",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "D:华光科技易现标引临时文件A13-PDF.PS",
+    "url": "https://sjb.qlwb.com.cn/qlwb/PDF/20260316/A13.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more0",
+    "title": "责任编辑：卫宁\n版式策划：梁震\n制图：王涛\n2026 年3 月30 日\n星期一\n4\n要闻\n新华时评",
+    "url": "https://szb.nmgnews.com.cn/nmgrb/resfile/2026-03-30/04/nmgrb2026033004.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more0",
+    "title": "RB0720260330C",
+    "url": "https://www.shm.com.cn/szb/ytrb/paper/pc/attachment/202603/30/5635d9ab-7cb8-4479-8da1-ee27d00bce7f.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "西媒：阿根廷总统米莱因迷信不去世界杯决赛",
+    "url": "https://m.gmw.cn/2026-07/17/content_1304534186.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "阿根廷任命新内阁首席部长",
+    "url": "https://m.gmw.cn/2026-06/29/content_1304513217.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "美国：独立250周年庆典难掩褪色现实 _光明网",
+    "url": "https://world.gmw.cn/2026-07/06/content_38868801.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "伊朗古列斯坦王宫宣布暂停对外开放",
+    "url": "https://m.gmw.cn/2026-02/04/content_1304332085.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "《伊拉克访古行记》 | 每日一书",
+    "url": "https://m.bjnews.com.cn/detail/1775116922169887.html",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "文化遗产不应成为战争的“沉默受害者” _光明网",
+    "url": "https://news.gmw.cn/2026-03/07/content_38632986.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "美国：独立250周年庆典难掩褪色现实-今日头条-手机光明网",
+    "url": "https://m.gmw.cn/toutiao/2026-07/06/content_38868801.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "“伊朗56处文明遗产遭重创”：美以伊战事半月，碎的不止玫瑰宫｜国际识局 _光明网",
+    "url": "https://world.gmw.cn/2026-03/15/content_38648207.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "世界遗产玫瑰宫在空袭中受损",
+    "url": "https://m.gmw.cn/2026-03/05/content_1304366172.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more1",
+    "title": "伊朗：世界遗产“玫瑰宫”在空袭中受损-酷生活",
+    "url": "https://m.gmw.cn/ksh/2026-03/06/content_38631878.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more2",
+    "title": "上海旅游节来啦！六大主题、170项活动，带你开启金秋狂欢盛宴→_上观新闻",
+    "url": "https://www.jfdaily.com/sgh/detail?id=4052034",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more2",
+    "title": "一名法官“损害诉讼程序”，马拉多纳死亡案将重审",
+    "url": "https://news.china.com.cn/2025-05/30/content_117903531.shtml",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "more2",
+    "title": "2026上海豫园灯会于1月26日璀璨亮灯！豫园民俗艺术灯区实行分时段凭票入场_上观新闻",
+    "url": "https://www.jfdaily.com/sgh/detail?id=1697783",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "担忧战火重燃　伊朗文物保护者加固受损遗址 | 国际 | 東方網 馬來西亞東方日報",
+    "url": "https://www.orientaldaily.com.my/news/international/2026/05/10/817499",
+    "decision": "not_included_this_version",
+    "reason": "境外／港澳媒体，按大陆媒体范围不纳入；不是不实判定",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "国际博物馆日｜战火中的博物馆之殇|建筑_新浪财经_新浪网",
+    "url": "https://finance.sina.com.cn/wm/2026-05-19/doc-inhymysy3052335.shtml",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "玫瑰宫“炸毁图”9月又传一波：真实损毁还要修15年，151件伊朗国宝的国内最后一站展到10月18日_国内门票与活动_什么值得买",
+    "url": "https://post.smzdm.com/p/a3m0pxod/",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "德黑兰唯一世界文化遗产戈勒斯坦宫在美以空袭中受损 – artforum.com.cn",
+    "url": "https://artforum.com.cn/news/16130",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "古列斯坦王宫_百度百科",
+    "url": "https://bkso.baidu.com/item/%E5%8F%A4%E5%88%97%E6%96%AF%E5%9D%A6%E7%8E%8B%E5%AE%AB/6243375?fromModule=lemma_inlink",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "8  编辑/梁励  版式/王展  校对/宋正大 蔚然",
+    "url": "https://static.time-weekly.com/time-weekly/1f10dee023623c289ff8e4051b0fa4f3/20260316/0b48800b1ae24c529e4820de96088092.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "zb016zb20260306C",
+    "url": "https://szb.qzwb.com/dnzb/pc/att/202603/06/67d88fb7-c373-4d67-84c7-952ee32fccea.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra0",
+    "title": "10102026-03-06C",
+    "url": "https://www.geermurb.com/html/1/2026-03/06/10/2026030610_pdf.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "",
+    "url": "https://www.bjnews.com.cn/detail/1783303385189027.html",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "探秘伊朗建筑的精华 走进德黑兰古列斯坦皇宫[10]- 中国日报网",
+    "url": "https://cn.chinadaily.com.cn/2018-05/17/content_36216899_10.htm",
+    "decision": "not_included_this_version",
+    "reason": "非2026年事件报道／较早背景，未纳入本轮事件集",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "探秘伊朗建筑的精华 走进德黑兰古列斯坦皇宫[2]- 中国日报网",
+    "url": "https://cn.chinadaily.com.cn/2018-05/17/content_36216899_2.htm",
+    "decision": "not_included_this_version",
+    "reason": "非2026年事件报道／较早背景，未纳入本轮事件集",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "战火重燃：中东地区如何被塑造成今日模样？丨主题书单",
+    "url": "https://m.bjnews.com.cn/detail/1772889285168724.html",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "博物馆，联合世界的桥梁",
+    "url": "https://m.thepaper.cn/newsDetail_forward_33187430",
+    "decision": "not_included_this_version",
+    "reason": "澎湃号／平台入驻内容或较早内容，不作为澎湃编辑部原稿",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "布宜诺斯艾利斯",
+    "url": "https://www.chinadaily.com.cn/hqzg/2008-03/31/content_6579189.htm",
+    "decision": "not_included_this_version",
+    "reason": "非2026年事件报道／较早背景，未纳入本轮事件集",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "",
+    "url": "https://www.bjnews.com.cn/detail/1773155720189594.html",
+    "decision": "not_included_this_version",
+    "reason": "非2026年事件报道／较早背景，未纳入本轮事件集",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "extra2",
+    "title": "2026最值得期待的哲学思想类新书，都在这里！_澎湃号·湃客_澎湃新闻-The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_32369392",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "关于和伊朗谈判，特朗普最新表态！ | 每经网",
+    "url": "https://www.nbd.com.cn/articles/2026-03-10/4287020.html",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "环球观察_南亚网视 I SATV",
+    "url": "https://www.sicomedia.com/xinwentoutiao/huanqiuguancha/",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "0304 李世石时隔十年将再战AI、香港开始对超级豪宅加税、伊朗“玫瑰宫”遭袭受损 – 资讯早7点 – Podcast – Podtail",
+    "url": "https://podtail.com/podcast/c69d5c45/0304-ai/",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "澳华时报 2010年 07月08日 633期 | PDF",
+    "url": "https://www.scribd.com/document/34039427/%E6%BE%B3%E5%8D%8E%E6%97%B6%E6%8A%A5-2010%E5%B9%B4-07%E6%9C%8808%E6%97%A5-633%E6%9C%9F",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "习近平访问四国并出席G20峰会_新浪网",
+    "url": "https://news.sina.com.cn/zt_d/visit2018/",
+    "decision": "not_included_this_version",
+    "reason": "非2026年事件报道／较早背景，未纳入本轮事件集",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "滚动更新｜伊朗称未来几天对敌方攻击将更加猛烈和广泛_天下_新闻频道_福州新闻网",
+    "url": "https://news.fznews.com.cn/gngj/20260228/KZ8ozSdEG7.shtml",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "滚动丨​美中央司令部称伊朗“已丧失相当一部分作战能力”_潮新闻官网",
+    "url": "https://tidenews.com.cn/news.html?id=3398858",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last0",
+    "title": "北京交响乐团-演出活动-演出预告 | 五位女性音乐家联袂奏响国家大剧院，\"缤纷玫瑰\"即将绽放！",
+    "url": "https://www.ccbso.com/ychd/2218.jhtml",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "“世界不应沉默” 伊朗怒批美以袭击损坏历史文化遗产|伊朗_新浪财经_新浪网",
+    "url": "https://finance.sina.com.cn/jjxw/2026-03-10/doc-inhqphnp6150514.shtml?froms=ggmp",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "桂林日报 -05版:国内关注-2026年05月13日",
+    "url": "https://epaper.guilinlife.com/glrbh5/glrb/20260513/Page05BC.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "桂林日报 -06版:国内关注-2026年05月26日",
+    "url": "https://epaper.guilinlife.com/glrbh5/glrb/20260526/Page06BC.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "报刊_人民日报-有品质的新闻",
+    "url": "https://www.peopleapp.com/newspaper?date=2026.05.06",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "桂林日报 -06版:时事-2026年05月22日",
+    "url": "https://epaper.guilinlife.com/glrbh5/glrb/20260522/Page06BC.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "联合早报 即时报道 – Telegram",
+    "url": "https://t.me/s/zaobao_news/162421?q=%23%E5%8E%86%E5%8F%B2",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "报刊_人民日报-有品质的新闻",
+    "url": "https://www.peopleapp.com/newspaper?date=2026.05.15",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "桂林日报 -02版:综合新闻-2026年05月12日",
+    "url": "https://epaper.guilinlife.com/glrbh5/glrb/20260512/Page02BC.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "报刊_人民日报-有品质的新闻",
+    "url": "https://www.peopleapp.com/newspaper?date=2026.05.08",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "2026年3月30日星期一",
+    "url": "https://szb.ycfbapp.com/ycrb/pc/att/202603/30/9bc18485-c6e7-4f03-88d7-6bbf95452794.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last1",
+    "title": "2025年7月15日星期二责任编辑：舒兴学",
+    "url": "https://yq.cnmn.com.cn/bao/qiyebao/tongling/5482/3.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "生活﹒健康_南亚网视 I SATV",
+    "url": "https://www.sicomedia.com/nanyawangshi/shegnhuojiankang/",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "The Basic Education Centre of NWPU | PDF",
+    "url": "https://www.scribd.com/document/1035682387/201906qcb",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "财新周刊周刊 第2期2026 | PDF",
+    "url": "https://www.scribd.com/document/1067421390/%E8%B4%A2%E6%96%B0%E5%91%A8%E5%88%8A%E5%91%A8%E5%88%8A-%E7%AC%AC2%E6%9C%9F2026",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "Y1S2- 纪录片《中国通史》第1-100集思维导图笔记 - 250526 - 145903 | PDF",
+    "url": "https://www.scribd.com/document/938803415/Y1S2-%25E7%25BA%25AA%25E5%25BD%2595%25E7%2589%2587-%25E4%25B8%25AD%25E5%259B%25BD%25E9%2580%259A%25E5%258F%25B2-%25E7%25AC%25AC1-100%25E9%259B%2586%25E6%2580%259D%25E7%25BB%25B4%25E5%25AF%25BC%25E5%259B%25BE%25E7%25AC%2594%25E8%25AE%25B0-250526-145903",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "日照日报 2026年07月08日 B04版:本市新闻",
+    "url": "https://rbrk.rznews.cn/paper/s1/t1/rzrb/20260708/B04/t1_page.html?pagetonum=B04",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "Cleaned Cedict Negatives | PDF",
+    "url": "https://www.scribd.com/document/863232913/Cleaned-Cedict-Negatives",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "近代中国社会的新陈代谢 TXT全文31类-89册-_higrid.net-嗨网",
+    "url": "https://higrid.net/show/bk31/89.html",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "The Ring of Wonder",
+    "url": "https://trow.cc/portal/showcol%3Dall%26st%3D226",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "1996-12-06",
+    "url": "https://www.rmrb.zhouenlai.info/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%881946-2003%EF%BC%89/1996/12/1996-12-06.htm",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "last2",
+    "title": "Bahasa Cina Tingkatan 4 PDF | PDF",
+    "url": "https://es.scribd.com/document/478894987/Bahasa-Cina-Tingkatan-4-pdf",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "伊朗知名世界遗产戈勒斯坦宫被炸损毁，现场一片狼藉_卡扎尔_王朝_建筑",
+    "url": "https://www.sohu.com/a/992317391_484968",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "伊朗两处世界遗产接连受损，联合国紧急呼吁保护|伊朗_新浪财经_新浪网",
+    "url": "https://finance.sina.com.cn/jjxw/2026-03-11/doc-inhqrrte5446265.shtml",
+    "decision": "not_included_this_version",
+    "reason": "候选未纳入：题名摘要初筛非本事件、同源重复或尚未完成原发与正文核验；不得当作已证伪",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "包括“伊朗故宫”在内，至少56处遗产地因战争受损_清真寺_部分_萨法维",
+    "url": "https://www.sohu.com/a/998606530_791225",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "伊朗珍贵文物古迹遭美以袭击，波斯文明遗产面临生死危机_无忧资讯",
+    "url": "https://info.51.ca/articles/1523443",
+    "decision": "not_included_this_version",
+    "reason": "境外／港澳媒体，按大陆媒体范围不纳入；不是不实判定",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "2026-09-07 视觉艺术每日早报｜每日新构",
+    "url": "https://chuyiouart.com/yuanweigou/daily-updates/2026-09-07-visual-art-morning-briefing.html",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "伊朗玫瑰宫受损后现状如何-抖音",
+    "url": "https://www.douyin.com/shipin/7615067124830324799",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "中国报 China Press – Telegram",
+    "url": "https://t.me/s/chinapressonline?after=226764",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "伊朗珍宝馆",
+    "url": "https://ir.china-embassy.gov.cn/zjyl/lyjd/200701/t20070124_2520606.htm",
+    "decision": "not_included_this_version",
+    "reason": "非2026年事件报道／较早背景，未纳入本轮事件集",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "伊朗的爆炸袭击了古勒斯坦宫并损坏了联合国教科文组织遗产地 – Mix Vale",
+    "url": "https://www.mixvale.com.br/2026/03/04/%E4%BC%8A%E6%9C%97%E7%9A%84%E7%88%86%E7%82%B8%E8%A2%AD%E5%87%BB%E4%BA%86%E5%8F%A4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%AE%AB%E5%B9%B6%E6%8D%9F%E5%9D%8F%E4%BA%86%E8%81%94%E5%90%88%E5%9B%BD%E6%95%99%E7%A7%91-z/",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "华主席会见宋成付总理同民主柬埔寨政府军事代表团的同志进行了亲切友好的谈话。华主席说：“你们的斗争是正义的，正义的斗争是一定要胜利的。我们支持你们的斗争。”新华社北京七月三十一日电　中共中央主席、中",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/NLC511-012031312030011-35251_%E6%96%B0%E6%B9%96%E5%8D%97%E5%A0%B1_%E7%AC%AC349%E5%8D%B7.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "Golestan Palace Crisis Reveals Heritage Protection Market Gaps",
+    "url": "https://www.accio.com/blog/golestan-palace-crisis-reveals-heritage-protection-market-gaps",
+    "decision": "not_included_this_version",
+    "reason": "不属于本轮可核验大陆主流新闻媒体原发页面；用户生成内容、聚合或来源范围不符；不据此认定内容虚假",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "星期日\n#$%&'()#$%&'*(#)%+,-%+,.\nA!\"\n!\"!\" 年! 月!\" 日\n!/小",
+    "url": "https://xmwb.xinmin.cn/xmwb/resfile/2013-01-13/A15/A15B0113.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  },
+  {
+    "search_batch": "late",
+    "title": "它\n们\n又\n为\n什\n么\n会\n出\n现\n在\n细\n密\n画\n中\n？\n它\n们\n和\n青\n花\n瓷\n的\n关\n系\n是",
+    "url": "https://img.dpm.org.cn/Uploads/File/2022/01/10/u61dbd4e40092a.pdf",
+    "decision": "not_included_this_version",
+    "reason": "整版报纸候选，未完成逐篇切分或重复稿对应，本版不纳入正文样本",
+    "screening_basis": "title_search_snippet_and_source_scope_not_fulltext_fact_check"
+  }
+]

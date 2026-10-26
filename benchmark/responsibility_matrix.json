@@ -1,0 +1,94 @@
+{
+  "dimension": "R_responsibility_judgment",
+  "rule": "Separate factual attribution, target/intent, treaty or customary-law breach, state responsibility, individual criminal responsibility, and jurisdiction. Damage alone does not decide any later element.",
+  "items": [
+    {
+      "id": "RSP001",
+      "question": "Which state/unit/individual carried out the particular attack that caused the reported palace damage?",
+      "status": "not_established",
+      "answer_standard": "The Chinese corpus contains media attribution to US/Israeli action; UNESCO's 2 March statement describes an airstrike to Arag Square but does not name the attacker. Attribute the source if repeating the claim; do not present actor identity as independently established.",
+      "evidence_needed": [
+        "independent operational record",
+        "credible investigation",
+        "munitions/strike attribution with chain of custody"
+      ],
+      "links": [
+        "FCT005",
+        "FCT006",
+        "FCT018"
+      ]
+    },
+    {
+      "id": "RSP002",
+      "question": "Was Golestan Palace itself the selected target, and was it intentionally attacked?",
+      "status": "not_established",
+      "answer_standard": "Reported secondary damage after an airstrike near the palace does not establish that the palace was the intended target. Direct-attack media wording remains a source claim unless independently corroborated.",
+      "evidence_needed": [
+        "targeting records",
+        "weapon/aimpoint evidence",
+        "decision-maker knowledge and intent",
+        "reliable site assessment"
+      ],
+      "links": [
+        "FCT005",
+        "FCT006",
+        "FCT011",
+        "FCT018"
+      ]
+    },
+    {
+      "id": "RSP003",
+      "question": "Did a particular attack violate the 1954 Hague Convention, customary IHL, or another applicable rule?",
+      "status": "not_adjudicable_from_current_event_corpus",
+      "answer_standard": "Apply the correct rule only after establishing actor, target/use, conflict and treaty scope, exception conditions, and relevant ex ante information. The 1954 Article 4(2) exception is limited to Article 4(1); damage alone proves neither breach nor legality.",
+      "evidence_needed": [
+        "actual target and use",
+        "military necessity or alternative options",
+        "feasible precautions",
+        "expected civilian/cultural damage and concrete direct military advantage",
+        "conflict classification"
+      ],
+      "links": [
+        "R004",
+        "R005",
+        "R014",
+        "R020",
+        "R024",
+        "R031",
+        "R033",
+        "R034"
+      ]
+    },
+    {
+      "id": "RSP004",
+      "question": "Is an individual guilty of a war crime, or is a state internationally responsible?",
+      "status": "not_established",
+      "answer_standard": "Keep state responsibility and individual criminal guilt separate. A war-crime conclusion needs the offence's material and mental elements, conflict nexus, identity/participation, and jurisdiction. Neither Israel nor Iran is a Rome Statute party in the source snapshot; that alone does not decide every possible jurisdictional basis.",
+      "evidence_needed": [
+        "individual conduct and mental elements",
+        "conflict nexus",
+        "state attribution/breach for state responsibility",
+        "territorial/nationality/acceptance/referral basis for ICC jurisdiction"
+      ],
+      "links": [
+        "R017",
+        "R028",
+        "R039",
+        "R040",
+        "R041"
+      ]
+    },
+    {
+      "id": "RSP005",
+      "question": "Does missing evidence establish that the attack was lawful or that no actor was responsible?",
+      "status": "no",
+      "answer_standard": "No. U/not established is an epistemic status, not exoneration. A careful answer states what is known, what is reported, what is unresolved, and what evidence would decide the issue.",
+      "evidence_needed": [],
+      "links": [
+        "FCT018",
+        "RSP003",
+        "RSP004"
+      ]
+    }
+  ]
+}

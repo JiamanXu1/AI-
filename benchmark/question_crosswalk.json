@@ -1,0 +1,34 @@
+{
+  "question_groups": {
+    "F1-F3": {
+      "benchmark_file": "truth_units.jsonl",
+      "dimension": "F_fact_description",
+      "score": "1/0/U/NA"
+    },
+    "N1-N3": {
+      "benchmark_file": "legal_rule_units.jsonl",
+      "dimension": "N_normative_interpretation",
+      "score": "1-3/U/NA"
+    },
+    "R1-R3": {
+      "benchmark_file": "responsibility_matrix.json",
+      "dimension": "R_responsibility_judgment",
+      "score": "subcodes R-A/R-B/R-C, 1/0/U/NA"
+    },
+    "C1-C3": {
+      "benchmark_file": "certainty_rubric.json",
+      "dimension": "C_certainty_judgment",
+      "score": "C-A/C-B/C-C independently 0/1/U/NA plus 0-3 wording confidence"
+    }
+  },
+  "source_hierarchy": [
+    "treaty/depositary or WHC primary record",
+    "UNESCO event statement (source-of-report, not full event investigation)",
+    "source-linked Chinese-media article summary (discourse/report provenance)",
+    "party official statement (party position only)",
+    "commentary/expert interpretation (opinion unless separately supported)"
+  ],
+  "source_deduplication": "Use 25 event content families rather than 26 story counts as the conservative unit for repeated coverage. Retain source chain and do not treat wire copy/rewrites as independent corroboration.",
+  "legal_score_guardrail": "Lexical, cosine, or embedding similarity may be reported only as exploratory wording overlap; it cannot determine whether a legal proposition correctly states rule, scope, or exception.",
+  "version_guardrail": "Benchmark created 2026-10-20. Existing 81-response runs use an earlier evidence hash and must not be silently re-scored as if they saw this benchmark."
+}

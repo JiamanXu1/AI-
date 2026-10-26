@@ -1,0 +1,269 @@
+[
+  {
+    "id": "C001",
+    "research_paraphrase_zh": "总台消息将宫殿受损时间指向当地时间2026年3月2日下午。",
+    "source_record_ids": [
+      "CM001",
+      "CM002"
+    ],
+    "claim_type": "新闻报道的事件时间",
+    "evidence_limit": "与个别历史解读稿的3月1日表述并列登记，不自行消除差异。",
+    "provenance_chain": "总台记者获悉；另有外媒综合",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C002",
+    "research_paraphrase_zh": "多篇报道把该建筑群识别为德黑兰的古列斯坦／古莱斯坦／戈勒斯坦宫，即玫瑰宫。",
+    "source_record_ids": [
+      "CM001",
+      "CM002",
+      "CM003"
+    ],
+    "claim_type": "对象识别",
+    "evidence_limit": "必须排除阿根廷总统府同名结果。",
+    "provenance_chain": "不同媒体常用译名",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C003",
+    "research_paraphrase_zh": "报道将宫殿的世界遗产列入年份记为2013年。",
+    "source_record_ids": [
+      "CM001",
+      "CM003",
+      "CM005"
+    ],
+    "claim_type": "新闻背景事实",
+    "evidence_limit": "本集为媒体层证据，世界遗产名录本身不属于中国媒体样本。",
+    "provenance_chain": "记者背景介绍",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C004",
+    "research_paraphrase_zh": "新华社与教科文组织声明报道将受损机制描述为爆炸冲击波。",
+    "source_record_ids": [
+      "CM004",
+      "CM005"
+    ],
+    "claim_type": "转述的损伤机制",
+    "evidence_limit": "不能从冲击波直接推定遗产被蓄意瞄准。",
+    "provenance_chain": "新华社照片配文；UNESCO声明的媒体报道",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C005",
+    "research_paraphrase_zh": "门窗、玻璃和室内装饰是媒体反复提及的受损对象。",
+    "source_record_ids": [
+      "CM002",
+      "CM003",
+      "CM011"
+    ],
+    "claim_type": "构件损伤报道",
+    "evidence_limit": "不等于所有建筑、全部馆藏或全部遗产价值消失。",
+    "provenance_chain": "现场图像描述与伊朗媒体转述",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C006",
+    "research_paraphrase_zh": "新华社图集标识了3月3日拍摄的宫殿受损照片。",
+    "source_record_ids": [
+      "CM005",
+      "CM014"
+    ],
+    "claim_type": "图片元数据",
+    "evidence_limit": "重复刊登同一日期图像不能作为新增袭击或新增现场确认。",
+    "provenance_chain": "新华社图注",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C007",
+    "research_paraphrase_zh": "教科文组织关切报道提及向相关方提供遗产地坐标。",
+    "source_record_ids": [
+      "CM004",
+      "CM007"
+    ],
+    "claim_type": "机构行动的媒体转述",
+    "evidence_limit": "通报坐标不独立证明任何具体行为人的主观意图。",
+    "provenance_chain": "UNESCO声明→新华社",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C008",
+    "research_paraphrase_zh": "媒体转述伊朗方面认为镜饰修复可能需要至少15年。",
+    "source_record_ids": [
+      "CM008",
+      "CM009",
+      "CM017",
+      "CM018"
+    ],
+    "claim_type": "修复工期估计",
+    "evidence_limit": "估计不是已经发生的修复时间；同源复述不能多数投票确证。",
+    "provenance_chain": "伊朗官方／馆长说法及后续评论转述",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C009",
+    "research_paraphrase_zh": "3月15日分析稿转述伊方当时至少56处遗产受损的统计。",
+    "source_record_ids": [
+      "CM009"
+    ],
+    "claim_type": "官方汇总数字的媒体转述",
+    "evidence_limit": "统计单位是全国遗产点，不是宫殿内56处构件。",
+    "provenance_chain": "伊朗文化遗产部门→中新网",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C010",
+    "research_paraphrase_zh": "3月27日新华社消息转述至少120处博物馆、建筑及遗迹受损。",
+    "source_record_ids": [
+      "CM013"
+    ],
+    "claim_type": "官方汇总数字的媒体转述",
+    "evidence_limit": "与较早56处统计日期不同，不直接判为相互否定。",
+    "provenance_chain": "伊朗国家电视台／阿拉维→新华社",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C011",
+    "research_paraphrase_zh": "4月10日专访提及131处受损遗产以及跨地区的损毁范围。",
+    "source_record_ids": [
+      "CM020"
+    ],
+    "claim_type": "官员专访陈述",
+    "evidence_limit": "10%至超过50%不是古莱斯坦宫单体百分比。",
+    "provenance_chain": "伊朗部长→新华社记者",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C012",
+    "research_paraphrase_zh": "3月18日历史稿把宫殿与王朝更迭、政治仪式和历史叙事相联系。",
+    "source_record_ids": [
+      "CM010"
+    ],
+    "claim_type": "历史文化解释",
+    "evidence_limit": "适合价值话语分析，不充作现状结构检测。",
+    "provenance_chain": "作者历史解释",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C013",
+    "research_paraphrase_zh": "人民日报海外版专家访谈提出损伤、价值完整性及社会文化影响应分别评估。",
+    "source_record_ids": [
+      "CM011"
+    ],
+    "claim_type": "专家评价框架",
+    "evidence_limit": "框架不等于该宫殿已完成三类评估。",
+    "provenance_chain": "詹长法→赵晓霞采访",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C014",
+    "research_paraphrase_zh": "专家访谈和评论强调数字记录、预防性保护及应急合作。",
+    "source_record_ids": [
+      "CM011",
+      "CM019"
+    ],
+    "claim_type": "保护建议",
+    "evidence_limit": "建议不等于保护措施已经实施。",
+    "provenance_chain": "专家意见与媒体分析",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C015",
+    "research_paraphrase_zh": "3月30日考古学家访谈强调现代战争外溢造成的历史建筑风险。",
+    "source_record_ids": [
+      "CM016"
+    ],
+    "claim_type": "专家分析",
+    "evidence_limit": "关于现有法律覆盖范围的判断需要另作法律来源核验。",
+    "provenance_chain": "巴什盖伦→新华社采访",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C016",
+    "research_paraphrase_zh": "4月1日和4月9日人民日报系统评论强调共同文明记忆和文化交融损失。",
+    "source_record_ids": [
+      "CM017",
+      "CM018"
+    ],
+    "claim_type": "价值评价与修辞",
+    "evidence_limit": "不把两篇相近评论算作修复年限的两份独立技术证据。",
+    "provenance_chain": "同一媒体系统的相关版本",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C017",
+    "research_paraphrase_zh": "4月18日图集使用直接打击和结构损伤的较强措辞。",
+    "source_record_ids": [
+      "CM022"
+    ],
+    "claim_type": "媒体归责措辞",
+    "evidence_limit": "与早期冲击波叙述的证据强度不同，不能自动补出蓄意或个案司法责任。",
+    "provenance_chain": "新华社专题图注",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C018",
+    "research_paraphrase_zh": "4月21日图片报道记录4月20日政府组织使节和外国媒体探访受损宫殿。",
+    "source_record_ids": [
+      "CM023"
+    ],
+    "claim_type": "较晚现场记录",
+    "evidence_limit": "保留组织者及拍摄日期，不以政府组织探访等同完全独立技术鉴定。",
+    "provenance_chain": "沙达提现场图注",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C019",
+    "research_paraphrase_zh": "4月21日部长专访提及动员专家和公众参与修复。",
+    "source_record_ids": [
+      "CM024"
+    ],
+    "claim_type": "修复计划的媒体转述",
+    "evidence_limit": "计划不等于完成，也不证明历史材料已全部恢复。",
+    "provenance_chain": "文旅部长→新华社采访",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C020",
+    "research_paraphrase_zh": "4月28日中国新闻周刊特写在描述装饰损坏时，对主体建筑保留相对有限的判断。",
+    "source_record_ids": [
+      "CM026"
+    ],
+    "claim_type": "报道中的残存状况判断",
+    "evidence_limit": "未取得完整结构检测报告，不能写成所有构件完好。",
+    "provenance_chain": "记者采访与报道叙述",
+    "original_quote": null,
+    "independent_ground_truth": false
+  },
+  {
+    "id": "C021",
+    "research_paraphrase_zh": "2月4日闭馆消息是3月受损事件之前的开放状态背景。",
+    "source_record_ids": [
+      "CM027"
+    ],
+    "claim_type": "背景消息",
+    "evidence_limit": "不得把2月闭馆回溯归因于3月袭击。",
+    "provenance_chain": "总台消息→央广网",
+    "original_quote": null,
+    "independent_ground_truth": false
+  }
+]

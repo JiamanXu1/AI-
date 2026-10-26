@@ -1,0 +1,12 @@
+Downloading Electron binary...
+Starting five model calls. ChatGPT may open a browser for sign-in and plan-usage consent.
+
+DeepSeek failed: No JSON scores found in model output.
+
+Doubao failed: Doubao API returned HTTP 401: The API key format is incorrect. Request id: 021792468726674fa871229fec4115dc08043e38393b8b5a6bba7
+
+Mistral failed: Cannot convert argument to a ByteString because the character at index 7 has a value of 26085 which is greater than 255.
+
+Grok failed: Cannot convert argument to a ByteString because the character at index 7 has a value of 24405 which is greater than 255.
+
+ChatGPT failed: Sign-in was not completed. You can try again when you are ready.

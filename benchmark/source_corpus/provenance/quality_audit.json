@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "unique_record_ids": 29,
+  "unique_registered_urls": 49,
+  "event_records": 26,
+  "background_records": 3,
+  "claim_units": 21,
+  "all_claim_references_exist": true,
+  "no_model_answers_used": true,
+  "original_news_fulltext_redistributed": false,
+  "known_link_issues": [
+    "L039和L048证书主机名不匹配",
+    "L047返回HTTP200但无可读报道正文；仅作已知转载定位线索"
+  ],
+  "limitations": [
+    "来源真实性与报道内容的事实真值分别处理",
+    "非穷尽性总体；非逐字原文语料",
+    "未进行图片视频鉴真或宫殿工程现场鉴定"
+  ]
+}

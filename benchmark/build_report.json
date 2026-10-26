@@ -1,0 +1,20 @@
+{
+  "benchmark_version": "golestan_truth_benchmark_20261020_v1",
+  "source_media_records": 29,
+  "source_media_claim_units": 21,
+  "integrated_fact_units": 19,
+  "selected_legal_rule_units": 35,
+  "responsibility_items": 5,
+  "treaty_instruments": 5,
+  "source_freeze_checks": {
+    "source_corpus": {
+      "manifest_files": 49,
+      "all_hashes_match_manifest": true
+    }
+  },
+  "duplicate_directory_contents_identical": null,
+  "zip_manifest_hashes_match": null,
+  "zip_manifest_file_count": 0,
+  "source_comparison_note": "The portable package contains one complete frozen source-corpus directory; duplicate and zip copies are not required for rebuilding.",
+  "warning": "A passing hash check verifies package integrity, not the truth of every claim in a source."
+}

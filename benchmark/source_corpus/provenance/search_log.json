@@ -1,0 +1,131 @@
+{
+  "search_date": "2026-10-20",
+  "timezone": "Asia/Shanghai",
+  "method": "公开网页搜索＋定域检索＋原站页面打开＋媒体链接直接访问",
+  "query_count": 52,
+  "batches": [
+    {
+      "id": "initial",
+      "queries": [
+        "戈勒斯坦宫 受损 新华社 2026",
+        "古勒斯坦宫 受损 央视 新闻",
+        "玫瑰宫 伊朗 受损 中国新闻网",
+        "戈勒斯坦宫 受损 人民网"
+      ]
+    },
+    {
+      "id": "corpus_search_0",
+      "queries": [
+        "\"古列斯坦\" \"受损\" site:cctv.com",
+        "\"玫瑰宫\" \"受损\" site:news.cn",
+        "\"古莱斯坦宫\" site:xinhuanet.com 2026",
+        "\"戈勒斯坦宫\" site:chinanews.com"
+      ]
+    },
+    {
+      "id": "corpus_search_1",
+      "queries": [
+        "\"玫瑰宫\" 受损 site:cnr.cn",
+        "\"玫瑰宫\" 受损 site:people.com.cn",
+        "\"戈勒斯坦宫\" site:thepaper.cn",
+        "\"玫瑰宫\" site:news.cgtn.com"
+      ]
+    },
+    {
+      "id": "more0",
+      "queries": [
+        "\"古列斯坦王宫\" 受损 site:news.cctv.cn",
+        "\"玫瑰宫\" 受损 site:chinanews.com.cn",
+        "\"戈勒斯坦宫\" 受损 site:thepaper.cn",
+        "\"古莱斯坦宫\" 修复 2026"
+      ]
+    },
+    {
+      "id": "more1",
+      "queries": [
+        "\"玫瑰宫\" site:gmw.cn 2026",
+        "\"玫瑰宫\" site:chinadaily.com.cn 2026",
+        "\"戈勒斯坦宫\" site:bjnews.com.cn",
+        "\"玫瑰宫\" site:stdaily.com"
+      ]
+    },
+    {
+      "id": "more2",
+      "queries": [
+        "\"玫瑰宫\" site:jfdaily.com 2026",
+        "\"玫瑰宫\" site:news.bjd.com.cn 2026",
+        "\"古列斯坦\" site:cnr.cn 2026",
+        "\"玫瑰宫\" site:china.com.cn 2026"
+      ]
+    },
+    {
+      "id": "extra0",
+      "queries": [
+        "\"古列斯坦王宫\" site:cctv.cn 2026",
+        "\"古莱斯坦宫\" site:news.cn 2026 修复",
+        "\"戈勒斯坦宫\" 2026 五月 六月 修复",
+        "\"玫瑰宫\" 伊朗 受损 修复 2026 9月"
+      ]
+    },
+    {
+      "id": "extra1",
+      "queries": [
+        "\"玫瑰宫\" site:news.cn 2026 文化 遗产 记者",
+        "\"古莱斯坦宫\" site:chinanews.com.cn",
+        "\"玫瑰宫\" site:news.cctv.cn 2026 镜厅",
+        "\"戈勒斯坦宫\" site:news.cn"
+      ]
+    },
+    {
+      "id": "extra2",
+      "queries": [
+        "\"玫瑰宫\" site:bjnews.com.cn 伊朗",
+        "\"古列斯坦\" site:thepaper.cn 2026",
+        "\"玫瑰宫\" site:stdaily.com 伊朗",
+        "\"玫瑰宫\" site:chinadaily.com.cn 伊朗"
+      ]
+    },
+    {
+      "id": "last0",
+      "queries": [
+        "\"古列斯坦王宫\" \"央视新闻\" \"2026\" -site:bkso.baidu.com -site:zh.wikipedia.org",
+        "\"玫瑰宫\" \"央视\" \"3月\" 2026 -site:bkso.baidu.com",
+        "\"古列斯坦\" \"遭袭\" \"总台记者\"",
+        "\"玫瑰宫\" \"修复\" site:news.cctv.cn"
+      ]
+    },
+    {
+      "id": "last1",
+      "queries": [
+        "\"玫瑰宫\" \"新京报\" \"2026\" \"受损\"",
+        "\"玫瑰宫\" \"科技日报\" 2026",
+        "\"玫瑰宫\" \"光明日报\" 2026 伊朗",
+        "\"古莱斯坦宫\" \"2026\" \"5月\" \"新华社\""
+      ]
+    },
+    {
+      "id": "last2",
+      "queries": [
+        "\"文化遗产不应成为战争的\" \"蔺紫鸥\"",
+        "\"玫瑰宫\" \"科技日报\" \"镜厅\"",
+        "\"战火所过，人类文明正遭受重创\" 长安街知事",
+        "\"玫瑰宫\" \"5月\" \"修复\" site:chinanews.com.cn"
+      ]
+    },
+    {
+      "id": "late",
+      "queries": [
+        "\"戈列斯坦宫\" 受损 中国 新闻",
+        "\"古勒斯坦宫\" 受损 中国 新闻",
+        "\"古莱斯坦宫\" \"修复\" site:news.cn after:2026-05-01 before:2026-10-21",
+        "\"戈勒斯坦宫\" \"受损\" after:2026-05-01 before:2026-10-21"
+      ]
+    }
+  ],
+  "limitations": [
+    "搜索服务不保证给出全部索引结果；多查询结果合并返回，不能将某一批结果伪称某一查询的独立结果。",
+    "discovered_urls.json仅保存12个有结构化留存的搜索批次，初始批次从逐篇纳入表追溯；候选计数134不是全网报道数量。",
+    "国内媒体域名不等于已在中国大陆所有网络环境逐一测试访问。",
+    "未纳入的候选不等于已证伪；完整纳入依据见records和not_included_candidates。"
+  ]
+}
