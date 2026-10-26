@@ -1,0 +1,13 @@
+{
+  "id": "FOLKLORE1989_en",
+  "year": 1989,
+  "title": "Safeguarding of Traditional Culture and Folklore",
+  "url": "https://www.unesco.org/en/legal-affairs/recommendation-safeguarding-traditional-culture-and-folklore?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "FOLKLORE1989",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:47:22.371317+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

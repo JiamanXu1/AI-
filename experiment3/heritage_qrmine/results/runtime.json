@@ -1,0 +1,23 @@
+{
+  "python": "3.11.15",
+  "platform": "macOS-26.5.1-arm64-arm-64bit",
+  "versions": {
+    "qrmine": "4.0.0",
+    "spacy": "3.8.16",
+    "en-core-web-sm": "3.8.0",
+    "numpy": "2.4.6",
+    "textacy": "0.13.0",
+    "scikit-learn": "1.9.1",
+    "pypdf": "6.20.1"
+  },
+  "seed": 42,
+  "qrmine_documents": 27,
+  "qrmine_methods": [
+    "ReadData.read_file",
+    "Content.common_nouns",
+    "Content.common_verbs",
+    "Qrmine.print_categories",
+    "Qrmine.print_dict"
+  ],
+  "supplement": "TF-IDF+NMF via scikit-learn; k=4,6,8; not QRMine LDA"
+}

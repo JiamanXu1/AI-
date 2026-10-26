@@ -1,0 +1,6 @@
+﻿pair_id,en,zh,intersection,union,jaccard,en_only,zh_only,interpretation
+DIVERSITY2001,DIVERSITY2001_en,DIVERSITY2001_zh,9,12,0.75,G1;V8,C2,dictionary presence agreement; not translation accuracy or statistical inference
+DIVERSITY2005,DIVERSITY2005_en,DIVERSITY2005_zh,10,10,1.0,,,dictionary presence agreement; not translation accuracy or statistical inference
+ICH2003,ICH2003_en,ICH2003_zh,11,11,1.0,,,dictionary presence agreement; not translation accuracy or statistical inference
+OG2019,OG2019_en,OG2019_zh,14,14,1.0,,,dictionary presence agreement; not translation accuracy or statistical inference
+WH1972,WH1972_en,WH1972_zh,10,11,0.9091,,V4,dictionary presence agreement; not translation accuracy or statistical inference

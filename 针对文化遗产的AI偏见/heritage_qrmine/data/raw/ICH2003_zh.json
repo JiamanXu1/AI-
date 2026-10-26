@@ -1,0 +1,17 @@
+{
+  "id": "ICH2003_zh",
+  "year": 2003,
+  "title": "保护非物质文化遗产公约",
+  "url": "https://www.un.org/zh/node/181883",
+  "lang": "zh",
+  "pair_id": "ICH2003",
+  "kind": "normative",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:44:05.007978+00:00",
+  "status": "ok",
+  "final_url": "https://www.un.org/zh/node/181883",
+  "sha256": "a68a259f83b5bbb2d70133802a73d9ca7e31143f5ec8ef3ebedce10a3e5c704d",
+  "bytes": 91355,
+  "raw_path": "data/raw/ICH2003_zh.html",
+  "content_type": "text/html; charset=utf-8"
+}

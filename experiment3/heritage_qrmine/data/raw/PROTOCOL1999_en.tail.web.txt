@@ -1,0 +1,352 @@
+Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict - Legal Affairs (https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535)
+citeturn34view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"turn33view0","lineno":350}); Total lines: 731
+L252: 3. Parties which do not make extradition conditional on the existence of a treaty shall recognise the offences set forth in Article 15 sub-paragraphs 1 (a) to (c) as extraditable offences between them, subject to the conditions provided by the law of the requested Party.
+L253: 4. If necessary, offences set forth in Article 15 sub-paragraphs 1 (a) to (c) shall be treated, for the purposes of extradition between Parties, as if they had been committed not only in the place in which they occurred but also in the territory of the Parties that have established jurisdiction in accordance with Article 16 paragraph 1.
+L254: 
+L255: Article 19 - Mutual legal assistance
+L256: 1. Parties shall afford one another the greatest measure of assistance in connection with investigations or criminal or extradition proceedings brought in respect of the offences set forth in Article 15, including assistance in obtaining evidence at their disposal necessary for the proceedings.
+L257: 2. Parties shall carry out their obligations under paragraph 1 in conformity with any treaties or other arrangements on mutual legal assistance that may exist between them. In the absence of such treaties or arrangements, Parties shall afford one another assistance in accordance with their domestic law.
+L258: 
+L259: Article 20 - Grounds for refusal
+L260: 1. For the purpose of extradition, offences set forth in Article 15 sub-paragraphs 1 (a) to (c), and for the purpose of mutual legal assistance, offences set forth in Article 15 shall not be regarded as political offences nor as offences connected with political offences nor as offences inspired by political motives.
+L261: Accordingly, a request for extradition or for mutual legal assistance based on such offences may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
+L262: 2.
+L263: Nothing in this Protocol shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance if the requested Party has substantial grounds for believing that the request for extradition for offences set forth in Article 15 sub-paragraphs 1 (a) to (c) or for mutual legal assistance with respect to offences set forth in Article 15 has been made for the purpose of prosecuting or punishing a person on account of that person's race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person's position for any of these reasons.
+L264: Article 21 - Measures regarding other violations
+L265: 
+L266: Without prejudice to Article 28 of the Convention, each Party shall adopt such legislative, administrative or disciplinary measures as may be necessary to suppress the following acts when committed intentionally:
+L267: (a) any use of cultural property in violation of the Convention or this Protocol;
+L268: (b) any illicit export, other removal or transfer of ownership of cultural property from occupied territory in violation of the Convention or this Protocol.
+L269: CHAPTER 5 - THE PROTECTION OF CULTURAL PROPERTY IN ARMED CONFLICTS NOT OF AN INTERNATIONAL CHARACTER
+L270: 
+L271: Article 22 - Armed conflicts not of an international character
+L272: 
+L273: 1. This Protocol shall apply in the event of an armed conflict not of an international character, occurring within the territory of one of the Parties.
+L274: 
+L275: 2. This Protocol shall not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence and other acts of a similar nature.
+L276: 3. Nothing in this Protocol shall be invoked for the purpose of affecting the sovereignty of a State or the responsibility of the government, by all legitimate means, to maintain or re-establish law and order in the State or to defend the national unity and territorial integrity of the State.
+L277: 
+L278: 4. Nothing in this Protocol shall prejudice the primary jurisdiction of a Party in whose territory an armed conflict not of an international character occurs over the violations set forth in Article 15.
+L279: 5. Nothing in this Protocol shall be invoked as a justification for intervening, directly or indirectly, for any reason whatever, in the armed conflict or in the internal or external affairs of the Party in the territory of which that conflict occurs.
+L280: 
+L281: 6. The application of this Protocol to the situation referred to in paragraph 1 shall not affect the legal status of the parties to the conflict.
+L282: 
+L283: 7. UNESCO may offer its services to the parties to the conflict.
+L284: 
+L285: CHAPTER 6 - INSTITUTIONAL ISSUES
+L286: Article 23 - Meeting of the Parties
+L287: 
+L288: 1. The Meeting of the Parties shall be convened at the same time as the General Conference of UNESCO, and in co-ordination with the Meeting of the High Contracting Parties, if such a meeting has been called by the Director-General.
+L289: 
+L290: 2. The Meeting of the Parties shall adopt its Rules of Procedure.
+L291: 3. The Meeting of the Parties shall have the following functions:
+L292: (a) to elect the Members of the Committee, in accordance with Article 24 paragraph 1;
+L293: (b) to endorse the Guidelines developed by the Committee in accordance with Article 27 sub-paragraph 1(a);
+L294: (c) to provide guidelines for, and to supervise the use of the Fund by the Committee;
+L295: (d) to consider the report submitted by the Committee in accordance with Article 27 sub-paragraph 1(d);
+L296: (e) to discuss any problem related to the application of this Protocol, and to make recommendations, as appropriate.
+L297: 4. At the request of at least one-fifth of the Parties, the Director-General shall convene an Extraordinary Meeting of the Parties.
+L298: 
+L299: Article 24 - Committee for the Protection of Cultural Property in the Event of Armed Conflict
+L300: 
+L301: 1. The Committee for the Protection of Cultural Property in the Event of Armed Conflict is hereby established. It shall be composed of twelve Parties which shall be elected by the Meeting of the Parties.
+L302: 2. The Committee shall meet once a year in ordinary session and in extra-ordinary sessions whenever it deems necessary.
+L303: 
+L304: 3. In determining membership of the Committee, Parties shall seek to ensure an equitable representation of the different regions and cultures of the world.
+L305: 4. Parties members of the Committee shall choose as their representatives persons qualified in the fields of cultural heritage, defence or international law, and they shall endeavour, in consultation with one another, to ensure that the Committee as a whole contains adequate expertise in all these fields.
+L306: 
+L307: Article 25 - Term of office
+L308: 
+L309: 1. A Party shall be elected to the Committee for four years and shall be eligible for immediate re-election only once.
+L310: 2. Notwithstanding the provisions of paragraph 1, the term of office of half of the members chosen at the time of the first election shall cease at the end of the first ordinary session of the Meeting of the Parties following that at which they were elected. These members shall be chosen by lot by the President of this Meeting after the first election.
+L311: 
+L312: Article 26 - Rules of procedure
+L313: 
+L314: 1. The Committee shall adopt its Rules of Procedure.
+L315: 2. A majority of the members shall constitute a quorum. Decisions of the Committee shall be taken by a majority of two-thirds of its members voting.
+L316: 
+L317: 3. Members shall not participate in the voting on any decisions relating to cultural property affected by an armed conflict to which they are parties.
+L318: 
+L319: Article 27 - Functions
+L320: 1. The Committee shall have the following functions:
+L321: (a) to develop Guidelines for the implementation of this Protocol;
+L322: (b) to grant, suspend or cancel enhanced protection for cultural property and to establish, maintain and promote the List of Cultural Property under Enhanced Protection;
+L323: (c) to monitor and supervise the implementation of this Protocol and promote the identification of cultural property under enhanced protection;
+L324: (d) to consider and comment on reports of the Parties, to seek clarifications as required, and prepare its own report on the implementation of this Protocol for the Meeting of the Parties;
+L325: (e) to receive and consider requests for international assistance under Article 32;
+L326: (f) to determine the use of the Fund;
+L327: (g) to perform any other function which may be assigned to it by the Meeting of the Parties.
+L328: 2. The functions of the Committee shall be performed in co-operation with the Director-General.
+L329: 3. The Committee shall co-operate with international and national governmental and non-governmental organizations having objectives similar to those of the Convention, its First Protocol and this Protocol. To assist in the implementation of its functions, the Committee may invite to its meetings, in an advisory capacity, eminent professional organizations such as those which have formal relations with UNESCO, including the International Committee of the Blue Shield (ICBS) and its constituent bodies.
+L330: Representatives of the International Centre for the Study of the Preservation and Restoration of Cultural Property (Rome Centre) (ICCROM) and of the International Committee of the Red Cross (ICRC) may also be invited to attend in an advisory capacity.
+L331: Article 28 - Secretariat
+L332: 
+L333: The Committee shall be assisted by the Secretariat of UNESCO which shall prepare the Committee’s documentation and the agenda for its meetings and shall have the responsibility for the implementation of its decisions.
+L334: 
+L335: Article 29 - The Fund for the Protection of Cultural Property in the Event of Armed Conflict
+L336: 1. A Fund is hereby established for the following purposes:
+L337: (a) to provide financial or other assistance in support of preparatory or other measures to be taken in peacetime in accordance with, inter alia, Article 5, Article 10 sub-paragraph (b) and Article 30; and
+L338: (b) to provide financial or other assistance in relation to emergency, provisional or other measures to be taken in order to protect cultural property during periods of armed conflict or of immediate recovery after the end of hostilities in accordance with, inter alia, Article 8 sub-paragraph (a).
+L339: 2. The Fund shall constitute a trust fund, in conformity with the provisions of the financial regulations of UNESCO.
+L340: 
+L341: 3. Disbursements from the Fund shall be used only for such purposes as the Committee shall decide in accordance with the guidelines as defined in Article 23 sub-paragraph 3(c). The Committee may accept contributions to be used only for a certain programme or project, provided that the Committee shall have decided on the implementation of such programme or project.
+L342: 4. The resources of the Fund shall consist of:
+L343: (a) voluntary contributions made by the Parties;
+L344: (b) contributions, gifts or bequests made by:
+L345: (i) other States;
+L346: (ii) UNESCO or other organizations of the United Nations system;
+L347: (iii) other intergovernmental or non-governmental organizations; and
+L348: (iv) public or private bodies or individuals;
+L349: (c) any interest accruing on the Fund;
+L350: (d) funds raised by collections and receipts from events organized for the benefit of the Fund; and
+L351: (e) all other resources authorized by the guidelines applicable to the Fund.
+L352: CHAPTER 7 - DISSEMINATION OF INFORMATION AND INTERNATIONAL ASSISTANCE
+L353: 
+L354: Article 30 - Dissemination
+L355: 
+L356: 1. The Parties shall endeavour by appropriate means, and in particular by educational and information programmes, to strengthen appreciation and respect for cultural property by their entire population.
+L357: 
+L358: 2. The Parties shall disseminate this Protocol as widely as possible, both in time of peace and in time of armed conflict.
+L359: 3. Any military or civilian authorities who, in time of armed conflict, assume responsibilities with respect to the application of this Protocol, shall be fully acquainted with the text thereof. To this end the Parties shall, as appropriate:
+L360: (a) incorporate guidelines and instructions on the protection of cultural property in their military regulations;
+L361: (b) develop and implement, in cooperation with UNESCO and relevant governmental and non-governmental organizations, peacetime training and educational programmes;
+L362: (c) communicate to one another, through the Director-General, information on the laws, administrative provisions and measures taken under sub-paragraphs (a) and (b);
+L363: (d) communicate to one another, as soon as possible, through the Director-General, the laws and administrative provisions which they may adopt to ensure the application of this Protocol.
+L364: Article 31 - International cooperation
+L365: 
+L366: In situations of serious violations of this Protocol, the Parties undertake to act, jointly through the Committee, or individually, in cooperation with UNESCO and the United Nations and in conformity with the Charter of the United Nations.
+L367: 
+L368: Article 32 - International assistance
+L369: 1. A Party may request from the Committee international assistance for cultural property under enhanced protection as well as assistance with respect to the preparation, development or implementation of the laws, administrative provisions and measures referred to in Article 10.
+L370: 
+L371: 2. A party to the conflict, which is not a Party to this Protocol but which accepts and applies provisions in accordance with Article 3, paragraph 2, may request appropriate international assistance from the Committee.
+L372: 3. The Committee shall adopt rules for the submission of requests for international assistance and shall define the forms the international assistance may take.
+L373: 
+L374: 4. Parties are encouraged to give technical assistance of all kinds, through the Committee, to those Parties or parties to the conflict who request it.
+L375: 
+L376: Article 33 - Assistance of UNESCO
+L377: 1. A Party may call upon UNESCO for technical assistance in organizing the protection of its cultural property, such as preparatory action to safeguard cultural property, preventive and organizational measures for emergency situations and compilation of national inventories of cultural property, or in connection with any other problem arising out of the application of this Protocol. UNESCO shall accord such assistance within the limits fixed by its programme and by its resources.
+L378: 2. Parties are encouraged to provide technical assistance at bilateral or multilateral level.
+L379: 
+L380: 3. UNESCO is authorized to make, on its own initiative, proposals on these matters to the Parties.
+L381: 
+L382: CHAPTER 8 - EXECUTION OF THIS PROTOCOL
+L383: 
+L384: Article 34 - Protecting Powers
+L385: 
+L386: This Protocol shall be applied with the co-operation of the Protecting Powers responsible for safeguarding the interests of the Parties to the conflict.
+L387: 
+L388: Article 35 - Conciliation procedure
+L389: 1. The Protecting Powers shall lend their good offices in all cases where they may deem it useful in the interests of cultural property, particularly if there is disagreement between the Parties to the conflict as to the application or interpretation of the provisions of this Protocol.
+L390: 2. For this purpose, each of the Protecting Powers may, either at the invitation of one Party, of the Director-General, or on its own initiative, propose to the Parties to the conflict a meeting of their representatives, and in particular of the authorities responsible for the protection of cultural property, if considered appropriate, on the territory of a State not party to the conflict. The Parties to the conflict shall be bound to give effect to the proposals for meeting made to them.
+L391: The Protecting Powers shall propose for approval by the Parties to the conflict a person belonging to a State not party to the conflict or a person presented by the Director-General, which person shall be invited to take part in such a meeting in the capacity of Chairman.
+L392: Article 36 - Conciliation in absence of Protecting Powers
+L393: 
+L394: 1. In a conflict where no Protecting Powers are appointed the Director-General may lend good offices or act by any other form of conciliation or mediation, with a view to settling the disagreement.
+L395: 2. At the invitation of one Party or of the Director-General, the Chairman of the Committee may propose to the Parties to the conflict a meeting of their representatives, and in particular of the authorities responsible for the protection of cultural property, if considered appropriate, on the territory of a State not party to the conflict.
+L396: 
+L397: Article 37 - Translations and reports
+L398: 1. The Parties shall translate this Protocol into their official languages and shall communicate these official translations to the Director-General.
+L399: 
+L400: 2. The Parties shall submit to the Committee, every four years, a report on the implementation of this Protocol.
+L401: 
+L402: Article 38 - State responsibility
+L403: 
+L404: No provision in this Protocol relating to individual criminal responsibility shall affect the responsibility of States under international law, including the duty to provide reparation.
+L405: CHAPTER 9 - FINAL CLAUSES
+L406: 
+L407: `Article 39 - Languages
+L408: 
+L409: This Protocol is drawn up in Arabic, Chinese, English, French, Russian and Spanish, the six texts being equally authentic.
+L410: 
+L411: Article 40 - Signature
+L412: 
+L413: This Protocol shall bear the date of 26 March 1999. It shall be opened for signature by all High Contracting Parties at The Hague from 17 May 1999 until 31 December 1999.
+L414: 
+L415: Article 41 - Ratification, acceptance or approval
+L416: 1. This Protocol shall be subject to ratification, acceptance or approval by High Contracting Parties which have signed this Protocol, in accordance with their respective constitutional procedures.
+L417: 
+L418: 2. The instruments of ratification, acceptance or approval shall be deposited with the Director-General.
+L419: 
+L420: Article 42 - Accession
+L421: 
+L422: 1. This Protocol shall be open for accession by other High Contracting Parties from 1 January 2000.
+L423: 2. Accession shall be effected by the deposit of an instrument of accession with the Director-General.
+L424: 
+L425: Article 43 - Entry into force
+L426: 
+L427: 1. This Protocol shall enter into force three months after twenty instruments of ratification, acceptance, approval or accession have been deposited.
+L428: 
+L429: 2. Thereafter, it shall enter into force, for each Party, three months after the deposit of its instrument of ratification, acceptance, approval or accession.
+L430: Article 44 - Entry into force in situations of armed conflict
+L431: 
+L432: The situations referred to in Articles 18 and 19 of the Convention shall give immediate effect to ratifications, acceptances or approvals of or accessions to this Protocol deposited by the parties to the conflict either before or after the beginning of hostilities or occupation. In such cases the Director-General shall transmit the communications referred to in Article 46 by the speediest method.
+L433: 
+L434: Article 45 - Denunciation
+L435: 1. Each Party may denounce this Protocol.
+L436: 
+L437: 2. The denunciation shall be notified by an instrument in writing, deposited with the Director-General.
+L438: 3. The denunciation shall take effect one year after the receipt of the instrument of denunciation. However, if, on the expiry of this period, the denouncing Party is involved in an armed conflict, the denunciation shall not take effect until the end of hostilities, or until the operations of repatriating cultural property are completed, whichever is the later.
+L439: 
+L440: Article 46 - Notifications
+L441: The Director-General shall inform all High Contracting Parties as well as the United Nations, of the deposit of all the instruments of ratification, acceptance, approval or accession provided for in Articles 41 and 42 and of denunciations provided for Article 45.
+L442: 
+L443: Article 47 - Registration with the United Nations
+L444: 
+L445: In conformity with Article 102 of the Charter of the United Nations, this Protocol shall be registered with the Secretariat of the United Nations at the request of the Director-General.
+L446: IN FAITH WHEREOF the undersigned, duly authorized, have signed the present Protocol.
+L447: 
+L448: DONE at The Hague, this twenty-sixth day of March 1999, in a single copy which shall be deposited in the archives of the UNESCO, and certified true copies of which shall be delivered to all the High Contracting Parties.
+L449: ## Opened for signature
+L450: 
+L451: From 17 May to 31 December 1999. The Protocol has been signed by the following States:
+L452: Country  | Note  | Date
+L453: --- | --- | ---
+L454: cite52†Albania |  | 26 March 1999
+L455: cite53†Armenia |  | 22 October 1999
+L456: cite54†Austria |  | 26 March 1999
+L457: cite55†Belarus |  | 26 March 1999
+L458: cite56†Belgium |  | 26 March 1999
+L459: cite57†Bulgaria |  | 15 September 1999
+L460: cite58†Cambodia |  | 26 March 1999
+L461: cite59†Colombia |  | 31 December 1999
+L462: cite60†Croatia |  | 26 March 1999
+L463: cite61†Côte d'Ivoire |  | 26 March 1999
+L464: cite62†Cyprus |  | 19 August 1999
+L465: cite63†Ecuador |  | 29 December 1999
+L466: cite64†Egypt |  | 9 October 1999
+L467: cite65†Estonia |  | 26 March 1999
+L468: cite66†Finland |  | 26 March 1999
+L469: cite67†Germany |  | 26 March 1999
+L470: cite68†Ghana |  | 26 March 1999
+L471: cite69†Greece |  | 26 March 1999
+L472: cite70†Holy See |  | 26 March 1999
+L473: cite71†Hungary |  | 26 March 1999
+L474: cite72†Indonesia |  | 26 March 1999
+L475: cite73†Italy |  | 26 March 1999
+L476: cite74†Luxembourg |  | 26 March 1999
+L477: cite75†Madagascar |  | 26 March 1999
+L478: cite76†Morocco |  | 21 December 1999
+L479: cite77†Netherlands (Kingdom of the) |  | 26 March 1999
+L480: cite78†Nigeria |  | 26 March 1999
+L481: cite79†Oman |  | 30 June 1999
+L482: cite80†Pakistan |  | 26 March 1999
+L483: cite81†Peru |  | 13 July 1999
+L484: cite82†Qatar |  | 26 March 1999
+L485: cite83†Romania |  | 8 November 1999
+L486: cite84†Spain |  | 26 March 1999
+L487: cite85†Sweden |  | 26 March 1999
+L488: cite86†Switzerland |  | 26 March 1999
+L489: cite87†Syrian Arab Republic |  | 26 March 1999
+L490: cite88†Yemen |  | 26 March 1999
+L491: Slovak Republic  |  | 22 December 1999
+L492: ## States Parties
+L493: 
+L494: Download the list in PDFsave_alt
+L495: 
+L496: Download the list in PDFsave_alt
+L497: 
+L498: 
+L499: 
+L500: This Protocol entered into force on 9 March 2004. It subsequently will entered into force for each State three months after the date of deposit of that State's instrument, except in cases of notifications of succession, where the entry into force occurred on the date on which the State assumed responsibility for conducting its international relations.
+L501: 
+L502: ## Declarations and Reservations
+L503: 
+L504: Expand allexpand_more
+L505: #### Austria
+L506: 
+L507: expand_more
+L508: 
+L509: The instrument contains the following "interpretative Declaration of the Republic of Austria:
+L510: 
+L511: Concerning Article 15 sub-paragraph 1 (c):
+L512: 
+L513: The Republic of Austria considers that the term “appropriation” refers to the offence of (grave) theft as set forth in §§ 127 and 128 sub-paragraph 1 (3) of the Austrian Criminal code (österreichisches Strafgesetzbuch – StGB).
+L514: 
+L515: Concerning Article 16 sub-paragraph 1 (c):
+L516: The Republic of Austria considers with regard to the provision of Article 17 paragraph 1 that the obligation under Article 16 sub-paragraph 1 (c) to establish jurisdiction over the serious violations set forth in Article 15 sub-paragraphs (a) to (c) only applies to such cases where the alleged offender cannot be extradited (aut dedere aut judicare)."
+L517: #### Azerbaijan
+L518: 
+L519: expand_more
+L520: 
+L521: The instrument contained the following reservation:
+L522: "The Republic of Azerbaijan declares that under the definition of "the competent national authorities of the occupied territory" mentioned in Article 9, paragraph 2, of the Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict, it understands the central competent authority dealing with the issues on the protection of the cultural properties situated over the whole territory of the party to the Protocol."
+L523: #### Belgium
+L524: 
+L525: expand_more
+L526: 
+L527: "DECLARATION BY THE KINGDOM OF BELGIUM
+L528: 
+L529: In accordance with Article 16, paragraph 1(a), of the Protocol and with the principle of non-discrimination, Belgium will prosecute the acts referred to in Article 15 of the Protocol without taking into account the exception provided for in its Article 16, paragraph 2(b)." [Original : French]
+L530: #### Canada
+L531: 
+L532: expand_more
+L533: 
+L534: The statement of understanding reproduced below was annexed to the instrument of accession :
+L535: 
+L536: "STATEMENT OF UNDERSTANDING
+L537: 
+L538: 1. It is the understanding of the Government of Canada that the definition of a military objective in Article 2(f) is to be interpreted the same way as Article 52(2) of Additional Protocol I to the Geneva Conventions of 1949.
+L539: 2. It is the understanding of the Government of Canada that in relation to Article 6(a)(ii), 6(b), 7(a), 7(b), 8, 13(2)(a) and 13(2)(b) the word "feasible" means that which is practicable or practically possible, taking into account all circumstances ruling at the time, including humanitarian and military considerations.
+L540: 3. It is the understanding of the Government of Canada that in relation to Article 6(a)(ii), 6(b), 7(c) and 7(d)(ii) that the military advantage anticipated from an attack is intended to refer to the advantage anticipated from the attack considered as a whole and not from isolated or particular parts of the attack.
+L541: 4. It is the understanding of the Government of Canada that any cultural property that becomes a military objective may be attacked in accordance with a waiver of imperative military necessity pursuant 10 Article 4(2) of the Convention.
+L542: 5.
+L543: It is the understanding of the Government of Canada that a decision to invoke imperative military necessity pursuant to Article 6(c) of this Protocol may be taken by an officer commanding a force smaller than the equivalent of a battalion in size in circumstances where the cultural property becomes a military objective and the circumstances ruling at the time relating to force protection are such that it is not feasible to require the decision to be made by an officer commanding a force the equivalent of a battalion in size or larger.
+L544: 6. It is the understanding of the Government of Canada that under Article 6(a)(i), cultural property can be made into a military objective because of its nature, location, purpose or use."
+L545: #### France
+L546: 
+L547: expand_more
+L548: 
+L549: The instrument of accession contained the following declaration.
+L550: "The French Republic understands that the reference made in Article 13, paragraph 2, subparagraph (c) of the Protocol to "immediate self-defence" in no way affects the right of self-defence as provided for in Article 51 of the Charter of the United Nations, and declares that it shall apply the stipulations of Article 13, paragraph 2, subparagraph (c) of the Protocol to the extent that the interpretation of those stipulations does not impede the employment, in accordance with international law, of the means it might consider essential to respond to an immediate threat in a situation of armed conflict.
+L551: The French Republic understands that any cultural property that becomes a military objective within the meaning of the Protocol may be attacked according to a waiver for an imperative military necessity by virtue of Article 4, paragraph 2, of the Convention.
+L552: In reference to Article 16, paragraph 1, subparagraph (c) of the Protocol, the French Republic indicates that French jurisdictions may prosecute any national of a State Party to the present Protocol who is usually resident in France and is guilty of the offences referred to in subparagraphs (a) to (c) of paragraph 1 of Article 15. The prosecution of such offences may take place only at the request of the public prosecutor’s office." [Original: French]
+L553: #### Iran (Islamic Republic of)
+L554: 
+L555: expand_more
+L556: 
+L557: "Accession of the Islamic Republic of Iran to this Protocol shall not mean the recognition of any country it does not recognize, neither shall it give rise to any commitment toward such states or governments"
+L558: 
+L559: Annexed to the instrument was the following explanatory declaration:
+L560: 
+L561: "Considering the special importance of protecting cultural heritage of nations against damages caused by war,
+L562: Bearing in mind the fact that cultural heritage of nations is deemed as part of cultural heritage of humanity,
+L563: 
+L564: Considering that full protect of cultural heritage against damages caused by armed conflicts needs the protections more than that which is provided for in the present Protocol,
+L565: The Islamic Republic of Iran regards the conclusion of bilateral and multilateral supplementary agreements to the present Protocol as necessary and states its readiness to conclude such agreements.
+L566: These agreements shall entail the granting of privileges and providing more possibilities for protection of cultural heritage of nations and shall also articulate the rules stipulated in the Protocol including customary rules of international law, in a way that solely include the rules that are not protested by the Government of the Islamic Republic of Iran and as well as explain more clearly the modality for the implementation of provisions of section 4 of this Protocol."
+L567: #### Mali
+L568: 
+L569: expand_more
+L570: 
+L571: The letter of transmission of this instrument contained the following request:
+L572: 
+L573: "The Government of Mali, referring to Article 44 of the Protocol, requests that its ratification be given immediate effect." [Original: French]
+L574: #### Netherlands
+L575: 
+L576: expand_more
+L577: 
+L578: "With effect from 10 October 2010, the Netherlands Antilles will cease to exist as a part of the Kingdom of the Netherlands. From that date onwards, the Kingdom will consist of four parts: the Netherlands, Aruba, Curaçao and Sint Marteen. Curaçao and Sint Marteen will enjoy internal self-government within the Kingdom, as Aruba and, up to 10 October 2010, the Netherlands Antilles do."
+L579: "These changes constitute a modification of the internal constitutional relations within the Kingdom of the Netherlands. The Kingdom of the Netherlands will accordingly remain the subject of international law with which agreements are concluded.
+L580: The modification of the structure of the Kingdom will therefore not affect the validity of the international agreements ratified by the Kingdom for the Netherlands Antilles: these agreements, including any reservations made, will continue to apply to Curaçao and Sint Marteen."
+L581: "The other islands that have until now formed part of the Netherlands Antilles – Bonaire, Sint Eustatius and Saba – will become part of the Netherlands, thus constituting "the Caribbean part of the Netherlands". The agreements that now apply to the Netherlands Antilles will also continue to apply to these islands; however, the Government of the Netherlands will now be responsible for implementing these agreements.
+L582: In addition, a number of the agreements that currently apply to the Netherlands are hereby declared applicable, from 10 October 2010, to this Caribbean part of the Netherlands. The agreements concerned are listed in the Annex."
+L583: "A status report of the agreements that apply to Curaçao, Sint Marteen and/or the Caribbean part of the Netherlands, including any reservations and declarations, will be supplied in the near future."
+L584: 
+L585: "The Permanent Delegation kindly requests the Director-General, in her capacity as depositary, to inform States Parties of the modification described above and all of the extensions listed in the Annex."
+L586: 
+L587: [Original : English]
+L588: #### New Zealand
+L589: 
+L590: expand_more
+L591: "[…] DECLARES that, consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this accession shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the depositary on the basis of appropriate consultation with that territory;" [Original: English].
+L592: #### United Kingdom of Great Britain and Northern Ireland
+L593: 
+L594: expand_more
+L595: 
+L596: The instruments were accompanied by the following declarations.
+L597: "Hereby Declare that the Government of the United Kingdom of Great Britain and Northern Ireland makes the following declarations in relation to the Convention for the Protection of Cultural Property in the Event of Armed Conflict with Regulations for the Execution of the Convention, the Protocol to the Convention for the Protection of Cultural Property in the Event of Armed Conflict 1954 and the Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict 1999 done at the Hague on 14 May 1954, 14 May 1954 and 26 March 1999 respectively:
+L598: 1. It is the understanding of the United Kingdom that military commanders and others responsible for planning, deciding upon, or executing attacks necessarily have to reach decisions on the basis of their assessment of the information from all sources which is reasonably available to them at the relevant time.
+L599: 2. The United Kingdom understands the term “feasible” as used in the Second Protocol to mean that which is practicable or practically possible, taking into account all circumstances ruling at that time, including humanitarian and military considerations.
+L600: 
+

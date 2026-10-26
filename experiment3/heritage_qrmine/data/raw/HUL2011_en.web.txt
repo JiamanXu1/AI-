@@ -1,0 +1,187 @@
+Recommendation on the Historic Urban Landscape, including a glossary of definitions - Legal Affairs (https://www.unesco.org/en/legal-affairs/recommendation-historic-urban-landscape-including-glossary-definitions)
+citeturn22view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.unesco.org/en/legal-affairs/recommendation-historic-urban-landscape-including-glossary-definitions","lineno":null}); Total lines: 247
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: [Input]
+L3: 
+L4: [Input: Search]
+L5: 
+L6: [Button: Search]
+L7: 
+L8: Quick links:cite1†AI cite2†Response to Crisis cite3†Key Challenges L9: 
+L10: cite4†Legal Affairs L11: 
+L12:   * cite4†Home L13:   * cite5†Governing bodies L14:     * cite6†Governing Bodies Homepage L15:     * cite7†General Conference L16:       * cite8†Rules of Procedure of the General Conference L17:       * cite9†Resolutions and documents of the General Conference L18:       * cite10†Legal Committee L19:     * cite11†Executive Board L20:       * cite12†Rules of Procedure of the Executive Board L21:       * cite13†Decisions and documents of the Executive Board L22:       * cite14†Committee on Conventions and Recommendations L23:       * cite15†Protection of human rights (104 Procedure) L24: 
+L25:   * cite16†Standard-setting L26:     * cite17†Standard-setting Homepage L27:       * cite18†Conventions L28:       * cite19†Recommendations L29:       * cite20†Declarations L30:       * cite21†List of all instruments L31:     * cite22†Standard-setting process L32:       * cite23†Rules of Procedure for recommendations and conventions L33:       * cite24†Multi-stage procedure for declarations L34:       * cite25†Monitoring of standard-setting instruments L35:       * cite26†One-Stop Shop L36:     * cite27†Conventions Ceremony L37:       * cite27†Third Ceremony (November 2023) L38:       * cite28†Second Ceremony (November 2021) L39:       * cite29†First Ceremony (November 2019) L40:   * cite30†Legal Texts L41:     * cite30†Legal Texts Homepage L42:       * cite31†Basic Texts L43:       * cite32†UNESCO Constitution L44:       * cite8†Rules of Procedure of the General Conference L45:       * cite12†Rules of Procedure of the Executive Board L46:     * cite33†Standard-setting L47:       * cite34†Legal texts on UNESCO's standard-setting L48:       * cite35†Legal texts on UNESCO conventions L49:     * cite36†Other legal texts L50:       * cite37†External Relations L51:       * cite37†Administrative and Financial L52:       * cite37†Programme L53:       * cite38†All other legal texts L54: 
+L55:   * cite39†About us L56:     * cite40†The Office of International Standards and Legal Affairs L57:       * cite41†Our responsibilities L58:       * cite42†Our priorities L59:       * cite43†Our team L60: 
+L61: cite21†arrow_back Back to all instruments L62: 
+L63: Recommendation
+L64: # Recommendation on the Historic Urban Landscape, including a glossary of definitions
+L65: 
+L66: Date and place of adoption
+L67: 
+L68: 10 November 2011
+L69: 
+L70: Paris, France
+L71: 
+L72: [Button: Download PDF]
+L73: 
+L74:   * cite44†Arabic†unesdoc.unesco.org L75:   * cite45†Chinese†unesdoc.unesco.org L76:   * cite46†English†unesdoc.unesco.org L77:   * cite47†French†unesdoc.unesco.org L78:   * cite48†Russian†unesdoc.unesco.org L79:   * cite49†Spanish†unesdoc.unesco.org L80: 
+L81: cite50†Learn more arrow_downward L82: 
+L83: Number of States Parties
+L84: 
+L85: Theme:
+L86: 
+L87: Culture
+L88: 
+L89: cite51†Websiteopen_in_new†whc.unesco.org L90: cite52†Reporting page open_in_new L91: 
+L92: 
+L93: 
+L94: Preamble
+L95: 
+L96: The General Conference,
+L97: 
+L98: Considering that historic urban areas are among the most abundant and diverse manifestations of our common cultural heritage, shaped by generations and constituting a key testimony to humankind’s endeavours and aspirations through space and time,
+L99: Also considering that urban heritage is for humanity a social, cultural and economic asset, defined by an historic layering of values that have been produced by successive and existing cultures and an accumulation of traditions and experiences, recognized as such in their diversity,
+L100: Further considering that urbanization is proceeding on an unprecedented scale in the history of humankind, and that throughout the world this is driving socio-economic change and growth, which should be harnessed at the local, national, regional and international levels,
+L101: 
+L102: Recognizing, the dynamic nature of living cities,
+L103: Noting, however, that rapid and frequently uncontrolled development is transforming urban areas and their settings, which may cause fragmentation and deterioration to urban heritage with deep impacts on community values, throughout the world,
+L104: Considering, therefore, that in order to support the protection of natural and cultural heritage, emphasis needs to be put on the integration of historic urban area conservation, management and planning strategies into local development processes and urban planning, such as, contemporary architecture and infrastructure development, for which the application of a landscape approach would help maintain urban identity,
+L105: Also considering that the principle of sustainable development provides for the preservation of existing resources, the active protection of urban heritage and its sustainable management is a condition sine qua non of development,
+L106: 
+L107: Recalling that a corpus of UNESCO standard-setting documents, including conventions, recommendations and charters (1) exists on the subject of the conservation of historic areas, all of which remain valid,
+L108: Also noting, however, that under processes of demographic shifts, global market liberalization and decentralization, as well as mass tourism, market exploitation of heritage, and climate change, conditions have changed and cities are subject to development pressures and challenges not present at the time of adoption of the most recent UNESCO recommendation on historic areas in 1976 (Recommendation concerning the Safeguarding and Contemporary Role of Historic Areas),
+L109: Further noting the evolution of the concepts of culture and heritage and of the approaches to their management, through the combined action of local initiatives and international meetings (2), which have been useful in guiding policies and practices worldwide,
+L110: 
+L111: Desiring to supplement and extend the application of the standards and principles laid down in existing international instruments,
+L112: Having before it proposals concerning the historic urban landscape as an approach to urban heritage conservation, which appear on the agenda of the 36th session of the General Conference as item 8.1,
+L113: 
+L114: Having decided at its 35th session that this issue should be addressed by means of a recommendation to Member States,
+L115: 
+L116: 1. Adopts, this 10th day of November 2011, the present Recommendation on the Historic Urban Landscape;
+L117: 2. Recommends that Member States adopt the appropriate legislative institutional framework and measures, with a view to applying the principles and norms set out in this Recommendation in the territories under their jurisdiction;
+L118: 3. Also recommends that Member States bring this Recommendation to the attention of the local, national and regional authorities, and of institutions, services or bodies and associations concerned with the safeguarding, conservation and management of historic urban areas and their wider geographical settings.
+L119: 
+L120: Introduction
+L121: 1. Our time is witness to the largest human migration in history. More than half of the world’s population now lives in urban areas. Urban areas are increasingly important as engines of growth and as centres of innovation and creativity; they provide opportunities for employment and education and respond to people’s evolving needs and aspirations.
+L122: 2. Rapid and uncontrolled urbanization, however, may frequently result in social and spatial fragmentation and in a drastic deterioration of the quality of the urban environment and of the surrounding rural areas. Notably, this may be due to excessive building density, standardized and monotonous buildings, loss of public space and amenities, inadequate infrastructure, debilitating poverty, social isolation, and an increasing risk of climate-related disasters.
+L123: 3. Urban heritage, including its tangible and intangible components, constitutes a key resource in enhancing the liveability of urban areas, and fosters economic development and social cohesion in a changing global environment. As the future of humanity hinges on the effective planning and management of resources, conservation has become a strategy to achieve a balance between urban growth and quality of life on a sustainable basis.
+L124: 4. In the course of the past half century, urban heritage conservation has emerged as an important sector of public policy worldwide. It is a response to the need to preserve shared values and to benefit from the legacy of history.
+L125: However, the shift from an emphasis on architectural monuments primarily towards a broader recognition of the importance of the social, cultural and economic processes in the conservation of urban values, should be matched by a drive to adapt the existing policies and to create new tools to address this vision.
+L126: 5. This Recommendation addresses the need to better integrate and frame urban heritage conservation strategies within the larger goals of overall sustainable development, in order to support public and private actions aimed at preserving and enhancing the quality of the human environment.
+L127: It suggests a landscape approach for identifying, conserving and managing historic areas within their broader urban contexts, by considering the interrelationships of their physical forms, their spatial organization and connection, their natural features and settings, and their social, cultural and economic values.
+L128: 6. This approach addresses the policy, governance and management concerns involving a variety of stakeholders, including local, national, regional, international, public and private actors in the urban development process.
+L129: 7. This Recommendation builds upon the four previous UNESCO recommendations concerning heritage preservation, and recognizes the importance and the validity of their concepts and principles in the history and practice of conservation. In addition, modern conservation conventions and charters address the many dimensions of cultural and natural heritage, and constitute the foundations of this Recommendation.
+L130: 
+L131: I. Definition
+L132: 8. The historic urban landscape is the urban area understood as the result of a historic layering of cultural and natural values and attributes, extending beyond the notion of "historic centre" or "ensemble" to include the broader urban context and its geographical setting.
+L133: 9. This wider context includes notably the site’s topography, geomorphology, hydrology and natural features, its built environment, both historic and contemporary, its infrastructures above and below ground, its open spaces and gardens, its land use patterns and spatial organization, perceptions and visual relationships, as well as all other elements of the urban structure.
+L134: It also includes social and cultural practices and values, economic processes and the intangible dimensions of heritage as related to diversity and identity.
+L135: 10. This definition provides the basis for a comprehensive and integrated approach for the identification, assessment, conservation and management of historic urban landscapes within an overall sustainable development framework.
+L136: 11. The historic urban landscape approach is aimed at preserving the quality of the human environment, enhancing the productive and sustainable use of urban spaces, while recognizing their dynamic character, and promoting social and functional diversity. It integrates the goals of urban heritage conservation and those of social and economic development.
+L137: It is rooted in a balanced and sustainable relationship between the urban and natural environment, between the needs of present and future generations and the legacy from the past.
+L138: 12. The historic urban landscape approach considers cultural diversity and creativity as key assets for human, social and economic development, and provides tools to manage physical and social transformations and to ensure that contemporary interventions are harmoniously integrated with heritage in a historic setting and take into account regional contexts.
+L139: 13. The historic urban landscape approach learns from the traditions and perceptions of local communities, while respecting the values of the national and international communities.
+L140: 
+L141: II. Challenges and opportunities for the historic urban landscape
+L142: 14. The existing UNESCO recommendations recognize the important role of historic areas in modern societies. These recommendations also identify a number of specific threats to the conservation of historic urban areas, and provide general principles, policies and guidelines to meet such challenges.
+L143: 15. The historic urban landscape approach reflects the fact that both the discipline and practice of urban heritage conservation have evolved significantly in recent decades, enabling policy-makers and managers to deal more effectively with new challenges and opportunities. The historic urban landscape approach supports communities in their quest for development and adaptation, while retaining the characteristics and values linked to their history and collective memory, and to the environment.
+L144: 16. In the past decades, owing to the sharp increase in the world’s urban population, the scale and speed of development, and the changing economy, urban settlements and their historic areas have become centres and drivers of economic growth in many regions of the world, and have taken on a new role in cultural and social life. As a result, they have also come under a large array of new pressures, including:
+L145: 
+L146: Urbanization and globalization
+L147: 17. Urban growth is transforming the essence of many historic urban areas. Global processes have a deep impact on the values attributed by communities to urban areas and their settings, and on the perceptions and realities of their inhabitants and users.
+L148: On the one hand, urbanization provides economic, social and cultural opportunities that can enhance the quality of life and traditional character of urban areas; on the other hand, the unmanaged changes in urban density and growth can undermine the sense of place, the integrity of the urban fabric, and the identity of communities. Some historic urban areas are losing their functionality, traditional role and populations.
+L149: The historic urban landscape approach may assist in managing and mitigating such impacts.
+L150: Development
+L151: 18. Many economic processes offer ways and means to alleviate urban poverty and to promote social and human development. The greater availability of innovations, such as information technology and sustainable planning, design and building practices, can improve urban areas, thus enhancing the quality of life.
+L152: When properly managed through the historic urban landscape approach, new functions, such as services and tourism, are important economic initiatives that can contribute to the well-being of the communities and to the conservation of historic urban areas and their cultural heritage while ensuring economic and social diversity and the residential function.
+L153: Failing to capture these opportunities leads to unsustainable and unviable cities, just as implementing them in an inadequate and inappropriate manner results in the destruction of heritage assets and irreplaceable losses for future generations.
+L154: Environment
+L155: 19. Human settlements have constantly adapted to climatic and environmental changes, including those resulting from disasters. However, the intensity and speed of present changes are challenging our complex urban environments. Concern for the environment, in particular for water and energy consumption, calls for approaches and new models for urban living, based on ecologically sensitive policies and practices aimed at strengthening sustainability and the quality of urban life.
+L156: Many of these initiatives, however, should integrate natural and cultural heritage as resources for sustainable development.
+L157: 20. Changes to historic urban areas can also result from sudden disasters and armed conflicts. These may be short lived but can have lasting effects. The historic urban landscape approach may assist in managing and mitigating such impacts.
+L158: 
+L159: III. Policies
+L160: 21. Modern urban conservation policies, as reflected in existing international recommendations and charters, have set the stage for the preservation of historic urban areas. However, present and future challenges require the definition and implementation of a new generation of public policies identifying and protecting the historic layering and balance of cultural and natural values in urban environments.
+L161: 22. Conservation of the urban heritage should be integrated into general policy planning and practices and those related to the broader urban context. Policies should provide mechanisms for balancing conservation and sustainability in the short and long terms. Special emphasis should be placed on the harmonious, integration of contemporary interventions into the historic urban fabric. In particular, the responsibilities of the different stakeholders are the following:
+L162: (a) Member States should integrate urban heritage conservation strategies into national development policies and agendas according to the historic urban landscape approach. Within this framework, local authorities should prepare urban development plans taking into account the area’s values, including the landscape and other heritage values, and features associated therewith;
+L163: (b) Public and private stakeholders should cooperate, inter alia, through partnerships to ensure the successful application of the historic urban landscape approach;
+L164: (c) International organizations dealing with sustainable development processes should integrate the historic urban landscape approach into their strategies, plans and operations;
+L165: (d) National and international non-governmental organizations should participate in developing and disseminating tools and best practices for the implementation of the historic urban landscape approach.
+L166: 23. All levels of government – local, regional, national/federal, – aware of their responsibility – should contribute to the definition, elaboration, implementation and assessment of urban heritage conservation policies. These policies should be based on a participatory approach by all stakeholders and coordinated from both the institutional and sectorial viewpoints.
+L167: 
+L168: IV. Tools
+L169: 24. The approach based on the historic urban landscape implies the application of a range of traditional and innovative tools adapted to local contexts. Some of these tools, which need to be developed as part of the process involving the different stakeholders, might include:
+L170: (a) Civic engagement tools should involve a diverse cross-section of stakeholders, and empower them to identify key values in their urban areas, develop visions that reflect their diversity, set goals, and agree on actions to safeguard their heritage and promote sustainable development.
+L171: These tools, which constitute an integral part of urban governance dynamics, should facilitate intercultural dialogue by learning from communities about their histories, traditions, values, needs and aspirations, and by facilitating mediation and negotiation between groups with conflicting interests.
+L172: (b) Knowledge and planning tools should help protect the integrity and authenticity of the attributes of urban heritage. They should also allow for the recognition of cultural significance and diversity, and provide for the monitoring and management of change to improve the quality of life and of urban space. These tools would include documentation and mapping of cultural and natural characteristics.
+L173: Heritage, social and environmental impact assessments should be used to support and facilitate decision-making processes within a framework of sustainable development.
+L174: (c) Regulatory systems should reflect local conditions, and may include legislative and regulatory measures aimed at the conservation and management of the tangible and intangible attributes of the urban heritage, including their social, environmental and cultural values. Traditional and customary systems should be recognized and reinforced as necessary.
+L175: (d) Financial tools should be aimed at building capacities and supporting innovative income-generating development, rooted in tradition. In addition to government and global funds from international agencies, financial tools should be effectively employed to foster private investment at the local level.
+L176: Micro-credit and other flexible financing to support local enterprise, as well as a variety of models of partnerships, are also central to making the historic urban landscape approach financially sustainable.
+L177: V. Capacity-building, research, information and communication
+L178: 25. Capacity-building should involve the main stakeholders: communities, decision-makers, and professionals and managers, in order to foster understanding of the historic urban landscape approach and its implementation. Effective capacity-building hinges on an active collaboration of these main stakeholders, aimed at adapting the implementation of this Recommendation to regional contexts in order to define and refine the local strategies and objectives, action frameworks and resource mobilization schemes.
+L179: 26. Research should target the complex layering of urban settlements, in order to identify values, understand their meaning for the communities, and present them to visitors in a comprehensive manner. Academic and university institutions and other centres of research should be encouraged to develop scientific research on aspects of the historic urban landscape approach, and cooperate at the local, national, regional and international level.
+L180: It is essential to document the state of urban areas and their evolution, to facilitate the evaluation of proposals for change, and to improve protective and managerial skills and procedures.
+L181: 27. Encourage the use of information and communication technology to document, understand and present the complex layering of urban areas and their constituent components. The collection and analysis of this data is an essential part of the knowledge of urban areas. To communicate with all sectors of society, it is particularly important to reach out to youth and all under-represented groups in order to encourage their participation.
+L182: 
+L183: VI. International cooperation
+L184: 28. Member States and international governmental and non-governmental organizations should facilitate public understanding and involvement in the implementation of the historic urban landscape approach, by disseminating best practices and lessons learned from different parts of the world, in order to strengthen the network of knowledge-sharing and capacity-building.
+L185: 
+L186: 29. Member States should promote multinational cooperation between local authorities.
+L187: 30. International development and cooperation agencies of Member States, non-governmental organizations and foundations should be encouraged to develop methodologies which take into account the historic urban landscape approach and to harmonize them with their assistance programmes and projects pertaining to urban areas.
+L188: 
+L189: APPENDIX
+L190: 
+L191: Glossary of definitions
+L192: 
+L193: Historic area/city (from the 1976 Recommendation)
+L194: "Historic and architectural (including vernacular) areas" shall be taken to mean any groups of buildings, structures and open spaces including archaeological and palaeontological sites, constituting human settlements in an urban or rural environment, the cohesion and value of which, from the archaeological, architectural, prehistoric, historic, aesthetic or sociocultural point of view are recognized.
+L195: Among these "areas", which are very varied in nature, it is possible to distinguish the following "in particular: prehistoric sites, historic towns, old urban quarters, villages and hamlets as well as homogeneous monumental groups, it being understood that the latter should as a rule be carefully preserved unchanged".
+L196: Historic urban area (from the ICOMOS Washington Charter)
+L197: 
+L198: Historic urban areas, large and small, include cities, towns and historic centres or quarters, together with their natural and man-made environments. Beyond their role as historical documents, these areas embody the values of traditional urban cultures.
+L199: 
+L200: Urban heritage (from European Union research report Nº 16 (2004), Sustainable development of Urban historical areas through and active Integration within Towns – SUIT)
+L201: Urban heritage comprises three main categories:
+L202: Monumental heritage of exceptional cultural value;
+L203: Non-exceptional heritage elements but present in a coherent way with a relative abundance;
+L204: New urban elements to be considered (for instance): The urban built form; The open space: streets, public open spaces; Urban infrastructures: material networks and equipments.
+L205: 
+L206: Urban conservation
+L207: Urban conservation is not limited to the preservation of single buildings. It views architecture as but one element of the overall urban setting, making it a complex and multifaceted discipline. By definition, then, urban conservation lies at the very heart of urban planning.
+L208: 
+L209: Built environment
+L210: 
+L211: The built environment refers to human-made (versus natural) resources and infrastructure designed to support human activity, such as buildings, roads, parks, and other amenities.
+L212: Landscape approach (from the International Union for Conservation of Nature – IUCN, and the World Wildlife Fund – WWF)
+L213: 
+L214: The landscape approach is a framework for making landscape-level conservation decisions. The landscape approach helps to reach decisions about the advisability of particular interventions (such as a new road or plantation), and to facilitate the planning, negotiation and implementation of activities across a whole landscape.
+L215: 
+L216: Historic urban landscape
+L217: (see definition in paragraph 9 of the Recommendation)
+L218: 
+L219: Setting (from the ICOMOS Xi’an Declaration)
+L220: 
+L221: The setting of a heritage structure, site or area is defined as the immediate and extended environment that is part of, or contributes to, its significance and distinctive character.
+L222: 
+L223: Cultural significance (from the ICOMOS Australia Burra Charter)
+L224: Cultural significance means aesthetic, historic, scientific, social or spiritual value for past, present or future generations. Cultural significance is embodied in the place itself, its fabric, setting, use, associations, meanings, records, related places and related objects. Places may have a range of values for different individuals or groups.
+L225: 
+L226: ________
+L227: 
+L228: Notes :
+L229: (1) In particular, the 1972 Convention concerning the Protection of the World Cultural and Natural Heritage, the 2005 Convention on the Protection and Promotion of the Diversity of Cultural Expressions, the 1962 Recommendation concerning the Safeguarding of the Beauty and Character of Landscapes and Sites, the 1968 Recommendation concerning the Preservation of Cultural Property Endangered by Public or Private Works, the 1972 Recommendation concerning the Protection, at National Level, of the Cultural and Natural Heritage, the 1976 Recommendation concerning the Safeguarding and Contemporary Role of Historic Areas, the 1964 ICOMOS International Charter for the Conservation and Restoration of Monuments and Sites (Venice Charter), the 1982 ICOMOS Historic Gardens (Florence Charter), and the 1987 ICOMOS Charter for the Conservation of Historic Towns and Urban Areas (Washington Charter), the 2005 ICOMOS Xi’an Declaration on the Conservation of the Setting of Heritage Structures, Sites and Areas, as well as the 2005 Vienna Memorandum on World Heritage and Contemporary Architecture – Managing the Historic Urban Landscape.
+L230: (2) In particular the 1982 World Conference on Cultural Policies in Mexico City, the 1994 Nara Meeting on Authenticity, the 1995 summit of the World Commission on Culture and Development, the 1996 HABITAT II Conference in Istanbul with ratification of Agenda 21, the 1998 UNESCO Intergovernmental Conference on Cultural Policies for Development in Stockholm, the 1998 joint World Bank-UNESCO Conference on Culture in Sustainable Development–Investing in Cultural and Natural Endowments, the 2005 International Conference on World Heritage and Contemporary Architecture in Vienna, the 2005 ICOMOS General Assembly on the Setting of Monuments and Sites in Xi’an, and the 2008 ICOMOS General Assembly on the Spirit of Place in Québec.
+L231: ## Monitoring
+L232: 
+L233: Recommendation for which monitoring the Executive Board is responsible :
+L234: 
+L235:   * cite53†Implementation of the Recommendation on the Historic Urban Landscape, including a glossary of definitions (link to the One-Stop Shop for the monitoring of the implementation of standard-setting instruments) L236: 
+L237: ### Related items
+L238: 
+L239:   * cite54†Type of instrument: Recommendation L240:   * cite55†Themes: Culture L241: 
+L242: [Input] [Input]
+L243: 
+L244: UNESCO applies a zero tolerance policy against all forms of harassment.
+L245: 
+L246: cite56†top 

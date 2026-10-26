@@ -1,0 +1,18 @@
+MIT License
+
+Copyright (c) 2026 Heritage QRMine research project contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the original analysis software and original analytical writing in this project,
+to deal in them without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies,
+and to permit persons to whom they are furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the original software or analytical writing.
+THE SOFTWARE AND WRITING ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+EXCLUSIONS: This license does not apply to UN/UNESCO source texts, downloaded
+PDFs/HTML, official-page text snapshots, third-party packages or their outputs
+insofar as third-party rights apply. These retain their respective rights and terms.
+QRMine is an independently installed GPL-3.0 dependency; its source and binaries
+are not bundled here.

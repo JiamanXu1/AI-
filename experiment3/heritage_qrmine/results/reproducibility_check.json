@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "runs": 2,
+  "files_compared": 12,
+  "differences": [],
+  "hashes": {
+    "data/units.jsonl": "c7393d63a99de8f2f66862e8b0e391ba886b61921021eca38d25e75fb127c1d5",
+    "results/qrmine_terms.csv": "c1efb7471eac4ffac6dc190a017e545cdd5ea0e5b67a02cf0cfa0a81629ab58e",
+    "results/qrmine_categories_and_dictionary.txt": "5d7557caf2efaf7eafddccc38c89b332ddf439f1055918c7b730d77cac86492f",
+    "results/supplemental_nmf_topics.csv": "f17b14eb79a3efe40cee007aeef3ebf5a71eb41827df7e4faad2ad320b323451",
+    "results/supplemental_nmf_assignments.csv": "d75548307380222427e8e7706e05705540ce1df52aba78d2b924a3c4b4c7b213",
+    "results/category_coverage.csv": "a81c73ae44562704131c85712bbfa92b9a63bea04c00db070bbc72d455b0d7da",
+    "results/interpretive_coding.csv": "86c9f61ba2bfa8a5ee7599eec20d42366a92e52a90bf507c09c6668780a7bd1a",
+    "results/bilingual_pair_summary.csv": "9e1c3c18197331f8e38cddc9196a5f6e915a4fc765dc760347d03985158f2a40",
+    "results/bilingual_reviewed_presence.csv": "4009b9f8f496e98e7677e205350cb4b7b0b5b04ea2f2ff7f767581864f7e7e08",
+    "results/stats.json": "407d7ad45025c5a4f95d8b62220d74409295ddce684c6dec80a67ee6bab75463",
+    "results/扎根分析结果.md": "44493e88fdce7676614e324430e5c7a000c51c22ed87d188e971e61f3778b33f",
+    "results/扎根分析结果.html": "34a38a4afe358cd36a26272bf6ccda5cd94bd173b08471d74811a2880e2fcb60"
+  },
+  "scope": "same frozen inputs and installed environment; no claim of cross-platform bitwise identity"
+}

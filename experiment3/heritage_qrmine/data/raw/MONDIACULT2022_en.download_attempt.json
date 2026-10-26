@@ -1,0 +1,13 @@
+{
+  "id": "MONDIACULT2022_en",
+  "year": 2022,
+  "title": "MONDIACULT 2022 Final Declaration",
+  "url": "https://www.unesco.org/en/articles/unesco-world-conference-cultural-policies-and-sustainable-development-mondiacult-2022",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:46:11.659299+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

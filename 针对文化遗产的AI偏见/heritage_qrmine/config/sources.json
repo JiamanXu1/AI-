@@ -1,0 +1,471 @@
+[
+  {
+    "id": "HAGUE1954_en",
+    "year": 1954,
+    "title": "Convention for the Protection of Cultural Property in Armed Conflict",
+    "url": "https://www.unesco.org/en/legal-affairs/convention-protection-cultural-property-event-armed-conflict-regulations-execution-convention?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "HAGUE1954",
+    "scope_note": ""
+  },
+  {
+    "id": "TRAFFIC1970_en",
+    "year": 1970,
+    "title": "Illicit Import Export and Transfer of Ownership of Cultural Property",
+    "url": "https://www.unesco.org/en/legal-affairs/convention-means-prohibiting-and-preventing-illicit-import-export-and-transfer-ownership-cultural?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "TRAFFIC1970",
+    "scope_note": ""
+  },
+  {
+    "id": "UNDERWATER2001_en",
+    "year": 2001,
+    "title": "Protection of the Underwater Cultural Heritage",
+    "url": "https://www.unesco.org/en/legal-affairs/convention-protection-underwater-cultural-heritage?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "UNDERWATER2001",
+    "scope_note": ""
+  },
+  {
+    "id": "ICH2003_en",
+    "year": 2003,
+    "title": "Safeguarding of the Intangible Cultural Heritage",
+    "url": "https://www.unesco.org/en/legal-affairs/convention-safeguarding-intangible-cultural-heritage?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "ICH2003",
+    "scope_note": ""
+  },
+  {
+    "id": "DIVERSITY2005_en",
+    "year": 2005,
+    "title": "Diversity of Cultural Expressions",
+    "url": "https://www.unesco.org/en/legal-affairs/convention-protection-and-promotion-diversity-cultural-expressions?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "DIVERSITY2005",
+    "scope_note": ""
+  },
+  {
+    "id": "REC1956_en",
+    "year": 1956,
+    "title": "International Principles Applicable to Archaeological Excavations",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-international-principles-applicable-archaeological-excavations?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "REC1956",
+    "scope_note": ""
+  },
+  {
+    "id": "REC1962_en",
+    "year": 1962,
+    "title": "Beauty and Character of Landscapes and Sites",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-safeguarding-beauty-and-character-landscapes-and-sites?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "REC1962",
+    "scope_note": ""
+  },
+  {
+    "id": "REC1968_en",
+    "year": 1968,
+    "title": "Cultural Property Endangered by Public or Private Works",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-preservation-cultural-property-endangered-public-or-private-works?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "REC1968",
+    "scope_note": ""
+  },
+  {
+    "id": "REC1972_en",
+    "year": 1972,
+    "title": "Protection at National Level of Cultural and Natural Heritage",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-protection-national-level-cultural-and-natural-heritage?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "REC1972",
+    "scope_note": ""
+  },
+  {
+    "id": "REC1976_en",
+    "year": 1976,
+    "title": "Safeguarding and Contemporary Role of Historic Areas",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-safeguarding-and-contemporary-role-historic-areas?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "REC1976",
+    "scope_note": "",
+    "web_lines": [
+      88,
+      245
+    ]
+  },
+  {
+    "id": "MOVABLE1978_en",
+    "year": 1978,
+    "title": "Protection of Movable Cultural Property",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-protection-movable-cultural-property?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "MOVABLE1978",
+    "scope_note": ""
+  },
+  {
+    "id": "FOLKLORE1989_en",
+    "year": 1989,
+    "title": "Safeguarding of Traditional Culture and Folklore",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-safeguarding-traditional-culture-and-folklore?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "FOLKLORE1989",
+    "scope_note": "",
+    "web_lines": [
+      88,
+      157
+    ]
+  },
+  {
+    "id": "HUL2011_en",
+    "year": 2011,
+    "title": "Historic Urban Landscape",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-historic-urban-landscape-including-glossary-definitions?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "HUL2011",
+    "scope_note": "",
+    "web_lines": [
+      94,
+      230
+    ]
+  },
+  {
+    "id": "MUSEUM2015_en",
+    "year": 2015,
+    "title": "Museums and Collections Diversity and Role in Society",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-protection-and-promotion-museums-and-collections-their-diversity-and-their?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "MUSEUM2015",
+    "scope_note": "",
+    "web_lines": [
+      94,
+      215
+    ]
+  },
+  {
+    "id": "DOCUMENT2015_en",
+    "year": 2015,
+    "title": "Documentary Heritage including Digital Form",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-preservation-and-access-documentary-heritage-including-digital-form?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "DOCUMENT2015",
+    "scope_note": "",
+    "web_lines": [
+      94,
+      215
+    ]
+  },
+  {
+    "id": "DIVERSITY2001_en",
+    "year": 2001,
+    "title": "Universal Declaration on Cultural Diversity",
+    "url": "https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "DIVERSITY2001",
+    "scope_note": "",
+    "web_lines": [
+      91,
+      187
+    ],
+    "paired_unit_end": 46
+  },
+  {
+    "id": "DESTRUCTION2003_en",
+    "year": 2003,
+    "title": "Intentional Destruction of Cultural Heritage",
+    "url": "https://www.unesco.org/en/legal-affairs/unesco-declaration-concerning-intentional-destruction-cultural-heritage?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "DESTRUCTION2003",
+    "scope_note": "",
+    "web_lines": [
+      88,
+      146
+    ]
+  },
+  {
+    "id": "DIGITAL2003_en",
+    "year": 2003,
+    "title": "Charter on the Preservation of Digital Heritage",
+    "url": "https://www.unesco.org/en/legal-affairs/charter-preservation-digital-heritage?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "DIGITAL2003",
+    "scope_note": "",
+    "web_lines": [
+      91,
+      167
+    ]
+  },
+  {
+    "id": "WH1972_en",
+    "year": 1972,
+    "title": "World Heritage Convention",
+    "url": "https://whc.unesco.org/en/conventiontext/",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "WH1972",
+    "scope_note": ""
+  },
+  {
+    "id": "WH1972_zh",
+    "year": 1972,
+    "title": "保护世界文化和自然遗产公约",
+    "url": "https://www.un.org/zh/documents/treaty/whc",
+    "kind": "normative",
+    "lang": "zh",
+    "pair_id": "WH1972",
+    "scope_note": ""
+  },
+  {
+    "id": "HUL2011_zh",
+    "year": 2011,
+    "title": "关于城市历史景观的建议书",
+    "url": "https://whc.unesco.org/document/135557",
+    "kind": "qualitative_excerpt",
+    "lang": "zh",
+    "pair_id": "",
+    "scope_note": "Only visually verified clauses 8,9,11,13, physical PDF p.52; excluded from full-document paired quantitative comparison",
+    "pdf_pages": [
+      51,
+      55
+    ]
+  },
+  {
+    "id": "MONDIACULT2022_en",
+    "year": 2022,
+    "title": "MONDIACULT 2022 Final Declaration",
+    "url": "https://www.unesco.org/en/articles/unesco-world-conference-cultural-policies-and-sustainable-development-mondiacult-2022",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "",
+    "web_lines": [
+      39,
+      92
+    ]
+  },
+  {
+    "id": "MONDIACULT2025_en",
+    "year": 2025,
+    "title": "MONDIACULT 2025 Outcome Document",
+    "url": "https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/EN_MONDIACULT_Outcome_Document%20Final%2027.09.25.pdf",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "",
+    "web_lines": [
+      0,
+      181
+    ]
+  },
+  {
+    "id": "MONDIACULT_REPORT2025_en",
+    "year": 2025,
+    "title": "MONDIACULT 2025 Narrative Report",
+    "url": "https://www.unesco.org/sites/default/files/medias/fichiers/2026/02/Report%20MONDIACULT%202025%20%26%20Annexes%20Dec.%202025%20FW.pdf",
+    "kind": "report",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "December 2025 report; hosted February 2026; annexes included"
+  },
+  {
+    "id": "EVALUATION2013_en",
+    "year": 2013,
+    "title": "Evaluation of Standard-setting Work: 2003 Convention",
+    "url": "https://ich.unesco.org/doc/src/IOS-EVS-PI-129_REV.-EN.pdf",
+    "kind": "report",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": ""
+  },
+  {
+    "id": "COURIER1970_en",
+    "year": 2020,
+    "title": "The 1970 Convention: Cultural diversity before the letter of the law",
+    "url": "https://courier.unesco.org/en/articles/1970-convention-cultural-diversity-letter-law",
+    "kind": "news",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "Article body only, excluding author biography, related links and separate introductory lede",
+    "web_lines": [
+      48,
+      74
+    ]
+  },
+  {
+    "id": "MIDDLEEAST2026_en",
+    "year": 2026,
+    "title": "UNESCO concern over heritage amidst escalating violence in Middle East",
+    "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+    "kind": "news",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "",
+    "web_lines": [
+      41,
+      43
+    ]
+  },
+  {
+    "id": "UNSC2347_en",
+    "year": 2017,
+    "title": "Security Council adopts Resolution 2347: cultural heritage",
+    "url": "https://press.un.org/en/2017/sc12764.doc.htm",
+    "kind": "news",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "UN meeting coverage; not resolution full text"
+  },
+  {
+    "id": "ICH2003_zh",
+    "year": 2003,
+    "title": "保护非物质文化遗产公约",
+    "url": "https://www.un.org/zh/node/181883",
+    "lang": "zh",
+    "pair_id": "ICH2003",
+    "kind": "normative",
+    "scope_note": ""
+  },
+  {
+    "id": "DIVERSITY2005_zh",
+    "year": 2005,
+    "title": "保护和促进文化表现形式多样性公约",
+    "url": "https://www.un.org/zh/documents/treaty/ppdce",
+    "lang": "zh",
+    "pair_id": "DIVERSITY2005",
+    "kind": "normative",
+    "scope_note": ""
+  },
+  {
+    "id": "DIVERSITY2001_zh",
+    "year": 2001,
+    "title": "世界文化多样性宣言",
+    "url": "https://www.un.org/zh/node/181813",
+    "lang": "zh",
+    "pair_id": "DIVERSITY2001",
+    "kind": "normative",
+    "scope_note": "",
+    "paired_unit_start": 5,
+    "paired_unit_end": 48
+  },
+  {
+    "id": "OG2025_en",
+    "year": 2025,
+    "title": "Operational Guidelines WHC.25/01",
+    "url": "https://whc.unesco.org/document/222376",
+    "lang": "en",
+    "pair_id": "",
+    "kind": "implementation",
+    "scope_note": "Main guidelines paragraphs 1-290; excludes front matter and annexes",
+    "pdf_pages": [
+      11,
+      83
+    ]
+  },
+  {
+    "id": "OG2019_en",
+    "year": 2019,
+    "title": "Operational Guidelines WHC.19/01",
+    "url": "https://whc.unesco.org/document/178167",
+    "lang": "en",
+    "pair_id": "OG2019",
+    "kind": "paired_only",
+    "scope_note": "Main guidelines paragraphs 1-290; paired comparison only",
+    "pdf_pages": [
+      9,
+      75
+    ]
+  },
+  {
+    "id": "OG2019_zh",
+    "year": 2019,
+    "title": "实施世界遗产公约操作指南2019",
+    "url": "https://whc.unesco.org/document/189766",
+    "lang": "zh",
+    "pair_id": "OG2019",
+    "kind": "paired_only",
+    "scope_note": "UNESCO-hosted Chinese translation, main paragraphs 1-290; contains font mapping errors; paired comparison only",
+    "pdf_pages": [
+      14,
+      73
+    ]
+  },
+  {
+    "id": "RIGHTS2011_en",
+    "year": 2011,
+    "title": "A/HRC/17/38 Cultural heritage access as human right",
+    "url": "https://digitallibrary.un.org/record/706502/files/A_HRC_17_38-EN.pdf",
+    "lang": "en",
+    "pair_id": "RIGHTS2011",
+    "kind": "report",
+    "scope_note": ""
+  },
+  {
+    "id": "RIGHTS2011_zh",
+    "year": 2011,
+    "title": "A/HRC/17/38 文化遗产的享有权",
+    "url": "https://digitallibrary.un.org/record/706502/files/A_HRC_17_38-ZH.pdf",
+    "lang": "zh",
+    "pair_id": "RIGHTS2011",
+    "kind": "report",
+    "scope_note": ""
+  },
+  {
+    "id": "GLOBALREPORT2025_en",
+    "year": 2025,
+    "title": "Global Report on Cultural Policies: official publication summary",
+    "url": "https://www.unesco.org/en/articles/unesco-global-report-cultural-policies-culture-missing-sdg?hub=185505",
+    "kind": "report_summary",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "Official summary ONLY, not full report",
+    "web_lines": [
+      60,
+      63
+    ]
+  },
+  {
+    "id": "SECURITY2017_en",
+    "year": 2017,
+    "title": "Resolution 2347: a historic resolution to protect cultural heritage",
+    "url": "https://courier.unesco.org/en/articles/historic-resolution-protect-cultural-heritage",
+    "kind": "news",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "Official Courier article; not resolution text",
+    "web_lines": [
+      48,
+      87
+    ]
+  },
+  {
+    "id": "PROTOCOL1999_en",
+    "year": 1999,
+    "title": "Second Protocol to the Hague Convention of 1954",
+    "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "",
+    "scope_note": "Preamble and Articles 1-47; excludes ratification tables",
+    "web_lines": [
+      106,
+      445
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "COURIER1970_en",
+  "year": 2020,
+  "title": "The 1970 Convention: Cultural diversity before the letter of the law",
+  "url": "https://courier.unesco.org/en/articles/1970-convention-cultural-diversity-letter-law",
+  "kind": "news",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:46:18.666120+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

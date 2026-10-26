@@ -1,0 +1,185 @@
+ (https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/EN_MONDIACULT_Outcome_Document%20Final%2027.09.25.pdf)
+citeturn23view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 4; Source: open({"ref_id":"https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/EN_MONDIACULT_Outcome_Document%20Final%2027.09.25.pdf","lineno":null}); Total lines: 182
+L0@P0: 
+L1@P0: MONDIACULT 2025
+L2@P0: Outcome Document
+L3@P0: Outcome Document MONDIACULT 2025
+L4@P0: Culture Minister’s Commitment MONDIACULT 2025
+L5@P0: MONDIACULT 2025 World Conferenceon Cultural Policies and Sustainable Development
+L6@P0: 29 September – 1 October 2025, Barcelona, Spain
+L7@P0: We, the Ministers and Authorities responsible for Culture of UNESCO Member States and Associate Members, meeting
+L8@P0: in Barcelona on September 29, 30, and October 1, 2025, in response to the urgent and complex challenges of our time
+L9@P0: and based on the shared vision established in the Final Declaration of MONDIACULT 2022, reaffirm our collective
+L10@P0: commitment to firmly anchor culture as a component and pillar of just, peaceful, inclusive, and sustainable
+L11@P0: development, both as the human right of everyone to take part in cultural life and as a global public good. We
+L12@P0: collectively commit to strengthen cultural policies and institutions, and the cultural and creative sectors in their
+L13@P0: entirety, as well as to ensure their interconnection with other areas of development. Culture contributes to the wellbeing of all, to cultural diversity and cultural expressions, to the preservation of knowledge and heritage, and to the
+L14@P0: shared care of our planet.
+L15@P0: 1. Shared Vision
+L16@P0: We reaffirm the recognition of the right to take part in cultural life as a human right, inherent to dignity and identity.
+L17@P0: Culture contributes to the full exercise of human rights and fundamental freedoms, peacebuilding, inclusive economic
+L18@P0: growth, climate resilience, wellbeing and sustainable development. It is a global public good, with intrinsic value,
+L19@P0: whose transformative power must be fully mobilized to address today’s challenges and to shape more just, equitable,
+L20@P0: peaceful, intercultural, inclusive and sustainable societies.
+L21@P0: 2. Strategic Foundations
+L22@P0: This document builds on an inclusive, multi-stakeholder process, including regional consultations, global surveys, and
+L23@P0: contributions from multiple stakeholders, as well as reflections arising from UNESCO’s six cultural conventions.
+L24@P0: Grounded in the six priority domains of MONDIACULT 2022 Declaration and with an ethical, human rights-based and
+L25@P0: human-centred approach, itincorporates two focus areas from the preparatory process: culture for peace, and artificial
+L26@P0: intelligence (AI) and culture. These pillars provide a common foundation for collective action in favour of integrating
+L27@P0: culture in the post-2030 United Nations (UN) development framework.
+L28@P0: 3. Culture and Sustainable Development beyond 2030
+L29@P0: We recognize that in a future development framework to be decided by Member States through the United Nations
+L30@P0: mechanisms, culture should be considered as an independent goal in its own right. Here are the areas we consider a
+L31@P0: priority for cultural policies and practices at all levels.
+L32@P0: 1. Cultural Rights as Human Rights
+L33@P0: • Recognizing, protecting, and promoting the human right to participate in cultural life, and fostering access to,
+L34@P0: enjoyment of, and benefit from culture and cultural heritage, including in the digital environment, as an ethical,
+L35@P0: social, and economic imperative.
+L36@P0: • Protecting, promoting, and safeguarding artistic freedom and freedom of expression.
+L37@P0: • Promoting, preserving, and safeguarding cultural and linguistic diversity and cultural expressions with special
+L38@P0: recognition of the cultures and languages of Indigenous Peoples, people of African descent, and those
+L39@P0: belonging to local communities, minorities, and vulnerable groups.
+L40@P0: • Increasing efforts to ensure the equitable distribution of opportunities to access, contribute to, and benefit
+L41@P0: from culture in the face of persisting inequalities.
+L42@P0: • Encouraging effective and constructive bilateral and multilateral dialogue, cooperation and actions on the
+L43@P0: return and restitution to countries of origin of their cultural property, including those with spiritual, ancestral,
+L44@P0: historical, and cultural value, as appropriate.
+L45@P0: • Ensuring the meaningful participation of concerned groups in the countries of origin, including Indigenous
+L46@P0: Peoples, people of African descent and local communities, in the efforts related to the protection, return and
+L47@P0-1: restitution of cultural property, including through enhanced collaboration with museums.2
+L48@P1: 2. Culture and Education
+L49@P1: • Systematically integrating and strengthening culture, cultural and natural heritage, cultural expressions, and
+L50@P1: the arts in, through, and with all types of formal, non-formal, and informal education settings.
+L51@P1: • Fostering equitable access to lifelong and life-wide learning as a fundamental tool to continuously update and
+L52@P1: further develop cultural and artistic knowledge and skills.
+L53@P1: • Supporting interdisciplinary and transdisciplinary approaches to foster innovative synergies between culture,
+L54@P1: the arts, science, and technology in teaching, learning, and research.
+L55@P1: • Forging learning experiences that contribute to the realization of human rights, the appreciation of traditional
+L56@P1: knowledge, and the promotion of cultural diversity, while strengthening linguistic skills, critical and creative
+L57@P1: thinking, intercultural understanding, as well as the preservation and safeguarding of cultural and natural
+L58@P1: heritage for present and future generations.
+L59@P1: • Supporting technical and vocational education and training as well as adult learning in the cultural and creative
+L60@P1: sectors through structural investment in public policies to foster relevant skills, career pathways, and critical
+L61@P1: cultural competencies in a rapidly changing world.
+L62@P1: • Empowering institutions involved in culture to become active educational spaces that promote learning,
+L63@P1: community engagement, wellbeing, and access to all forms of culture, including arts, heritage, knowledge, and
+L64@P1: practices.
+L65@P1: 3. Cultural Economy and Decent Work
+L66@P1: • Recognizing the cultural and creative sectors and industries as a fundamental driver of inclusive and
+L67@P1: sustainable economic development, enabling innovation, and contributing a significant share to national,
+L68@P1: regional, and global economies.
+L69@P1: • Supporting decent work for artists, creators, and cultural workers, including fair remuneration and adequate
+L70@P1: social protection, building on relevant international labour standards, upholding their economic and social
+L71@P1: rights, reinforcing the protection of intellectual property, supporting transition to the formal economy, if
+L72@P1: applicable, and addressing systemic gender-based and other inequalities.
+L73@P1: • Strengthening, to the extent possible within national and international frameworks, national, regional and
+L74@P1: international mobility for artists, and cultural professionals, especially from developing countries, fostering
+L75@P1: opportunities for professional growth, collaboration, cultural exchange, and access to international markets.
+L76@P1: • Supporting cultural institutions and infrastructure as key enablers of the cultural economy, fostering creative
+L77@P1: ecosystems, innovation, and inclusive community development.
+L78@P1: • Promoting access to cultural markets and cultural entrepreneurship, while addressing global and regional
+L79@P1: imbalances in the circulation of cultural goods and services, and the unequal distribution and visibility of
+L80@P1: cultural content on all platforms including digital platforms.
+L81@P1: 4. Culture for Peace
+L82@P1: • Promoting culture as an essential element for intercultural, intergenerational and interreligious dialogue,
+L83@P1: resilience, conflict prevention and resolution, and post-crisis recovery.
+L84@P1: • Struggling against all forms of racism, discrimination, and prejudice that threaten artistic freedom, freedom of
+L85@P1: expression, as well as cultural diversity and heritage.
+L86@P1: • Advancing international cultural policy based on human rights, as a tool for promoting international and cross
+L87@P1: border security, peaceful coexistence, as well as mutual respect and understanding.
+L88@P1: • Promoting culture, as well as natural and cultural heritage -both tangible and intangible-, as a vector of
+L89@P1: memory, identities, reconciliation and social cohesion, strengthening resilience, and the realization of human
+L90@P1: rights.
+L91@P1: • Promoting cultural spaces as safe and accessible environments that foster dialogue, social cohesion, a sense
+L92@P1: of belonging, and contribute to reducing violence and building lasting peace.
+L93@P1: 5. Culture, Heritage and Climate Action
+L94@P1: • Integrating cultural aspects in discussions on climate adaptation and mitigation strategies, to tackle the
+L95@P1: impacts of climate change, and biodiversity loss on the cultural and creative sectors, industries, and heritage,
+L96@P1: and to help shape innovative and equitable climate solutions, recognizing the mandate of relevant
+L97@P1: organizations, frameworks and mechanism, such as the United Nations Framework Convention on Climate
+L98@P1-2: Change (UNFCCC).3
+L99@P2: • Acknowledging, valuing, and safeguarding the knowledge, sciences, practices, and livelihoods of Indigenous
+L100@P2: Peoples, local and traditional communities, and people of African descent, as part of climate solutions, in
+L101@P2: collaboration with concerned groups.
+L102@P2: • Developing solutions to safeguarding natural and cultural heritage –both tangible and intangible and protecting
+L103@P2: the diversity of cultural expressions, from the adverse impacts of climate change, desertification, biodiversity
+L104@P2: loss, and disasters, considering the disparities in impacts and capacities within and across countries.
+L105@P2: • Harnessing the potential of tangible and intangible cultural heritage, and the interconnectedness between
+L106@P2: cultural and biological diversity, as resources for resilience, adaptation, and mitigation, including for disaster
+L107@P2: preparedness, post-disaster and post-crisis recovery.
+L108@P2: • Mobilizing the transformative capacity of the cultural and creative sectors, industries and institutions,to inspire
+L109@P2: and empower societies for meaningful climate action, while encouraging all cultural stakeholders to actively
+L110@P2: contribute to regional, national, and local commitments and efforts to address global environmental
+L111@P2: challenges and advance sustainable development goals.
+L112@P2: 6. Culture, Heritage, and Crisis Situations
+L113@P2: • Safeguarding natural and cultural heritage –both tangible and intangible, as well as the diversity of cultural
+L114@P2: expressions, in times of crises linked notably to armed conflict, disasters or forced displacement.
+L115@P2: • Integrating provisions related to culture and cultural heritage, in disaster preparedness, crisis management, as
+L116@P2: well as post-crisis reconstruction and recovery processes.
+L117@P2: • Sustaining the fight against illicit trafficking of cultural property through integrated and adequate policies and
+L118@P2: financing, while fostering cooperation, and supporting the ratification and effective implementation of the
+L119@P2: UNESCO 1970 Convention.
+L120@P2: • Protecting artists, cultural workers, and institutions in situations of conflict, disaster, or forced displacement,
+L121@P2: by providing support mechanisms that safeguard their security and ensure the continuity of cultural
+L122@P2: expressions.
+L123@P2: • Supporting the development of knowledge and data on culture in situations of crisis by engaging academic and
+L124@P2: research institutions and networks.
+L125@P2: 7. Digital Transformation and Equitable Access
+L126@P2: • Promoting a human-centric and human rights-based approach to a digital environment that respects cultural
+L127@P2: rights, fosters equity and accessibility, promotes diversity of cultural expressions, including through the
+L128@P2: discoverability of national and local content on digital platforms, and ensures multilingual content and
+L129@P2: systems.
+L130@P2: • Advancing the digital transformation of culture by supporting equitable access to digital technologies -
+L131@P2: including infrastructure and connectivity- funding, and skills building.
+L132@P2: • Developing integrated policies that advance equitable investment in inclusive digital infrastructure and access,
+L133@P2: to address digital divides and foster digital inclusion, media literacy, and freedom of expression.
+L134@P2: • Protecting the rights of artists and creators, including authors, performers, interpreters, and rightsholders in
+L135@P2: digital environments, including appropriate payment, safeguarding their intellectual property rights, such as
+L136@P2: copyright and related rights.
+L137@P2: • Fighting against abuses in digital environments affecting culture, including cyberattacks, disinformation,
+L138@P2: discriminatory practices, and unethical uses of AI.
+L139@P2: 8. Artificial Intelligence and Culture
+L140@P2: • Using AI to support the safeguard and dissemination of cultural heritage and to broaden access to culture.
+L141@P2: • Promoting the responsible use, development, and governance of AI systems that are human rights-based,
+L142@P2: trustworthy, ethical, transparent, secure, sustainable, and inclusive addressing bias, including those affecting
+L143@P2: gender equality.
+L144@P2: • Advancing AI to foster human creativity and support the creation, discoverability, availability, accessibility,
+L145@P2: cultural preservation, and exchange of diverse and multilingual cultural content of human creation, including
+L146@P2: digital cultural heritage.
+L147@P2: • Promoting the meaningful participation of culture in AI policy and system development at national and
+L148@P2-3: international levels.4
+L149@P3: • Ensuring recognition and appropriate protection of the artists, creators, bearers, communities, and cultural
+L150@P3: professionals, in the context of AI, while also safeguarding cultural diversity, intellectual property rights,
+L151@P3: including copyright and related rights.
+L152@P3: • Supporting an approach to AI in culture that empowers human agency through education, research, and
+L153@P3: innovation, is transparent and protects the human right to take part in cultural life, including for Indigenous
+L154@P3: Peoples, local communities, people of African descent, persons with disabilities, minorities, and vulnerable
+L155@P3: groups.
+L156@P3: 9. Cultural Data, Evidence, and Research
+L157@P3: • Strengthening inclusive, transdisciplinary, open and sovereign systems for the regular collection,
+L158@P3: standardization, analysis, and comparison of quality data on culture, both qualitative and quantitative, to
+L159@P3: supporting policy development and evaluation.
+L160@P3: • Advancing a global framework of cultural indicators, based on previous related efforts, to measure the impact
+L161@P3: of culture, including its contribution to sustainable development, and promote shared cultural data
+L162@P3: infrastructures to enable interoperability, collaboration and innovation across countries.
+L163@P3: • Promoting interdisciplinary research and collaboration, nationally and internationally, among actors of cultural
+L164@P3: and creative ecosystems and research-related institutions.
+L165@P3: • Ensuring the ethical use of data on culture, respecting the human right to enjoy and benefit from culture and
+L166@P3: protecting privacy and personal data, and traditional knowledge.
+L167@P3: • Improving knowledge of the status and evolutions related to pressures and cumulative impacts affecting
+L168@P3: culture and heritage -tangible, intangible and natural- to better preserve them in the face of global challenges.
+L169@P3: Between MONDIACULT of 2022 and 2025, ongoing discussions have stressed that culture is both an indispensable
+L170@P3: driver and an enabler of sustainable development, and must be included as an integral component and pillar of it. This
+L171@P3: message is carried by institutions, professionals, communities and civil society around the world. There is no future
+L172@P3: without culture. We call for urgent action to address challenges that are common to all countries as well as those that
+L173@P3: are similar, in particular within the multilateral framework. Only through collective action can we advance coherently
+L174@P3: and effectively in forging more resilient and inclusive futures, where culture is an integral part of human development.
+L175@P3: We, the Ministers and Authorities responsible for Culture, gathered in Barcelona, affirm our commitment to
+L176@P3: strengthened multilateralism, in which culture stands as a cornerstone of global cooperation, solidarity, and respect
+L177@P3: for human rights. We commit to implementing the measures, policies, resources and mechanisms necessary to make
+L178@P3: culture a pillar of sustainable development. We build on the foundations of the MONDIACULT 2022 Declaration and
+L179@P3: encourage UNESCO to continue working alongside Member States, Associate Members, and stakeholders to
+L180@P3: strengthen and adapt their cultural policies to contemporary challenges and to fully integrate culture into peaceful and
+L181@P3: sustainable development and forthcoming agendas.
+

@@ -1,0 +1,20 @@
+{
+  "id": "FOLKLORE1989_en",
+  "year": 1989,
+  "title": "Safeguarding of Traditional Culture and Folklore",
+  "url": "https://www.unesco.org/en/legal-affairs/recommendation-safeguarding-traditional-culture-and-folklore?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "FOLKLORE1989",
+  "scope_note": "",
+  "web_lines": [
+    88,
+    157
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/FOLKLORE1989_en.web.txt",
+  "sha256": "c62c756460971449a0b521e60a16f6d2fcbd9e5799ee60f3026b5946c7856b60",
+  "bytes": 17943
+}

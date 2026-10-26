@@ -1,0 +1,20 @@
+{
+  "id": "DESTRUCTION2003_en",
+  "year": 2003,
+  "title": "Intentional Destruction of Cultural Heritage",
+  "url": "https://www.unesco.org/en/legal-affairs/unesco-declaration-concerning-intentional-destruction-cultural-heritage?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "DESTRUCTION2003",
+  "scope_note": "",
+  "web_lines": [
+    88,
+    146
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/DESTRUCTION2003_en.web.txt",
+  "sha256": "ee688066bff2981310c7bb1e4c25b7e63158977102e018a838e15646f9945282",
+  "bytes": 13727
+}

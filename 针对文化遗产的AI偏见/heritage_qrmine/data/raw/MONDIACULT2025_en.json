@@ -1,0 +1,20 @@
+{
+  "id": "MONDIACULT2025_en",
+  "year": 2025,
+  "title": "MONDIACULT 2025 Outcome Document",
+  "url": "https://www.unesco.org/sites/default/files/medias/fichiers/2025/09/EN_MONDIACULT_Outcome_Document%20Final%2027.09.25.pdf",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "",
+  "web_lines": [
+    0,
+    181
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/MONDIACULT2025_en.web.txt",
+  "sha256": "eceadfcaa39677bc79f753e7b2e34687fe2257aea26f3294d4f9d544560c618d",
+  "bytes": 18065
+}

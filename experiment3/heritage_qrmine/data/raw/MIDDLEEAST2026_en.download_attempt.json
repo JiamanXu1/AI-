@@ -1,0 +1,13 @@
+{
+  "id": "MIDDLEEAST2026_en",
+  "year": 2026,
+  "title": "UNESCO concern over heritage amidst escalating violence in Middle East",
+  "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+  "kind": "news",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:46:18.788963+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

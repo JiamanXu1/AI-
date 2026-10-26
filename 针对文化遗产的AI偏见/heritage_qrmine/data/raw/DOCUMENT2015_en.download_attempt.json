@@ -1,0 +1,13 @@
+{
+  "id": "DOCUMENT2015_en",
+  "year": 2015,
+  "title": "Documentary Heritage including Digital Form",
+  "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-preservation-and-access-documentary-heritage-including-digital-form?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "DOCUMENT2015",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:47:22.371347+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

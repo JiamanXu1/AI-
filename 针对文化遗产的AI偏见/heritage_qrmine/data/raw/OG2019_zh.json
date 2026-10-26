@@ -1,0 +1,17 @@
+{
+  "id": "OG2019_zh",
+  "year": 2019,
+  "title": "实施世界遗产公约操作指南2019",
+  "url": "https://whc.unesco.org/document/189766",
+  "lang": "zh",
+  "pair_id": "OG2019",
+  "kind": "paired_only",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:44:06.437783+00:00",
+  "status": "ok",
+  "final_url": "https://whc.unesco.org/document/189766",
+  "sha256": "8030075529ea57eb883b8c500d91afca101c68e8786f5cf1c21bd46d41797232",
+  "bytes": 2905916,
+  "raw_path": "data/raw/OG2019_zh.pdf",
+  "content_type": "application/pdf"
+}

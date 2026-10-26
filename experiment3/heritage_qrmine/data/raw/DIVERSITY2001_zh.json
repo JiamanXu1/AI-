@@ -1,0 +1,17 @@
+{
+  "id": "DIVERSITY2001_zh",
+  "year": 2001,
+  "title": "世界文化多样性宣言",
+  "url": "https://www.un.org/zh/node/181813",
+  "lang": "zh",
+  "pair_id": "DIVERSITY2001",
+  "kind": "normative",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:44:05.533914+00:00",
+  "status": "ok",
+  "final_url": "https://www.un.org/zh/node/181813",
+  "sha256": "7b4d00212084cec5e19f4ec73d8ad4722e12f3bf251be540b8442c1584b4d88d",
+  "bytes": 75162,
+  "raw_path": "data/raw/DIVERSITY2001_zh.html",
+  "content_type": "text/html; charset=utf-8"
+}

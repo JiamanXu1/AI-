@@ -1,0 +1,20 @@
+{
+  "id": "PROTOCOL1999_en",
+  "year": 1999,
+  "title": "Second Protocol to the Hague Convention of 1954",
+  "url": "https://www.unesco.org/en/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "Preamble and Articles 1-47; excludes ratification tables",
+  "web_lines": [
+    106,
+    445
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "merged official-page web snapshots",
+  "raw_path": "data/raw/PROTOCOL1999_en.merged.web.txt",
+  "sha256": "6ad60fbec6f4706aabb4cf139aab89538da3e35c39aa804f6dd6a3934fb3c203",
+  "bytes": 58917
+}

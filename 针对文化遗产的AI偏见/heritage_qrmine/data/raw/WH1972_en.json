@@ -1,0 +1,17 @@
+{
+  "id": "WH1972_en",
+  "year": 1972,
+  "title": "World Heritage Convention",
+  "url": "https://whc.unesco.org/en/conventiontext/",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "WH1972",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:42:57.362287+00:00",
+  "status": "ok",
+  "final_url": "https://whc.unesco.org/en/conventiontext/",
+  "sha256": "8b8334db18fa337412aa307ca8153287e635c6c9cfd26fbde8557ddc82416a4a",
+  "bytes": 125552,
+  "raw_path": "data/raw/WH1972_en.html",
+  "content_type": "text/html;charset=UTF-8"
+}

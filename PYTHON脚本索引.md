@@ -1,8 +1,29 @@
 # Python 实验脚本索引
 
-本包收录 **50 个与 Dorna/玫瑰宫研究相关的 `.py` 文件**，覆盖实验运行、证据/代码本构建、语料分析与复现工具。路径相对 `模型dorna/` 包根目录。各脚本的参数以 `python3 <脚本路径> --help` 或所在目录 README 为准。
+包内共收录 **98 个 `.py` 文件**：原研究目录中的50个脚本、`experiment2/` 中7个实验二完整运行/适配文件，以及 `experiment3/` 中41个阶段三运行、分析与数据构建文件。路径相对 `模型dorna/` 包根目录；新电脑的正式运行流程以 [RUNBOOK](RUNBOOK.md) 和各阶段 README 为准。
 
 运行脚本可能写入本地结果或调用外部服务。这里只整理代码，没有调用 API、没有开始或续跑实验。运行日志、原始对话和密钥不作为 GitHub 包内容。
+
+## 实验二、实验三阶段目录
+
+以下路径是 GitHub 包内正式可运行的阶段目录文件，并包含各自实验输入和配置，不依赖包外路径。
+
+### `experiment2/`（7个 Python 文件）
+
+- 三身份完整流程入口：[`run_three_identity_full_thread.py`](experiment2/run_three_identity_full_thread.py)
+- 追问：[`followup/run_followup_experiment.py`](experiment2/followup/run_followup_experiment.py)、[`followup/call_doubao.py`](experiment2/followup/call_doubao.py)、[`followup/grok_followup_template.py`](experiment2/followup/grok_followup_template.py)
+- 身份线程：[`identity_thread/run_identity_followup_experiment.py`](experiment2/identity_thread/run_identity_followup_experiment.py)、[`identity_thread/responsibility_basis_corpus.py`](experiment2/identity_thread/responsibility_basis_corpus.py)
+- API 适配：[`api/run_followup_experiment.py`](experiment2/api/run_followup_experiment.py)
+
+### `experiment3/`（41个 Python 文件）
+
+- Codex CLI 服务适配：[`api/run_semantic_annotation.py`](experiment3/api/run_semantic_annotation.py)
+- 事实基准：[`benchmark/build_truth_benchmark.py`](experiment3/benchmark/build_truth_benchmark.py)、[`benchmark/source_corpus/build_corpus.py`](experiment3/benchmark/source_corpus/build_corpus.py)、[`benchmark/source_corpus/check_links.py`](experiment3/benchmark/source_corpus/check_links.py)、[`benchmark/source_corpus/finalize.py`](experiment3/benchmark/source_corpus/finalize.py)、[`benchmark/source_corpus/verify_freeze.py`](experiment3/benchmark/source_corpus/verify_freeze.py)
+- 编码与登记：[`coding/build.py`](experiment3/coding/build.py)、[`coding/build_coding_queue.py`](experiment3/coding/build_coding_queue.py)、[`coding/prepare_response_register.py`](experiment3/coding/prepare_response_register.py)、[`coding/run_machine_pipeline.py`](experiment3/coding/run_machine_pipeline.py)
+- 量化分析：[`quant_analysis/analyze_all_identity_runs.py`](experiment3/quant_analysis/analyze_all_identity_runs.py)、[`quant_analysis/analyze_quant_metrics.py`](experiment3/quant_analysis/analyze_quant_metrics.py)、[`quant_analysis/analyze_supplemental_text_mining.py`](experiment3/quant_analysis/analyze_supplemental_text_mining.py)
+- 语义标注：[`semantic_annotation/run_semantic_annotation.py`](experiment3/semantic_annotation/run_semantic_annotation.py)、[`semantic_annotation/repair_missing_samples.py`](experiment3/semantic_annotation/repair_missing_samples.py)、[`semantic_annotation/repair_unverified_quotes.py`](experiment3/semantic_annotation/repair_unverified_quotes.py)、[`semantic_annotation/repair_remaining_claim_quotes.py`](experiment3/semantic_annotation/repair_remaining_claim_quotes.py)、[`semantic_annotation/summarize_annotations.py`](experiment3/semantic_annotation/summarize_annotations.py)、[`semantic_annotation/finalize_run_metadata.py`](experiment3/semantic_annotation/finalize_run_metadata.py)、[`semantic_annotation/build_experiment_summary_html.py`](experiment3/semantic_annotation/build_experiment_summary_html.py)
+- QRmine：[`heritage_qrmine/run.py`](experiment3/heritage_qrmine/run.py)、[`heritage_qrmine/scripts/analyze.py`](experiment3/heritage_qrmine/scripts/analyze.py)、[`heritage_qrmine/scripts/bilingual.py`](experiment3/heritage_qrmine/scripts/bilingual.py)、[`heritage_qrmine/scripts/check_reproducibility.py`](experiment3/heritage_qrmine/scripts/check_reproducibility.py)、[`heritage_qrmine/scripts/extract.py`](experiment3/heritage_qrmine/scripts/extract.py)、[`heritage_qrmine/scripts/fetch.py`](experiment3/heritage_qrmine/scripts/fetch.py)、[`heritage_qrmine/scripts/interpret.py`](experiment3/heritage_qrmine/scripts/interpret.py)、[`heritage_qrmine/scripts/mine.py`](experiment3/heritage_qrmine/scripts/mine.py)、[`heritage_qrmine/scripts/package.py`](experiment3/heritage_qrmine/scripts/package.py)、[`heritage_qrmine/scripts/report.py`](experiment3/heritage_qrmine/scripts/report.py)、[`heritage_qrmine/scripts/verify.py`](experiment3/heritage_qrmine/scripts/verify.py)、[`heritage_qrmine/provenance/build_codebook.py`](experiment3/heritage_qrmine/provenance/build_codebook.py)、[`heritage_qrmine/provenance/discover.py`](experiment3/heritage_qrmine/provenance/discover.py)、[`heritage_qrmine/provenance/finalize_corpus.py`](experiment3/heritage_qrmine/provenance/finalize_corpus.py)、[`heritage_qrmine/provenance/make_manifest.py`](experiment3/heritage_qrmine/provenance/make_manifest.py)、[`heritage_qrmine/provenance/register_snapshots.py`](experiment3/heritage_qrmine/provenance/register_snapshots.py)
+- 事实库：[`factbank/build_data.py`](experiment3/factbank/build_data.py)、[`factbank/factbank.py`](experiment3/factbank/factbank.py)、[`factbank/package_bank.py`](experiment3/factbank/package_bank.py)、[`factbank/validate.py`](experiment3/factbank/validate.py)、[`factbank/examples/use_bank.py`](experiment3/factbank/examples/use_bank.py)
 
 ## 实验一：问卷与稳健性
 
@@ -22,29 +43,26 @@
 
 |脚本|用途|
 |---|---|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/run_followup_experiment.py`](针对文化遗产的AI偏见/golestan_perception_v1/run_followup_experiment.py)|F/N/R/C 12个独立问题线程、合计27轮的 API 运行器。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/call_doubao.py`](针对文化遗产的AI偏见/golestan_perception_v1/call_doubao.py)|Doubao 的 F/N/R/C 兼容入口。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/grok_followup_template.py`](针对文化遗产的AI偏见/golestan_perception_v1/grok_followup_template.py)|Grok 多轮问卷兼容运行模板。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/responsibility_basis_corpus.py`](针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/responsibility_basis_corpus.py)|构建责任方追问所用的冻结证据包及来源登记。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/run_identity_followup_experiment.py`](针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/run_identity_followup_experiment.py)|每模型伊朗、美国、中国三条件，每条件10轮的累积对话运行器；包含责任比较与来源审计轮。|
+|[`experiment2/followup/run_followup_experiment.py`](experiment2/followup/run_followup_experiment.py)|F/N/R/C 12个独立问题线程、合计27轮的完整 API 运行器。|
+|[`experiment2/followup/call_doubao.py`](experiment2/followup/call_doubao.py)|Doubao 的 F/N/R/C 兼容入口。|
+|[`experiment2/followup/grok_followup_template.py`](experiment2/followup/grok_followup_template.py)|Grok 多轮问卷兼容运行模板。|
+|[`experiment2/identity_thread/responsibility_basis_corpus.py`](experiment2/identity_thread/responsibility_basis_corpus.py)|身份责任追问所用冻结证据包及来源登记生成器。|
+|[`experiment2/run_three_identity_full_thread.py`](experiment2/run_three_identity_full_thread.py)|伊朗、美国、中国身份各10轮的完整历史对话运行器，包含责任比较和来源审计轮。|
+|[`experiment2/api/run_followup_experiment.py`](experiment2/api/run_followup_experiment.py)|F/N/R/C 的标准库 HTTP API 适配实现。|
 
 ## 阶段三：编码、文本和量化分析
 
 |脚本|用途和数据要求|
 |---|---|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/prepare_response_register.py`](针对文化遗产的AI偏见/golestan_perception_v1/prepare_response_register.py)|将已完成的 F/N/R/C 运行整理为语义标注登记表。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/study2_coding_v2/build_coding_queue.py`](针对文化遗产的AI偏见/golestan_perception_v1/study2_coding_v2/build_coding_queue.py)|基于回答和代码本建立人工复核队列。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/pure_machine_v1/run_machine_pipeline.py`](针对文化遗产的AI偏见/golestan_perception_v1/pure_machine_v1/run_machine_pipeline.py)|本地词面和真值线索基线；需要对应的旧版 F/N/R/C 原始运行数据，本包不含这些历史回答。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/analyze_all_identity_runs.py`](针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/analyze_all_identity_runs.py)|本地审计并描述分析身份实验运行目录。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/analyze_supplemental_text_mining.py`](针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/analyze_supplemental_text_mining.py)|身份实验补充文本挖掘；需相应身份运行目录，本包未公开历史原始回答。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/analyze_quant_metrics.py`](针对文化遗产的AI偏见/golestan_perception_v1/quant_analysis_v1/analyze_quant_metrics.py)|旧版135回答语料的量化分析；该回答和机器标注数据不在包内。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/run_semantic_annotation.py`](针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/run_semantic_annotation.py)|通过已登录 Codex 服务做结构化语义标注；会发送选定文本，具体流程见该目录 README。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/repair_missing_samples.py`](针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/repair_missing_samples.py)|补标批次中缺失的响应键。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/repair_unverified_quotes.py`](针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/repair_unverified_quotes.py)|修复尚无法回指的命题引文。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/repair_remaining_claim_quotes.py`](针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/repair_remaining_claim_quotes.py)|聚焦修复仍未核实的命题片段。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/summarize_annotations.py`](针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/summarize_annotations.py)|从已保存的语义标注生成描述性汇总。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/finalize_run_metadata.py`](针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/finalize_run_metadata.py)|汇总本地批次事件和返回覆盖，生成运行审计元数据。|
-|[`针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/build_experiment_summary_html.py`](针对文化遗产的AI偏见/golestan_perception_v1/semantic_annotation_codex_v1/build_experiment_summary_html.py)|从既有语义标注表生成交互式 HTML 汇总；对应旧标注数据未随包公开。|
+|[`experiment3/coding/prepare_response_register.py`](experiment3/coding/prepare_response_register.py)|将任意完整 F/N/R/C 运行整理为新的语义标注登记表。|
+|[`experiment3/coding/build_coding_queue.py`](experiment3/coding/build_coding_queue.py)|基于包内实验数据和代码本建立人工复核队列及运行覆盖审计。|
+|[`experiment3/coding/run_machine_pipeline.py`](experiment3/coding/run_machine_pipeline.py)|本地词面、句段和来源/确定性线索基线；动态读取所有完整 F/N/R/C 结果，不调用模型。|
+|[`experiment3/quant_analysis/analyze_all_identity_runs.py`](experiment3/quant_analysis/analyze_all_identity_runs.py)|本地审计并描述分析新格式的三身份十轮结果。|
+|[`experiment3/quant_analysis/analyze_supplemental_text_mining.py`](experiment3/quant_analysis/analyze_supplemental_text_mining.py)|旧版固定运行 ID 的补充文本挖掘；需相应历史身份运行目录。|
+|[`experiment3/quant_analysis/analyze_quant_metrics.py`](experiment3/quant_analysis/analyze_quant_metrics.py)|旧版135回答语料的量化分析；旧回答和机器标注不在包内。|
+|[`experiment3/api/run_semantic_annotation.py`](experiment3/api/run_semantic_annotation.py) / [`semantic_annotation/run_semantic_annotation.py`](experiment3/semantic_annotation/run_semantic_annotation.py)|Codex CLI 语义标注服务入口和完整实现；传输选定回答前需显式确认。|
+|[`experiment3/semantic_annotation/repair_missing_samples.py`](experiment3/semantic_annotation/repair_missing_samples.py)、[`repair_unverified_quotes.py`](experiment3/semantic_annotation/repair_unverified_quotes.py)、[`repair_remaining_claim_quotes.py`](experiment3/semantic_annotation/repair_remaining_claim_quotes.py)|补标缺失回答键并修复无法回指的命题引文。|
+|[`experiment3/semantic_annotation/summarize_annotations.py`](experiment3/semantic_annotation/summarize_annotations.py)、[`finalize_run_metadata.py`](experiment3/semantic_annotation/finalize_run_metadata.py)、[`build_experiment_summary_html.py`](experiment3/semantic_annotation/build_experiment_summary_html.py)|生成标注摘要、批次审计及交互式 HTML 汇总。|
 
 ## 证据基准与 QRmine 语料处理
 

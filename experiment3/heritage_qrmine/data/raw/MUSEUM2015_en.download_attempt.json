@@ -1,0 +1,13 @@
+{
+  "id": "MUSEUM2015_en",
+  "year": 2015,
+  "title": "Museums and Collections Diversity and Role in Society",
+  "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-protection-and-promotion-museums-and-collections-their-diversity-and-their?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "MUSEUM2015",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:47:22.371250+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

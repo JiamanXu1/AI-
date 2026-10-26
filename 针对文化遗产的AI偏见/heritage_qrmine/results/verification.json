@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": [
+    "unique unit ids",
+    "excluded sources absent from analytical corpus",
+    "all included raw and extracted text SHA-256 verified",
+    "no known bot/navigation contamination; PDF page ranges respected",
+    "Chinese HUL limited to four visually verified clauses",
+    "paired versions share year and document identity",
+    "all interpretive evidence pointers resolve",
+    "actual QRMine runtime covers primary English corpus",
+    "report has no unresolved template placeholders"
+  ],
+  "n_checks": 9
+}

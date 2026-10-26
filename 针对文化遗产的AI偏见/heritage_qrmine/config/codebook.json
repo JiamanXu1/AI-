@@ -1,0 +1,128 @@
+[
+  {
+    "id": "V1",
+    "name": "历史见证与记忆",
+    "level": "value",
+    "definition": "遗产作为历史过程、文明与集体记忆的证据",
+    "inclusion_exclusion": "年代、历史见证、考古记录；不把单纯机构成立日期当作历史价值",
+    "pattern_en": "\\bhistor(?:y|ic|ical)\\b|archaeolog\\w+|testimony|collective memory|civilization",
+    "pattern_zh": "历史|考古|见证|记忆|文明"
+  },
+  {
+    "id": "V2",
+    "name": "艺术审美与创造力",
+    "level": "value",
+    "definition": "形式、设计、技艺与创造性成就的意义",
+    "inclusion_exclusion": "审美、艺术、建筑与创造；排除仅出现机构名称的 art",
+    "pattern_en": "\\baesthetic\\w*|\\bartistic\\b|\\barts?\\b|creativ\\w+|masterpiece|architectur\\w+",
+    "pattern_zh": "审美|美学|艺术|创造|建筑|杰作"
+  },
+  {
+    "id": "V3",
+    "name": "科学知识与教育",
+    "level": "value",
+    "definition": "研究证据、知识体系和学习机会",
+    "inclusion_exclusion": "知识、科学、研究或公共教育；培训行政人员仅作为机制候选",
+    "pattern_en": "scien\\w+|\\bknowledge\\b|research|education\\w+|evidential",
+    "pattern_zh": "科学|知识|研究|教育|证据"
+  },
+  {
+    "id": "V4",
+    "name": "认同、精神与归属",
+    "level": "value",
+    "definition": "个人和群体赋予遗产的象征、信仰与身份联系",
+    "inclusion_exclusion": "身份、精神、宗教、象征；不把行政 identify 视为认同",
+    "pattern_en": "\\bidentit\\w+|spiritual|beliefs?|symbolic|sense of place|religious",
+    "pattern_zh": "认同|文化特性|文化特征|身份|精神|信仰|象征|宗教|归属"
+  },
+  {
+    "id": "V5",
+    "name": "传承、延续与再创造",
+    "level": "value",
+    "definition": "过去与未来之间可持续的实践和意义延续",
+    "inclusion_exclusion": "代际传承与再创造；纯保存设备不自动等于传承价值",
+    "pattern_en": "generations?|transmi\\w+|re.creation|recreated|continuity|lasting value",
+    "pattern_zh": "后代|后世|世代|代际|传承|再创造|持续感|连续|持久"
+  },
+  {
+    "id": "V6",
+    "name": "多样性、交流与平等尊严",
+    "level": "value",
+    "definition": "多种文化及其交流本身具有意义",
+    "inclusion_exclusion": "尊重多样性、文化交流和平等；不把国家数量当多样性价值",
+    "pattern_en": "diversity|plural\\w+|intercultural|interchange|equal dignity|mutual respect",
+    "pattern_zh": "多样性|多元|交流|平等|尊严|相互尊重"
+  },
+  {
+    "id": "V7",
+    "name": "社会福祉与可持续生计",
+    "level": "value",
+    "definition": "遗产对生活质量、社会联系和发展作出贡献",
+    "inclusion_exclusion": "社会凝聚、福祉、可持续发展；收入不是唯一价值",
+    "pattern_en": "well.being|quality of life|cohesion|livelihood|sustainable development|economic|social value",
+    "pattern_zh": "福祉|生活质量|凝聚|生计|可持续发展|经济|社会价值"
+  },
+  {
+    "id": "V8",
+    "name": "场所环境与文化自然关系",
+    "level": "value",
+    "definition": "遗产意义来自空间、环境及人与自然互动",
+    "inclusion_exclusion": "场所、景观、环境关联；纯地名不能单独证明场所价值",
+    "pattern_en": "landscape|setting|context|interaction with nature|land.use|human interaction",
+    "pattern_zh": "景观|环境|背景|场所|人与自然|土地使用"
+  },
+  {
+    "id": "C1",
+    "name": "价值尺度与突出普遍价值",
+    "level": "recognition",
+    "definition": "明确价值对谁重要、在何种制度下认定",
+    "inclusion_exclusion": "OUV是世界遗产制度门槛；不是所有遗产的唯一门槛",
+    "pattern_en": "outstanding universal value|universal significance|great importance|common importance",
+    "pattern_zh": "突出.{0,2}普遍价值|普遍意义|重大价值"
+  },
+  {
+    "id": "C2",
+    "name": "真实性与证据可信度",
+    "level": "recognition",
+    "definition": "属性是否可信地表达所称的意义",
+    "inclusion_exclusion": "真实性和来源可靠；不能简化为材料绝不改变",
+    "pattern_en": "authentic\\w+|credible|truthful|reliability|provenance",
+    "pattern_zh": "真实性|原真性|可信|可靠|真实度"
+  },
+  {
+    "id": "C3",
+    "name": "完整性与语境完整",
+    "level": "recognition",
+    "definition": "表达意义所需的要素、范围及关联是否完整",
+    "inclusion_exclusion": "完整性、整体性和考古语境；不是完美无损的同义词",
+    "pattern_en": "integrity|wholeness|intactness|archaeological.{0,20}context|traditional setting",
+    "pattern_zh": "完整性|整体性|无缺憾|传统环境|考古.{0,10}环境"
+  },
+  {
+    "id": "C4",
+    "name": "社区认可、参与及文化权利",
+    "level": "recognition",
+    "definition": "谁有权定义、解释、享有并参与管理遗产",
+    "inclusion_exclusion": "社区主体、人权、获取与参与；不能只凭国家或专家指定",
+    "pattern_en": "communit\\w+|human rights|cultural rights|participat\\w+|public access|indigenous",
+    "pattern_zh": "社区|社群|群体|人权|文化权利|参与|土著|享有|公众"
+  },
+  {
+    "id": "G1",
+    "name": "风险、不可替代性与和平",
+    "level": "safeguard",
+    "definition": "损失风险和不可逆性支持保护优先次序",
+    "inclusion_exclusion": "风险不等于价值本体；记录冲突、毁坏及气候风险",
+    "pattern_en": "irreplaceable|irreversible|destruction|armed conflict|climate|threat|risk",
+    "pattern_zh": "不可替代|不可挽回|不可逆|毁坏|破坏|武装冲突|气候|威胁|风险"
+  },
+  {
+    "id": "G2",
+    "name": "保护管理与公共责任",
+    "level": "safeguard",
+    "definition": "使价值能够延续的制度与资源",
+    "inclusion_exclusion": "保护、管理、合作和资金；不直接作为内在价值",
+    "pattern_en": "protect\\w+|safeguard\\w+|management|co.operation|cooperation|funding",
+    "pattern_zh": "保护|管理|合作|资金|责任"
+  }
+]

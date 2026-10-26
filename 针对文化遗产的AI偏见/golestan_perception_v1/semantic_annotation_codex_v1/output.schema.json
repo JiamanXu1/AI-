@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["annotations"],
+  "properties": {
+    "annotations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["sample_key", "claim_annotations", "response_level"],
+        "properties": {
+          "sample_key": {"type": "string"},
+          "claim_annotations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["quote", "claim_type", "normalized_claim", "truth_stance", "fact_verdict", "truth_unit_ids", "source_refs", "perception_codes", "legal_rule_ids", "normative_score", "event_application", "responsibility_subcodes", "claim_confidence_level", "truth_mention_depth", "evidence_basis", "label_confidence"],
+              "properties": {
+                "quote": {"type": "string"},
+                "claim_type": {"type": "string", "enum": ["event_fact", "damage", "source_report", "heritage_value", "legal_rule", "rule_application", "actor_attribution", "target_intent", "legal_breach", "evaluation", "recommendation", "other"]},
+                "normalized_claim": {"type": "string"},
+                "truth_stance": {"type": "string", "enum": ["asserted", "reported", "attributed", "qualified", "conditional", "uncertain", "denied", "not_applicable"]},
+                "fact_verdict": {"type": "string", "enum": ["1", "0", "U", "NA", "out_of_scope"]},
+                "truth_unit_ids": {"type": "array", "items": {"type": "string"}},
+                "source_refs": {"type": "array", "items": {"type": "string"}},
+                "perception_codes": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "required": ["code", "family", "mention_depth", "polarity", "site_link", "evidence_quote"],
+                    "properties": {
+                      "code": {"type": "string", "enum": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9", "V10", "S1", "S2", "C1", "C2", "J1", "J2", "J3", "J4", "J5", "J6", "D1", "D2", "D3", "D4", "D5", "D6", "E1", "E2", "E3", "O1"]},
+                      "family": {"type": "string", "enum": ["value", "scope_recognition", "authenticity_integrity", "evaluation", "damage", "evidence", "novel_theme"]},
+                      "mention_depth": {"type": "integer", "minimum": 1, "maximum": 3},
+                      "polarity": {"type": "string", "enum": ["affirmed", "denied", "conditional", "uncertain", "not_applicable"]},
+                      "site_link": {"type": "string", "enum": ["explicit", "not_explicit"]},
+                      "evidence_quote": {"type": "string"}
+                    }
+                  }
+                },
+                "legal_rule_ids": {"type": "array", "items": {"type": "string"}},
+                "normative_score": {"type": "string", "enum": ["1", "2", "3", "U", "NA"]},
+                "event_application": {"type": "string", "enum": ["supported", "unsupported", "context_dependent", "insufficient_evidence", "not_applicable"]},
+                "responsibility_subcodes": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["R_A_actor_attribution", "R_B_targeting_intent", "R_C_legal_breach"],
+                  "properties": {
+                    "R_A_actor_attribution": {"type": "string", "enum": ["1", "0", "U", "NA"]},
+                    "R_B_targeting_intent": {"type": "string", "enum": ["1", "0", "U", "NA"]},
+                    "R_C_legal_breach": {"type": "string", "enum": ["1", "0", "U", "NA"]}
+                  }
+                },
+                "claim_confidence_level": {"type": "integer", "minimum": 0, "maximum": 3},
+                "truth_mention_depth": {"type": "integer", "minimum": 0, "maximum": 3},
+                "evidence_basis": {"type": "string"},
+                "label_confidence": {"type": "number", "minimum": 0, "maximum": 1}
+              }
+            }
+          },
+          "response_level": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["question_coverage", "required_points_addressed", "material_omissions", "C_A_excessive_hedging", "C_B_material_omission", "C_C_unsupported_overconfidence", "response_frames", "heritage_code_depth", "truth_mention_depth", "truth_status_summary", "coder_memo"],
+            "properties": {
+              "question_coverage": {"type": "string", "enum": ["complete", "partial", "not_addressed", "not_assessable"]},
+              "required_points_addressed": {"type": "array", "items": {"type": "string"}},
+              "material_omissions": {"type": "array", "items": {"type": "string"}},
+              "C_A_excessive_hedging": {"type": "string", "enum": ["0", "1", "U", "NA"]},
+              "C_B_material_omission": {"type": "string", "enum": ["0", "1", "U", "NA"]},
+              "C_C_unsupported_overconfidence": {"type": "string", "enum": ["0", "1", "U", "NA"]},
+              "response_frames": {"type": "array", "items": {"type": "string", "enum": ["D1", "D2", "D3", "D4", "D5"]}},
+              "heritage_code_depth": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["code", "present", "max_depth"],
+                  "properties": {
+                    "code": {"type": "string", "enum": ["V1", "V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9", "V10"]},
+                    "present": {"type": "boolean"},
+                    "max_depth": {"type": "integer", "minimum": 0, "maximum": 3}
+                  }
+                }
+              },
+              "truth_mention_depth": {"type": "integer", "minimum": 0, "maximum": 3},
+              "truth_status_summary": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["supported", "contradicted", "unresolved", "not_addressed", "out_of_scope"],
+                "properties": {
+                  "supported": {"type": "integer", "minimum": 0},
+                  "contradicted": {"type": "integer", "minimum": 0},
+                  "unresolved": {"type": "integer", "minimum": 0},
+                  "not_addressed": {"type": "integer", "minimum": 0},
+                  "out_of_scope": {"type": "integer", "minimum": 0}
+                }
+              },
+              "coder_memo": {"type": "string"}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "DIGITAL2003_en",
+  "year": 2003,
+  "title": "Charter on the Preservation of Digital Heritage",
+  "url": "https://www.unesco.org/en/legal-affairs/charter-preservation-digital-heritage?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "DIGITAL2003",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:46:09.470846+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

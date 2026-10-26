@@ -1,0 +1,20 @@
+{
+  "id": "HUL2011_en",
+  "year": 2011,
+  "title": "Historic Urban Landscape",
+  "url": "https://www.unesco.org/en/legal-affairs/recommendation-historic-urban-landscape-including-glossary-definitions?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "HUL2011",
+  "scope_note": "",
+  "web_lines": [
+    94,
+    230
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/HUL2011_en.web.txt",
+  "sha256": "4347e4c4ea77afe12e5b2f8f7467df8c9cac7bcfe6823f13e04caada4f3a81c2",
+  "bytes": 30837
+}

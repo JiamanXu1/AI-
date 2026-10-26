@@ -1,0 +1,7 @@
+[
+{"unit_id":"DIVERSITY2001_en:p0008","code":"G1","trigger":"climate","decision":"false_positive","reason":"climate of mutual trust 意为相互信任的氛围，不是气候风险。"},
+{"unit_id":"DIVERSITY2001_en:p0045","code":"V8","trigger":"setting","decision":"false_positive","reason":"standard-setting 意为制定规范，不是遗产的空间环境。"},
+{"unit_id":"DIVERSITY2001_zh:p0021","code":"C2","trigger":"可靠","decision":"false_positive","reason":"可靠保障指政策对社会凝聚的作用，不是遗产真实性或证据可靠性。"},
+{"unit_id":"DIVERSITY2001_zh:p0030","code":"C2","trigger":"可靠","decision":"false_positive","reason":"文化多样性的可靠保证不等于遗产真实性条件。"},
+{"unit_id":"WH1972_zh:p0051","code":"V4","trigger":"身份","decision":"false_positive","reason":"以咨询者身份出席属于行政角色，不是文化身份认同。"}
+]

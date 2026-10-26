@@ -1,0 +1,17 @@
+{
+  "id": "DIVERSITY2005_zh",
+  "year": 2005,
+  "title": "保护和促进文化表现形式多样性公约",
+  "url": "https://www.un.org/zh/documents/treaty/ppdce",
+  "lang": "zh",
+  "pair_id": "DIVERSITY2005",
+  "kind": "normative",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:44:05.522037+00:00",
+  "status": "ok",
+  "final_url": "https://www.un.org/zh/documents/treaty/ppdce",
+  "sha256": "70cffe71fcdbbd99162c3f8baf13e64ce05dbc29c33a0faae601287aace4d96b",
+  "bytes": 100301,
+  "raw_path": "data/raw/DIVERSITY2005_zh.html",
+  "content_type": "text/html; charset=utf-8"
+}

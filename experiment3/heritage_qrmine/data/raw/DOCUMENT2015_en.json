@@ -1,0 +1,20 @@
+{
+  "id": "DOCUMENT2015_en",
+  "year": 2015,
+  "title": "Documentary Heritage including Digital Form",
+  "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-preservation-and-access-documentary-heritage-including-digital-form?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "DOCUMENT2015",
+  "scope_note": "",
+  "web_lines": [
+    94,
+    215
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/DOCUMENT2015_en.web.txt",
+  "sha256": "37a380c4e3872ada95f5b7adb4258ce274e30ef175f91e15e5e5e12ef83b35b5",
+  "bytes": 27449
+}

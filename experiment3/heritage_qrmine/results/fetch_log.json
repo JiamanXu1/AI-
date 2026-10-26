@@ -1,0 +1,54 @@
+[
+  {
+    "id": "REC1976_en",
+    "year": 1976,
+    "title": "Safeguarding and Contemporary Role of Historic Areas",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-safeguarding-and-contemporary-role-historic-areas?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "REC1976",
+    "scope_note": "",
+    "retrieved_at": "2026-10-13T00:47:22.371114+00:00",
+    "status": "error",
+    "error": "curl: (56) Recv failure: Connection reset by peer"
+  },
+  {
+    "id": "FOLKLORE1989_en",
+    "year": 1989,
+    "title": "Safeguarding of Traditional Culture and Folklore",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-safeguarding-traditional-culture-and-folklore?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "FOLKLORE1989",
+    "scope_note": "",
+    "retrieved_at": "2026-10-13T00:47:22.371317+00:00",
+    "status": "error",
+    "error": "curl: (56) Recv failure: Connection reset by peer"
+  },
+  {
+    "id": "MUSEUM2015_en",
+    "year": 2015,
+    "title": "Museums and Collections Diversity and Role in Society",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-protection-and-promotion-museums-and-collections-their-diversity-and-their?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "MUSEUM2015",
+    "scope_note": "",
+    "retrieved_at": "2026-10-13T00:47:22.371250+00:00",
+    "status": "error",
+    "error": "curl: (56) Recv failure: Connection reset by peer"
+  },
+  {
+    "id": "DOCUMENT2015_en",
+    "year": 2015,
+    "title": "Documentary Heritage including Digital Form",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-preservation-and-access-documentary-heritage-including-digital-form?hub=66535",
+    "kind": "normative",
+    "lang": "en",
+    "pair_id": "DOCUMENT2015",
+    "scope_note": "",
+    "retrieved_at": "2026-10-13T00:47:22.371347+00:00",
+    "status": "error",
+    "error": "curl: (56) Recv failure: Connection reset by peer"
+  }
+]

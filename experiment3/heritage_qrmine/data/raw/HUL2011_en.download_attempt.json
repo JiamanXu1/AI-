@@ -1,0 +1,13 @@
+{
+  "id": "HUL2011_en",
+  "year": 2011,
+  "title": "Historic Urban Landscape",
+  "url": "https://www.unesco.org/en/legal-affairs/recommendation-historic-urban-landscape-including-glossary-definitions?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "HUL2011",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:46:00.146589+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

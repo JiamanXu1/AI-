@@ -1,0 +1,17 @@
+{
+  "id": "UNSC2347_en",
+  "year": 2017,
+  "title": "Security Council adopts Resolution 2347: cultural heritage",
+  "url": "https://press.un.org/en/2017/sc12764.doc.htm",
+  "kind": "news",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "UN meeting coverage; not resolution full text",
+  "retrieved_at": "2026-10-13T00:43:05.051895+00:00",
+  "status": "ok",
+  "final_url": "https://press.un.org/en/2017/sc12764.doc.htm",
+  "sha256": "32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea",
+  "bytes": 3038,
+  "raw_path": "data/raw/UNSC2347_en.html",
+  "content_type": "text/html; charset=utf-8"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "DIVERSITY2001_en",
+  "year": 2001,
+  "title": "Universal Declaration on Cultural Diversity",
+  "url": "https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "DIVERSITY2001",
+  "scope_note": "",
+  "web_lines": [
+    91,
+    187
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/DIVERSITY2001_en.web.txt",
+  "sha256": "c764f9c1ff4ca32cdacf7ecf49103aa1d24ac7c0e39e28ef62a6781be53d2436",
+  "bytes": 19786
+}

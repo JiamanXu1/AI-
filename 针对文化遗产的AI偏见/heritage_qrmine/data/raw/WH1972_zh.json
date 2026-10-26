@@ -1,0 +1,17 @@
+{
+  "id": "WH1972_zh",
+  "year": 1972,
+  "title": "保护世界文化和自然遗产公约",
+  "url": "https://www.un.org/zh/documents/treaty/whc",
+  "kind": "normative",
+  "lang": "zh",
+  "pair_id": "WH1972",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:42:57.755094+00:00",
+  "status": "ok",
+  "final_url": "https://www.un.org/zh/documents/treaty/whc",
+  "sha256": "bea81735b4c0f0bbd837473dd659fea0962420f72574d65be3b1f884195613a5",
+  "bytes": 91812,
+  "raw_path": "data/raw/WH1972_zh.html",
+  "content_type": "text/html; charset=utf-8"
+}

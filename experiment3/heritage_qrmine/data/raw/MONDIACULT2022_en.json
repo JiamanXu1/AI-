@@ -1,0 +1,20 @@
+{
+  "id": "MONDIACULT2022_en",
+  "year": 2022,
+  "title": "MONDIACULT 2022 Final Declaration",
+  "url": "https://www.unesco.org/en/articles/unesco-world-conference-cultural-policies-and-sustainable-development-mondiacult-2022",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "",
+  "web_lines": [
+    39,
+    92
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/MONDIACULT2022_en.web.txt",
+  "sha256": "c6408b222aa2740f01a91ff2393886fd3e2d24a0126e6c8145f2b57cc2323579",
+  "bytes": 28390
+}

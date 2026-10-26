@@ -1,0 +1,20 @@
+{
+  "id": "MIDDLEEAST2026_en",
+  "year": 2026,
+  "title": "UNESCO concern over heritage amidst escalating violence in Middle East",
+  "url": "https://www.unesco.org/en/articles/unesco-expresses-concern-over-protection-cultural-heritage-sites-amidst-escalating-violence-middle",
+  "kind": "news",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "",
+  "web_lines": [
+    41,
+    43
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/MIDDLEEAST2026_en.web.txt",
+  "sha256": "89a8d6b4294659be38a0d21477e3762a68f567b91cde455630483efecc313c0a",
+  "bytes": 4155
+}

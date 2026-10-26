@@ -1,0 +1,21 @@
+{
+  "included_documents": 34,
+  "primary_en": 27,
+  "normative_en": 23,
+  "paired_documents": 5,
+  "units": 4442,
+  "primary_units": 2984,
+  "candidate_assignments": 4016,
+  "lang_documents": {
+    "en": 28,
+    "zh": 6
+  },
+  "kind_documents": {
+    "news": 3,
+    "normative": 26,
+    "report_summary": 1,
+    "qualitative_excerpt": 1,
+    "paired_only": 2,
+    "implementation": 1
+  }
+}

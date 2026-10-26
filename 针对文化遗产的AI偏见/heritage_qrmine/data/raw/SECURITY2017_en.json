@@ -1,0 +1,20 @@
+{
+  "id": "SECURITY2017_en",
+  "year": 2017,
+  "title": "Resolution 2347: a historic resolution to protect cultural heritage",
+  "url": "https://courier.unesco.org/en/articles/historic-resolution-protect-cultural-heritage",
+  "kind": "news",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "Official Courier article; not resolution text",
+  "web_lines": [
+    48,
+    87
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/SECURITY2017_en.web.txt",
+  "sha256": "fa67529074e336f394c38c335ca62612ae82d841d3ee50d12731f5d5e53947ab",
+  "bytes": 14977
+}

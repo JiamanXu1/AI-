@@ -1,0 +1,338 @@
+Running extract
+[
+  {
+    "id": "HAGUE1954_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 221,
+    "characters": 50436,
+    "text_sha256": "9de9c49eb771d7d4b1d36c3d5ad692a0bb6a1d1a2d1a6ed71ffe04f4dc5192b2"
+  },
+  {
+    "id": "TRAFFIC1970_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 75,
+    "characters": 19389,
+    "text_sha256": "396ba0444a85ccde3f01acc6181792fa5f7d12b28e8eb692c476c90f2a3e7a7e"
+  },
+  {
+    "id": "UNDERWATER2001_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 206,
+    "characters": 46463,
+    "text_sha256": "4c5157fc4a8ef08e56e371d016606f32da936b83c77fe0f10e6cba65dd91e2a9"
+  },
+  {
+    "id": "ICH2003_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 159,
+    "characters": 32401,
+    "text_sha256": "273e0528a59533519b73b73d0895900cc5fdb523f844db2a4d76f2153b796a51"
+  },
+  {
+    "id": "DIVERSITY2005_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 193,
+    "characters": 41192,
+    "text_sha256": "6b316ec1ba6023e87870a44a9882ee68f2c0ea1afd971545865ded0f7c92d9fa"
+  },
+  {
+    "id": "REC1956_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 71,
+    "characters": 19836,
+    "text_sha256": "a10de601e7b78e5486363f01bb932e721c6578274d7e615392e7ce4b34b82563"
+  },
+  {
+    "id": "REC1962_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 67,
+    "characters": 16218,
+    "text_sha256": "83fa2e3fc10f09c486ad096f68bee7fe54a684026194049e82bc8e4a776e6d27"
+  },
+  {
+    "id": "REC1968_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 63,
+    "characters": 23032,
+    "text_sha256": "8c1880affe67f61b8ba22b0da933c92f805662bb4d205b515b021b32d30301e3"
+  },
+  {
+    "id": "REC1972_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 94,
+    "characters": 28339,
+    "text_sha256": "fdf34aaaa4356e81f1809c480abf14d8cba92770ed48443f74911af1a2b7d7c0"
+  },
+  {
+    "id": "REC1976_en",
+    "status": "included",
+    "method": "frozen web text lines [88, 245]",
+    "units": 143,
+    "characters": 34349,
+    "text_sha256": "9c2185535281ff4cc7280f10d5704ac8b1ef83b44ab91d0fbc28c8f04e0fd940"
+  },
+  {
+    "id": "MOVABLE1978_en",
+    "status": "included",
+    "method": "BeautifulSoup #description",
+    "units": 52,
+    "characters": 24847,
+    "text_sha256": "810a56592f2384b08640e550a42c1a6b39afcc0220dcb9948ddc2c2929feae71"
+  },
+  {
+    "id": "FOLKLORE1989_en",
+    "status": "included",
+    "method": "frozen web text lines [88, 157]",
+    "units": 60,
+    "characters": 13152,
+    "text_sha256": "a94e122535b865e779b776a7e14a08be2b73c6c89fe0eb32ad5375dc9495bbe4"
+  },
+  {
+    "id": "HUL2011_en",
+    "status": "included",
+    "method": "frozen web text lines [94, 230]",
+    "units": 107,
+    "characters": 25119,
+    "text_sha256": "f3542ce060220d33f5b9ee739a642809ac014b4bc1efe45048ba00bdb6cb270c"
+  },
+  {
+    "id": "MUSEUM2015_en",
+    "status": "included",
+    "method": "frozen web text lines [94, 215]",
+    "units": 102,
+    "characters": 22709,
+    "text_sha256": "94a864b46aa79a27c59bcdeb66ea85093d1a2847f5a1bb68803fad5a62e7de27"
+  },
+  {
+    "id": "DOCUMENT2015_en",
+    "status": "included",
+    "method": "frozen web text lines [94, 215]",
+    "units": 99,
+    "characters": 21743,
+    "text_sha256": "5ee6763b033df9f7b6f35cabadd9c9c210a3c960808924e78993bf67729c71be"
+  },
+  {
+    "id": "DIVERSITY2001_en",
+    "status": "included",
+    "method": "frozen web text lines [91, 187]",
+    "units": 70,
+    "characters": 14889,
+    "text_sha256": "7202ad0779e6fc63a7823bc5d8e9fbf7ca656a9709c991b95bf1cee335c77831"
+  },
+  {
+    "id": "DESTRUCTION2003_en",
+    "status": "included",
+    "method": "frozen web text lines [88, 146]",
+    "units": 45,
+    "characters": 8992,
+    "text_sha256": "a844fdcc14cf0d7ecdf0529d1117f0fb842047a1ec68d388dec092985e73ffe0"
+  },
+  {
+    "id": "DIGITAL2003_en",
+    "status": "included",
+    "method": "frozen web text lines [91, 167]",
+    "units": 54,
+    "characters": 9700,
+    "text_sha256": "e9defe0557eccfd8beb9708168d6121e19e4fb574aa7efe70b95aeaa9813182b"
+  },
+  {
+    "id": "WH1972_en",
+    "status": "included",
+    "method": "BeautifulSoup .conventionText",
+    "units": 155,
+    "characters": 32733,
+    "text_sha256": "747303eaa0e9c7be1a7d6f74abf29f1342bf1252352e6b4cfcb2bc533e456efe"
+  },
+  {
+    "id": "WH1972_zh",
+    "status": "included",
+    "method": "BeautifulSoup .field-name-body",
+    "units": 171,
+    "characters": 8078,
+    "text_sha256": "650480ab7789a4d667811a487ec0a119afaac660858792e541c8d3d42b3011d1"
+  },
+  {
+    "id": "HUL2011_zh",
+    "status": "included",
+    "method": "Assistant visual transcription checked against rendered PDF physical page 52 (printed p.48), 2026-10-13; only clauses 8,9,11,13. Full automatic extraction failed clipping/reading-order QA.",
+    "units": 4,
+    "characters": 403,
+    "text_sha256": "a5ceeab7e8c434c45bcb2e7b1f9fc1e6766df517f607ce4165a9a87ab22ec8d5"
+  },
+  {
+    "id": "MONDIACULT2022_en",
+    "status": "included",
+    "method": "frozen web text lines [39, 92]",
+    "units": 54,
+    "characters": 23996,
+    "text_sha256": "57c7a1dd5f49ceba197a7e4ce5b2cbe2259a8d26f8eb3a173a1b6c7240432251"
+  },
+  {
+    "id": "MONDIACULT2025_en",
+    "status": "included",
+    "method": "frozen web text lines [0, 181]",
+    "units": 178,
+    "characters": 16217,
+    "text_sha256": "a776810ef8c6a72281847685da3b41ccf1ded527b321a7e9e81c2659d25be04b"
+  },
+  {
+    "id": "MONDIACULT_REPORT2025_en",
+    "status": "excluded",
+    "reason": "curl: (56) Recv failure: Connection reset by peer"
+  },
+  {
+    "id": "EVALUATION2013_en",
+    "status": "excluded",
+    "reason": "curl: (56) Recv failure: Connection reset by peer"
+  },
+  {
+    "id": "COURIER1970_en",
+    "status": "included",
+    "method": "frozen web text lines [48, 74]",
+    "units": 26,
+    "characters": 7291,
+    "text_sha256": "f51581f4bb9524ee17cc4d9ddd5a428bcd2bebb21020ded0a69bfa2459844b81"
+  },
+  {
+    "id": "MIDDLEEAST2026_en",
+    "status": "included",
+    "method": "frozen web text lines [41, 43]",
+    "units": 3,
+    "characters": 927,
+    "text_sha256": "24406a696225645f073a2cb4dd4f2ef7e9c5943405f805b5bf79bc5ba034167a"
+  },
+  {
+    "id": "UNSC2347_en",
+    "status": "excluded",
+    "reason": "No recognized body selector; possible bot challenge"
+  },
+  {
+    "id": "ICH2003_zh",
+    "status": "included",
+    "method": "BeautifulSoup .field-name-body",
+    "units": 224,
+    "characters": 8137,
+    "text_sha256": "91e43d1a8c9babe8a6c6e0812750a79cb4178a987866ac7e3cf76b9b782a38e9"
+  },
+  {
+    "id": "DIVERSITY2005_zh",
+    "status": "included",
+    "method": "BeautifulSoup .field-name-body",
+    "units": 265,
+    "characters": 10586,
+    "text_sha256": "c003730242a030637fb2b7ebbad2707847d45fdcd09c541910f5209857036ff7"
+  },
+  {
+    "id": "DIVERSITY2001_zh",
+    "status": "included",
+    "method": "BeautifulSoup .field-name-body",
+    "units": 50,
+    "characters": 2849,
+    "text_sha256": "e74ab70f651dd9c4d4037be02637e5123d89975f259d4d76a0b03a83a0d08633"
+  },
+  {
+    "id": "OG2025_en",
+    "status": "included",
+    "method": "pypdf; page/block segmentation",
+    "units": 391,
+    "characters": 201655,
+    "text_sha256": "bcea8b91e11f04df07c1e5eef5eed47d6980e06b9f923561925a29e7c7d16565"
+  },
+  {
+    "id": "OG2019_en",
+    "status": "included",
+    "method": "pypdf; page/block segmentation",
+    "units": 385,
+    "characters": 182772,
+    "text_sha256": "71c73823ccdf826e57e525b4c5cefbf0acab81f08c85565cc2e4a733f3cbe33f"
+  },
+  {
+    "id": "OG2019_zh",
+    "status": "included",
+    "method": "pypdf; page/block segmentation",
+    "units": 359,
+    "characters": 52653,
+    "text_sha256": "0f1cdb9c4b7630c1aedbf4b1e8dd9765670f622528e97f80efc4f6340d6c82f7"
+  },
+  {
+    "id": "RIGHTS2011_en",
+    "status": "excluded",
+    "reason": "Response too short"
+  },
+  {
+    "id": "RIGHTS2011_zh",
+    "status": "excluded",
+    "reason": "Response too short"
+  },
+  {
+    "id": "GLOBALREPORT2025_en",
+    "status": "included",
+    "method": "frozen web text lines [60, 63]",
+    "units": 4,
+    "characters": 1400,
+    "text_sha256": "fdbe9cdf276fc673b6686492e06d9771eb13954413f6178f938cf7a945e04618"
+  },
+  {
+    "id": "SECURITY2017_en",
+    "status": "included",
+    "method": "frozen web text lines [48, 87]",
+    "units": 37,
+    "characters": 9893,
+    "text_sha256": "40422b82401b19722a774ccca249eb719a0fa8379a675d348ff6d6e66ab1aa2d"
+  },
+  {
+    "id": "PROTOCOL1999_en",
+    "status": "included",
+    "method": "frozen web text lines [106, 445]",
+    "units": 255,
+    "characters": 38799,
+    "text_sha256": "050e5166ddb8f61ec4231955784862b49ba38de69bae294221f4a3adc4d22e4c"
+  }
+]
+Running mine
+QRMine HAGUE1954_en
+QRMine TRAFFIC1970_en
+QRMine UNDERWATER2001_en
+QRMine ICH2003_en
+QRMine DIVERSITY2005_en
+QRMine REC1956_en
+QRMine REC1962_en
+QRMine REC1968_en
+QRMine REC1972_en
+QRMine REC1976_en
+QRMine MOVABLE1978_en
+QRMine FOLKLORE1989_en
+QRMine HUL2011_en
+QRMine MUSEUM2015_en
+QRMine DOCUMENT2015_en
+QRMine DIVERSITY2001_en
+QRMine DESTRUCTION2003_en
+QRMine DIGITAL2003_en
+QRMine WH1972_en
+QRMine MONDIACULT2022_en
+QRMine MONDIACULT2025_en
+QRMine COURIER1970_en
+QRMine MIDDLEEAST2026_en
+QRMine OG2025_en
+QRMine GLOBALREPORT2025_en
+QRMine SECURITY2017_en
+QRMine PROTOCOL1999_en
+Finished 27 documents
+Running analyze
+{"included_documents": 34, "primary_en": 27, "normative_en": 23, "paired_documents": 5, "units": 4442, "primary_units": 2984, "candidate_assignments": 4016, "lang_documents": {"en": 28, "zh": 6}, "kind_documents": {"news": 3, "normative": 26, "report_summary": 1, "qualitative_excerpt": 1, "paired_only": 2, "implementation": 1}}
+Running interpret
+Validated and exported 38 interpretive anchors
+Running bilingual
+Running report
+Reports and source inventory written
+Running verify
+PASS: 9 integrity checks

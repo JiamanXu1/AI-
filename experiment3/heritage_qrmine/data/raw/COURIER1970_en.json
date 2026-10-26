@@ -1,0 +1,20 @@
+{
+  "id": "COURIER1970_en",
+  "year": 2020,
+  "title": "The 1970 Convention: Cultural diversity before the letter of the law",
+  "url": "https://courier.unesco.org/en/articles/1970-convention-cultural-diversity-letter-law",
+  "kind": "news",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "Article body only, excluding author biography, related links and separate introductory lede",
+  "web_lines": [
+    48,
+    74
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/COURIER1970_en.web.txt",
+  "sha256": "cfcf8a0f67f15ebe25cc66b109f3af0fac447dcda6b0456df5da8583c51d86ae",
+  "bytes": 11388
+}

@@ -1,0 +1,13 @@
+{
+  "id": "DIVERSITY2001_en",
+  "year": 2001,
+  "title": "Universal Declaration on Cultural Diversity",
+  "url": "https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "DIVERSITY2001",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:46:04.842047+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}

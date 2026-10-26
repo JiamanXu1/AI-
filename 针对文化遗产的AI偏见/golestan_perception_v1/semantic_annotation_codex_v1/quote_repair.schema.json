@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["repairs"],
+  "properties": {
+    "repairs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["target_id", "status", "exact_quote"],
+        "properties": {
+          "target_id": {"type": "string"},
+          "status": {"type": "string", "enum": ["exact_quote_found", "not_found"]},
+          "exact_quote": {"type": "string"}
+        }
+      }
+    }
+  }
+}

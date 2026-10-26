@@ -1,0 +1,20 @@
+{
+  "id": "REC1976_en",
+  "year": 1976,
+  "title": "Safeguarding and Contemporary Role of Historic Areas",
+  "url": "https://www.unesco.org/en/legal-affairs/recommendation-concerning-safeguarding-and-contemporary-role-historic-areas?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "REC1976",
+  "scope_note": "",
+  "web_lines": [
+    88,
+    245
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/REC1976_en.web.txt",
+  "sha256": "f3514c32b275006004d6b76de81764140eae95534e5728167af328b07d0ce731",
+  "bytes": 39623
+}

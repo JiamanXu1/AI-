@@ -1,0 +1,20 @@
+{
+  "id": "DIGITAL2003_en",
+  "year": 2003,
+  "title": "Charter on the Preservation of Digital Heritage",
+  "url": "https://www.unesco.org/en/legal-affairs/charter-preservation-digital-heritage?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "DIGITAL2003",
+  "scope_note": "",
+  "web_lines": [
+    91,
+    167
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/DIGITAL2003_en.web.txt",
+  "sha256": "8ab557c67987d3c0258e56e49b87d93cd807b3d140c85cae84bc3e54233f0fce",
+  "bytes": 14517
+}

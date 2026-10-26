@@ -1,0 +1,20 @@
+{
+  "id": "GLOBALREPORT2025_en",
+  "year": 2025,
+  "title": "Global Report on Cultural Policies: official publication summary",
+  "url": "https://www.unesco.org/en/articles/unesco-global-report-cultural-policies-culture-missing-sdg?hub=185505",
+  "kind": "report_summary",
+  "lang": "en",
+  "pair_id": "",
+  "scope_note": "Official summary ONLY, not full report",
+  "web_lines": [
+    60,
+    63
+  ],
+  "status": "ok",
+  "retrieved_at": "2026-10-13",
+  "retrieval_method": "web tool official-page text snapshot",
+  "raw_path": "data/raw/GLOBALREPORT2025_en.web.txt",
+  "sha256": "c854a1731255f7551d5914baf31befde76b63b531eff4d92213a69a5e864271a",
+  "bytes": 4046
+}

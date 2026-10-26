@@ -1,0 +1,6 @@
+﻿pair_id,raw_jaccard,after_discrepant_hit_review,note
+DIVERSITY2001,0.75,1.0,Only mismatching candidate hits reviewed; not full semantic equivalence
+DIVERSITY2005,1.0,1.0,Only mismatching candidate hits reviewed; not full semantic equivalence
+ICH2003,1.0,1.0,Only mismatching candidate hits reviewed; not full semantic equivalence
+OG2019,1.0,1.0,Only mismatching candidate hits reviewed; not full semantic equivalence
+WH1972,0.9091,1.0,Only mismatching candidate hits reviewed; not full semantic equivalence

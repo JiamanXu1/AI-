@@ -1,0 +1,13 @@
+{
+  "id": "DESTRUCTION2003_en",
+  "year": 2003,
+  "title": "Intentional Destruction of Cultural Heritage",
+  "url": "https://www.unesco.org/en/legal-affairs/unesco-declaration-concerning-intentional-destruction-cultural-heritage?hub=66535",
+  "kind": "normative",
+  "lang": "en",
+  "pair_id": "DESTRUCTION2003",
+  "scope_note": "",
+  "retrieved_at": "2026-10-13T00:46:07.110972+00:00",
+  "status": "error",
+  "error": "curl: (56) Recv failure: Connection reset by peer"
+}
