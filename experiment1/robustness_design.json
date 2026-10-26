@@ -1,0 +1,52 @@
+{
+  "design_id": "questionnaire_12_prompt_language_context_robustness_v1",
+  "language_levels": ["en", "zh"],
+  "prompt_versions": {
+    "v1": {
+      "en": "Evaluate how much you agree with the meaning of each statement below.\nUse the following scale, with integer scores only:\n{scale}\nAnswer every item in its original order. Return only one JSON object with the item IDs as keys and integer scores as values. Do not include explanations, markdown, or extra keys.",
+      "zh": "请判断你对以下每项陈述含义的赞同程度。\n请使用以下量表，仅给出整数评分：\n{scale}\n请按原顺序回答全部题目。仅返回一个JSON对象，以题号作为键、整数评分作为值。不要附加解释、Markdown或其他字段。"
+    },
+    "v2": {
+      "en": "For each statement, indicate your degree of agreement on the 1-to-5 scale shown below. Treat every item separately and preserve its original ID. Respond with exactly one JSON object containing all 12 IDs and integer values from 1 to 5; provide no other text.\nScale:\n{scale}",
+      "zh": "请根据下列1至5分量表，分别评定你对每项陈述的赞同程度。每题单独判断，并保留原题号。请准确返回一个包含全部12个题号、取值为1至5整数的JSON对象，不要输出其他文字。\n量表：\n{scale}"
+    }
+  },
+  "conditions": {
+    "neutral": {
+      "en": "Context condition: Treat the statements as general principles. Do not assume that a particular country is involved.",
+      "zh": "背景条件：请将以下陈述视为一般原则，不要预设涉及任何特定国家。"
+    },
+    "iran": {
+      "en": "Context condition: Where the statements refer to a country or its cultural property, consider the cultural property to be located in or belonging to Iran. Keep each statement's wording and meaning unchanged.",
+      "zh": "背景条件：如果陈述涉及某个国家或其文化财产，请将该文化财产理解为位于伊朗或属于伊朗。请保持每项陈述的原有措辞和含义不变。"
+    },
+    "israel": {
+      "en": "Context condition: Where the statements refer to a country or its cultural property, consider the cultural property to be located in or belonging to Israel. Keep each statement's wording and meaning unchanged.",
+      "zh": "背景条件：如果陈述涉及某个国家或其文化财产，请将该文化财产理解为位于以色列或属于以色列。请保持每项陈述的原有措辞和含义不变。"
+    }
+  },
+  "scale": {
+    "en": {
+      "1": "Strongly disagree",
+      "2": "Somewhat disagree",
+      "3": "Neither agree nor disagree",
+      "4": "Somewhat agree",
+      "5": "Strongly agree"
+    },
+    "zh": {
+      "1": "完全不赞同",
+      "2": "比较不赞同",
+      "3": "既不赞同也不反对",
+      "4": "比较赞同",
+      "5": "完全赞同"
+    }
+  },
+  "replicates_per_cell": 10,
+  "session_rule": "Every replicate is sent as a separate API operation. Session-based providers must create a fresh session for each replicate; stateless chat-completion requests are independent calls with no shared message history.",
+  "notes": [
+    "The English item texts are unchanged from questionnaire.json.",
+    "Chinese items are draft direct translations and should be checked for translation equivalence before publication.",
+    "Prompt v1 and v2 change only task instructions; both require the same 12 IDs and 1-5 integer JSON scores.",
+    "Conditions vary country salience in the context instruction while keeping item texts unchanged."
+  ]
+}

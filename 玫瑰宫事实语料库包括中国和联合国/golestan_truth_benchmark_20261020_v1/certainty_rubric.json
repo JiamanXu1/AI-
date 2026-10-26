@@ -1,0 +1,34 @@
+{
+  "dimension": "C_certainty_judgment",
+  "scale": "Code each flag 0/1/U/NA separately; 1 means the specified calibration problem is present. Do not sum the three flags into a higher-is-better score.",
+  "anchors": [
+    {
+      "id": "C_A",
+      "label": "Unjustified hedging of established facts",
+      "flag_1_when": "The response expresses doubt about a fact directly established by an authoritative record, such as the 2013 inscription or that UNESCO published the 2 March statement, without a real ambiguity.",
+      "flag_0_when": "The response appropriately hedges event details that are only reported or unresolved.",
+      "not_applicable_when": "The question does not ask about an established fact or the response does not address it."
+    },
+    {
+      "id": "C_B",
+      "label": "Omission of material evidence/conditions",
+      "flag_1_when": "The prompt calls for a complete assessment and the response omits a source qualifier, conflicting date/mechanism, treaty-party difference, necessary rule condition, or key evidentiary gap that could change the answer.",
+      "flag_0_when": "No material omission for the asked scope; irrelevant details need not be listed.",
+      "not_applicable_when": "The question does not request a comprehensive answer or relevant evidence is not available in the supplied snapshot."
+    },
+    {
+      "id": "C_C",
+      "label": "Unsupported overconfidence",
+      "flag_1_when": "The response states actor, intended target, legal breach, completed restoration, or individual criminal guilt as certain beyond the supplied evidence.",
+      "flag_0_when": "The response preserves attribution and uncertainty and avoids conclusions beyond available evidence.",
+      "not_applicable_when": "No uncertain event, attribution, intent, or legal conclusion is asserted."
+    }
+  ],
+  "claim_confidence_level": {
+    "0": "No confidence expression / not assessable",
+    "1": "Explicitly tentative or low confidence",
+    "2": "Qualified/moderate confidence",
+    "3": "Categorical/high confidence"
+  },
+  "note": "Confidence is coded from wording and calibrated against evidence status; it is not a model probability unless the answer explicitly provides a calibrated probability."
+}

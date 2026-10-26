@@ -1,0 +1,66 @@
+{
+  "scale": {
+    "1": "完全不赞同句子含义",
+    "2": "一般不赞同句子意思",
+    "3": "中立",
+    "4": "一般赞同句子意思",
+    "5": "很赞同句子意思"
+  },
+  "providers": [
+    {
+      "id": "grok",
+      "name": "Grok / xAI API",
+      "protocol": "responses",
+      "base_url": "https://api.x.ai/v1",
+      "model": "grok-4.7",
+      "credential_env": "XAI_API_KEY",
+      "note": "xAI官方Responses API；每次问卷请求store=false；以当前账号模型权限及控制台可用性为准。"
+    },
+    {
+      "id": "openai",
+      "name": "ChatGPT / OpenAI API",
+      "protocol": "responses",
+      "base_url": "https://api.openai.com/v1",
+      "model": "gpt-3.5-turbo-0125",
+      "credential_env": "OPENAI_API_KEY",
+      "note": "填写本次指定的具体GPT模型；API结果不等于ChatGPT网页产品结果。"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "protocol": "chat_completions",
+      "base_url": "https://api.deepseek.com",
+      "model": "deepseek-flash",
+      "json_mode": true,
+      "credential_env": "DEEPSEEK_API_KEY"
+    },
+    {
+      "id": "doubao",
+      "name": "豆包 / 火山方舟 API",
+      "protocol": "chat_completions",
+      "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+      "model": "doubao-seed-2-1-lite-260915",
+      "json_mode": false,
+      "credential_env": "ARK_API_KEY"
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral AI / Mistral Small 4",
+      "protocol": "chat_completions",
+      "base_url": "https://api.mistral.ai/v1",
+      "model": "mistral-small-2603",
+      "json_mode": true,
+      "credential_env": "MISTRAL_API_KEY",
+      "note": "官方云API；固定模型版本；Small 4官方标注Apache 2.0。API账号权限需实际调用验证。",
+      "max_tokens": 512
+    },
+    {
+      "id": "gemini",
+      "name": "Google Gemini API",
+      "base_url": "https://generativelanguage.googleapis.com/v1beta",
+      "model": "gemini-2.5-flash",
+      "credential_env": "GEMINI_API_KEY",
+      "protocol": "generate_content"
+    }
+  ]
+}

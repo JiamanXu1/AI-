@@ -1,0 +1,10 @@
+{
+  "verification_type": "local synthetic fixtures only; no real model scores",
+  "passed": [
+    "12原文题目与ID检查",
+    "整数与范围检查",
+    "布尔值/小数/缺题/重复题号/额外字段拒绝",
+    "四个平台适配器请求与解析检查"
+  ],
+  "live_api_verified": false
+}
