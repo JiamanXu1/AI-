@@ -1,0 +1,138 @@
+S08: Iran: IHL treaties and states parties
+URL: https://ihl-databases.icrc.org/en/ihl-treaties/treaties-and-states-parties?from=&order=ASC&sort=state&state=IR&title=&to=&topic=
+Access: search_index_text
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 9
+IHL Treaties - Islamic Republic of Iran (https://ihl-databases.icrc.org/en/ihl-treaties/treaties-and-states-parties?from=&order=ASC&sort=state&state=IR&title=&to=&topic=)
+citeturn8search1 [wordlim: 200] Crawled: today; Islamic Republic of Iran ... Additional Protocol (I) to the Geneva Conventions, 1977Signature: 12.12.1977 ... Other treaties relating to IHL
+
+Filters
+
+Instrument title
+
+[Input: Instrument title]
+
+Topic
+
+[Input]
+
+State
+
+Islamic Republic ...
+
+[Input]
+
+Year of adoption
+
+[Input]
+
+Validate
+
+Clear all filters
+
+Sort by:
+
+State
+
+[Input]
+
+I
+
+Islamic Republic of Iran
+
+Victims of Armed Conflicts
+
+21.12.1904
+
+Hague Convention on Hospital Ships, 1904
+
+Ratification / Accession: 26.02.1908 
+
+12.08.1949
+
+Final Act of the Geneva Conference, 1949
+
+Signature: 12.08.1949 
+
+12.08.1949
+
+Geneva Convention (I) on Wounded and Sick in Armed Forces in the Field,1949
+
+Ratification / Accession: 20.02.1957 
+
+Reservation / Declaration: 04.09.1980 12.09.2000 
+
+12.08.1949
+
+Geneva Convention (II) on Wounded, Sick and Shipwrecked of Armed Forces at Sea, 1949
+
+Ratification / Accession: 20.02.1957 
+
+Reservation / Declaration: 04.09.1980 12.09.2000 
+
+12.08.1949
+
+Geneva Convention (III) on Prisoners of War, 1949
+
+Ratification / Accession: 20.02.1957 
+
+Reservation / Declaration: 04.09.1980 12.09.2000 
+
+12.08.1949
+
+Geneva Convention (IV) on Civilians, 1949
+
+Ratification / Accession: 20.02.1957 
+
+Reservation / Declaration: 04.09.1980 12.09.2000 
+
+08.06.1977
+
+Additional Protocol (I) to the Geneva Conventions, 1977
+
+Signature: 12.12.1977 
+
+08.06.1977
+
+Additional Protocol (II) to the Geneva Conventions, 1977
+
+Signature: 12.12.1977 
+
+10.06.1977
+
+Final Act of the Diplomatic Geneva Conference, 1974-1977
+
+Signature: 10.06.1977 
+
+20.11.1989
+
+Convention on the Rights of the Child, 1989
+
+Ratification / Accession: 13.07.1994 
+
+Reservation / Declaration: 13.07.1994 
+
+25.05.2000
+
+Optional Protocol on the involvement of children in armed conflict, 2000
+
+Signature: 21.09.2010 
+
+Methods and Means of Warfare
+
+29.07.1899
+
+Hague Convention (II) on the Laws and Customs of War on Land, 1899
+
+Ratification / Accession: 04.09.1900 
+
+29.07.1899
+
+Hague Declaration (IV,2) concerning Asphyxiating Gases, 1899
+
+RESEARCH LOG ENTRY 22
+IHL Treaties - Islamic Republic of Iran (https://ihl-databases.icrc.org/en/ihl-treaties/treaties-and-states-parties?from=&order=ASC&sort=state&state=IR&title=&to=&topic=)
+citeturn18search5 [wordlim: 200] Crawled: today; Islamic Republic of Iran ... Geneva Convention (III) on Prisoners of War, 1949 ... Procès-verbal on Submarine Warfare of the Treaty of London, 1936 ... Statute of the International Criminal Court, 1998 ... Other treaties relating to IHL

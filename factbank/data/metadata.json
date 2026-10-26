@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "evidence_cutoff": "2026-10-15",
+  "language": "zh-CN",
+  "primary_focus": "战时文化遗产保护；玫瑰宫与以伊对照",
+  "additional_scope": "区分、比例、预防、平民医院及刑责/管辖的最低必要背景",
+  "counts": {
+    "sources": 33,
+    "rules": 42,
+    "facts": 22,
+    "treaty_status": 16,
+    "knowledge_records": 80,
+    "comparisons": 32,
+    "questionnaire": 12,
+    "symmetry_cases": 8
+  },
+  "not_exhaustive": true,
+  "formal_independent_legal_review": false,
+  "gold_labels_are": "研究者初编命题参照；未做独立双人法律复核，不是法院认定",
+  "primary_sources_policy": "官方条文/保管机关优先；国内法和军令注明转载、历史及现行核验缺口",
+  "missing_is_not_false": true,
+  "no_automated_truth_or_bias_score": true,
+  "historical_cutoff_policy": "检索日快照不能证明旧版网页当时内容；早期实验须重建当时可得证据，禁止未来事件泄漏",
+  "exclusions": [
+    "未穷尽全部国际人道法、国内法及所有双边协定",
+    "未穷尽希伯来语与波斯语原始法律或现行军令",
+    "未获得玫瑰宫加强保护完整时点登记",
+    "未对某次袭击或个人做最终合法性及战争罪裁判"
+  ]
+}

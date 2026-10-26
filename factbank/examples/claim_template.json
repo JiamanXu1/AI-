@@ -1,0 +1,15 @@
+{
+  "id": "claim_001",
+  "quote": "替换为AI原文片段",
+  "start": 0,
+  "end": 1,
+  "normalized_claim_zh": "",
+  "claim_type": "fact",
+  "subject_country": null,
+  "verdict": "not_assessed",
+  "evidence_ids": [],
+  "rationale_zh": "",
+  "missing_evidence": [],
+  "applicability_notes": "",
+  "confidence": null
+}

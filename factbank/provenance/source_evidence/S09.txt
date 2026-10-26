@@ -1,0 +1,38 @@
+S09: States party to main IHL treaties, as of 14 April 2026
+URL: https://ihl-databases.icrc.org/public/refdocs/IHL_and_other_related_Treaties.pdf
+Access: search_index_text
+Limitations: 该表有明确早于检索日的截止时间；文化公约状态另以现行 UNESCO 国家登记页复核。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 21
+as of 14-April-2026 (https://ihl-databases.icrc.org/public/refdocs/IHL_and_other_related_Treaties.pdf)
+citeturn17search12 [wordlim: 200] Published: 6 months ago; <tr><td>Israel</td><td>06.07.1951</td><td></td><td></td><td></td><td>22.11.2007</td><td>03.10.1991</td><td>18.07.2005</td><td></td><td></td><td>03.10.1957</td><td>01.04.1958</td><td></td><td></td></tr> ... <tr><td>Libya</td><td>22.05.1956</td><td>07.06.1978</td><td></td><td>07.06.1978</td><td></td><td>15.04.1993</td><td>29.10.2004</td><td></td><td></td><td></td><td>19.11.1957</td><td>19.11.1957</td><td>20.07.2001</td><td></td></tr>
+as of 14-April-2026
+
+<table id="e1">
+<tr>
+  <th>Country</th>
+  <th colspan="8">Protection of victims of armed conflicts</th>
+  <th>International Criminal Court</th>
+  <th colspan="3">Protection of Cultural Property</th>
+  <th>Environment</th>
+</tr>
+<tr>
+  <th>Country</th>
+  <th>GC IV 1949</th>
+  <th>AP I 1977</th>
+  <th>AP I Declaration art. 90</th>
+  <th>AP II 1977</th>
+  <th>AP III 2005</th>
+  <th>CRC 1989</th>
+  <th>Opt Prot. CRC 2000</th>
+  <th>CPED 2006</th>
+  <th>ICC Statute 1998</th>
+  <th>Hague Conv. 1954</th>
+  <th>Hague Prot. 1954</th>
+  <th>Hague Prot. 1999</th>
+  <th>ENMOD Conv. 1976</th>
+</tr>
+<tr><td>Israel</td><td>06.07.1951</td><td></td><td></td><td></td><td>22.11.2007</td><td>03.10.1991</td><td>18.07.2005</td><td></td><td></td><td>03.10.1957</td><td>01.04.1958</td><td></td><td></td></tr>
+<tr><td>Italy</td><td>17.12.1951</td><td>27.02.1986</td><td>27.02.1986</td><td>27.02.1986</td><td>29.01.2009</td><td>05.09.1991</td><td>09.05.2002</td><td>08.10.2015</td><td>26.07.1999</td><td>09.05.1958</td><td>09.05.1958</td><td>10.07.2009</td><td>27.11.1981</td></tr>

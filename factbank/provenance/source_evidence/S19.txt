@@ -1,0 +1,81 @@
+S19: Golestan Palace, World Heritage List No.1422
+URL: https://whc.unesco.org/en/list/1422/
+Access: web_open
+Limitations: 动态遗产条目；登记事实与关于具体袭击的判断分开。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 5
+Golestan Palace - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/1422/)
+citeturn4search3 [wordlim: 200] Published: 13.3 years ago; Crawled: last month; The palace complex is one of the oldest in Tehran, originally built during the Safavid dynasty in the historic walled city. ... Criterion (ii): The complex of Golestan Palace represents an important example of the merging of Persian arts and architecture with European styles and motifs and the adaptation of European building technologies, such as the use of cast iron for load bearing, in Persia. ... Management responsibility lies with the Golestan Palace Base, a subsection of ICHHTO exclusively responsible for the property and functioning as a site management office.
+
+RESEARCH LOG ENTRY 6
+Golestan Palace - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/1422/)
+citeturn5view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/list/1422/","lineno":null}); Total lines: 154
+
+RESEARCH LOG ENTRY 7
+Golestan Palace - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/1422/)
+citeturn6view8 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn5view3","pattern":"2013"}); Total lines: 154
+L52: The management of the property is guided by short, medium and long-term objectives which emphasize the conservation and restoration of the palace complex. Management responsibility lies with the Golestan Palace Base, a subsection of ICHHTO exclusively responsible for the property and functioning as a site management office.
+L53: While management objectives have been presented, it would be desirable to develop a full management plan for the property, in which risk preparedness and risk response procedures should be given adequate attention.
+L54: ## Links
+L55: 
+L56:   * cite5†Instagram page†www.instagram.com L57:   * cite6†Official website page (in Persian only)†www.golestanpalace.ir L58: 
+L59: News 2
+L60: 
+L61: cite7†Meeting of Director-General and Iran’s Ambassador to UNESCO L62: 
+L63: 6 January 2020
+L64: 
+L65: cite8†Sites in Ukraine, the Iran and the Democratic People’s Republic of Korea inscribed on UNESCO’s World Heritage List L66: 
+L67: 23 June 2013
+L68: 
+L69: cite9†Image L70: 
+L71: cite10†Iran (Islamic Republic of) L72: 
+L73: Date of Inscription: 2013
+L74: 
+L75: Criteria: cite11†(ii)(iii)(iv) L76: 
+L77: Property : 5.3 ha
+L78: 
+L79: Buffer zone: 26.2 ha
+L80: 
+L81: Dossier: 1422
+L82: N35 40 49.32 E51 25 13.84
+L83: 
+L84: Web Browser not supported for ESRI ArcGIS API version 4.10. WebGL must be enable, cite12†see documentation†developers.arcgis.com L85: 
+L86: [Input]
+L87: 
+L88: Disclaimer
+L89: 
+L90: The Nomination files produced by the States Parties are published by the World Heritage Centre at its website and/or in working documents in order to ensure transparency, access to information and to facilitate the preparations of comparative analysis by other nominating States Parties.
+L91: The sole responsibility for the content of each Nomination file lies with the State Party concerned. The publication of the Nomination file, including the maps and names, does not imply the expression of any opinion whatsoever of the World Heritage Committee or of the Secretariat of UNESCO concerning the history or legal status of any country, territory, city or area or of its boundaries.
+L92: The georeferenced polygons for this property will be made available once the GIS data will be received by UNESCO. To experience the potential of GIS data, please visit the cite13†UNESCO Sites Navigator .
+L93: ##### Protections
+L94: by other conservation instruments
+L95: 
+L96: 1 protection / 2 elements
+L97: 
+L98: 2003 Convention for the Safeguarding of the Intangible Cultural Heritage (2 elements)
+L99: 
+L100:   * cite14†Sericulture and traditional production of silk for weaving†ich.unesco.org L101:   * cite15†Turkmen-style needlework art†ich.unesco.org L102: 
+L103: cite16†Read more about synergies L104: 
+L105: cite17†Image: logo L106:
+
+RESEARCH LOG ENTRY 8
+Golestan Palace - UNESCO World Heritage Centre (https://whc.unesco.org/en/list/1422/)
+citeturn7view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn5view3","lineno":10}); Total lines: 154
+L8: Le somptueux palais du Golestan est un chef d’œuvre de l’ère kadjare qui illustre l’introduction réussie d’artisanats persans traditionnels et de formes architecturales de périodes antérieures avec des influences occidentales. Le palais ceint de murs, l’un des plus anciens ensembles de Téhéran, fut choisi comme siège du gouvernement par la famille dirigeante kadjare, arrivée au pouvoir en 1779, qui fit de Téhéran la capitale du pays.
+L9: Construit autour d’un jardin composé de bassins et de zones plantées, il fut doté de ses éléments les plus caractéristiques et de ses ornements au 19e siècle. Devenu un centre des arts et de l’architecture kadjars dont il est un témoignage unique, il est demeuré jusqu’à aujourd’hui une source d’inspiration pour les artistes et les architectes iraniens.
+L10: Il incarne un nouveau style  combinant les arts et l’artisanat persans traditionnels et des éléments de l’architecture et de la technologie européennes du 18e siècle.
+L11: Description is available under license cite1†CC-BY-SA IGO 3.0 L12: ###### Palacio de Golestán
+L13: 
+L14: source: UNESCO/CPE
+L15: Description is available under license cite1†CC-BY-SA IGO 3.0 L16: 
+L17: ###### ゴレスターン宮殿
+L18: 
+L19: 近世イラン最高水準の建築と工芸を誇る宮殿。テヘランにあるゴレスターン宮殿は、18世紀末から20世紀初頭にかけてのカジャール朝の宮殿。18世紀の建築と技術に、伝統的なペルシャ工芸、さらに西洋的な要素を加えて巧みに集成し、当時のイランに新しい様式をもたらした。周壁に囲まれたこれらの宮殿は、テヘランで最古期の建築群であり、カジャール朝の政庁としても利用された。池と植栽を特徴とする庭園の周囲に並ぶ建物群の装飾は、19世紀の製作。贅を尽くした宮殿は、今日のイランにおける技術者や建築家の創作意欲の源泉となっている。
+L20: 
+L21: source: cite2†NFUAJ†www.unesco.or.jp L22: ###### Golestan paleis
+L23: Het weelderige Golestan paleis is een meesterwerk uit het Qajaren tijdperk. Het toont de succesvolle integratie van vroegere Perzische kunstnijverheid en architectuur met Westerse invloeden. Golestan is gebouwd rond een tuin met zwembaden en plantgebieden en vormt een van de oudste groepen gebouwen in Teheran. Het ommuurde paleis werd de regeringszetel van de familie Qajar, die in 1779 aan de macht kwam en Teheran tot de hoofdstad maakte.
+L24: De meest karakteristieke kenmerken en ornamenten dateren uit de 19e eeuw. Het paleis werd een centrum van Qajari kunst en architectuur en is tot op de dag van vandaag een bron van inspiratie voor Iraanse kunstenaars en architecten.
+L25: Source: cite3†unesco.nl†unesco.nl L26: 
+L27: cite4†add

@@ -1,0 +1,256 @@
+S16: Rome Statute, corrected original 1998 text
+URL: https://legal.un.org/icc/statute/99_corr/cstatute.htm
+Access: web_open
+Limitations: 此链接为订正后的原始文本，非2026年全部修正案合并本；仅用于本库列出的稳定条款，不用于侵略罪等后续修正。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 19
+Rome Statute of the International Criminal Court, 1998 (https://legal.un.org/icc/statute/99_corr/cstatute.htm)
+citeturn16view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://legal.un.org/icc/statute/99_corr/cstatute.htm","lineno":null}); Total lines: 1568
+L0: cite0†Image ROME STATUTE OF THE INTERNATIONAL CRIMINAL COURT^{*}     PREAMBLE
+L1: 
+L2:          The States Parties to this Statute,
+L3: 
+L4:          Conscious that all peoples are united by common bonds, their cultures pieced together in a shared heritage, and concerned that this delicate mosaic may be shattered at any time,
+L5: 
+L6:          Mindful that during this century millions of children, women and men have been victims of unimaginable atrocities that deeply shock the conscience of humanity,
+L7:          Recognizing that such grave crimes threaten the peace, security and well-being of the world,
+L8: 
+L9:          Affirming that the most serious crimes of concern to the international community as a whole must not go unpunished and that their effective prosecution must be ensured by taking measures at the national level and by enhancing international cooperation,
+L10: 
+L11:          Determined to put an end to impunity for the perpetrators of these crimes and thus to contribute to the prevention of such crimes,
+L12:          Recalling that it is the duty of every State to exercise its criminal jurisdiction over those responsible for international crimes,
+L13: 
+L14:          Reaffirming the Purposes and Principles of the Charter of the United Nations, and in particular that all States shall refrain from the threat or use of force against the territorial integrity or political independence of any State, or in any other manner inconsistent with the Purposes of the United Nations,
+L15:          Emphasizing in this connection that nothing in this Statute shall be taken as authorizing any State Party to intervene in an armed conflict or in the internal affairs of any State,
+L16: 
+L17:          Determined to these ends and for the sake of present and future generations, to establish an independent permanent International Criminal Court in relationship with the United Nations system, with jurisdiction over the most serious crimes of concern to the international community as a whole,
+L18:          Emphasizing that the International Criminal Court established under this Statute shall be complementary to national criminal jurisdictions,
+L19: 
+L20:          Resolved to guarantee lasting respect for and the enforcement of international justice,
+L21: 
+L22:          Have agreed as follows
+L23: 
+L24:   PART 1. ESTABLISHMENT OF THE COURT   Article 1 The Court
+L25:             An International Criminal Court ("the Court") is hereby established. It shall be a permanent institution and shall have the power to exercise its jurisdiction over persons for the most serious crimes of international concern, as referred to in this Statute, and shall be complementary to national criminal jurisdictions. The jurisdiction and functioning of the Court shall be governed by the provisions of this Statute.
+L26: 
+L27:   Article 2 Relationship of the Court with the United Nations
+L28:             The Court shall be brought into relationship with the United Nations through an agreement to be approved by the Assembly of States Parties to this Statute and thereafter concluded by the President of the Court on its behalf.
+L29: 
+L30: 
+L31:  Article 3 Seat of the Court
+L32: 1.         The seat of the Court shall be established at The Hague in the Netherlands ("the host State").
+L33: 
+L34: 2.         The Court shall enter into a headquarters agreement with the host State, to be approved by the Assembly of States Parties and thereafter concluded by the President of the Court on its behalf.
+L35: 
+L36: 3.         The Court may sit elsewhere, whenever it considers it desirable, as provided in this Statute.
+L37: 
+L38:   Article 4 Legal status and powers of the Court
+L39: 1.         The Court shall have international legal personality. It shall also have such legal capacity as may be necessary for the exercise of its functions and the fulfilment of its purposes.
+L40: 
+L41: 2.         The Court may exercise its functions and powers, as provided in this Statute, on the territory of any State Party and, by special agreement, on the territory of any other State.
+L42: 
+L43: 
+L44: PART 2. JURISDICTION, ADMISSIBILITY AND APPLICABLE LAW   Article 5 Crimes within the jurisdiction of the Court
+L45: 1.         The jurisdiction of the Court shall be limited to the most serious crimes of concern to the international community as a whole. The Court has jurisdiction in accordance with this Statute with respect to the following crimes:
+L46: 
+L47: (a)     The crime of genocide;
+L48: 
+L49: (b)     Crimes against humanity;
+L50: 
+L51: (c)     War crimes;
+L52: 
+L53: (d)     The crime of aggression.
+L54: 
+L55: 2.        The Court shall exercise jurisdiction over the crime of aggression once a provision is adopted in accordance with articles 121 and 123 defining the crime and setting out the conditions under which the Court shall exercise jurisdiction with respect to this crime. Such a provision shall be consistent with the relevant provisions of the Charter of the United Nations.
+L56:   Article 6 Genocide
+L57:             For the purpose of this Statute, "genocide" means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
+L58: 
+L59: (a)     Killing members of the group;
+L60: 
+L61: (b)     Causing serious bodily or mental harm to members of the group;
+L62: 
+L63: (c)     Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part;
+L64: (d)     Imposing measures intended to prevent births within the group;
+L65: 
+L66: (e)     Forcibly transferring children of the group to another group.
+L67: 
+L68: 
+L69:  Article 7 Crimes against humanity
+L70: 
+L71: 1.         For the purpose of this Statute, "crime against humanity" means any of the following acts when committed as part of a widespread or systematic attack directed against any civilian population, with knowledge of the attack:
+L72: 
+L73: (a)     Murder;
+L74: 
+L75: (b)     Extermination;
+L76: 
+L77: (c)     Enslavement;
+L78: (d)     Deportation or forcible transfer of population;
+L79: 
+L80: (e)     Imprisonment or other severe deprivation of physical liberty in violation of fundamental rules of international law;
+L81: 
+L82: (f)     Torture;
+L83: 
+L84: (g)     Rape, sexual slavery, enforced prostitution, forced pregnancy, enforced sterilization, or any other form of sexual violence of comparable gravity;
+L85: (h)     Persecution against any identifiable group or collectivity on political, racial, national, ethnic, cultural, religious, gender as defined in paragraph 3, or other grounds that are universally recognized as impermissible under international law, in connection with any act referred to in this paragraph or any crime within the jurisdiction of the Court;
+L86: 
+L87: (i)     Enforced disappearance of persons;
+L88: 
+L89: (j)     The crime of apartheid;
+L90: (k)     Other inhumane acts of a similar character intentionally causing great suffering, or serious injury to body or to mental or physical health.
+L91: 
+L92: 2.         For the purpose of paragraph 1:
+L93: 
+L94: (a)     "Attack directed against any civilian population" means a course of conduct involving the multiple commission of acts referred to in paragraph 1 against any civilian population, pursuant to or in furtherance of a State or organizational policy to commit such attack;
+L95: (b)     "Extermination" includes the intentional infliction of conditions of life, inter alia the deprivation of access to food and medicine, calculated to bring about the destruction of part of a population;
+L96: 
+L97: (c)     "Enslavement" means the exercise of any or all of the powers attaching to the right of ownership over a person and includes the exercise of such power in the course of trafficking in persons, in particular women and children;
+L98: (d)     "Deportation or forcible transfer of population" means forced displacement of the persons concerned by expulsion or other coercive acts from the area in which they are lawfully present, without grounds permitted under international law;
+L99: (e)     "Torture" means the intentional infliction of severe pain or suffering, whether physical or mental, upon a person in the custody or under the control of the accused; except that torture shall not include pain or suffering arising only from, inherent in or incidental to, lawful sanctions;
+L100: (f)     "Forced pregnancy" means the unlawful confinement of a woman forcibly made pregnant, with the intent of affecting the ethnic composition of any population or carrying out other grave violations of international law. This definition shall not in any way be interpreted as affecting national laws relating to pregnancy;
+L101: 
+L102: (g)     "Persecution" means the intentional and severe deprivation of fundamental rights contrary to international law by reason of the identity of the group or collectivity;
+L103: (h)     "The crime of apartheid" means inhumane acts of a character similar to those referred to in paragraph 1, committed in the context of an institutionalized regime of systematic oppression and domination by one racial group over any other racial group or groups and committed with the intention of maintaining that regime;
+L104: (i)     "Enforced disappearance of persons" means the arrest, detention or abduction of persons by, or with the authorization, support or acquiescence of, a State or a political organization, followed by a refusal to acknowledge that deprivation of freedom or to give information on the fate or whereabouts of those persons, with the intention of removing them from the protection of the law for a prolonged period of time.
+L105: 3.         For the purpose of this Statute, it is understood that the term "gender" refers to the two sexes, male and female, within the context of society. The term "gender" does not indicate any meaning different from the above.
+L106: 
+L107:   Article 8 War crimes
+L108: 1.         The Court shall have jurisdiction in respect of war crimes in particular when committed as part of a plan or policy or as part of a large-scale commission of such crimes.
+L109: 
+L110: 2.         For the purpose of this Statute, "war crimes" means:
+L111: (a)     Grave breaches of the Geneva Conventions of 12 August 1949, namely, any of the following acts against persons or property protected under the provisions of the relevant Geneva Convention: (i)     Wilful killing;
+L112: 
+L113: (ii)     Torture or inhuman treatment, including biological experiments;
+L114: 
+L115: (iii)     Wilfully causing great suffering, or serious injury to body or health;
+L116: (iv)     Extensive destruction and appropriation of property, not justified by military necessity and carried out unlawfully and wantonly;
+L117: 
+L118: (v)     Compelling a prisoner of war or other protected person to serve in the forces of a hostile Power;
+L119: 
+L120: (vi)     Wilfully depriving a prisoner of war or other protected person of the rights of fair and regular trial;
+L121: 
+L122: (vii)     Unlawful deportation or transfer or unlawful confinement;
+L123: 
+L124: (viii)     Taking of hostages.
+L125: (b)     Other serious violations of the laws and customs applicable in international armed conflict, within the established framework of international law, namely, any of the following acts: (i)     Intentionally directing attacks against the civilian population as such or against individual civilians not taking direct part in hostilities;
+L126: 
+L127: (ii)     Intentionally directing attacks against civilian objects, that is, objects which are not military objectives;
+L128: (iii)     Intentionally directing attacks against personnel, installations, material, units or vehicles involved in a humanitarian assistance or peacekeeping mission in accordance with the Charter of the United Nations, as long as they are entitled to the protection given to civilians or civilian objects under the international law of armed conflict;
+L129: (iv)     Intentionally launching an attack in the knowledge that such attack will cause incidental loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the concrete and direct overall military advantage anticipated;
+L130: 
+L131: (v)     Attacking or bombarding, by whatever means, towns, villages, dwellings or buildings which are undefended and which are not military objectives;
+L132: (vi)     Killing or wounding a combatant who, having laid down his arms or having no longer means of defence, has surrendered at discretion;
+L133: 
+L134: (vii)     Making improper use of a flag of truce, of the flag or of the military insignia and uniform of the enemy or of the United Nations, as well as of the distinctive emblems of the Geneva Conventions, resulting in death or serious personal injury;
+L135: (viii)     The transfer, directly or indirectly, by the Occupying Power of parts of its own civilian population into the territory it occupies, or the deportation or transfer of all or parts of the population of the occupied territory within or outside this territory;
+L136: (ix)     Intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes, historic monuments, hospitals and places where the sick and wounded are collected, provided they are not military objectives;
+L137: (x)     Subjecting persons who are in the power of an adverse party to physical mutilation or to medical or scientific experiments of any kind which are neither justified by the medical, dental or hospital treatment of the person concerned nor carried out in his or her interest, and which cause death to or seriously endanger the health of such person or persons;
+L138: 
+L139: (xi)     Killing or wounding treacherously individuals belonging to the hostile nation or army;
+L140: (xii)     Declaring that no quarter will be given;
+L141: 
+L142: (xiii)     Destroying or seizing the enemy's property unless such destruction or seizure be imperatively demanded by the necessities of war;
+L143: 
+L144: (xiv)     Declaring abolished, suspended or inadmissible in a court of law the rights and actions of the nationals of the hostile party;
+L145: (xv)     Compelling the nationals of the hostile party to take part in the operations of war directed against their own country, even if they were in the belligerent's service before the commencement of the war;
+L146: 
+L147: (xvi)     Pillaging a town or place, even when taken by assault;
+L148: 
+L149: (xvii)     Employing poison or poisoned weapons;
+L150: 
+L151: (xviii)     Employing asphyxiating, poisonous or other gases, and all analogous liquids, materials or devices;
+L152: (xix)     Employing bullets which expand or flatten easily in the human body, such as bullets with a hard envelope which does not entirely cover the core or is pierced with incisions;
+L153: (xx)     Employing weapons, projectiles and material and methods of warfare which are of a nature to cause superfluous injury or unnecessary suffering or which are inherently indiscriminate in violation of the international law of armed conflict, provided that such weapons, projectiles and material and methods of warfare are the subject of a comprehensive prohibition and are included in an annex to this Statute, by an amendment in accordance with the relevant provisions set forth in articles 121 and 123;
+L154: (xxi)     Committing outrages upon personal dignity, in particular humiliating and degrading treatment;
+L155: 
+L156: (xxii)     Committing rape, sexual slavery, enforced prostitution, forced pregnancy, as defined in article 7, paragraph 2 (f), enforced sterilization, or any other form of sexual violence also constituting a grave breach of the Geneva Conventions;
+L157: (xxiii)     Utilizing the presence of a civilian or other protected person to render certain points, areas or military forces immune from military operations;
+L158: 
+L159: (xxiv)     Intentionally directing attacks against buildings, material, medical units and transport, and personnel using the distinctive emblems of the Geneva Conventions in conformity with international law;
+L160: (xxv)     Intentionally using starvation of civilians as a method of warfare by depriving them of objects indispensable to their survival, including wilfully impeding relief supplies as provided for under the Geneva Conventions;
+L161: 
+L162: (xxvi)     Conscripting or enlisting children under the age of fifteen years into the national armed forces or using them to participate actively in hostilities.
+L163: (c)     In the case of an armed conflict not of an international character, serious violations of article 3 common to the four Geneva Conventions of 12 August 1949, namely, any of the following acts committed against persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed hors de combat by sickness, wounds, detention or any other cause:
+L164:   (i)     Violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;
+L165: (ii)     Committing outrages upon personal dignity, in particular humiliating and degrading treatment;
+L166: 
+L167: (iii)     Taking of hostages;
+L168: 
+L169: (iv)     The passing of sentences and the carrying out of executions without previous judgement pronounced by a regularly constituted court, affording all judicial guarantees which are generally recognized as indispensable.
+L170: (d)     Paragraph 2 (c) applies to armed conflicts not of an international character and thus does not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence or other acts of a similar nature.
+L171: 
+L172: (e)     Other serious violations of the laws and customs applicable in armed conflicts not of an international character, within the established framework of international law, namely, any of the following acts:
+L173: (i)     Intentionally directing attacks against the civilian population as such or against individual civilians not taking direct part in hostilities;
+L174: 
+L175: (ii)     Intentionally directing attacks against buildings, material, medical units and transport, and personnel using the distinctive emblems of the Geneva Conventions in conformity with international law;
+L176: (iii)     Intentionally directing attacks against personnel, installations, material, units or vehicles involved in a humanitarian assistance or peacekeeping mission in accordance with the Charter of the United Nations, as long as they are entitled to the protection given to civilians or civilian objects under the international law of armed conflict;
+L177: (iv)     Intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes, historic monuments, hospitals and places where the sick and wounded are collected, provided they are not military objectives;
+L178: 
+L179: (v)     Pillaging a town or place, even when taken by assault;
+L180: (vi)     Committing rape, sexual slavery, enforced prostitution, forced pregnancy, as defined in article 7, paragraph 2 (f), enforced sterilization, and any other form of sexual violence also constituting a serious violation of article 3 common to the four Geneva Conventions;
+L181: 
+L182: (vii)     Conscripting or enlisting children under the age of fifteen years into armed forces or groups or using them to participate actively in hostilities;
+L183: (viii)     Ordering the displacement of the civilian population for reasons related to the conflict, unless the security of the civilians involved or imperative military reasons so demand;
+L184: 
+L185: (ix)     Killing or wounding treacherously a combatant adversary;
+L186: 
+L187: (x)     Declaring that no quarter will be given;
+L188: (xi)     Subjecting persons who are in the power of another party to the conflict to physical mutilation or to medical or scientific experiments of any kind which are neither justified by the medical, dental or hospital treatment of the person concerned nor carried out in his or her interest, and which cause death to or seriously endanger the health of such person or persons;
+L189: (xii)     Destroying or seizing the property of an adversary unless such destruction or seizure be imperatively demanded by the necessities of the conflict;
+L190: (f)       Paragraph 2 (e) applies to armed conflicts not of an international character and thus does not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence or other acts of a similar nature. It applies to armed conflicts that take place in the territory of a State when there is protracted armed conflict between governmental authorities and organized armed groups or between such groups.
+L191: 3.         Nothing in paragraph 2 (c) and (e) shall affect the responsibility of a Government to maintain or re-establish law and order in the State or to defend the unity and territorial integrity of the State, by all legitimate means.
+L192: 
+L193:   Article 9 Elements of Crimes
+L194: 1.         Elements of Crimes shall assist the Court in the interpretation and application of articles 6, 7 and 8. They shall be adopted by a two-thirds majority of the members of the Assembly of States Parties.
+L195: 2.         Amendments to the Elements of Crimes may be proposed by:
+L196: 
+L197: (a)     Any State Party;
+L198: 
+L199: (b)     The judges acting by an absolute majority;
+L200: 
+L201: (c)     The Prosecutor.
+L202: Such amendments shall be adopted by a two-thirds majority of the members of the Assembly of States Parties.
+L203: 
+L204: 3.         The Elements of Crimes and amendments thereto shall be consistent with this Statute.
+L205: 
+L206:   Article 10
+L207:              Nothing in this Part shall be interpreted as limiting or prejudicing in any way existing or developing rules of international law for purposes other than this Statute.
+L208: 
+L209:   Article 11 Jurisdiction ratione temporis
+L210: 1.         The Court has jurisdiction only with respect to crimes committed after the entry into force of this Statute.
+L211: 
+L212: 2.         If a State becomes a Party to this Statute after its entry into force, the Court may exercise its jurisdiction only with respect to crimes committed after the entry into force of this Statute for that State, unless that State has made a declaration under article 12, paragraph 3.
+L213: 
+L214: 
+L215: Article 12 Preconditions to the exercise of jurisdiction
+L216: 1.         A State which becomes a Party to this Statute thereby accepts the jurisdiction of the Court with respect to the crimes referred to in article 5.
+L217: 
+L218: 2.         In the case of article 13, paragraph (a) or (c), the Court may exercise its jurisdiction if one or more of the following States are Parties to this Statute or have accepted the jurisdiction of the Court in accordance with paragraph 3:
+L219: (a)     The State on the territory of which the conduct in question occurred or, if the crime was committed on board a vessel or aircraft, the State of registration of that vessel or aircraft;
+L220: 
+L221: (b)     The State of which the person accused of the crime is a national.
+L222: 3.         If the acceptance of a State which is not a Party to this Statute is required under paragraph 2, that State may, by declaration lodged with the Registrar, accept the exercise of jurisdiction by the Court with respect to the crime in question. The accepting State shall cooperate with the Court without any delay or exception in accordance with Part 9.
+L223: 
+L224:   Article 13 Exercise of jurisdiction
+L225:             The Court may exercise its jurisdiction with respect to a crime referred to in article 5 in accordance with the provisions of this Statute if:
+L226: (a)     A situation in which one or more of such crimes appears to have been committed is referred to the Prosecutor by a State Party in accordance with article 14;
+L227: 
+L228: (b)     A situation in which one or more of such crimes appears to have been committed is referred to the Prosecutor by the Security Council acting under Chapter VII of the Charter of the United Nations; or
+L229: 
+L230: (c)     The Prosecutor has initiated an investigation in respect of such a crime in accordance with article 15.
+L231:   Article 14 Referral of a situation by a State Party
+L232: 1.         A State Party may refer to the Prosecutor a situation in which one or more crimes within the jurisdiction of the Court appear to have been committed requesting the Prosecutor to investigate the situation for the purpose of determining whether one or more specific persons should be charged with the commission of such crimes.
+L233: 2.         As far as possible, a referral shall specify the relevant circumstances and be accompanied by such supporting documentation as is available to the State referring the situation.
+L234:   Article 15 Prosecutor
+L235: 1.         The Prosecutor may initiate investigations proprio motu on the basis of information on crimes within the jurisdiction of the Court.
+L236: 2.         The Prosecutor shall analyse the seriousness of the information received. For this purpose, he or she may seek additional information from States, organs of the United Nations, intergovernmental or non-governmental organizations, or other reliable sources that he or she deems appropriate, and may receive written or oral testimony at the seat of the Court.
+L237: 3.         If the Prosecutor concludes that there is a reasonable basis to proceed with an investigation, he or she shall submit to the Pre-Trial Chamber a request for authorization of an investigation, together with any supporting material collected. Victims may make representations to the Pre-Trial Chamber, in accordance with the Rules of Procedure and Evidence.
+L238: 4.         If the Pre-Trial Chamber, upon examination of the request and the supporting material, considers that there is a reasonable basis to proceed with an investigation, and that the case appears to fall within the jurisdiction of the Court, it shall authorize the commencement of the investigation, without prejudice to subsequent determinations by the Court with regard to the jurisdiction and admissibility of a case.
+L239: 5.         The refusal of the Pre-Trial Chamber to authorize the investigation shall not preclude the presentation of a subsequent request by the Prosecutor based on new facts or evidence regarding the same situation.
+L240: 6.         If, after the preliminary examination referred to in paragraphs 1 and 2, the Prosecutor concludes that the information provided does not constitute a reasonable basis for an investigation, he or she shall inform those who provided the information. This shall not preclude the Prosecutor from considering further information submitted to him or her regarding the same situation in the light of new facts or evidence.
+L241: Article 16 Deferral of investigation or prosecution
+L242:             No investigation or prosecution may be commenced or proceeded with under this Statute for a period of 12 months after the Security Council, in a resolution adopted under Chapter VII of the Charter of the United Nations, has requested the Court to that effect; that request may be renewed by the Council under the same conditions.
+L243: 
+L244:   Article 17 Issues of admissibility
+L245: 1.         Having regard to paragraph 10 of the Preamble and article 1, the Court shall determine that a case is inadmissible where:

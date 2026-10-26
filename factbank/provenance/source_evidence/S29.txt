@@ -1,0 +1,239 @@
+S29: Israel 2006 manual: military objectives and civilian surroundings
+URL: https://ihl-databases.icrc.org/en/customary-ihl/v2/rule8
+Access: search_index_text
+Limitations: 历史军方手册摘录；不是2026年作战记录。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 16
+Customary IHL - Practice relating to rule 8 Definition of Military Objectives (https://ihl-databases.icrc.org/en/customary-ihl/v2/rule8)
+citeturn13search2 [wordlim: 200] Crawled: 3 months ago; To fulfil its task of disseminating IHL, the ICRC has delegates around the world teaching armed and security forces that the following can be considered military objectives: ... Disrupting government propaganda may help to undermine the morale of the population and the armed forces, but … justifying an attack on a civilian facility on such grounds stretches the meaning of “effective contribution to military action” and “definite military advantage” beyond the acceptable bounds of interpretation. ... Note: For practice concerning attacks against combatants, see Rule 1, Section B. ... Draft Convention for the Protection of Civilian Populations against New Engines of War, adopted by the International Law Association, Fortieth Conference, Amsterdam, 29 August–2 September 1938, Article 5(1).
+
+- other goods whose existence or destruction contributes in some way to the military action.
+
+…
+
+3.2.1. Two categories of elements allow to define a military objective: those in relation with the military action and those in relation with the military advantage.
+
+1- Elements necessary to the military action
+
+A military objective can only be identified or defined by its importance to military action. Three different signs are relevant to this matter: the nature of the objective, the location of the objective and the function of the objective.
+
+First, regarding the nature of the objective, it can be acknowledged that the military character of a good or objective can only be appreciated in relation to its value to armed forces. For example, a mortar is only valuable for combatants.
+
+Second, regarding the location of the objective, it must be noted that the military character of a good or objective can also be defined by its location at the moment of the attack. However, it must be highlighted that it is always difficult to conduct an exact assessment, especially in large cities and forest areas, where military objectives and civilian goods are side by side.
+### XI. International Red Cross and Red Crescent Movement
+
+#### ICRC
+
+To fulfil its task of disseminating IHL, the ICRC has delegates around the world teaching armed and security forces that the following can be considered military objectives:
+
+a) the armed forces except medical service and religious personnel and objects;
+
+b) the establishments, buildings and positions where armed forces or their materiel are located (e.g. positions, barracks, stores);
+
+c) other objects which by their nature, location, purpose or use make an effective contribution to military action, and whose total or partial destruction, capture or neutralisation, in the circumstances ruling at the time, offer a definite military advantage.
+
+Frédéric de Mulinen, Handbook on the Law of War for Armed Forces, ICRC, Geneva, 1987, § 55.
+
+#### ICRC
+
+In an appeal issued in October 1973, the ICRC urged all the belligerents in the conflict in the Middle East (Egypt, Iraq, Israel and the Syrian Arab Republic) to observe forthwith, in particular, the provisions of, inter alia, Article 47(1) of the draft Additional Protocol I which defined military objectives as “those objectives which are, by their nature, purpose or use, recognized to be of military interest and whose total or partial destruction, in the circumstances ruling at the time, offers a distinct and substantial military advantage”. All governments concerned replied favourably.
+
+ICRC, The International Committee’s Action in the Middle East, IRRC, No. 152, 1973, pp. 584–585.
+
+### XII. Other
+
+#### Institute of International Law
+
+In a resolution adopted during its Edinburgh Session in 1969, the Institute of International Law gave the following definition of a military objective:
+
+There can be considered as military objectives only those which, by their very nature or purpose or use, make an effective contribution to military action, or exhibit a generally recognised military significance, such that their total or partial destruction in the actual circumstances gives a substantial, specific and immediate military advantage to those who are in a position to destroy them.
+
+Institute of International Law, Edinburgh Session, Resolution on the Distinction between Military Objectives and Non-military Objects in General and Particularly the Problems Associated with Weapons of Mass Destruction, 9 September 1969, § 2.
+
+#### Amnesty International
+
+In 2000, in a report on the NATO bombings in the Federal Republic of Yugoslavia, Amnesty International, having referred to the definition of military objectives contained in Article 52(2) of the 1977 Additional Protocol I, stated with regard to the bombing of the Serbian State radio and television (RTS):
+
+Disrupting government propaganda may help to undermine the morale of the population and the armed forces, but … justifying an attack on a civilian facility on such grounds stretches the meaning of “effective contribution to military action” and “definite military advantage” beyond the acceptable bounds of interpretation.
+
+Amnesty International, NATO/Federal Republic of Yugoslavia: ”Collateral Damage” or Unlawful Killings? Violations of the Laws of War by NATO during Operation Allied Force, AI Index EUR 70/18/00, London, June 2000, p. 43.
+
+### Section B. Armed forces
+
+Note: For practice concerning attacks against combatants, see Rule 1, Section B.
+
+### I. Treaties
+
+#### St. Petersburg Declaration
+
+The preamble to the 1868 St. Petersburg Declaration states: “The only legitimate object which States should endeavour to accomplish during war is to weaken the military forces of the enemy.”
+
+Declaration Renouncing the Use, in Time of War, of Explosive Projectiles Under 400 Grammes Weight, St. Petersburg, 29 November–11 December 1868, preamble.
+
+### II. Other Instruments
+
+#### Hague Rules of Air Warfare
+
+According to Article 24(2) of the 1923 Hague Rules of Air Warfare, “military forces” are military objectives.
+
+Rules concerning the Control of Wireless Telegraphy in Time of War and Air Warfare, Part II, drafted by a Commission of Jurists, The Hague, December 1922–February 1923, Article 24(2).
+
+#### ILA Draft Convention for the Protection of Civilian Populations against New Engines of War
+
+Article 5(1) of the 1938 ILA Draft Convention for the Protection of Civilian Populations against New Engines of War provides that “aerial bombardment is prohibited unless directed at combatant forces”.
+
+Draft Convention for the Protection of Civilian Populations against New Engines of War, adopted by the International Law Association, Fortieth Conference, Amsterdam, 29 August–2 September 1938, Article 5(1).
+
+#### New Delhi Draft Rules
+
+Paragraph I(1) of the proposed annex to Article 7(2) of the 1956 New Delhi Draft Rules stated that “armed forces, including auxiliary or complementary organizations, and persons who, though not belonging to the above-mentioned formations, nevertheless take part in the fighting” are military objectives considered to be of “generally recognized military importance”.
+
+Draft Rules for the Limitation of the Dangers Incurred by the Civilian Population in Time of War, drafted by the International Committee of the Red Cross, September 1956, submitted to governments for their consideration on behalf of the 19th International Conference of the Red Cross, New Delhi, 28 October–7 November, Res. XIII, § I(1) of the proposed annex to Article 7(2).
+
+RESEARCH LOG ENTRY 18
+Customary IHL - Practice relating to rule 8 Definition of Military Objectives (https://ihl-databases.icrc.org/en/customary-ihl/v2/rule8)
+citeturn15search0 [wordlim: 200] Crawled: 3 months ago; Military necessity admits of all direct destruction of life or limb of “armed” enemies, and of other persons whose destruction is incidentally “unavoidable” in the armed contests of the war; it allows of the capturing of every armed enemy, and every enemy of importance to the hostile government, or of peculiar danger to the captor; it allows of all destruction of property, and obstruction of the ways and channels of traffic, travel, or communication, and of all withholding of sustenance or means of life from the enemy; of the appropriation of whatever an enemy’s country affords necessary for the subsistence and safety of the army. ... To fulfil its task of disseminating IHL, the ICRC has delegates around the world teaching armed and security forces that the following can be considered military objectives: ... Israel, Rules of Warfare on the Battlefield, Military Advocate-General’s Corps Command, IDF School of Military Law, Second Edition, 2006, p. ... Israel, Rules of Warfare on the Battlefield, Military Advocate-General’s Corps Command, IDF School of Military Law, Second Edition, 2006, p.
+### II. Other Instruments
+
+#### Lieber Code
+
+Article 15 of the 1863 Lieber Code provides:
+
+Military necessity admits of all direct destruction of life or limb of “armed” enemies, and of other persons whose destruction is incidentally “unavoidable” in the armed contests of the war; it allows of the capturing of every armed enemy, and every enemy of importance to the hostile government, or of peculiar danger to the captor; it allows of all destruction of property, and obstruction of the ways and channels of traffic, travel, or communication, and of all withholding of sustenance or means of life from the enemy; of the appropriation of whatever an enemy’s country affords necessary for the subsistence and safety of the army. Men who take up arms against one another in public war do not cease on this account to be moral beings, responsible to one another and to God.
+
+Instructions for the Government of Armies of the United States in the Field, prepared by Francis Lieber, promulgated as General Order No. 100 by President Abraham Lincoln, Washington D.C., 24 April 1863, Article 15.
+
+According to the Report on the Practice of Israel, the Israel Defense Forces (IDF) have no generally applicable definition of what constitutes a “military target”, but their practice most closely reflects the definition found in Article 52(2) of the 1977 Additional Protocol I.
+
+Report on the Practice of Israel, 1997, Answers to additional questions on Chapter 1.3.
+
+#### Israel
+
+In 2006, Israel’s Ministry of Foreign Affairs stated:
+
+The generally accepted definition of “military objective” is that set out in Article 52(2) Additional Protocol I of the Geneva Conventions, which provides:
+
+Insofar as objects are concerned, military objectives are limited to those objects which, by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralization, in the circumstances ruling at the time, offers a definite military advantage.
+
+This definition has been criticized by some for being too narrow, and failing to pay sufficient attention to war sustaining capability, including economic targets.
+
+Israel, Responding to Hizbullah Attacks from Lebanon: Issues of Proportionality, Legal Background, Ministry of Foreign Affairs of Israel, 25 July 2006, § 2.
+
+#### Israel
+
+In 2007, Israel’s Ministry of Foreign Affairs stated in a diplomatic note:
+
+Legitimate military objectives
+
+The generally accepted definition of “military objective” is that set out in Article 52(2) Additional Protocol I of the Geneva Conventions, which provides:
+
+Insofar as objects are concerned, military objectives are limited to those objects which, by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralization, in the circumstances ruling at the time, offers a definite military advantage.
+
+Regarding military targets, the IDF’s [Israel Defense Forces’] “Law of War on the Battlefield” provides: “A military target subject to attack is a target that by its nature, location, purpose or use effectively contributes to the military campaign of the other side, and its neutralization will offer a clear military advantage to the attacking side.”
+
+Israel, Israel’s War with Hizbullah. Preserving Humanitarian Principles While Combating Terrorism, Diplomatic Notes No. 1, Ministry of Foreign Affairs of Israel, April 2007, p. 5.
+
+#### Israel
+
+In 2008, in a background paper on Israel’s operations in Gaza, Israel’s Ministry of Foreign Affairs stated:
+
+The generally accepted definition of “military objective” is that set out in Article 52(2) of [the 1977] Additional Protocol I of the Geneva Conventions, which provides:
+
+Insofar as objects are concerned, military objectives are limited to those objects which by their nature, location, purpose or use make an effective contribution to military action and whose total or partial destruction, capture or neutralization, in the circumstances ruling at the time, offers a definite military advantage. [footnote in original omitted]
+
+Israel, Ministry of Foreign Affairs, Background paper, Responding to Hamas Attacks from Gaza: Issues of Proportionality, December 2008, § 2.
+
+#### Germany
+
+Germany’s Military Manual (1992) states:
+
+Civilians present in military objectives are not protected against attacks directed at these objectives; the presence of civilian workers in an arms production plant, for instance, will not prevent opposing armed forces from attacking this military objective.
+
+Germany, Humanitarian Law in Armed Conflicts – Manual, DSK VV207320067, edited by The Federal Ministry of Defence of the Federal Republic of Germany, VR II 3, August 1992, English translation of ZDv 15/2, Humanitäres Völkerrecht in bewaffneten Konflikten – Handbuch, August 1992, § 445.
+
+#### Hungary
+
+Hungary’s Military Manual (1992) considers that supply and maintenance bases are military objectives and that civilian personnel working there share the risk of attack.
+
+Hungary, A Hadijog, Jegyzet a Katonai, Föiskolák Hallgatói Részére, Magyar Honvédség Szolnoki Repülötiszti Föiskola, 1992, p. 83.
+
+#### Israel
+
+Israel’s Manual on the Rules of Warfare (2006) states:
+
+It is the duty of the attacker to distinguish between military targets and civilian targets, and the attacker should take into account the presence of civilian targets when planning the attack. No area in which military targets are combined with civilian targets may be considered as merely another target.
+
+Upon attacking a military target that is located at the heart of [a] civilian district, for example, a group of enemy soldiers who are holed up in the heart of a city and surrounded by civilians, they may be attacked, but only if the expected military benefit to one’s side from the offensive exceeds the expected damage that might be caused to civilians. There is no set formula according to which it is possible to weigh the civilian damage against the expected military benefit from the offensive; but it is a question of degree. An offensive would not be considered legitimate if it presented a significant risk to many civilian lives in return for gaining a subordinate military objective.
+
+Israel, Rules of Warfare on the Battlefield, Military Advocate-General’s Corps Command, IDF School of Military Law, Second Edition, 2006, p. 27.
+
+The manual further states:
+
+Civilians must not be used to screen the military movements and for the purpose of concealment amongst them. The answer often depends on the circumstances. The situation can range from that of a large force pursuing a small company of enemy soldiers besieged from every angle, to a situation in which a unit in distress is under fire from a civilian target, for example from the rooftop of a museum. In the first incident the commander should display much more restraint, and in the second, the military needs [to] justify and permit an attack on the party that has misused the location, consequently weakening the protection afforded to the museum.
+
+Israel, Rules of Warfare on the Battlefield, Military Advocate-General’s Corps Command, IDF School of Military Law, Second Edition, 2006, p. 27.
+
+The Manual on the Rules of Warfare (2006) is a second edition of the Manual on the Laws of War (1998).
+
+#### Madagascar
+
+Madagascar’s Military Manual (1994) states: “A military objective remains a military objective even if civilians are present inside it.”
+
+Madagascar, Le Droit des Conflits Armés, Ministère des Forces Armées, August 1994, Fiche No. 2-SO, § D.
+
+#### Netherlands
+
+The Military Manual (1993) of the Netherlands considers that:
+
+Acts such as the manufacturing and transport of military materiel in the hinterland certainly do not constitute a direct participation in hostilities. In addition, it has to be borne in mind that the fact that civilians are working in, for example, a weapons factory does not convert such an industrial object into a civilian object. Such a case has to be assessed in the light of the definition of a military objective.
+
+Netherlands, Toepassing Humanitair Oorlogsrecht, Voorschift No. 27-412/1, Koninklijke Landmacht, Ministerie van Defensie, 1993, p. V-5.
+
+
+Belgium, House of Representatives, Explanatory memorandum on a draft bill for the approval of the Additional Protocols, 1984–1985 Session, Doc. 1096-1, 9 January 1985, p. 10.
+
+#### Israel
+
+In 2006, Israel’s Ministry of Foreign Affairs stated:
+
+But the presence of civilians in the area does not stop a military objective from being a legitimate target. This is not just the law, as noted above, but also the practice of states. The Australian Defence Force Manual reflects the prevailing practice:
+
+The presence of non-combatants in or around a military objective does not change its nature as a military objective. Non-combatants in the vicinity of a military objective must share the danger to which the military objective is exposed.
+
+In practice Israel does not adopt the position reflected here that civilians in the vicinity of a military objective must “share the danger”, but rather takes significant efforts to avoid or minimize civilian casualties.
+
+Israel, Responding to Hizbullah Attacks from Lebanon: Issues of Proportionality, Legal Background, Ministry of Foreign Affairs of Israel, 25 July 2006, § 2.
+
+#### Israel
+
+In 2007, Israel’s Ministry of Foreign Affairs stated in a diplomatic note:
+
+The presence of civilians in the area, however, does not stop a military objective from being a legitimate target. This is the law, as noted above, and reflected in state practice. Thus, for example, the Australian Defense Force Manual states:
+
+The presence of non-combatants in or around a military objective does not change its nature as a military objective. Non-combatants in the vicinity of a military objective must share the danger to which the military objective is exposed.
+
+Israel, Israel’s War with Hizbullah. Preserving Humanitarian Principles While Combating Terrorism, Diplomatic Notes No. 1, Ministry of Foreign Affairs of Israel, April 2007, p. 14.
+
+#### Israel
+
+In 2008, in a background paper on Israel’s operations in Gaza, Israel’s Ministry of Foreign Affairs stated:
+
+If a location is a legitimate military objective, it does not cease to be one because civilians are in the vicinity. As Article 28 of … [1949] Geneva Convention [IV] provides:
+
+Israel, Ministry of Foreign Affairs, Background paper, Responding to Hamas Attacks from Gaza: Issues of Proportionality, December 2008, § 2.
+
+#### Israel
+
+In 2009, in a report on Israeli operations in Gaza between 27 December 2008 and 18 January 2009 (the “Gaza Operation”, also known as “Operation Cast Lead”), Israel’s Ministry of Foreign Affairs stated:
+
+99. … [T]the presence of civilians at a site (whether voluntarily or involuntarily) does not by itself forbid an attack on an otherwise legitimate military target. …
+
+100. The expected presence of civilians, though, does impact the analysis of the proportionality of an attack. [emphasis in original]
+
+Israel, Ministry of Foreign Affairs, The Operation in Gaza 27 December 2008–18 January 2009: Factual and Legal Aspects, 29 July 2009, §§ 99–100.
+
+The report also stated: “The presence of civilians within a military objective or in its vicinity does not negate as such, the military character of the objective. Such a military objective may be attacked, subject to the principle of proportionality.”
+
+Israel, Ministry of Foreign Affairs, The Operation in Gaza 27 December 2008–18 January 2009: Factual and Legal Aspects, 29 July 2009, § 223.

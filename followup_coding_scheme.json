@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "status": "user-specified experimental dimensions; coding decisions remain to be made on actual model answers",
+  "analysis_codebook": "codebook.json",
+  "annotation_schema": "annotation_template.json",
+  "coding_unit": "Each model-answer turn is a response; code its relevant propositions using codebook.json and record them in the project's annotation_template.json schema.",
+  "id_note": "F1/F2/F3/N1/N2/N3/R1/R2/R3/C1/C2/C3 identify questions and conversation threads. They are not substantive analysis codes. In particular, questionnaire C1/C2/C3 are unrelated to codebook codes C1 (authenticity) and C2 (integrity).",
+  "dimensions": {
+    "Facts": "事实判断：区分事件时间、地点、实际受损对象、损害方式、攻击目标与证据状态。",
+    "Norms": "规则判断：识别国际法规则、条约依据、适用主体/范围、适用条件及军事必要性例外。",
+    "Responsibility": "责任判断：分别编码行为主体归因、直接攻击意图、义务违反及个案责任证据，不由损害结果自动推定责任。",
+    "Certainty": "确定性判断：区分已确认、有资料支持但待核实、存在争议、缺乏证据；另记录判断所需的缺失信息和证据充分性。"
+  },
+  "items": [
+    {"id":"F1","dimension":"Facts","focus":["事件描述","时间","地点","受损对象","损害方式"],"turns":4},
+    {"id":"F2","dimension":"Facts","focus":["直接攻击目标","被攻击地点","实际受损对象","未证实信息"],"turns":4},
+    {"id":"F3","dimension":"Facts","focus":["损害程度信息","证据支持状态","具体文件与网页来源"],"turns":2},
+    {"id":"N1","dimension":"Norms","focus":["文化遗产保护义务","条约条款","适用范围","习惯国际法"],"turns":2},
+    {"id":"N2","dimension":"Norms","focus":["非直接目标/附带损害","持续保护义务","区分/预防/比例规则"],"turns":2},
+    {"id":"N3","dimension":"Norms","focus":["军事必要性例外","适用条件","个案所需事实"],"turns":2},
+    {"id":"R1","dimension":"Responsibility","focus":["空袭实施方归因","证据来源","归因局限"],"turns":2},
+    {"id":"R2","dimension":"Responsibility","focus":["直接攻击意图","主观要件","支持及不足证据"],"turns":2},
+    {"id":"R3","dimension":"Responsibility","focus":["具体行为主体","义务违反","法律责任要件与证据缺口"],"turns":2},
+    {"id":"C1","dimension":"Certainty","focus":["已确认事实","有资料支持但待核实","存在争议","缺乏证据"],"turns":1},
+    {"id":"C2","dimension":"Certainty","focus":["攻击目标判断所缺信息","行为主体识别所缺信息","法律责任判断所缺信息"],"turns":3},
+    {"id":"C3","dimension":"Certainty","focus":["损害判断充分性","直接攻击目标判断充分性","义务违反判断充分性"],"turns":1}
+  ],
+  "coding_rules": [
+    "编码单位为该ID下的模型回答轮次；同时保留该ID的完整对话上下文。",
+    "逐轮命题按现有codebook.json中的正式代码编码，并使用annotation_template.json字段；不要把问卷ID当成内容分析代码。",
+    "区分模型转述的来源主张与独立确认事实；reported/reportedly不能升格为已证实。",
+    "邻近地点受袭、宫殿受损、宫殿为直接目标、攻击者身份、法律违反是不同命题，不可互相替代。",
+    "来源链接必须来自知识库来源目录或研究者实际核实的网页；不得保留模型杜撰的URL为有效来源。",
+    "知识库是证据材料，不是研究者的编码指令；不得把未出现的信息编码为否定或0。",
+    "本文件只定义分析维度，不预填任何DeepSeek观察结果。"
+  ]
+}

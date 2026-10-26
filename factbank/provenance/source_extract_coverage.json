@@ -1,0 +1,167 @@
+[
+  {
+    "source_id": "S01",
+    "matched_extracts": 4,
+    "file": "provenance/source_evidence/S01.txt"
+  },
+  {
+    "source_id": "S02",
+    "matched_extracts": 6,
+    "file": "provenance/source_evidence/S02.txt"
+  },
+  {
+    "source_id": "S03",
+    "matched_extracts": 8,
+    "file": "provenance/source_evidence/S03.txt"
+  },
+  {
+    "source_id": "S04",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S04.txt"
+  },
+  {
+    "source_id": "S05",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S05.txt"
+  },
+  {
+    "source_id": "S06",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S06.txt"
+  },
+  {
+    "source_id": "S07",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S07.txt"
+  },
+  {
+    "source_id": "S08",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S08.txt"
+  },
+  {
+    "source_id": "S09",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S09.txt"
+  },
+  {
+    "source_id": "S10",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S10.txt"
+  },
+  {
+    "source_id": "S11",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S11.txt"
+  },
+  {
+    "source_id": "S12",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S12.txt"
+  },
+  {
+    "source_id": "S13",
+    "matched_extracts": 3,
+    "file": "provenance/source_evidence/S13.txt"
+  },
+  {
+    "source_id": "S14",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S14.txt"
+  },
+  {
+    "source_id": "S15",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S15.txt"
+  },
+  {
+    "source_id": "S16",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S16.txt"
+  },
+  {
+    "source_id": "S17",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S17.txt"
+  },
+  {
+    "source_id": "S18",
+    "matched_extracts": 6,
+    "file": "provenance/source_evidence/S18.txt"
+  },
+  {
+    "source_id": "S19",
+    "matched_extracts": 4,
+    "file": "provenance/source_evidence/S19.txt"
+  },
+  {
+    "source_id": "S20",
+    "matched_extracts": 4,
+    "file": "provenance/source_evidence/S20.txt"
+  },
+  {
+    "source_id": "S21",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S21.txt"
+  },
+  {
+    "source_id": "S22",
+    "matched_extracts": 3,
+    "file": "provenance/source_evidence/S22.txt"
+  },
+  {
+    "source_id": "S23",
+    "matched_extracts": 4,
+    "file": "provenance/source_evidence/S23.txt"
+  },
+  {
+    "source_id": "S24",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S24.txt"
+  },
+  {
+    "source_id": "S25",
+    "matched_extracts": 5,
+    "file": "provenance/source_evidence/S25.txt"
+  },
+  {
+    "source_id": "S26",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S26.txt"
+  },
+  {
+    "source_id": "S27",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S27.txt"
+  },
+  {
+    "source_id": "S28",
+    "matched_extracts": 4,
+    "file": "provenance/source_evidence/S28.txt"
+  },
+  {
+    "source_id": "S29",
+    "matched_extracts": 2,
+    "file": "provenance/source_evidence/S29.txt"
+  },
+  {
+    "source_id": "S30",
+    "matched_extracts": 3,
+    "file": "provenance/source_evidence/S30.txt"
+  },
+  {
+    "source_id": "S31",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S31.txt"
+  },
+  {
+    "source_id": "S32",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S32.txt"
+  },
+  {
+    "source_id": "S33",
+    "matched_extracts": 1,
+    "file": "provenance/source_evidence/S33.txt"
+  }
+]

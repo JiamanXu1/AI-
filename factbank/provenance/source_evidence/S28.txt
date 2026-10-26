@@ -1,0 +1,185 @@
+S28: Enhanced Protection mechanism and list gateway
+URL: https://www.unesco.org/en/heritage-armed-conflicts/enhanced-protection
+Access: web_open
+Limitations: 最新完整名录链接抓取失败；仅据此说明机制，不能证明玫瑰宫当前已列入或未列入。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 11
+Enhanced Protection: Cultural Property of Greatest Importance to (https://www.unesco.org/en/heritage-armed-conflicts/enhanced-protection)
+citeturn10search0 [wordlim: 200] Published: 3 months ago; Crawled: 3 months ago; Cultural property inscribed on the International List of Cultural Property under Enhanced Protection benefits from high level immunity from military attacks as well as threats of making it a military target. ... Enhanced Protection sites on the UNESCO Sites Navigator
+
+# Enhanced Protection: Cultural Property of Greatest Importance to Humanity
+
+Last update:6 July 2026
+
+“Enhanced protection” is a mechanism established by the 1999 Second Protocol to the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict. Its main purpose is to ensure full and effective protection of cultural property during international or non-international armed conflicts.
+
+### Advantages
+
+Cultural property inscribed on the International List of Cultural Property under Enhanced Protection benefits from high level immunity from military attacks as well as threats of making it a military target. Criminal sanctions may apply in cases where individuals do not respect the enhanced protection granted to a cultural property.
+
+### How to apply
+
+The Secretariat of the 1954 Hague Convention encourages all States Parties to the 1999 Second Protocol to submit to the Committee for the Protection of Cultural Property in the Event of Armed Conflict requests for granting of enhanced protection to cultural property of the highest importance to humanity. The Committee, which establishes and maintains the International List of Cultural Property under Enhanced Protection, considers requests and decides whether to inscribe the cultural property on the List. Requests must be received by the Secretariat on or before 1 March of each year at the latest in order to be considered at the upcoming meeting of the Committee.
+
+To facilitate the granting of enhanced protection, States Parties to the 1999 Second Protocol should complete the Enhanced Protection Request Form and submit it through their respective Permanent Delegation to the Committee.
+
+Enhanced Protection sites on the UNESCO Sites Navigator
+
+Launch full screen (PC)
+
+ 
+
+ 
+
+iframe
+
+## Enhanced Protection Emblem
+
+Image: Emblem
+
+UNESCO
+
+This distinctive emblem was established to mark and to facilitate the recognition and identification of cultural property under enhanced protection, particularly during the conduct of hostilities.
+
+It ensures the effectiveness of the provisions of the 1999 Second Protocol and, more particularly, the “immunity of cultural property under enhanced protection” (Article 12 of the 1999 Second Protocol). This emblem will be installed on the cultural property which is inscribed on the International List of Cultural Property under Enhanced Protection.
+
+
+Eligibility for Enhanced Protection
+
+Any cultural property as defined in Article 1 of the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict is eligible for enhanced protection, provided that it meets the three following conditions:
+
+  1. The cultural property must be of the greatest importance for humanity;
+  2. The cultural property must beprotected by adequate domestic legal and administrative measures recognizing its exceptional cultural and historic value and ensuring the highest level of protection;
+  3. The cultural property must not be used for military purposes or to shield military sites.
+
+For further information please see:
+
+International List of Cultural Property under Enhanced Protection :  EN |  FR
+
+Enhanced Protection Request Form 
+
+Checklist on Article 10(B) of the Second Protocol EN | FR | AR | CH | RU | SP
+
+### Related items
+
+  * Culture
+
+RESEARCH LOG ENTRY 17
+Enhanced Protection: Cultural Property of Greatest Importance to (https://www.unesco.org/en/heritage-armed-conflicts/enhanced-protection)
+citeturn14view3 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.unesco.org/en/heritage-armed-conflicts/enhanced-protection","lineno":null}); Total lines: 96
+
+RESEARCH LOG ENTRY 19
+Enhanced Protection: Cultural Property of Greatest Importance to (https://www.unesco.org/en/heritage-armed-conflicts/enhanced-protection)
+citeturn16view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn14view3","lineno":45}); Total lines: 96
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: [Input]
+L3: 
+L4: [Input: Search]
+L5: 
+L6: [Button: Search]
+L7: 
+L8: Quick links:cite1†AI cite2†Response to Crisis cite3†Key Challenges L9: 
+L10: cite4†Cultural heritage and armed conflicts L11: 
+L12:   * cite4†Home L13:   * cite5†About L14: 
+L15:     * cite5†General Information L16:     * cite6†Tools for the 1954 Hague Convention and its two Protocols L17: 
+L18:   * cite7†Impact L19:   * cite8†Action L20:     * cite8†Lists L21:       * cite9†Enhanced protection L22:       * cite10†Special protection L23:     * cite11†Distinctive emblems L24:     * cite12†International Fund L25:     * cite13†UNESCO Heritage for Peace L26: 
+L27:   * cite8†Standards & policies L28:     * cite8†Legal texts L29:       * cite14†States Parties to the 1954 Convention for the Protection of Cultural Property in the Event of Armed Conflict L30:       * cite15†States Parties to the First Protocol to the 1954 Hague Convention L31:       * cite16†States Parties to the Second Protocol to the 1954 Hague Convention L32:     * cite8†Governance and meetings L33:       * cite17†The Meeting of the High Contracting Parties to the 1954 Hague Convention L34:       * cite18†The Meeting of Parties to the Second Protocol of 1999 L35:       * cite19†The Committee for the Protection of Cultural Property in the Event of Armed Conflict of the 1999 Second Protocol L36:       * cite20†Ad hoc sub-committee L37:     * cite8†Rules of procedure L38:       * cite21†The Meeting of the High Contracting Parties to the 1954 Hague Convention L39:       * cite22†The Meeting of Parties to the Second Protocol of 1999 L40:       * cite23†The Committee for the Protection of Cultural Property in the Event of Armed Conflict of the 1999 Second Protocol L41:     * cite24†Periodic reporting L42: # Enhanced Protection: Cultural Property of Greatest Importance to Humanity
+L43: 
+L44: Last update:6 July 2026
+L45: 
+L46: “Enhanced protection” is a mechanism established by the cite25†1999 Second Protocol to the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict†portal.unesco.org . Its main purpose is to ensure full and effective protection of cultural property during international or non-international armed conflicts.
+L47: ### Advantages
+L48: 
+L49: Cultural property inscribed on the International List of Cultural Property under Enhanced Protection benefits from high level immunity from military attacks as well as threats of making it a military target. Criminal sanctions may apply in cases where individuals do not respect the enhanced protection granted to a cultural property.
+L50: ### How to apply
+L51: The Secretariat of the 1954 Hague Convention encourages all States Parties to the 1999 Second Protocol to submit to the cite26†Committee for the Protection of Cultural Property in the Event of Armed Conflict†en.unesco.org requests for granting of enhanced protection to cultural property of the highest importance to humanity.
+L52: The Committee, which establishes and maintains the International List of Cultural Property under Enhanced Protection, considers requests and decides whether to inscribe the cultural property on the List. Requests must be received by the Secretariat on or before 1 March of each year at the latest in order to be considered at the upcoming meeting of the Committee.
+L53: To facilitate the granting of enhanced protection, States Parties to the 1999 Second Protocol should complete the cite27†Enhanced Protection Request Form and submit it through their respective Permanent Delegation to the Committee.
+L54: 
+L55: Enhanced Protection sites on the UNESCO Sites Navigator
+L56: 
+L57: cite28†Launch full screen (PC)†experience.arcgis.com L58: 
+L59: 
+L60: 
+L61: 
+L62: 
+L63: cite28†iframe†experience.arcgis.com L64: ## Enhanced Protection Emblem
+L65: 
+L66: cite29†Image: Emblem L67: 
+L68: UNESCO
+L69: 
+L70: This distinctive emblem was established to mark and to facilitate the recognition and identification of cultural property under enhanced protection, particularly during the conduct of hostilities.
+L71: It ensures the effectiveness of the provisions of the 1999 Second Protocol and, more particularly, the “immunity of cultural property under enhanced protection” (Article 12 of the 1999 Second Protocol). This emblem will be installed on the cultural property which is inscribed on the International List of Cultural Property under Enhanced Protection.
+L72: ## Enhanced Protection Emblem
+L73: 
+L74: Eligibility for Enhanced Protection
+L75: 
+L76: Any cultural property as defined in cite30†Article 1 of the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict†portal.unesco.org is eligible for enhanced protection, provided that it meets the three following conditions:
+L77:   1. The cultural property must be of the greatest importance for humanity;
+L78:   2. The cultural property must beprotected by adequate domestic legal and administrative measures recognizing its exceptional cultural and historic value and ensuring the highest level of protection;
+L79:   3. The cultural property must not be used for military purposes or to shield military sites.
+L80: 
+L81: For further information please see:
+L82: 
+L83: International List of Cultural Property under Enhanced Protection :  cite31†EN |  cite32†FR L84: cite33†Enhanced Protection Request Form L85: 
+L86: Checklist on Article 10(B) of the Second Protocol cite34†EN†en.unesco.org | cite35†FR†en.unesco.org | cite36†AR†en.unesco.org | cite37†CH†en.unesco.org | cite38†RU†en.unesco.org | cite39†SP†en.unesco.org L87: ### Related items
+L88: 
+L89:   * cite40†Culture L90: 
+L91: [Input] [Input]
+L92: 
+L93: UNESCO applies a zero tolerance policy against all forms of harassment.
+L94: 
+L95: cite41†top
+
+RESEARCH LOG ENTRY 23
+Enhanced Protection: Cultural Property of Greatest Importance to (https://www.unesco.org/en/heritage-armed-conflicts/enhanced-protection)
+citeturn19view5 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn14view3","pattern":"International List"}); Total lines: 96
+L35:       * cite19†The Committee for the Protection of Cultural Property in the Event of Armed Conflict of the 1999 Second Protocol L36:       * cite20†Ad hoc sub-committee L37:     * cite8†Rules of procedure L38:       * cite21†The Meeting of the High Contracting Parties to the 1954 Hague Convention L39:       * cite22†The Meeting of Parties to the Second Protocol of 1999 L40:       * cite23†The Committee for the Protection of Cultural Property in the Event of Armed Conflict of the 1999 Second Protocol L41:     * cite24†Periodic reporting L42: # Enhanced Protection: Cultural Property of Greatest Importance to Humanity
+L43: 
+L44: Last update:6 July 2026
+L45: 
+L46: “Enhanced protection” is a mechanism established by the cite25†1999 Second Protocol to the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict†portal.unesco.org . Its main purpose is to ensure full and effective protection of cultural property during international or non-international armed conflicts.
+L47: ### Advantages
+L48: 
+L49: Cultural property inscribed on the International List of Cultural Property under Enhanced Protection benefits from high level immunity from military attacks as well as threats of making it a military target. Criminal sanctions may apply in cases where individuals do not respect the enhanced protection granted to a cultural property.
+L50: ### How to apply
+L51: The Secretariat of the 1954 Hague Convention encourages all States Parties to the 1999 Second Protocol to submit to the cite26†Committee for the Protection of Cultural Property in the Event of Armed Conflict†en.unesco.org requests for granting of enhanced protection to cultural property of the highest importance to humanity.
+L52: The Committee, which establishes and maintains the International List of Cultural Property under Enhanced Protection, considers requests and decides whether to inscribe the cultural property on the List. Requests must be received by the Secretariat on or before 1 March of each year at the latest in order to be considered at the upcoming meeting of the Committee.
+L53: To facilitate the granting of enhanced protection, States Parties to the 1999 Second Protocol should complete the cite27†Enhanced Protection Request Form and submit it through their respective Permanent Delegation to the Committee.
+L54: 
+L55: Enhanced Protection sites on the UNESCO Sites Navigator
+L56: 
+L57: cite28†Launch full screen (PC)†experience.arcgis.com L58: 
+L59: 
+L60: 
+L61: 
+L62: 
+L63: cite28†iframe†experience.arcgis.com L64: ## Enhanced Protection Emblem
+L65: 
+L66: cite29†Image: Emblem L67: 
+L68: UNESCO
+L69: 
+L70: This distinctive emblem was established to mark and to facilitate the recognition and identification of cultural property under enhanced protection, particularly during the conduct of hostilities.
+L71: It ensures the effectiveness of the provisions of the 1999 Second Protocol and, more particularly, the “immunity of cultural property under enhanced protection” (Article 12 of the 1999 Second Protocol). This emblem will be installed on the cultural property which is inscribed on the International List of Cultural Property under Enhanced Protection.
+L72: ## Enhanced Protection Emblem
+L73: 
+L74: Eligibility for Enhanced Protection
+L75: 
+L76: Any cultural property as defined in cite30†Article 1 of the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict†portal.unesco.org is eligible for enhanced protection, provided that it meets the three following conditions:
+L77:   1. The cultural property must be of the greatest importance for humanity;
+L78:   2. The cultural property must beprotected by adequate domestic legal and administrative measures recognizing its exceptional cultural and historic value and ensuring the highest level of protection;
+L79:   3. The cultural property must not be used for military purposes or to shield military sites.
+L80: 
+L81: For further information please see:
+L82: 
+L83: International List of Cultural Property under Enhanced Protection :  cite31†EN |  cite32†FR L84: cite33†Enhanced Protection Request Form L85: 
+L86: Checklist on Article 10(B) of the Second Protocol cite34†EN†en.unesco.org | cite35†FR†en.unesco.org | cite36†AR†en.unesco.org | cite37†CH†en.unesco.org | cite38†RU†en.unesco.org | cite39†SP†en.unesco.org L87: ### Related items
+L88: 
+L89:   * cite40†Culture L90: 
+L91: [Input] [Input]
+L92: 
+L93: UNESCO applies a zero tolerance policy against all forms of harassment.
+L94: 
+L95: cite41†top

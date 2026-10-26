@@ -1,0 +1,52 @@
+S24: Israel Antiquities Law 1978, Articles 37–38
+URL: https://sherloc.unodc.org/cld/en/legislation/isr/antiquities_law_no.27_of_1978/chapter_10/articles_37_38/antiquities_law_.html?lng=en&tmpl=sherloc
+Access: search_index_text
+Limitations: 历史英文法条转载；现行罚金额、修法及域外适用未核实。不是授权攻击他国遗产的规则。
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 10
+Antiquities Law (https://sherloc.unodc.org/cld/en/legislation/isr/antiquities_law_no.27_of_1978/chapter_10/articles_37_38/antiquities_law_.html?lng=en&tmpl=sherloc)
+citeturn9search3 [wordlim: 200] Crawled: 1.3 years ago; Antiquities Law No.27 of 1978 ... (c) A person who contravenes any of the provisions of sections 3, 15, 19(b), 21 or 29 is liable to imprisonment for a term of two years or a fine of 100,000 pounds.
+
+# Database of Legislation
+
+Trafficking in cultural property
+
+  * #### Offences
+
+• Illicit excavation
+
+• Trafficking in cultural property
+
+Image
+
+### Israel
+
+### 
+
+Antiquities Law No.27 of 1978
+
+ Chapter 10
+
+ Articles 37, 38
+
+
+### Original Text
+
+Chapter Ten : Offences and Penalties
+37. (a) A person who willfully injures or, in any manner, willfully defaces any antiquity or antiquity site or contravenes any of the provisions of section 9 (a) is liable to imprisonment for a terra of three years or a fine of 150.000 pounds.
+(b) A person who contravenes any of the provisions of section 6 is liable to imprisonment for a term of two years or a fine of 150,000 pounds.
+(c) A person who contravenes any of the provisions of sections 3, 15, 19(b), 21 or 29 is liable to imprisonment for a term of two years or a fine of 100,000 pounds.
+(d) A person who contravenes any of the provisions of section 1 1 (a) is liable to imprisonment for a term of one year or a fine of 30.000 pounds.
+e) A person who contravenes any other provision of this Law or the regulations thereunder is liable to imprisonment for a term of six months or a fine of 30,000 pounds.
+38. If a person is found on an antiquity site with digging  implements in his possession or nearby with which it must be supposed digging has recently been done on that site or is found with a metal detector in his possession or nearby, he shall, unless he proves otherwise, be presumed to have intended to discover Antiquities.
+
+
+### Attachments
+
+  * Antiquities Law
+
+RESEARCH LOG ENTRY 17
+Internal Error ()
+citeturn14view5 [wordlim: 200] Source: open({"ref_id":"https://sherloc.unodc.org/cld/en/legislation/isr/antiquities_law_no.27_of_1978/chapter_10/articles_37_38/antiquities_law_.html?lng=en&tmpl=sherloc","lineno":null}); Total lines: 1

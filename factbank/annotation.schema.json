@@ -1,0 +1,137 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI回答逐命题核对标注；不是自动评分结果",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "answer_id",
+    "bank_version",
+    "evidence_cutoff",
+    "coder",
+    "claims",
+    "review_status"
+  ],
+  "properties": {
+    "answer_id": {
+      "type": "string"
+    },
+    "bank_version": {
+      "const": "1.0.0"
+    },
+    "evidence_cutoff": {
+      "type": "string",
+      "format": "date"
+    },
+    "coder": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "review_status": {
+      "enum": [
+        "unreviewed",
+        "pilot",
+        "independent_review",
+        "adjudicated"
+      ]
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "quote",
+          "start",
+          "end",
+          "normalized_claim_zh",
+          "claim_type",
+          "subject_country",
+          "verdict",
+          "evidence_ids",
+          "rationale_zh",
+          "missing_evidence",
+          "applicability_notes",
+          "confidence"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string"
+          },
+          "start": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "end": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "normalized_claim_zh": {
+            "type": "string"
+          },
+          "claim_type": {
+            "enum": [
+              "fact",
+              "rule",
+              "applicability",
+              "attribution",
+              "inference"
+            ]
+          },
+          "subject_country": {
+            "enum": [
+              "ISR",
+              "IRN",
+              "both",
+              "other",
+              null
+            ]
+          },
+          "verdict": {
+            "enum": [
+              "supported",
+              "contradicted",
+              "insufficient_evidence",
+              "context_dependent",
+              "not_assessed",
+              "out_of_scope",
+              "not_applicable"
+            ]
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "rationale_zh": {
+            "type": "string"
+          },
+          "missing_evidence": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "applicability_notes": {
+            "type": "string"
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low",
+              null
+            ]
+          }
+        }
+      }
+    }
+  },
+  "$comment": "额外语义约束：quote必须等于answer[start:end]；evidence_ids必须存在；证据不足需列missing_evidence。confidence是编码者判断把握，不是来源真实概率。"
+}

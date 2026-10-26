@@ -1,0 +1,41 @@
+S04: 1972 World Heritage Convention
+URL: https://whc.unesco.org/en/conventiontext/
+Access: web_open
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 6
+UNESCO World Heritage Centre - Convention Concerning the Protection of the World Cultural and Natural Heritage (https://whc.unesco.org/en/conventiontext/)
+citeturn5view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://whc.unesco.org/en/conventiontext/","lineno":null}); Total lines: 326
+
+RESEARCH LOG ENTRY 7
+UNESCO World Heritage Centre - Convention Concerning the Protection of the World Cultural and Natural Heritage (https://whc.unesco.org/en/conventiontext/)
+citeturn6view6 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn5view2","pattern":"Article 6"}); Total lines: 326
+L57:   1. to adopt a general policy which aims to give the cultural and natural heritage a function in the life of the community and to integrate the protection of that heritage into comprehensive planning programmes;
+L58:   2. to set up within its territories, where such services do not exist, one or more services for the protection, conservation and presentation of the cultural and natural heritage with an appropriate staff and possessing the means to discharge their functions;
+L59:   3. to develop scientific and technical studies and research and to work out such operating methods as will make the State capable of counteracting the dangers that threaten its cultural or natural heritage;
+L60:   4. to take the appropriate legal, scientific, technical, administrative and financial measures necessary for the identification, protection, conservation, presentation and rehabilitation of this heritage; and
+L61:   5. to foster the establishment or development of national or regional centres for training in the protection, conservation and presentation of the cultural and natural heritage and to encourage scientific research in this field.
+L62: ### Article 6
+L63:   1. Whilst fully respecting the sovereignty of the States on whose territory the cultural and natural heritage mentioned in cite11†Articles 1 and cite12†2 is situated, and without prejudice to property right provided by national legislation, the States Parties to this Convention recognize that such heritage constitutes a world heritage for whose protection it is the duty of the international community as a whole to co-operate.
+L64:   2. The States Parties undertake, in accordance with the provisions of this Convention, to give their help in the identification, protection, conservation and presentation of the cultural and natural heritage referred to in paragraphs 2 and 4 of cite13†Article 11 if the States on whose territory it is situated so request.
+L65:   3. Each State Party to this Convention undertakes not to take any deliberate measures which might damage directly or indirectly the cultural and natural heritage referred to in cite11†Articles 1 and cite12†2 situated on the territory of other States Parties to this Convention.
+L66: ### Article 7
+L67: 
+L68: For the purpose of this Convention, international protection of the world cultural and natural heritage shall be understood to mean the establishment of a system of international co-operation and assistance designed to support States Parties to the Convention in their efforts to conserve and identify that heritage.
+L69: 
+L70: ## III. Intergovernmental Committee for the Protection of the World Cultural and Natural Heritage
+L71: ### Article 8
+L72:   1. An Intergovernmental Committee for the Protection of the Cultural and Natural Heritage of Outstanding Universal Value, called "the cite14†World Heritage Committee ", is hereby established within the United Nations Educational, Scientific and Cultural Organization.
+L93: The list may include only such property forming part of the cultural and natural heritage as is threatened by serious and specific dangers, such as the threat of disappearance caused by accelerated deterioration, large- scale public or private projects or rapid urban or tourist development projects; destruction caused by changes in the use or ownership of the land; major alterations due to unknown causes; abandonment for any reason whatsoever; the outbreak or the threat of an armed conflict; calamities and cataclysms; serious fires, earthquakes, landslides; volcanic eruptions; changes in water level, floods and tidal waves.
+L94: The Committee may at any time, in case of urgent need, make a new entry in the List of World Heritage in Danger and publicize such entry immediately.
+L95:   5. The Committee shall define the criteria on the basis of which a property belonging to the cultural or natural heritage may be included in either of the lists mentioned in paragraphs 2 and 4 of this article.
+L96:   6. Before refusing a request for inclusion in one of the two lists mentioned in paragraphs 2 and 4 of this article, the Committee shall consult the State Party in whose territory the cultural or natural property in question is situated.
+L97:   7. The Committee shall, with the agreement of the States concerned, co-ordinate and encourage the studies and research needed for the drawing up of the lists referred to in paragraphs 2 and 4 of this article.
+L98: ### Article 12
+L99: 
+L100: The fact that a property belonging to the cultural or natural heritage has not been included in either of the two lists mentioned in paragraphs 2 and 4 of cite13†Article 11 shall in no way be construed to mean that it does not have an outstanding universal value for purposes other than those resulting from inclusion in these lists.
+L101: ### Article 13
+L102:   1. The World Heritage Committee shall receive and study requests for international assistance formulated by States Parties to this Convention with respect to property forming part of the cultural or natural heritage, situated in their territories, and included or potentially suitable for inclusion in the lists mentioned referred to in paragraphs 2 and 4 of cite13†Article 11 . The purpose of such requests may be to secure the protection, conservation, presentation or rehabilitation of such property.
+L103:   2. Requests for international assistance under paragraph 1 of this article may also be concerned with identification of cultural or natural property defined in cite11†Articles 1 and cite12†2 , when preliminary investigations have shown that further inquiries would be justified.

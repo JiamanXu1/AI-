@@ -1,0 +1,199 @@
+S18: Rome Statute: participant table and Israel notification
+URL: https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY
+Access: web_open
+Limitations: 
+
+TOOL-EXTRACTED TEXT; NOT FULL HTML
+
+RESEARCH LOG ENTRY 18
+UNTC (https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY)
+citeturn15search6 [wordlim: 200] Published: 28.3 years ago; Crawled: last month; TREATIES-8 of 8 May 2000 [procès-verbal of rectification of the original text of the Statute (French and Spanish authentic texts)]; C.N.17.2001. ...        “Being an active consistent supporter of the concept of an International Criminal Court, and its realization in the form of the Rome Statute, the Government of the State of Israel is proud to thus express its acknowledgment of the importance, and indeed indispensability, of an effective court for the enforcement of the rule of law and the prevention of impunity. ... Accordingly, the United States has no legal obligations arising from its signature on December 31, 2000.
+
+RESEARCH LOG ENTRY 19
+UNTC (https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY)
+citeturn16view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY","lineno":null}); Total lines: 934
+
+RESEARCH LOG ENTRY 21
+UNTC (https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY)
+citeturn17view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn16view1","pattern":"Iran (Islamic"}); Total lines: 934
+L208: Gambia ^{cite44†2 }
+L209:  4 Dec 1998
+L210: 28 Jun 2002
+L211: cite43†Georgia L212: 18 Jul 1998
+L213:  5 Sep 2003
+L214: cite43†Germany L215: 10 Dec 1998
+L216: 11 Dec 2000
+L217: Ghana
+L218: 18 Jul 1998
+L219: 20 Dec 1999
+L220: cite43†Greece L221: 18 Jul 1998
+L222: 15 May 2002
+L223: Grenada
+L224:   19 May 2011 a
+L225: cite43†Guatemala L226:    2 Apr 2012 a
+L227: Guinea
+L228:  7 Sep 2000
+L229: 14 Jul 2003
+L230: Guinea-Bissau
+L231: 12 Sep 2000
+L232: 
+L233: Guyana
+L234: 28 Dec 2000
+L235: 24 Sep 2004
+L236: Haiti
+L237: 26 Feb 1999
+L238: 
+L239: Honduras
+L240:  7 Oct 1998
+L241:  1 Jul 2002
+L242: Hungary ^{cite44†2 }
+L243: 15 Jan 1999
+L244: 30 Nov 2001
+L245: cite43†Iceland L246: 26 Aug 1998
+L247: 25 May 2000
+L248: Iran (Islamic Republic of)
+L249: 31 Dec 2000
+L250: 
+L251: Ireland
+
+RESEARCH LOG ENTRY 21
+UNTC (https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY)
+citeturn17view2 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn16view1","pattern":"28 August 2002"}); Total lines: 934
+L835: Denmark therefore withdraws its declaration made upon ratification of the said Convention to the effect that the Convention should not apply to the Faroe Islands and Greenland."
+L836: 4In a communication received on 28 August 2002, the Government of Israel informed the Secretary-General of the following:
+
+RESEARCH LOG ENTRY 22
+UNTC (https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY)
+citeturn18view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn16view1","lineno":836}); Total lines: 934
+L835: Denmark therefore withdraws its declaration made upon ratification of the said Convention to the effect that the Convention should not apply to the Faroe Islands and Greenland."
+L836: 4In a communication received on 28 August 2002, the Government of Israel informed the Secretary-General of the following:
+
+RESEARCH LOG ENTRY 23
+UNTC (https://treaties.un.org/Pages/ViewDetails.aspx?chapter=18&clang=_en&mtdsg_no=XVIII-10&src=TREATY)
+citeturn19view4 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"turn16view1","pattern":"Israel does not intend"}); Total lines: 934
+L526:        5. Availing itself of the option provided in article 124 of the Statute and subject to the conditions established therein, the Government of Colombia declares that it does not accept the jurisdiction of the Court with respect to the category of crimes referred to in article 8 when a crime is alleged to have been committed by Colombian nationals or on Colombian territory.
+L545:  The provisions of article 8 of the Statute, in particular paragraph 2 (b) thereof, relate solely to conventional weapons and can neither regulate nor prohibit the possible use of nuclear weapons nor impair the other rules of international law applicable to other weapons necessary to the exercise by France of its inherent right of self-defence, unless nuclear weapons or the other weapons referred to herein become subject in the future to a comprehensive ban and are specified in an annex to the Statute by means of an amendment adopted in accordance with the provisions of articles 121 and 123.
+L546:        3.  The Government of the French Republic considers that the term ‘armed conflict' in article 8, paragraphs 2 (b) and (c), in and of itself and in its context, refers to a situation of a kind which does not include the commission of ordinary crimes, including acts of terrorism, whether collective or isolated.
+L547:        4.  The situation referred to in article 8, paragraph 2 (b) (xxiii), of the Statute does not preclude France from directing attacks against objectives considered as military objectives under international humanitarian law.
+L548:        5.  The Government of the French Republic declares that the term "military advantage" in article 8, paragraph 2 (b) (iv), refers to the advantage anticipated from the attack as a whole and not from isolated or specific elements thereof.
+L549:        6.  The Government of the French Republic declares that a specific area may be considered a "military objective" as referred to in article 8, paragraph 2 (b) as a whole if, by reasonof its situation, nature, use, location, total or partial destruction, capture or neutralization, taking into account the circumstances of the moment, it offers a decisive military advantage.
+L550:        The Governmt of the French Republic considers that the provisions of article 8, paragraph 2 (b) (ii) and (v), do not refer to possible collateral damage resulting from attacks directed against military objectives.
+L551:        7.  The Government of the French Republic declares that the risk of damage to the natural environment as a result of the use of methods and means of warfare, as envisaged in article 8, paragraph 2 (b) (iv), must be weighed objectively on the basis of the information available at the time of its assessment.
+L552:        ...
+L553: Israel Israel Upon signature:
+L554: Declaration:
+L605:        The Government of the Federal Republic of Germany therefore objects to the aforementioned "declaration" made by the Government of the Eastern Republic of Uruguay.  This objection does not preclude the entry into force of the Statute between the Federal Republic of Germany and the Eastern Republic of Uruguay."
+L606: Netherlands (Kingdom of the) Netherlands (Kingdom of the)8 July 2003 With regard to the declaration made by Uruguay upon ratification:
+L608:        The Government of the Kingdom of the Netherlands notes that the application of the Statute by the Government of Uruguay will be limited by the bounds of national legislation.  The reservation made by Uruguay therefore raises doubts as to the commitment of Uruguay to the object and purpose of the Statute.
+L609:        Article 120 of the Statute precludes reservations.
+L610:        On these two grounds the Kingdom of the Netherlands objects to the above-mentioned reservation made by Uruguay to the Rome Statute of the International Criminal Court.
+L611:        This objection shall not preclude the entry into force of the Statute between the Kingdom of the Netherlands and Uruguay. The Statute will be effective between the two States, without Uruguay benefiting from its reservation."
+L612: Sweden Sweden 7 July 2003 With regard to the declaration made by Uruguay upon ratification:
+L613:        "The Government of Sweden has examined the interpretative declaration made by the Eastern Republic of Uruguay upon ratifying the Rome Statute of the International Criminal Court (the Statute).
+L614:        The Government of Sweden recalls that the designation assigned to a statement whereby the legal effect of certain provisions of a treaty is excluded or modified does not determine its status as a reservation to the treaty.  The Government of Sweden considers that the declaration made by Uruguay to the Statute in substance constitutes a reservation.
+L615:        The Government of Sweden notes that the application of the Statute is being made subject to a general reference to possible limits of the competence of the State and the constitutional provisions of Uruguay.  Such a general reservation referring to national legislation without specifying its contents makes it unclear to what extent the reserving State considers itself bound by the obligations of the Statute.
+L786:        In relation to article 87, paragraph 2, of the Statute, the Kingdom of Spain declares that requests for cooperation addressed to it by the Court and any supporting documents must be in Spanish or accompanied by a translation into Spanish.
+L787: Sudan Sudan 27 August 2008
+L788:        “I, Deng Alor Koul, Minister for Foreign Affairs of the Republic of Sudan, hereby notify the Secretary-General of the United Nations, as depositary of Rome Statute of the International Criminal Court, that Sudan does not intend to become a party to the Rome Statute. Accordingly, Sudan has no legal obligation arising from its signature on 8 September 2000.”
+L789: Suriname Suriname       25 August 2008
+L790:        “In accordance with article 87 paragraph 1 and 2 of the Rome Statute of the International Criminal Court, the Government of the Republic of Suriname declares that all requests for cooperation and any other supporting documents that it receives from the Court shall be transmitted through diplomatic channels in English, which is one of the working languages of the Court along with the
+L791:        translation into Dutch, which is the official languages of the Republic of Suriname.”
+L792: Sweden Sweden       “With regard to Article 87, paragraph 1, of the Rome Statute of the International Criminal Court, the Kingdom of Sweden declares that all requests for cooperation made by the Court under part IX of the Statute must be transmitted through the Swedish Ministry of Justice.
+L793:        With regard to Article 87, paragraph 2, of the Rome Statute of the International Criminal Court, the Kingdom of Sweden declares that all requests for cooperation and any supporting documents that it receives from the Court must be drafted in English or Swedish, or accompanied, where necessary, by a translation into one of these languages.”
+L808:  Of these three changes, the Secretary-General now proposes to  "re-correct" only Article 124, so that it returns to the original text, but the other changes remain. The United States remains concerned, therefore, that the corrections process should have been based on the text that was actually adopted by the Conference.
+L809: “ Second, the United States notes that the Secretary-General's communication suggests that it is "established depositary practice" that only signatory States or contracting States may object to a proposed correction.  The United States does not seek to object to any of the proposed corrections, or to the additional corrections that were made earlier and without formal notice, although this should not be taken as an endorsement ofits of any of the corrections proposed.
+L810:  The United States does note, however, that insofar as arguably substantive changes have been made to the original text without any notice or procedure, as noted above in relation to Articles 12 and 93, if any question of interpretation should subsequently arise it should be resolved consistent with A/CONF.183/C.1/L.76, the text that was actually adopted.
+L811: “More fundamentally, however, as a matter of general principle and for future reference, the United States objects to any correction procedure, immediately following a diplomatic conference,  whereby the views of the vast majority of the Conference participants on the text which they have only just adopted would not be taken into account.
+L812:  The United States does not agree that the course followed by the Secretary-General in July represents "established depositary practice"  for the type of circumstances presented here.  To the extent that such a procedure has previously been established, it must necessarily rest on the assumption that the Conference itself had an adequate opportunity, in the first instance, to ensure the adoption of a technically correct text.
+L813: Under the circumstances which have prevailed in some recent conferences, and which will likely recur, in which critical portions of the text are resolved at very late stages and there is no opportunity for the usual technical review by the Drafting Committee, the kind of corrections process which is contemplated here must be open to all.
+L814: “ In accordance with Article 77, paragraph 1 (e) of the 1969  Vienna Convention on the Law of Treaties, the United States requests that this note be communicated to all States which are entitled to become parties to the Convention."
+L815: 2In accordance with article 127 (1) of the Rome Statute of the International Criminal Court, the Governments of the following countries notified the Secretary-General of their decision to withdraw from the Rome Statute of the International Criminal Court:
+L816: 4
+L817: Participant: Date of notification: Date of effect: Depositary Notification:
+L818: South Africa * 19 Oct 2016 (Withdrawn) cite59†C.N.786.2016 .TREATIES-XVIII.10
+L819: Burundi 27 Oct 2016 27 Oct 2017 cite60†C.N.805.2016 .TREATIES-XVIII.10
+L820: Gambia * 10 Nov 2016 (Withdrawn) cite61†C.N.862.2016 .TREATIES-XVIII.10
+L821: Philippines 17 March 2018 17 March 2019 cite62†C.N.138.2018 .TREATIES-XVIII.10
+L822: Hungary * 2 June 2025 (Withdrawn) cite63†C.N.225.2025 .TREATIES-XVIII.10
+L823: Niger 18 June 2026 18 June 2027 cite64†C.N.251.2026 .TREATIES-XVIII.10
+L824: Burkina Faso 24 June 2026 24 June 2027 cite65†C.N.263.2026 .TREATIES-XVIII.10
+L825: Mali 24 June 2026 24 June 2027 cite66†C.N.264.2026 .TREATIES-XVIII.10
+L826: Venezuela (Bolivarian Republic of) 24 July 2026 24 July 2027 cite67†C.N.298.2026 .TREATIES-XVIII.10
+L827: Chad 27 July 2026 27 July 2027 cite68†C.N.291.2026 .TREATIES-XVIII.10
+L828: Naoero 23 September 2026 23 September 2027 cite69†C.N.378.2026 .TREATIES-XVIII.10
+L829: * On 10 February 2017, the Government of The Gambia notified the Secretary-General of its decision to rescind its notification of withdrawal from the Rome Statute deposited with the Secretary-General on 10 November 2016. (See cite70†C.N.62.2017 .TREATIES-XVIII.10 of 16 February 2017).
+L830: On 7 March 2017, the Government of South Africa notified the Secretary-General of the revocation of its notification of withdrawal from the Rome Statute deposited with the Secretary-General on 19 October 2016. (See cite71†C.N.121.2017 .TREATIES-XVIII.10 of 7 March 2017).
+L831: On 29 May 2026, the Government of Hungary notified the Secretary-General of its decision to withdraw its notification of withdrawal from the Rome Statute deposited with the Secretary-General on 2 June 2025. (See cite72†C.N.180.2026 .TREATIES-XVIII.10 of 29 May 2026).
+L832: 3With a territorial exclusion to the effect that “Until further notice, the Statute shall not apply to the Faroe Islands and Greenland”.
+L833: Subsequently, on 17 November 2004 and 20 November 2006, respectively, the Secretary-General received from the Government of Denmark the following territorial applications:
+L834: "With reference to the Rome Statute of the International Criminal Court, done at Rome on 17 July 1998, [the Government of Denmark informs the Secretary-General] that by Royal [Decrees of 20 August 2004 entering into force on 1 October 2004, and 1 September 2006 entering into force on 1 October 2006, respectively] the above Convention will also be applicable in [Greenland and the Faroe Islands].
+L835: Denmark therefore withdraws its declaration made upon ratification of the said Convention to the effect that the Convention should not apply to the Faroe Islands and Greenland."
+L836: 4In a communication received on 28 August 2002, the Government of Israel informed the Secretary-General of the following:
+L837: ".....in connection with the Rome Statute of the International Criminal Court adopted on 17 July 1998, [...] Israel does not intend to become a party to the treaty.  Accordingly, Israel has no legal obligations arising from its signature on 31 December 2000.  Israel requests that its intention not to become a party, as expressed in this letter, be reflected in the depositary’s status lists relating to this treaty."
+L838: 5See note 1 under "Montenegro" in the "Historical Information" section in the front matter of this volume.
+L839: 6On 24 November 2009, the Secretary-General received a letter from the Permanent Representative of Namibia to the United Nations communicating to him the decision of the Government of Namibia to co-sponsor the proposed amendment to article 16 of the Rome Statute, which was submitted to the Secretary-General by South Africa as agreed upon by African States Parties to the Rome Statute during their meeting held from 3-6 November 2009 in Addis Ababa, Ethiopia.
+L840: 7For the Kingdom in Europe, the Netherlands Antilles and Aruba.
+L841: 8With a declaration to the effect that “consistent with the constitutional status of Tokelau and taking into account its commitment to the development of self-government through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory.”.
+L842: 9In a communication received on 30 November 2016, the Government of the Russian Federation informed the Secretary-General of the following:
+L843: I have the honour to inform you about the intention of the Russian Federation not to become a party to the Rome Statute of the International Criminal Court, which was adopted in Rome on 17 July 1998 and signed on behalf of the Russian Federation on 13 September 2000.
+L844: I would kindly ask you, Mr. Secretary-General, to consider this instrument as an official notification of the Russian Federation in accordance with paragraph (a) of Article 18 of the Vienna Convention on the Law of Treaties of 1969.
+L845: 10In a communication received on 26 August 2008, the Government of Sudan informed the Secretary-General of the following:
+L846: “....., Sudan does not intend to become a party to the Rome Statute.  Accordingly, Sudan has no legal obligation arising from its signature on 8 September 2000.”
+L847: 11 In a communication received on 11 March 2010, the Government of the United Kingdom of Great Britain and Northern Ireland informed the Secretary-General of the following:
+L848: “… the Government of the United Kingdom of Great Britain and Northern Ireland wishes the United Kingdom’s ratification of the aforesaid Statute ... to be extended to the following territories for whose international relations the United Kingdom is responsible:
+L849: Anguilla
+L850: Bermuda
+L851: British Virgin Islands
+L852: Cayman Islands
+L853: Falkland Islands
+L854: Montserrat
+L855: Pitcairn, Henderson, Ducie and Oeno Islands
+L856: St Helena, Ascension and Tristan da Cunha
+L857: Sovereign Base Areas of Akrotiri and Dhekelia
+L858: Turks and Caicos Islands
+L859: The Government of the United Kingdom of Great Britain and Northern Ireland considers the extension of the aforesaid Statute ... to take effect from the date of deposit of this notification, … .”
+L860: 
+L861: In a communication received on 28 November 2012, the Government of the United Kingdom of Great Britain and Northern Ireland informed the Secretary-General of the following:
+L862: “… The Government of the United Kingdom of Great Britain and Northern Ireland wishes the United Kingdom’s Ratification of the Rome Statute to be extended to the territory of the Isle of Man for whose international relations the United Kingdom is responsible.
+L863: The Government of the United Kingdom of Great Britain and Northern Ireland considers the extension of the aforesaid Rome Statute to the Isle of Man to enter into force on the first day of the month after the Sixtieth day following deposit of this notification, … .”
+L864: 
+L865: In a communication received on 20 April 2015, the Government of the United Kingdom of Great Britain and Northern Ireland informed the Secretary-General of the following:
+L866: “... the Government of the UnitedKingdom of Great Britain and Northern Ireland wishes the United Kingdom's Ratification of the Rome Statute of the International Criminal Court to be extended to the territory of Gibraltar for whose international relations the United Kingdom is responsible.
+L867: The Government of the United Kingdom of Great Britain and Northern Ireland considers the extension of the Rome Statute of the International Criminal Court to Gibraltar to enter into force from the day of deposit of this notification ...”
+L868: 12In a communication received on 6 May 2002, the Government of the United States of America informed the Secretary-General of the following:
+L869: "This is to inform you, in connection with the Rome Statute of the International Criminal Court adopted on July 17, 1998, that the United States does not intend to become a party to the treaty. Accordingly, the United States has no legal obligations arising from its signature on December 31, 2000. The United States requests that its intention not to become a party, as expressed in this letter, be reflected in the depositary’s status lists relating to this treaty.”
+L870: 13 As of 21 October 2014, declarations made by States under article 103 of the Statute are not posted on this webpage.  Pursuant to article 103, such declarations should be sent to the Court:  Legal and Enforcement Unit of the Presidency, International Criminal Court, Maanweg 174, 2516 AB The Hague, The Netherlands.
+L871: 14On 13 August 2008, the Government of France informed the Secretary-General that it had decided to withdraw the declaration under article 124 made upon ratification.  The text of the declaration reads as follows:
+L872: Pursuant to article 124 of the Statute of the International Court, the French Republic declares that it does not accept the jurisdiction of the Court with respect to the category of crimes referred to in article 8 when a crime is alleged to have been committed by its nationals or on its territory.
+L873: 15The Secretary-General received communications with regard to the interpretative declaration made by Uruguay upon ratification from the following Governments on the dates indicated hereinafter:
+L874: Ireland (28 July 2003) :
+L875: "Ireland has examined the text of the interpretative declaration made by the Eastern Republic of Uruguay upon ratifying the Rome Statute of the International Criminal Court.
+L876: Ireland notes that the said interpretative declaration provides that the application of the Rome Statute by the Eastern Republic of Uruguay shall be subject to the provisions of the Constitution of Uruguay.  Ireland considers this interpretative declaration to be in substance a reservation.
+L877: Article 120 of the Rome Statute expressly precludes the making of reservations.  In addition, it is a rule of international law that a state may not invoke the provisions of its internal law as a justification for its failure to perform its treaty obligations.
+L878: Ireland therefore objects to the above-mentioned reservation made by the Eastern Republic of Uruguay to the Rome Statute of the International Criminal Court.  This objection does not preclude the entry into force of the Statute between Ireland and the Eastern Republic of Uruguay.  The Statute will therefore be effective between the two states, without Uruguay benefiting from its reservation."
+L879: United Kingdom of Great Britain and Northern Ireland (31 July 2003):
+L880: "At the time of the deposit of its instrument of ratification, the Eastern Republic of Uruguay made two statements which are called "interpretative declarations", at the first of which states that "as a State party to the Rome Statute, the Eastern Republic of Uruguay shall ensure its application to the full extent of the powers of the State insofar as it is competent in that respect and in strict accordance with the Constitutional provisions of the Republic".
+L881: The Government of the United Kingdom has given careful consideration to the so-called interpretative declaration quoted above.  The Government of the United Kingdom is obliged to conclude that this so-called interpretative declaration purports to exclude or modify the legal effects of the Rome Statute in its application to the Eastern Republic of Uruguay and is accordingly a reservation.  However, according to Article 120 of the Rome Statute, no reservations may be made thereto.
+L882: Accordingly, the Government objects to the above-quoted reservation by the Eastern Republic of Uruguay. However, this objection does not preclude the entry into force of the Rome Statute between the United Kingdom and Uruguay."
+L883: Uruguay (21 July 2003):
+L884: The Eastern Republic of Uruguay, by Act No. 17.510 of 27 June 2002 ratified by the legislative branch, gave its approval to the Rome Statute in terms fully compatible with Uruguay's constitutional order. While the Constitution is a law of higher rank to which all other laws are subject, this does not in any way constitute a reservation to any of the provisions of that international instrument.
+L885: It is noted for all necessary effects that the Rome Statute has unequivocally preserved the normal functioning of national jurisdictions and that the jurisdiction of the International Criminal Court is exercised only in the absence of the exercise of national jurisdiction.
+L886: Accordingly, it is very clear that the above-mentioned Act imposes no limits or conditions on the application of the Statute, fully authorizing the functioning of the national legal system without detriment to the Statute.
+L887: The interpretative declaration made by Uruguay upon ratifying the Statute does not, therefore, constitute a reservation of any kind.
+L888: Lastly, mention should be made of the significance that Uruguay attaches to the Rome Statute as a notable expression of the progressive development of international law on a highly sensitive issue.
+L889: Demark (21 August 2003):
+L890: Denmark has carefully examined the interpretative declaration made by Eastern Republic of Uruguay upon ratifying the Statute of the IInternational Criminal Court.
+L891: Denmark has noted that Uruguay effectively condition its application of provisions of the Statute on their accordance with the Constitution of Uruguay. The Government of Denmark believes that an interpretative declaration to this effect in substance must be understood as a reservation to the Statute, which if accepted would be incompatible with the object and purpose of the Statute. In addition, Article 120 of the Statute expressly precludes the making of reservations to the Statute.
+L892: For these reasons Denmark objects to the reservation made by the Eastern Republic of Uruguay to the Statute of the International Criminal Court.
+L893: This objection does not preclude the entry into force of the Statute between Denmark and the Eastern Republic of Uruguay. The Statute will be effective between the two states, without the Eastern Republic of Uruguay benefiting  from its reservations.
+L894: Norway (29 August 2003):
+L895: "The Government of the Kingdom of Norway has examined the interpretative declaration made by the Government of Uruguay upon ratification of the Rome Statute of the International Criminal Court.
+L896: The Government of Norway notes that the interpretative declaration purports to limit the application of the Statute within national legislation, and therefore constitutes a reservation.
+L897: The Government of Norway recalls that according to Article 120 of the Statute, no reservations may be made to the Statute.
+L898: The Government of Norway therefore objects to the reservation made by the Government of Uruguay upon ratification of the Rome Statute of the International Criminal Court.  This objection shall not preclude the entry into force of the Statute in its entirety between the Kingdom of Norway and Uruguay.  The Statute thus becomes operative between the Kingdom of Norway and Uruguay without Uruguay benefiting from the reservation."
+L899: 16In a communication received on 26 February 2008, the Government of Uruguay informed the Secretary-General of the following:
+L900: "The Eastern Republic of Uruguay has communicated to the Secretary-General] the withdrawal of the interpretative declaration made by the Eastern Republic of Uruguay upon adoption of the Rome Statute of the International Criminal Court.
+L901: As you know, Uruguay signed the Rome Statute of the International Criminal Court on 19 December 2000. The Statute was approved at the national level by Act No. 17.510, which was promulgated by the Executive on 27 June 2002.
+L902: At that time, however, Uruguay made an interpretative declaration relating to the aforementioned Statute, in language identical to article 2 of the above-mentioned Act.
+L903: Without prejudice to the interpretative declaration made at the time of its promulgation, the Act itself (art. 3) states that the Executive shall within six months refer to the Legislature a bill establishing the procedures for ensuring the application of the Statute, pursuant to the provisions of part 9 of the Statute entitled “International cooperation and judicial assistance".
+L904: The interpretative declaration made upon ratification reads as follows:

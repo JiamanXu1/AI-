@@ -1,0 +1,20 @@
+[
+  {
+    "original_relative_path": "heritage_qrmine/data/text/HAGUE1954_en.txt",
+    "copy": "provenance/local_texts/HAGUE1954_en.txt",
+    "sha256": "9de9c49eb771d7d4b1d36c3d5ad692a0bb6a1d1a2d1a6ed71ffe04f4dc5192b2",
+    "provenance": "user_existing_project_corpus_reused_and_web_cross_checked"
+  },
+  {
+    "original_relative_path": "heritage_qrmine/data/text/PROTOCOL1999_en.txt",
+    "copy": "provenance/local_texts/PROTOCOL1999_en.txt",
+    "sha256": "050e5166ddb8f61ec4231955784862b49ba38de69bae294221f4a3adc4d22e4c",
+    "provenance": "user_existing_project_corpus_reused_and_web_cross_checked"
+  },
+  {
+    "original_relative_path": "heritage_qrmine/data/text/WH1972_en.txt",
+    "copy": "provenance/local_texts/WH1972_en.txt",
+    "sha256": "747303eaa0e9c7be1a7d6f74abf29f1342bf1252352e6b4cfcb2bc533e456efe",
+    "provenance": "user_existing_project_corpus_reused_and_web_cross_checked"
+  }
+]
